@@ -1,0 +1,31 @@
+---
+court: "Massachusetts Appellate Division"
+decided: "1937-04-07"
+citations: ["2 Mass. App. Div. 157"]
+reporter: "mass-app-div"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ALICE M. STOWELL vs. GORIN STORES, INC."]
+source_url: "https://static.case.law/mass-app-div/2/cases/0157-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3879958
+cites_cases: ["210 Mass. 8", "275 Mass. 471", "278 Mass. 321", "280 Mass. 73", "283 Mass. 158", "283 Mass. 21"]
+---
+
+# Stowell v. Gorin Stores, Inc.
+
+## Majority (Morton, J.)
+
+Morton, J.
+This is an action of tort to recover damages for injuries sustained by the plaintiff while she was a customer in a store owned and operated by the defendant. The answer was a general denial and a plea of contributory negligence.
+The evidence tended to show that the plaintiff entered the store and went to the basement thereof where she saw a man and his wife and a couple of children, the latter riding tricycles. The plaintiff was about to complete her purchase, after a lapse of ten minutes, when she was struck by a tricycle being ridden by one of the children, and suffered the injuries complained of. The basement was about one hundred thirty-five (135) feet in length and thirty (30) feet in width with numerous counters therein. The tricycles were kept on the floor in a space about twelve (12) feet from the counter where the plaintiff transacted her business, and were maintained without a guard rail or being fastened. There were two employees of the defendant in the basement.
+There was a general finding for the plaintiff. This finding imported subsidiary findings to the effect that the defendant was negligent, and that the plaintiff was in the exercise of due care. Engel v. Checker Taxi Co., 275 Mass. 471.
+The defendant duly filed five requests for rulings of which the first was allowed without comment, the third allowed but stated to be inapplicable to the facts as found, and the remainder were disallowed on the facts as found. The issues are whether the subsidiary findings above referred to were warranted by the evidence, and whether there was error in the method of disposal of the requests for rulings.
+The duty of a store keeper in cases of this kind is set forth in White v. Muger, 280 Mass. 73 at page 75 as follows :
+“ The defendant owed to customers a duty to keep the premises reasonably safe for their use. He, however, is not an insurer of safety where without action for which he is responsible, a dangerous condition arises the law allows him reasonable opportunity to become informed of the danger and to take measures to remedy it. ’ ’
+The plaintiff can recover in this action only upon proof of a breach of the duty of the defendant as above set forth. Andrews v. Jordan Marsh Co., 283 Mass. 158. In the instant-case the trial court would be warranted in finding that an employee of the defendant could, or should have seen the tricycle or tricycles being ridden by children for a period of ten minutes before the plaintiff was struck, should have realized the danger to customers in consequence thereof, and should have prevented such action on the part of the children or warned the customers of the danger in connection therewith.
+In view of these warranted subsidiary findings we cannot say that a finding of negligence on the part of the defendant in consequence thereof was unwarranted. Such finding, therefore, must stand. Crowninshield Shipbuilding Co. v. Jackman, 283 Mass. 21. Neither can we say that the finding of due care on the part of the plaintiff was unwarranted. The court would be justified in finding as a fact that the plaintiff, even though she saw children riding on tricycles in a space near where she was standing, was under no obligation to keep on the alert to avoid being struck; that she would have a right to expect that the employees of the defendant would warn her of impending danger, or would restrain the riding of the tricycles in her vicinity. We cannot pronounce this finding without support in the evidence. Crowninshield Shipbuilding Co. v. Jackman, supra.
+With regard to the finding of negligence, the defendant in its brief states that there was not sufficient evidence of the use of the tricycles to charge the defendant with knowledge that they were being operated. As we have already stated there was knowledge on the part of an agent or servant of the defendant that the tricycles were being ridden about the basement for at least ten minutes prior to the injury to the plaintiff. The finding of negligence, therefore, on the part of the defendant, was not based upon “possibilities, a surmise or conjecture,” as contended by the defendant.
+The defendant contends that there was error in the disposition of its requests for rulings; that they should have been allowed or disallowed without comment, and that it was error to state that they were allowed or disallowed on the facts as found, or were inapplicable in consequence of findings. Although the Supreme Judicial Court said in Mericantante v. Boston & Maine Railroad, 1935 A. S. 1613 that this method of' disposing of requests for rulings was not to be encouraged, a finding for one party or tbe other will not be upset in consequence of such disposition of requests unless it is apparent upon the whole that some substantial error injuriously affecting the rights of a party has been committed. Hetherington & Sons, Ltd. v. William Firth Co., 210 Mass. 8. In fact, in DiLorenzo v. Atlantic National Bank, 278 Mass. 321, Mr. Chief Justice Rugg says at page 325:
+‘ ‘ The fifth request was rightly denied because stated to be inapplicable to the facts found. ’ ’
+It is'obvious, in view of the general finding and in view of the disposition of the requests for rulings, that the court found that the plaintiff was in the exercise of due care and that the defendant was negligent. Upon such findings, even if there were error otherwise in the disposition of the requests for rulings, there was no prejudicial error in any way affecting the rights of the defendant, as we think such findings were warranted. No error appears in the disposition of the requests and an entry will be made dismissing the report.
