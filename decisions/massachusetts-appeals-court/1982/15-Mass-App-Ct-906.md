@@ -1,0 +1,25 @@
+---
+court: "Massachusetts Appeals Court"
+decided: "1982-12-13"
+citations: ["15 Mass. App. Ct. 906"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Teresa A. Adam & others vs. Department of Public Health & others (and a companion case)."]
+source_url: "https://static.case.law/mass-app-ct/15/cases/0906-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5740182
+cites_cases: ["10 Mass. App. Ct. 593", "310 Mass. 199", "320 Mass. 467", "364 Mass. 444", "376 Mass. 359", "380 Mass. 159", "7 Mass. App. Ct. 538"]
+---
+
+# Adam v. Department of Public Health
+
+## Majority
+
+In February, 1980, the defendant Planned Parenthood League of Massachusetts, Inc., applied to the Department of Public Health for a license under G. L. c. Ill, § 51, to operate a “reproductive health care clinic,” with first trimester abortion facilities, in Worcester County. The application was opposed by several groups, including the plaintiffs, who are ten or more taxpayers residing in Worcester. The Department determined that there was a “need” for such a facility (see § 51, second par.) and reaffirmed that determination after an “administrative review” (see 105 Code Mass. Regs. §§ 100.980[4] & 100.981 [1979]). The plaintiffs brought an action in the Superior Court for a declaration that the determination of need and the decision to grant the license were invalid. They also took an appeal to the Health Facilities Appeals Board (HFAB), purportedly under the provisions of G. L. c. 111, §§ 25B-25H. Those sections, as in effect in February, 1980, established special procedures for determination-of-need applications where the proposed project would involve a “substantial capital expenditure” (in excess of $150,000) or would “substantially change the services of ... a [health care] facility.” See §§ 25B & 25C, first par., as appearing in St. 1977, c. 945, §§ 2 & 3. As to such applications, ten-taxpayer groups were given standing to support or oppose (§ 25C, fourth par., as in effect prior to St. 1980, c. 541, §§ 4-6; see now G. L. c. 111, § 25C, par. 6), and the HFAB was given jurisdiction to hear appeals from the Department’s determination (§ 25E, as in effect prior to St. 1981, c. 367, § 2).
+The Department took the position that the application in this case involved a capital expenditure of only $110,300 and that the provisions of §§ 25B-25H did not apply. The HFAB, in its decision dismissing the plaintiffs’ appeal, agreed, rejecting the plaintiffs’ position that to the sum mentioned should be added the landlord’s expenditures in renovating the premises which the clinic was to occupy by lease. The statutory definition of “substantial capital expenditure,” as then in effect, did not require the inclusion of the expense of renovations made by the landlord to leased premises (§ 25B, as appearing in St. 1977, c. 945, § 2; contrast the definition as amended by St. 1980, c. 541, § 2), and the practice of the Department, as reflected in its regulations (see 105 Code Mass. Regs. §§ 100.024 and 100.326 [1979]), was not to include such expenses. The determinatians by the Department and the HFAB that the application in question did not involve a substantial capital expenditure were, as findings of fact, supported by the evidence before the agencies (see St. Luke’s Hosp. v. Labor Relations Commn., 320 Mass. 467, 470 [1946]; East Chop Tennis Club v. Massachusetts Commn. Against Discrimination, 364 Mass. 444, 452 [1973]; Lahey Clinic Foundation, Inc. v. Health Facilities Appeals Bd., 376 Mass. 359, 368-369 [1978]; see also id., at 377-379 [Quirico, J., concurring in part and dissenting in part]), and, as conclusions of law, in accord with the statutes and regulations then in effect. The other inclusions argued for by the plaintiffs were based on misconstructions of applicable and inapplicable regulations, and their contention that the clinic will represent a substantial change in services within the meaning of § 25C (see Wing Memorial Hosp. v. Department of Pub. Health, 10 Mass. App. Ct. 593 [1980]), not having been raised before the HFAB or the Superior Court, may not be raised here. Springfield Preservation Trust, Inc. v. Springfield Historical Commn., 380 Mass. 159, 161 (1980). Whitehall Co. v. Alcoholic Beverages Control Commn., 7 Mass. App. Ct. 538, 542-543 (1979).
+John W. Spillane (Andrew M. Levenson with him) for the plaintiffs.
+Stephen S. Ostrach, Assistant Attorney General, for Health Facilities Appeals Board & another.
+Barry B. White for Planned Parenthood League of Massachusetts, Inc.
+It follows that, as the judge ruled, the decision of the HFAB dismissing the plaintiffs’ appeal for lack of jurisdiction was correct and that the plaintiffs, having no legally cognizable personal interests in the application, and having no statutory standing as a ten-taxpayer group except with respect to applications falling within the scope of §§ 25B-25H, are not proper parties to bring the action for declaratory relief. See Amory v. Assessors of Boston, 310 Mass. 199, 200 (1941).
+Judgments affirmed.
