@@ -1,0 +1,25 @@
+---
+court: "Massachusetts Appeals Court"
+decided: "1981-01-27"
+citations: ["11 Mass. App. Ct. 917"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Myron S. Geller vs. Temple B’nai Abraham."]
+source_url: "https://static.case.law/mass-app-ct/11/cases/0917-02.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3965375
+cites_cases: ["190 Mass. 237", "340 Mass. 409", "353 Mass. 150", "359 Mass. 443", "363 Mass. 386", "372 Mass. 106", "372 Mass. 116", "372 Mass. 121", "380 Mass. 18"]
+---
+
+# Geller v. Temple B'nai Abraham
+
+## Majority
+
+This is an appeal by the defendant from judgments entered in the Superior Court confirming an arbitration award of damages in the plaintiff’s favor. The claims remitted to arbitration concerned the propriety of the termination of an employment agreement between the parties and the defendant’s refusal to submit the disputes to arbitration as required by that agreement. The arbitration clause provided, in pertinent part, that “ [a]ny dispute arising out of or in connection with this agreement shall be submitted to the Committee on Congregational Standards of the United Synagogue of America for arbitration . . . and any judgment so rendered shall be conclusive and binding upon the [parties] for all purposes and may be entered in any court of competent jurisdiction.” We affirm the judgments.
+The principles applicable to arbitration of commercial disputes are settled. Where the agreement to arbitrate is expressed in general terms, it “should be construed as broadly as the parties obviously intended.” Glenn Acres, Inc. v. Cliffwood Corp., 353 Mass. 150, 154 (1967), and cases cited. Under such a clause, the parties can be taken to have given their advance consent to arbitrate any dispute which they are unable to settle by reference to the terms of the contract (Itek Corp. v. McEnness, 340 Mass. 409, 412 [I960)], and their assent to be bound by “the honest judgment of the arbitrator as to a matter referred to him.” Trustees of the Boston & Me. Corp. v. Massachusetts Bay Transp. Authy., 363 Mass. 386, 391 (1973), quoting from Phaneuf v. Corey, 190 Mass. 237, 247 (1906). Once the award is rendered, it is to be judicially enforced, in the absence of fraud, even if the arbitrators have committed errors of fact or law in arriving at their decision. Glenn Acres, Inc. v. Cliffwood Corp., supra at 155. McGovern v. Middlesex Mut. Ins. Co., 359 Mass. 443, 445 (1971).
+Under the foregoing standards, arbitrable controversies were presented in this case as to whether the defendant committed a breach of its contract with the plaintiff either by acting in bad faith as to its renewal or by failing to follow certain procedures precedent to its proper termination. See by analogy, School Comm. of Danvers v. Tyman, 372 Mass. 106, 113 (1977); Dennis-Yarmouth Regional Sch. Comm. v. Dennis Teachers Assn., 372 Mass. 116, 120 (1977); School Comm. of West Bridgewater v. West Bridgewater Teachers’ Assn., 372 Mass. 121, 122-123 (1977). The defendant’s refusal to honor the arbitration clause also presented a proper question for the arbitration panel’s consideration. As a consequence of the broad submissions, the arbitrators were empowered to award damages for the plaintiff’s loss of certain economic opportunities (claim two) and for the harm incurred by the plaintiff as a result of the defendant’s refusal to arbitrate (claim three). See Eager, The Arbitration Contract and Proceedings § 121 (1971). The damages awarded were within the arbitrators’ discretion, and we do not view the award as an attempt to compel renewal of the agreement. See Lawrence v. Falzarano, 380 Mass. 18, 28 (1980).
+The defendant’s other arguments attacking the award are also without merit. The agreement’s expiration and the plaintiff’s letters of resignation would not, as matter of law, preclude arbitration. Cf. Glenn Acres, Inc. v. Cliffwood Corp., supra at 154. In the circumstances, the effect of these events presented issues to be determined by the panel — “where parties have agreed for the arbitration of a particular claim . . . and the existence, validity or enforceability thereof depends upon whether or not a particular contract between the parties has been terminated, cancelled, rescinded or released, the issues with respect thereto are to be resolved by the arbitrators.” Eager, The Arbitration Contract and Proceedings, supra at 93. The defendant’s failure to insist prior to the commencement of the arbitration proceedings that the matters be heard by the organization specified in the clause constituted a waiver of its right to object to the award on this ground. Finally, we see nothing in G. L. c. 231, § 85K (inserted by St. 1971, c. 785, § 1), the statute which limits a charitable corporation’s liability for damages in tort, that would bar enforcement of an arbitration award arising out of a breach of contract.
+Carl D. Goodman for the defendant.
+Jan Richard Schlichtmann for the plaintiff.
+Judgments affirmed.
