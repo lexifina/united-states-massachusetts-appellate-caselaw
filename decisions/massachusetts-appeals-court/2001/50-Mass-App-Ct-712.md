@@ -1,0 +1,28 @@
+---
+court: "Massachusetts Appeals Court"
+docket: "98-P-1712"
+decided: "2001-01-19"
+citations: ["50 Mass. App. Ct. 712"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Otis Elevator Company vs. Westchester Fire Insurance Company & another."]
+source_url: "https://static.case.law/mass-app-ct/50/cases/0712-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 235359
+cites_cases: ["22 Mass. App. Ct. 518", "290 Mass. 97", "361 Mass. 852", "526 So. 2d 727"]
+---
+
+# Otis Elevator Co. v. Westchester Fire Insurance
+
+## Majority (Armstrong, C.J.)
+
+Armstrong, C.J.
+Otis Elevator Company (Otis), a subcontractor on a public school construction contract for the town of Ipswich, appeals from a partial final judgment dismissing its action against Westchester Fire Insurance Company (Westchester), the surety for the general contractor, Smith-Grove Construction Company (Smith-Grove). Otis’s two-count complaint seeks payment of the amount it claims is owed to it, $29,939.06, from Smith-Grove as the party primarily liable, and secondarily from the surety. The surety won dismissal on the ground that Otis failed to bring its action, as required by G. L. c. 149, § 29, “within one year after the day on which [Otis] last performed the labor or furnished the labor, materials, equipment . . . included in the claim.” Otis filed its action in August, 1993, more than one year after it last performed elevator installation work and the completed school building had been turned over to the town, and more than one year after Smith-Grove had been paid in full by the town.
+The question arose because Otis’s contract called for it not only to install the elevator but to “[p]rovide complete maintenance and service contract for period of 12 months from date of [substantial [c]ompletion[,] [i]nclud[ing] in contract all exhaustible materials and supplies not covered by [Otis’s] warranty [and] [i]ncluding provision for 24 hours a day, seven day a week service with service response within two hours after first notification of need for service.” The contract called for Otis to be paid (as adjusted) $49,596.96, a sum not apportioned between the installation and service parts of the contract.
+Otis’s installation and the school construction work as a whole had both been substantially completed by July, 1992. On July 6, Otis delivered a letter to the school informing it that Otis was ready to commence its maintenance obligations as set forth under the “terms of our sales contract” and that this service would be in force for one year after July -6, 1992. Otis in fact performed maintenance work on the elevator in September, 1992, and in January, February, March, April (twice), June, and July, 1993. Otis, having been paid less than half the total due under the subcontract, made demand on the surety, Westchester, for payment of the balance due on the subcontract, and, on refusal, filed this action within one month after completion of the service part of the contract, but more than one year after the installation was completed.
+Citing Carter v. Commonwealth, 290 Mass. 97, 101 (1935), and Ross v. Planet Ins. Co., 361 Mass. 852, 853 (1972), the motion judge recognized that work done to correct a defective installation or to make substitution for previous faulty performance — that is, corrective installation work — would have the effect of extending § 29’s one-year period for commencing litigation. The judge nevertheless reasoned that Otis’s work performed from July, 1992, to July, 1993, was not of that character but was routine elevator servicing work that could not be thought of as relating to installation. She ruled that the year of service work did not have the effect of extending the year.
+So far as the record shows, the work was indeed purely service-type work, but, in our view, that fact is not pivotal. The pivotal fact is that the sum due to Otis under the subcontract was not apportioned between the installation portion and the service portion. Otis was not entitled to full payment until it provided Ipswich with its year of free service. Nor do we view the case as one — drawing on the distinction made in accord and satisfaction cases — in which Otis’s obligations under the subcontract ended when it entered into a service contract with Ipswich. There was no separate service contract, in any true sense of the word “contract.” That is to say, there was no offer and acceptance, no meeting of the minds, between Otis and Ipswich, nor any mutually executed document. The right of Ipswich to the year of service by Otis derived solely from the construction contract with Smith-Grove. Compare Otis Elevator Co. v. Employers. Ins. of Wausau, 526 So. 2d 727, 728 (Fla. Dist. Ct. App. 1988). Regardless when Ipswich made its final payment to Smith-Grove, Otis’s work did not end until its service obligation was discharged.
+Accordingly, § 29 gave Otis a one-year period from July, 1993, to file its claim against Westchester as surety for Smith-Grove’s obligation. The judgment is reversed, and the case is remanded for further proceedings consistent with this opinion.
+So ordered.
+In Otis Elevator, supra, the case was remanded for findings whether the work done after the installation phase fell within the terms of the subcontract. In our case, the facts are sufficiently set out to let us rule that they do so fall. The application of the contract to known facts presents a question of law for the courts. See Radiology Resources, Inc. v. Busfield, 22 Mass. App. Ct. 518, 521 (1986), and cases cited.
