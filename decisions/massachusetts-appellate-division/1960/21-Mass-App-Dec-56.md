@@ -1,0 +1,29 @@
+---
+court: "Massachusetts Appellate Division"
+docket: "9795"
+decided: "1960-12-20"
+citations: ["21 Mass. App. Dec. 56"]
+reporter: "mass-app-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ROSE M. VINCENTI, d-b-a v. A. JOHN CAPONE"]
+source_url: "https://static.case.law/mass-app-dec/21/cases/0056-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4036125
+cites_cases: ["1 Met. 1", "117 Mass. 195", "147 Mass. 403", "163 Mass. 574", "291 Mass. 205", "332 Mass. 368"]
+---
+
+# Vincenti v. Capone
+
+## Majority (Adlow, C. J.)
+
+Adlow, C. J.
+Action in contract or tort to recover damages for alleged fraud in .connection with the renting of a store.
+About July 15, 1957 the plaintiff, who conducted a small garment manufacturing business in Dedham, was seeking larger quarters for her business, and having observed a “For Rent” sign on a vacant store located at 4458 Washington Street, Roslindale, approached the defendant, the owner of the premises, with a view to renting same. The plaintiff told the defendant the type of work in which she was engaged and specifically asked the defendant “whether she could do this kind of work on the premises” and “whether the same work was permissible”. She testified that the defendant informed her that it was a business that she could conduct on the premises and added, “you don’t have to worry about your type of work”. On said date the plaintiff rented the premises at an agreed rental of $100 per month, the rent to commence on September 1, 1957 and the parties agreed that a lease would be drawn for a term of one year with an option to renew for five years. Pending the preparation of the lease the defendant gave the plaintiff oral permission to make repairs and move into the premises prior to September 1, 1957. She thereupon engaged workmen to move her machinery and make necessary repairs and incurred considerable expense in doing so. About the middle of August the plaintiff was advised that by reason of zoning restrictions the store could not be used for manufacturing purposes. Attempts by the plaintiff to secure a variance in the zoning restriction were without avail and on October 1, 1957 the plaintiff received a notice from the Building Commissioner of the City of Boston to vacate the premises by October 8. As a result the defendant discharged her help and sold her equipment. In this action she seeks to recover her losses. On these facts the defendant requested the court to rule that the evidence did not warrant a finding for the plaintiff, and to the refusal of the court to so rule the defendant brings this report. There was a finding for the plaintiff.
+While it is true, as contended by the defendant, that the rule in Pasley v. Freeman, 3 T. R. (Eng.) 51 (1789) limits liability for deceit to such false statements as were known by the one making them to be false, and while some earlier cases in this Commonwealth limited liability to such situations (Tryon v. Whitmarsh, 1 Met. 1), the trend in the decisions during the last century has been to determine liability on the basis of external and objective rather than moral standards. Today an honest misrepresentation can provide a basis for recovery in deceit. The falsity and fraud consists in one’s representing that he knows the facts to be true of his own knowledge, when in fact he has no such knowledge. Litchfield v. Hutchinson, 117 Mass. 195, 197; Chatham Furnace Co. v. Moffatt, 147 Mass. 403, 404.
+Whether the defendant when he assured the plaintiff that the premises she proposed to rent could be used for manufacturing purposes had in mind only structural limitations and was not aware of zoning restrictions is immaterial. When a man makes such a representation, he knows that others will understand his words according to their usual and proper meaning and not by the accident of what he has in mind. He is bound at his peril to know what that meaning is. (Dissent of Holmes, J. in Nash v. Minnesota Title Ins. & Tr. Co., 163 Mass. 574, 586).
+According to the report the plaintiff, after telling the defendant about the business she was conducting, asked him “whether she could do this kind of work on the premises” and “whether the same work was permissible”, and the defendant answered, “You don’t have to worry about your type of work.” Taken in their usual and proper sense the words embraced considerations of legality as well as function. As the owner of the premises it was not unreasonable to assume that he was aware of the zoning restrictions affecting his property. Today the rule is generally accepted that one who makes a positive statement of fact in regard to a matter about which he may reasonably be supposed to have special means of information, and makes the statement for the purpose, or apparent purpose, of inducing another to enter into a business transaction, is liable if the statement is false. Williston: 24 Harvard L. Rev. 425, 434.
+Melvin A. Cherwin of Boston, for the Plaintiff.
+D. Sheffield Dow of Boston, for the Defendant.
+It has been urged by the defendant that the existence of' the zoning restriction might have been ascertained by the plaintiff by going to the Boston City Hall and examining the records of the Zoning Authority. While no ruling of law was requested regarding this proposition, whether the plaintiff was negligent or not was a question of fact to be determined by the court. Sheffer v. Rudnick, 291 Mass. 205, 211. In view of the clearcut and unequivocal statement of the defendant, further inquiry and investigation by the plaintiff was excused. She had a right to assume that what he told her was true. Restatement: Torts, §540; Yorke v. Taylor, 332 Mass. 368, 372-373; Pietrezak v. McDermott, 1960 A.S. 779, 781. In our opinion there was ample evidence to warrant the finding for the plaintiff.
+Report dismissed.
