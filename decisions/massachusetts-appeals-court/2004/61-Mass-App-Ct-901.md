@@ -1,0 +1,28 @@
+---
+court: "Massachusetts Appeals Court"
+docket: "03-P-373"
+decided: "2004-05-12"
+citations: ["61 Mass. App. Ct. 901"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["McElectric, Inc. vs. Travelers Casualty & Surety Company of America, Inc., & others."]
+source_url: "https://static.case.law/mass-app-ct/61/cases/0901-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 511616
+cites_cases: ["398 Mass. 254", "41 Mass. App. Ct. 429", "438 Mass. 592", "53 Mass. App. Ct. 697"]
+---
+
+# McElectric, Inc. v. Travelers Casualty & Surety Co. of America, Inc.
+
+## Majority
+
+On May 1, 2002, McElectric, Inc. (McElectric), a sub-subcontractor on a construction project bonded by Travelers Casualty & Surety Company of America, Inc. (Travelers), signed a release in return for a check issued by Travelers to both McElectric and the primary electrical subcontractor, in settlement of a dispute over payments owed for their work. The release recites that McElectric “releases and forever discharges Travelers . . . from all claims, demands, or suits ... in any way connected with the Performance Bond. . . issued by Travelers ... in connection with the Project.” It states further that the release is “expressly intended to cover and release all claims, past, present or future, either known or unknown, which may presently exist or may exist in the future against Travelers, including the effects or consequences thereof, that may be connected with the Bond and including all causes of action arising out of or connected with the Bond.” The release also provides that McElectric and the primary electrical subcontractor “will not hereafter bring, commence, or prosecute any cause or permit to be brought, commenced, or prosecuted, either directly or indirectly, any suit or action either at law or in equity. . . against Travelers . . . with respect to the subject matter of this release.”
+After signing the release, McElectric remained on the job for another month, until June 7, 2002, to complete work orders it had received before the release was signed. Then, approximately three months after signing the release, McElectric filed a complaint seeking payment for work performed between January, 2002, and June, 2002, that, it contends, was not covered by the settlement. Relying upon the release, Travelers moved for summary judgment. The motion was denied on the ground that the affidavit of McElectric’s president, Raymond McVeigh, which stated that the settlement did not apply to all of the work done by McElectric, raised a question of fact concerning the parties’ intent at the time the release was signed. A single justice of this court permitted Travelers to take an interlocutory appeal, pursuant to G. L. c. 231, § 118, first par.
+Neither the words of the release nor the circumstances of its execution give rise to any question requiring factual determination at trial. When the release was signed, the parties contemplated that additional work, previously ordered, would be completed. Nevertheless, the release unequivocally terminated any and all claims, past, present and future, either known or unknown, that McElectric had against Travelers relating to the bond or the project. That being the case, McVeigh’s affidavit raises no genuine issue of material fact. See Atlas Tack Corp. v. Crosby, 41 Mass. App. Ct. 429, 434 (1996).
+Philip M. Cronin (Joseph K. Scully with him) for the defendant.
+John G. McNamara for the plaintiff.
+McElectric’s reliance upon Leblanc v. Friedman, 438 Mass. 592 (2003), is misplaced, as the facts of Leblanc are readily distinguishable. Although the release in Leblanc referred to “all claims” (including claims for “unknown” injuries), it also specified that the release related to damages “resulting from care and treatment rendered to [the plaintiff] on or about March 16, 1992” (emphasis deleted). Id. at 594-595. In light of this limiting language, the Supreme Judicial Court held that the release discharged the defendant physician from “unknown” injuries only to the extent that they stemmed from a laparoscopy on March 16, 1992 — the only care and treatment referenced in the release. The plaintiff was not barred from asserting claims arising from a hysterectomy performed in June, 1992.
+Unlike Leblanc, the release executed by McElectric contains no language that limits its application to particular work or to work done as of a specific date. Rather, it plainly states that it applies to all claims against Travelers relating to the project and the bond. Because there is no dispute that McElectric’s complaint seeks payment from Travelers for work done on the project and covered by the bond, McElectric’s claim is barred by the plain terms of the release. We therefore reverse the order denying Travelers’s motion for summary judgment. A new order shall enter granting Travelers’s motion for summary judgment.
+So ordered.
+In its discussion of Leblanc, McElectric relies upon the reasoning of the Appeals Court, i.e., that extrinsic evidence regarding the parties’ intent may be considered when it is alleged that a release was the product of mutual mistake. Leblanc v. Friedman, 53 Mass. App. Ct. 697, 698-699 (2002). Upon further appellate review, the Supreme Judicial Court did not discredit this rationale, but it rejected its application to the facts of that case. Leblanc v. Friedman, 438 Mass, at 597. In any event, the record before us contains nothing to suggest that there was a mutual mistake of fact. Compare LaFleur v. C.C. Pierce Co., 398 Mass. 254 (1986).
