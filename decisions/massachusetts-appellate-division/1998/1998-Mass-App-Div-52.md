@@ -1,0 +1,32 @@
+---
+court: "Massachusetts Appellate Division"
+decided: "1998-03-09"
+citations: ["1998 Mass. App. Div. 52"]
+reporter: "mass-app-div-annual"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Present: Aguiar, RJ., Welsh & Crimmins, JJ."]
+parties: ["David Mischler vs. Shawn Burnes, and another"]
+source_url: "https://static.case.law/mass-app-div-annual/1998/cases/0052-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 11790039
+cites_cases: ["1992 Mass. App. Div. 201", "1992 Mass. App. Div. 218", "272 Mass. 43", "377 Mass. 217", "393 Mass. 789", "401 Mass. 155"]
+---
+
+# Mischler v. Burnes
+
+## Majority (Crimmins, J.)
+
+Crimmins, J.
+This appeal concerns the denial of defendants/appellants’ motion for relief from judgment brought under Dist./Mun. Cts. R. Civ. R, Rule 60(b) (1). Plaintiff David Mischler initiated an action in contract against defendants Shawn Burnes and Peggy Burnes (the “Burnes”) on an unpaid bill, and the court found for him after the defendants’ default and a subsequent hearing on damages.
+The parties had contracted for plaintiff Mischler to lay carpet in the defendants’ apartment. The Burnes discharged the plaintiff on October 3,1996, after he had performed, and then did not respond to Mischler’s bill for materials and services rendered. Believing that the Burnes had pulled the rug out from under him, Mis-chler filed suit and submitted a motion for real estate attachment on October 24, 1996.
+During the motion for real estate attachment hearing, on November 4,1996, the Court engaged defendants/appellants Burnes in an explicit colloquy on the importance of timely filing an answer. At this time, the defendants averred that they had retained counsel, that counsel was preparing an answer, and that they understood the risk and consequences of default. A default issued on November 19, 1996, which was the day after plaintiff’s motion therefor and six days after the Burnes were to have filed their answer.
+On December 2, defendants Burnes filed a motion to remove the default and for leave to file an answer, affirmative defenses and counterclaim late, which did not contain any supporting affidavit, pleadings, or reasons; it was denied on December 11. A second motion to remove the default and for leave to file an answer, affirmative defenses and counterclaim late, filed on December 16, with an affidavit that recited the need to devote substantial time in responding to the plaintiff’s interrogatories and requests for admissions as excusable neglect for the failure to prepare reasons or an affidavit in support of the first motion, was also denied. Default judgment entered on January 13, 1997, for plaintiff Mischler, after a full hearing on damages attended by both parties.
+Defendants/appellants Burnes timely filed a 60(b)(1) motion for relief from judgment on January 21,1997. In their motion, the Burnes argued that the court should set aside its judgment owing to the existence of excusable neglect. An affidavit accompanying this motion mirrored the one submitted on the December 16 motion, except that it also mentioned the hire of a new secretary. The trial court denied the Burnes’ 60(b) (1) motion on February 12,1997, and also denied a later motion to allow reconsideration of the motion for relief from judgment. The Burnes’ filed notice of appeal on February 21.
+A Rule 60 (b) (1) motion for relief from judgment is addressed to the sound discretion of the trial judge. Scannell v. Ed. Ferreirinha & Lda., 401 Mass. 155, 157-158 (1987). This discretion must be exercised so as to promote and not baffle an orderly and proper administration of justice, and not to encourage carelessness, ignorance, laxity or finesse of practice in the courts. Albert v. Mercury Publishing Co., 272 Mass. 43, 45 (1930); Edward Trost, and another v. New World Realty Corporation, and another, 1992 Mass. App. Div. 201. The discretionary power vested in the judge will not be disturbed on appeal absent a showing of an abuse of that discretion. Bird v. Ross, 393 Mass. 789 (1985). Judgment may be vacated under Rule 60(b) (1) “only if the party seeking relief demonstrates that the mistake, inadvertence or neglect was excusable and not due to his own carelessness.” Murphy v. Administrator of Div. of Personnel Adm., 377 Mass. 217, 228 (1979).
+Appellants Burnes present two new issues on appeal concerning the alleged error of the clerk in entering previous defaults. They claim error in the default judgment that entered following the hearing on damages, which was subsequent to their late answer, and in the issuance of a default for the plaintiff/appellee’s much earlier motion for real estate attachment that their attorney did not attend. We need not examine the attempted re-litigation of these issues. These arguments were not placed before the trial judge on the Rule 60(b) (1) motion for relief from judgment and are not properly before us on the appeal of a denial of that same motion.
+The assertion by the defendants of a meritorious defense, in the form of a G.L.c. 93A action, does not necessitate the granting of relief from judgment, nor does it obviate the requirement that defendants make a threshold showing of neglect or inadvertence that was excusable. Lumber Mutual Insurance Company v. Robert Centore, 1992 Mass. App. Div. 218, 220.
+The record shows that the defendants were specifically admonished and did personally acknowledge in a colloquy with the trial judge that an answer had to be filed in order to avoid default. The argument on the 60(b) (1) motion attempted to raise a new issue of excusable neglect relating to the absence of any supporting material with the December 2 motion; it did not, however, contain any reasons of excusable neglect for the failure to file the answer itself. There is nothing in the record herein to compel the conclusion that the defendants’ failure to answer the complaint was attributable to any mistake or neglect that was excusable.
+On the evidence before it, the trial court could reasonably have found that the defendants, who had received both proper notice and an in-court warning of the consequences of not filing an answer, did wilfully or carelessly fail to file an answer. There was no abuse of the trial court judge’s discretion.
+We affirm the trial court’s denial of the defendants’ Rule 60(b) (1) motion for relief from judgment. The appeal is dismissed.
+So ordered.
