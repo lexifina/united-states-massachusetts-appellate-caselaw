@@ -1,0 +1,28 @@
+---
+court: "Massachusetts Appeals Court"
+decided: "1980-04-17"
+citations: ["9 Mass. App. Ct. 606"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Linda Greenleaf Glick vs. Richard S. Greenleaf."]
+source_url: "https://static.case.law/mass-app-ct/9/cases/0606-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3960143
+cites_cases: ["243 Mass. 374", "267 Mass. 301", "316 Mass. 580", "335 Mass. 483", "370 Mass. 79"]
+---
+
+# Glick v. Greenleaf
+
+## Majority (Nolan, J.)
+
+Nolan, J.
+The plaintiff has brought this action against her father in a Probate Court. From the judge’s findings of fact, we learn that the defendant and Jean Bruce Greenleaf, the plaintiff’s mother, were divorced on December 21, 1966, in Connecticut. A separation agreement, the material portion of which is set forth in the margin, was executed by Jean Bruce Greenleaf and the defendant and incorporated into the judgment of divorce. At the time of the divorce, the defendant was employed by Morris Alper & Sons, Inc., which maintained a profit sharing retirement plan and trust in which the defendant was a participant. The defendant left Morris Alper & Sons, Inc., on or about December 21, 1966. Despite demands made on the defendant to make payments under clause 5(c) of the separation agreement, he failed to do so. On April 22, 1974, the defendant authorized the withdrawal of $18,570.41, his total share, from the profit sharing retirement plan and trust. With this amount he purchased a retirement deferred pension annuity contract from Metropolitan Life Insurance Company, designating his attorney, Frank Mongillo of Connecticut, the primary revocable beneficiary. The plaintiff and her brother, the defendant’s son, are named contingent revocable beneficiaries. The annuity is assignable and it can be surrendered for its cash value at any time. Jean Bruce Greenleaf died on September 14, 1976.
+From a judgment for the plaintiff in the amount of $9,285.20, which is precisely one half the amount transferred from the profit sharing retirement plan and trust, the defendant appeals. He argues that the judge erred in his construction of the separation agreement and in denying the defendant’s motion to dismiss on the ground that the Probate Court lacked jurisdiction of the subject matter. We agree with the defendant’s jurisdictional contention and hence we do not reach his grievance about the judge’s exegesis of the agreement.
+The plaintiff seeks to recover money due her under a contract in writing. This classically calls for an action at law. The Probate Court has no jurisdiction of actions at law. See Prahl v. Prahl, 335 Mass. 483, 484 (1957). The plaintiff’s invocation of G. L. c. 215, § 6, is misplaced. See Charney v. Charney, 316 Mass. 580, 582-583 (1944). This is not an action between spouses to secure the wife’s separate property (see Gahm v. Gahm, 243 Mass. 374, 376 [1923]); nor an action concerning the estate of an infant (see Gardner v. Rothman, 370 Mass. 79, 80 [1976]). This is not an action to enforce a trust. Coffey v. Rady, 267 Mass. 301, 303-304 (Í929). Mongillo, named as trustee in the separation agreement, is not joined in this action. This is an unadorned action in contract which is not cognizable under the general or statutory equity jurisdiction which reposes in the Probate Court. The plaintiff’s remedy at law is plain and complete as well as adequate within the meaning of G. L. c. 214, § 1A.
+Accordingly, the defendant’s motion to dismiss should have been allowed. The judgment is reversed and a judgment is to be entered dismissing the, action.
+So ordered.
+5. “The Husband, at the present time, has a vested interest in the Morris Alper & Sons, Inc. Profit Sharing Retirement Plan and Trust in the amount of $18,570.41. Upon the entry of a decree of divorce, the husband shall forthwith execute any and all instruments or documents necessary to effectuate the following in regard to the Morris Alper & Sons, Inc. Profit Sharing Retirement Plan and Trust:
+(a) A waiver of any right of assignment, alienation, sale, hypothecation or surrender of his interests to the extent of $18,570.41 in said fund excepting upon the express written consent of his wife, Jean Bruce Greenleaf.
+(b) An election to receive upon retirement that portion of the fund to the extent of $18,570.41 as an annuity waiving any right to accept a lump sum payment except on the written consent of his wife, Jean Bruce Greenleaf.
+(c) To provide that upon his death or his severance from the Profit Sharing Retirement Plan and Trust prior to his death that his death benefits or severance benefits to the extent of $18,570.41 shall be paid to Frank Mongillo, Esquire, 185 Church Street, New Haven, Connecticut, or his successors as Trustee for the benefit of Jean Bruce Greenleaf to pay to her in weekly installments the amount equal to the amount of alimony received by her per week at the time of the death of Richard S. Greenleaf or an amount equal to the last weekly payment made prior to the death of Richard S. Greenleaf so long as she shall live and is unmarried. Upon her death or upon her remarriage, said Trustee is to pay the balance of said fund to Richard Bruce Greenleaf and Linda Greenleaf Hayden, share and share alike, free of any and all trusts. In the event that either Richard Bruce Greenleaf or Linda Greenleaf Hayden predeceases Jean Bruce Greenleaf, then in that event said child’s share shall go to its issue per stirpes the same to be theirs absolutely and forever.”
