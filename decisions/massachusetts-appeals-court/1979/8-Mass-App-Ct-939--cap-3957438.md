@@ -1,0 +1,24 @@
+---
+court: "Massachusetts Appeals Court"
+decided: "1979-12-07"
+citations: ["8 Mass. App. Ct. 939"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Phyllis J. Trudel vs. Edward H. Trudel."]
+source_url: "https://static.case.law/mass-app-ct/8/cases/0939-02.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3957438
+cites_cases: ["2 Mass. App. Ct. 530", "287 Mass. 473", "3 Mass. App. Ct. 358", "3 Mass. App. Ct. 732", "365 Mass. 850", "371 Mass. 420", "372 Mass. 398", "7 Mass. App. Ct. 672"]
+---
+
+# Trudel v. Trudel
+
+## Majority
+
+The question presented is whether, as part of an uncontested divorce proceeding, a probate judge can reject the support provisions of a separation agreement between the parties and enter his own order for alimony and child support without informing the parties of his disapproval and affording them an opportunity to be heard. We hold that he cannot enter such an order consistent with his obligations under G. L. c. 208, § 34, as appearing in St. 1977, c. 467.
+1. There was no transcript of what occurred at the divorce hearing. The parties and the judge were unable to agree on a statement of the evidence or the proceedings pursuant to Mass.R.A.P. 8(c) and 8(e), 365 Mass. 850-851 (1974). By order of a single justice we have in the record all statements submitted to the judge under appellate rule 8(c), the judge’s responses thereto, and correspondence between the judge and counsel concerning the statements. After careful consideration of these materials, the affidavits, and the testimony taken at the hearing on settlement of the record, it is apparent to us that neither the attorneys nor the parties were made aware before the receipt of the judgment that the judge had disapproved those portions of the agreement pertaining to support and that they had not been heard on the unilateral changes made by the judge.
+Judith Liben for the defendant.
+2. The judge entered an order for a single sum as alimony and maintenance of the children. See Topor v. Topor, 287 Mass. 473, 475 (1934); Topalis v. Topalis, 2 Mass. App. Ct. 530, 532 (1974); Wyman v. Wyman, 3 Mass. App. Ct. 358, 360 (1975). In these circumstances, the award is governed by the provisions of G. L. c. 208, § 34, as appearing in St. 1977, c. 467. Contrast Wyman v. Wyman, supra at 359-360 (court is “without authority to make a decree under section 34, which provides for alimony, when the order for support was intended only for the benefit of a minor child”). Section 34 of G. L. c. 208 requires a probate judge, when considering an award of alimony, to make findings showing that he considered each of the factors enumerated in that section. Bianco v. Bianco, 371 Mass. 420, 422-423 (1976). Rice v. Rice, 372 Mass. 398, 401 (1977). In addition, in the setting of this case, where alimony was not set in accordance with the agreement but on the basis of undisclosed factors, the section obviously contemplates a hearing, the testimony of witnesses and the parties bearing on the contested issues, and the submission of any relevant documentary evidence. Putnam v. Putnam, 7 Mass. App. Ct. 672, 673-674 (1979). The husband was not present at the hearing because the divorce was to be uncontested, although he was available in the building. Had his counsel been informed that the support provisions of the agreement were unsatisfactory to the judge, counsel could have called him into the courtroom to give testimony bearing upon all of the mandatory factors in § 34. Similarly, the wife’s attorney did not realize the need to elicit such testimony from Mrs. Trudel at a presumably uncontested divorce hearing. The information submitted at the hearing, including the financial statements of the parties (Mass.R.Dom.Rel.P. Form 401 [1975]), made a preliminary showing that the arrangement settled upon in the agreement was reasonable. This is clearly not a case where the “parties decline to offer evidence on these factors” such that “consideration of the factors thereby omitted can properly be deemed waived.” Putnam v. Putnam, supra at 674.
+Accordingly, part (b) of the judgment of divorce nisi entered on March 17, 1978, which provides for alimony and maintenance of the minor children of the parties is reversed, and the issues pertaining to those matters are remanded for hearing and consideration under the provisions contained in G. L. c. 208, § 34. The reconsideration of these matters is to be conducted “in the light of the present circumstances of the parties,” Milo v. Milo, 3 Mass. App. Ct. 732 (1975). We think it is preferable that the new proceedings be assigned to a different judge from the one whose actions have been reviewed in this appeal. In all other respects the judgment of divorce nisi is affirmed.
+So ordered.
