@@ -1,0 +1,33 @@
+---
+court: "Massachusetts Appellate Division"
+decided: "1942-07-02"
+citations: ["7 Mass. App. Div. 296"]
+reporter: "mass-app-div"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Present: Gillen, Eiley & Tomasello, JJ."]
+parties: ["BEST & COMPANY vs. MARGARETTA HATFIELD KAULBACK"]
+source_url: "https://static.case.law/mass-app-div/7/cases/0296-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3885066
+cites_cases: ["114 Mass. 546", "191 Mass. 192", "229 Mass. 576", "229 Mass. 87", "231 Mass. 90", "236 Mass. 468", "238 Mass. 43", "242 Mass. 245", "249 Mass. 391", "292 Mass. 424", "304 Mass. 419", "33 Mass. (16 Pick.) 198", "5 Metc. 192", "6 Cush. 336"]
+---
+
+# Best & Co. v. Kaulback
+
+## Majority (Tomasello, J.)
+
+Tomasello, J.
+This cause is presented to us on a “Case Stated” and the requests for rulings become of no importance, and the question is whether the plaintiff can recover on the facts and the inferences therefrom. (There being no statement therein to the effect that the Court is not to draw inferences.) Ward v. Great Atlantic & Pacific Tea Co., 231 Mass. 90, 92, West Roxbury v. Minot, 114 Mass. 546, Standard Brands Inc. v. Viola, 43 (App. Div.) 396, 402, of the Municipal Court of the City of Boston.
+We shall, therefore, consider the merits of the case.
+The facts agreed upon indicate that the plaintiff previous to bringing this action against the defendant for merchandise allegedly sold and delivered to her had brought suit against one Harold D. Kaulback and the defendant in this court for the same cause, and in said prior action the said Harold D. Kaulback defaulted for failure to appear and answer and a judgment was entered against him. The defendant Margaretta Hatfield Kaulback in the prior action appeared and filed an answer and also a plea in abatement alleging that she was iinproperly joined therein. The plaintiff in said prior action discontinued against the defendant Margaretta Hatfield Kaulback and upon the discontinuance the action went to final judgment against said Harold D. Kaulback and supplementary proceedings were instituted and were pending against him when the present action was brought. Upon the execution in that action nothing had been paid.
+The goods sold and delivered were wearing apparel purchased by and delivered to the defendant Margaretta Hatfield Kaulback and were used by her. At the time of purchase she was living with said Harold D. Kaulback as husband and wife under her mistaken belief that she was validly married to him, having gone through a marriage ceremony which it was later learned was invalid.
+Prior to the bringing of the first action the defendant Margaretta H. Kaulback wrote to the attorneys for the plaintiff stating that she would take care of the account as soon as possible and signed her name to the letter and added thereto the name of “(Mrs. H. D. Kaulback).” In opening a charge account with the plaintiff in the name of the defendant Margaretta H. Kaulback, she submitted her name as being “Mrs. Harold D. Kaulback” and gave informotion that her presumed husband was a Lieutenant in the United States Navy with a position at the Boston Navy Yard. According to the plaintiff’s ledger sheet the merchandise was billed to “Mrs. Harold D. Kaulback.”
+To the plaintiff’s present action the defendant filed an answer of general denial and payment with a plea in bar of this action because of the prior proceedings.
+Based upon these facts the trial judge could have found that there was sufficient cause for the prior proceedings against the said Harold D. Kaulback for the goods purchased by his putative wife, since by cohabiting with the defendant and holding her out to the community as his wife, he impliedly authorized her as his agent to purchase the necessaries involved for herself and their household in accordance with the ordinary practice of married people. Jordan Marsh Co. v. Hedtler, 238 Mass. 43.
+The “necessaries” as respecting the presumed husband’s liability were not confined to articles of food or clothing required to sustain life, but included such articles for use by the putative wife as were suitable to maintain her according to her presumed husband’s property and condition in life. Jordan Marsh Co. v. Cohen, 242 Mass. 245, 249.
+No action is maintainable against a wife for necessaries either on an implied or express promise. (Except such as are within the purview of Mass. Gen. Laws, Ch. 209, see. 7, as to a wife’s separate property of value of $2000., and to the extent of $100.), Shaw v. Thompson, 33 Mass. (16 Pick.) 198, and where the facts are not such as to bring the case within the terms of Mass. Gen. Laws, Ch. 209, sec. 7, no action can be maintained against the defendant and her presumed husband, jointly upon the promise implied in law to pay for the necessaries, the promise which the law implied in such a case being the promise of the alleged husband alone to pay for such, necessaries. Lavoie v. Dube, 229 Mass. 87.
+Although the entry of a default is not a final disposition of the case against a party, Doodlesack v. Superfine Coal and Ice Corp., 292 Mass. 424, yet a default of one served with process must be considered voluntary, McEachern v. S. S. White Dental Mfg. Co., 304 Mass. 419, and the maintenance of a suit based on an unauthorized transaction (assuming this to be the contention of the plaintiff) constitutes ratification. Finney v. Fairhaven Ins. Co., 5 Metc. 192, Fiedler v. Smith, 6 Cush. 336, N. E. Mutual Life Ins. Co. v. Wing, 191 Mass. 192, Gross v. Cohen, 236 Mass. 468, Hamilton v. Coster, 249 Mass. 391.
+It is clear that the defendant purchased the merchandise which was charged to her, and the plaintiff having determined that the defendant was acting as agent for the presumed husband (as indicated by the bringing of the prior action) was warranted in proceeding against either the defendant as agent or the alleged husband as undisclosed principal, and having chosen to prosecute action against the alleged husband to final judgment, the entry of such final judgment was an election, and thereby all rights of the plaintiff against the defendant were at an end. Gavin v. Durden Co., 229 Mass. 576, 579.
+The election to hold the alleged husband responsible for the putative wife’s acts could well have been inferred from the institution of the supplementary proceedings against him following the final judgment in the first action.
+It is our view that the trial judge erred in his finding for the plaintiff in this action based upon the “Case Stated.” Judgment for the Defendant.
