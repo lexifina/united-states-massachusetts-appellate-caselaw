@@ -1,0 +1,32 @@
+---
+court: "Massachusetts Appeals Court"
+decided: "1974-02-27"
+citations: ["1 Mass. App. Ct. 783"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["John M. Lyons vs. Rainbow Recording Corporation & another (and a companion case)."]
+source_url: "https://static.case.law/mass-app-ct/1/cases/0783-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3944573
+cites_cases: ["212 Mass. 486", "216 Mass. 367", "228 Mass. 294", "288 Mass. 422", "335 Mass. 262", "338 Mass. 10", "341 Mass. 488", "343 Mass. 15", "353 Mass. 137", "358 Mass. 381"]
+---
+
+# Lyons v. Rainbow Recording Corp.
+
+## Majority (Hale, C.J.)
+
+Hale, C.J.
+These two matters are before us, one (the equity case) by way of appeal and the other (the law action) by way of a bill of exceptions. In the equity case the plaintiff (Lyons) seeks rescission of a written contract, the cancellation of a promissory note, and the return of $13,384.58 paid by him to the defendants Rainbow Recording Corporation (Rainbow) and Saul Weinstein (Weinstein), on the ground that Lyons was induced by fraudulent misrepresentations of Rainbow and Weinstein to enter into the contract, to deliver the note, and to make the payments alleged. Rainbow and Weinstein have appealed from a final decree in favor of Lyons.
+The action at law was brought by Rainbow against Lyons to recover the unpaid balance on the note which is one of the subjects of the equity case. The decision which we reach in the equity case is dispositive of any issues raised by the bill of exceptions.
+Both cases were consolidated for trial before a master-auditor (hereinafter referred to as the master), whose report was confirmed.
+It appears from the record that in 1966 Lyons, who, among other things, was a music supervisor in the Wey-mouth school system and ran his own retail music business, entered into negotiations with Weinstein, Rainbow’s president, for the purchase of most of the assets of Rainbow, a New York corporation having a place of business in Boston, where it engaged in the sale at retail and wholsesale of “dance” records. As a result of those negotiations Lyons, on or about May 23, 1966, agreed to pay Rainbow a total of $35,000 for Rainbow’s assets, including the exclusive right to use the “Rainbow” name. The assets included some 75,000 records, customer lists, catalogs listing about 230 recordings of a variety of dance music, and master tapes from which additional records could be produced. Lyons paid Rainbow $11,000 as a down payment and signed a promissory note for the balance of $24,000.
+After the records and other materials, except the tapes, were delivered on May 31,1966, Lyons discovered, contrary to what had been represented, that the mailing lists, back orders, and catalogs were largely obsolete and that the income of the company had in fact been less than $1,000 a year in each of the years 1964, 1965, and 1966 and not the $700 weekly gross ($200 net) represented. After paying two installments of $1,000 each on the note, with interest, Lyons, on September 21, 1966, offered to return all the records and other materials purchased. That offer was refused, and the bill in the equity case was filed on October 14,1966.
+The final decree in the equity case ordered both Wein-stein and Rainbow to surrender the promissory note and to repay the sums received from Lyons, amounting to $13,384.58, together with interest from October 10, 1966. Lyons was ordered to return the phonograph records and other materials which he had received in the sale from Rainbow.
+The only issue raised by Rainbow in the equity case is that it was error to order the rescission of the contract because a return to the status quo was not possible for the reason that Lyons had sold a portion of the assets (6,545 records). We do not agree. While an inability to restore the property might bar recovery in an action at law, such is not necessarily the situation in equity. Limoli v. Accettullo, 358 Mass. 381, 385 (1970). The transaction between the parties contemplated the sale of a going business with active customer lists, promotional sales materials, stock in trade (records) and, significantly, master tapes from which the stock could readily be replenished. Less than nine percent of the records were sold by Lyons after his demand for rescission. Those records can, and in our opinion they should, be replaced by an amount of cash equivalent to the fair and reasonable value of the records at the time Lyons demanded rescission. See Putnam v. Bolster, 216 Mass. 367, 372 (1914); Bellefeville v. Medeiros, 335 Mass. 262, 266-267 (1957); Limoli v. Accettullo, 358 Mass. 381, 385-386 (1970). Compare Lolos v. Berlin, 338 Mass. 10, 14 (1958).
+Weinstein contends that he cannot be ordered to rescind, as the master found that he acted solely as an agent for Rainbow and was not a party to the contract. We agree. This is not a tort action for deceit, and Lyons’ request that we allow relief in the nature of damages cannot here be granted. Ginn v.Almy, 212 Mass. 486, 502 (1912). Yoffa v. National Shawmut Bank, 288 Mass. 422, 427 (1934). Compare Lefevre v. Chamberlain, 228 Mass. 294, 297-298 (1917); Lolos v. Berlin, 338 Mass. 10, 15 (1958).
+The final decree was correct as it applied to Rainbow, except that it should also have ordered the rescission of the contract and have provided for a credit against the monetary order in the amount of the fair and reasonable value of the records sold by Lyons, with interest on the balance from October 14,1966. The determination of the amount of that credit will require further proceedings in the Superior Court. The bill in equity is to be dismissed as to Weinstein.
+The bill of exceptions is dismissed. The final decree is vacated, and further proceedings are to be had in the Superior Court not inconsistent with this opinion.
+So ordered.
+The master’s report contains few subsidiary findings and consists largely of a recitation of testimony. As there appears to be no dispute as to any of the essential facts we shall join the parties and the court below in treating that testimony as true. See Davis v. Noone, 341 Mass. 488, 490-491 (1960); Flynn v. Korsack, 343 Mass. 15, 16 (1961); John P. Condon Corp. v. State Line Contractors, Inc. 353 Mass. 137, 139 (1967).
+The final decree misstates the date on which the suit was commenced, which was October 14,1966.
