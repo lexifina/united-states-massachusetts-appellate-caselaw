@@ -1,0 +1,34 @@
+---
+court: "Massachusetts Appellate Division"
+decided: "1937-08-12"
+citations: ["2 Mass. App. Div. 442"]
+reporter: "mass-app-div"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["SAMUEL CUSHING vs. PILGRIM LAUNDRY CO."]
+source_url: "https://static.case.law/mass-app-div/2/cases/0442-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3879240
+cites_cases: ["275 Mass. 55", "282 Mass. 280"]
+---
+
+# Cushing v. Pilgrim Laundry Co.
+
+## Majority (Pettingell, J.)
+
+Pettingell, J.
+The essential issue in this case is the validity of the registration of the plaintiff’s automobile. There was a finding for the plaintiff and if the automobile was properly registered the finding must stand.
+At the time of the registration, the plaintiff’s residence was in Dorchester. He was engaged in business at 5 Brook-line Street, Cambridge. His automobile was principally garaged in Cambridg’e. When the registration was taken out the plaintiff signed an application in blank and gave it to an insurance broker who filled in the necessary information and procured the registration. The application and the certificate of registiation gave the plaintiff’s residential address as 5 Brookline Street, Cambridge. The report does not so state, but the judge could have inferred from these facts that the broker was responsible for the misstatement of the plaintiff’s residence.
+It is admitted that prior to the enactment of St. 1934, C. 361, the registration of the plaintiff’s automobile, with this misstatement of his residential address, would have been invalid, and that, in operating the automobile, he would have been a trespasser upon the highway, and barred from recovery in an action such as this.
+The issue in the case is whether since St. 1934, C. 361, a misstatement of address, such as exists here, makes the registration illegal.
+That part of the statute which is material to the ease is as follows:
+“A motor vehicle . . . shall be deemed to be registered in accordance with this Chapter notwithstanding any mistake in . . . the statement of the residence of the applicant contained in said application or certificate . . ..”
+This statute is an extension of St. 1928, C. 187, which provides that the legality of registration is not destroyed by a mistake in “the engine, serial or maker’s numbers thereof.” The title of that act is similar to the title of this, each beginning with the words “An Act relative to the effect of certain misstatements in applications for registration of motor vehicles”. In Brown v. Robinson, 275 Mass. 55, at 57, the court in construing the 1928 statute, pointed out that “Resort may be had to the title of a statute as an aid in its interpretation”, and said that “ ‘misstatements’ in the title is a word of broader signification than ‘mistake’ in the body ‘of the act’, and has a tendency to indicate that the latter was not designed to be used in a narrow or technical sense”. The court then went on (page 58) to differentiate mistakes arising out of lack of knowledge and mistakes growing out of “unconscious forgetfulness of facts which have come to the owner’s knowledge and attention” from “wilful omission, intentional failure or, conscious inattention to procure correct registration”. The kind of mistake which is within the scope of the statute was held to be that which “excludes every element of design. It excludes; heedless or reckless conduct in view of known facts. It excludes wanton or inexcusable delay in action. It includes only complete honesty of purpose accompanied by blameless oversight or ignorance of facts”.
+In Emeneau v. Hillery, 282 Mass. 280, at 284, 285, it appeared that the defendant’s application for registration gave the wrong engine numbers, but that the defendant had no personal knowledge of the. facts and ‘ ‘ did not at any time make a personal examination of the application for registration that was signed by her”, “but left that to the insurance broker” and did not know that the truck was improperly registered. It was held that there was a “mistake” within the meaning of St. 1928, C. 187.
+The case last cited would seem to indicate that the mistake of an agent is within the scope of the statute and that the principal is protected if the mistake of the agent is of the kind described in Brown v. Robinson, supra, as within the statute.
+'The fact, in the instant case, that the plaintiff left the filling out of the application to his broker, is, on the authority of the case last cited, not final or determining. If the broker had honestly but mistakenly filled in the wrong house number, or the wrong street, there would be no question but that the plaintiff would be protected by the statute. Any other result would entirely nullify the intent of the statute.
+The question remains whether or not an honest but mistaken statement of a residential address in a city in which the plaintiff did not live is to be treated on any other basis than that of the good faith and purity of motive which is the fundamental principle underlying the decision in Brown v. Robinson, supra.
+We can see no other stable ground upon which a decision safely can be based. The statute provides relief from “mistakes” which result in “misstatements”. If they are honest, and pure in motive and intention, they are “mistakes” within the statute; if they are conscious, or deliberate, or wilful, they are not “mistakes” within the statute. To attempt to define the “mistakes” to which the statute applies, by definitions based on the character or extent of the mistake itself would, in the words of Brown v. Robinson, (page 58), keep the statute from becoming a “workable piece of legislation, affording a shield to the innocent and careful, and to no others ’
+But even if the facts in this case are tested by another standard, that of the extent of the “mistake” involved and its seriousness, it appears that the address given in the application and certificate of registration was one at which the plaintiff might readily be found daily, it being his place of business. All of the results intended by the statute requiring registration, the definite and easy identification of the owner, would necessarily follow the use of such an address. “Trifling inaccuracies in the statements in the application not affecting this statutory design do not invalidate the registration”. Doyle v. Goldberg, Mass. Adv. Sh. (1936) 785, at 788. Measured by the actual effect on the situation, the “mistake” in this case was far from serious and might well be considered as “trifling”.
+We are of opinion that the case is governed by the decisions cited, Brown v. Robinson, 275 Mass. 55, and Emeneau v. Hillery, 282 Mass. 280, and that it was not prejudicial error for the trial judge to rule that the plaintiff was protected by St. 1934, C. 361.
+The report is to be dismissed.
