@@ -1,0 +1,36 @@
+---
+court: "Massachusetts Appellate Division"
+decided: "1944-03-23"
+citations: ["9 Mass. App. Div. 19"]
+reporter: "mass-app-div"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["VICTOR E. CUSOLITO vs. JOHN O’CONNELL"]
+source_url: "https://static.case.law/mass-app-div/9/cases/0019-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3885675
+cites_cases: ["125 Mass. 572", "136 Mass. 291", "139 Mass. 98", "218 Mass. 376", "230 Mass. 526", "237 Mass. 508", "273 Mass. 388", "274 Mass. 488", "284 Mass. 378", "286 Mass. 177", "292 Mass. 213", "292 Mass. 293", "6 Allen 61"]
+---
+
+# Cusolito v. O'Connell
+
+## Majority (Pettingell, P. J.)
+
+Pettingell, P. J.
+Action of contract in which the plaintiff filed interrogatories addressed to the trustee. The trustee had answered that at the time of the service on it of the plaintiff’s writ it had not in its hands or possession any goods or effects or credits of the defendant. Five of the interrogatories the trustee did not answer at all. In the case of two interrogatories, the answer was that the interrogatory “goes far beyond the plaintiff’s rights of inquiry” and the defendant refused to answer the interrogatory unless required by the court to do so.
+The plaintiff thereupon filed a motion to strike out certain answers and for further answer to certain interrogatories which the court denied. The plaintiff claimed a report on the denial of his motion to strike out and for further answers which was allowed.
+The report is improperly here. In the first place it raises no question of law. It says that the plaintiff filed interrogatories, the trustee failed to answer or answered improperly and the plaintiff filed a motion to strike out certain answers and to have the trustee answer further which motion was denied.
+On its facts the case stands very closely to Fels v. Raymond, 139 Mass. 98. In that case, at pages 100 and 101, the court said:
+“It has been held that, where a party wholly neglects to answer interrogatories proposed to him within the time allowed by law, the court may enter a non-suit or default. Harding v. Noyes, 125 Mass. 572. Harding v. Morrill, 136 Mass. 291. But it has never been held that where a party files answers to interrogatories, it is within the discretion of the court, without further proceedings to enter a nonsuit or default because the answers are deemed insufficient or evasive; and we are of opinion that the fair construction of the statute does not confer such a discretion or power.
+“Questions of great difficulty often arise as to how far a party is bound to answer interrogatories proposed by an adverse party, and it was not the intention of the statute to compel a party to decide such question at the risk, if he decides erroneously, of a non-suit or default. The sections we have quoted indicate the proper course to be pursued if the answers are imperfect. The interrogating party should file a, motion setting forth his objections to the answers, and praying that they be made more full and clear; and it is for the court to determine upon such motion how far the answers are imperfect, and which of the answers, require fuller answers.
+“If the answers are adjudged to be imperfect; the interrogated party ought to have the opportunity to amend them, after the particulars in which they are insufficient are pointed out. If 'he refuses to amend or answer more fully, according to the order of the court, a nonsuit or a default may be entered * * *.
+“In the case at bar, the plaintiff filed interrogatories to the defendants. Each of the defendants filed answers. They answered some interrogatories, and declined to answer others, as being improper, without any ruling upon the impropriety of the interrogatories, and without any order that the defendants should answer further and more fully, the court, on motion of the plaintiff ordered that the defendants be defaulted and entered judgment for the plaintiffs. This was erroneous.”
+In Hooton v. G. F. Redmond & Co. Inc., 237 Mass. 508, the court said, at page 512, referring to Fels v. Raymond, supra:
+“The point there settled was that after answers to interrogatories are filed, there must be an adjudication that the answers are imperfect and the interrogated party be given an opportunity to amend them before nonsuit or default can be entered. ”
+It is apparent from the language used in Fels v. Raymond, supra, and Hooton v. G. F. Redmond & Co. Inc., supra, that the plaintiff’s procedure in the present case was not sufficient to raise an issue of law. It is true that he asked for further answers which were denied. There was not, however, any adjudication that the answers which had been filed were insufficient or were otherwise objectionable. It was within the power of the plaintiff to file a motion for a decision to that effect accompanied by requests for rulings of law which would have brought to the attention of the trial judge the claim of the plaintiff as to the particular objection or insufficiency in the answers which entitled him to a fuller or clearer answer.
+As the instant case now stands no issue of law has been raised which has been passed upon by the trial judge and has been reported by him to this Division. What is before us is a statement of an incomplete and unfinished trial, in which as yet no questions of law has been ruled upon.
+The only issues that the Appellate Division can act upon are issues of law. Reid v. Doherty, 273 Mass. 388, at 389. It cannot review findings of fact. McKenna v. Andreassi, 292 Mass. 213, at 214. Bresnick v. Heath, 292 Mass. 293, at 296. James B. Rendle Co. v. Conley & Daggett, Inc., Mass. Adv. Sh. (1943) 763. Matters of discretion are not re viewable. Lang v. Bunker, 6 Allen 61, at 62. Aronson v. Nurenberg, 218 Mass. 376, at 377. Waltham Bleachery &c. Corp. v. Clark-Rice Corp., 274 Mass. 488, at 491.
+‘ í ijv^g refusal of the trial judge to require the trustee to answer further the interrogatories related solely to interlocutory matters were not final as to the merits of the litigation.” Endicott Johnson Corp. v. Hurwitz, 284 Mass. 378, at 381.
+The only authority of the Appellate Division to review interlocutory matters is that conferred by St. 1931, C. 325, Section 1, which states, “A single justice may, after decision thereon, report for determination by the Appellate Division of any case in which there is an agreed statement of facts, or a finding of the facts or any other case involving questions of law only.” The Supreme Judicial C'ourt passed upon the statute in Krock v. Consolidated Mines & Power Co., 286 Mass. 177, at 179, in the following words:
+“The power under the statute to report the case does not confer a right to report all interlocutory or subsidiary rulings which are determinative of the case. ‘It cannot be presumed that was the legislative purpose to confer appeal from the Appellate Division upon a far broader range of matters than is allowed as of right to litigants in the Superior Court’ Real Property Co. Inc. v. Pitt, 230 Mass. 526, 527. * * * If it is reported under St. 1931, C. 325, S. 1, it does not present a question of law within the meaning of that statute. ’ ’
+As no question of law is raised by the report, the report is to be dismissed.
