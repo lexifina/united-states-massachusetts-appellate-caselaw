@@ -1,0 +1,30 @@
+---
+court: "Massachusetts Appeals Court"
+decided: "1985-02-28"
+citations: ["19 Mass. App. Ct. 416"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["City of Boston vs. Barbara Horne."]
+source_url: "https://static.case.law/mass-app-ct/19/cases/0416-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5744588
+cites_cases: ["372 Mass. 86"]
+---
+
+# City of Boston v. Horne
+
+## Majority (Brown, J.)
+
+Brown, J.
+Claiming nonpayment of interest on back taxes, the city of Boston in 1978 filed a petition in the Land Court under G. L. c. 60, § 65, to foreclose a tax lien on certain real property. A decision was entered in February, 1984, in which a Land Court judge found and ruled that the full amount due the city had been paid, and ordered that the proceeding be dismissed. The city has appealed from that decision.
+The present controversy turns on the question whether any interest was due on the tax arrearages. The Land Court judge found that in April, 1980, during the pendency of the action, the taxpayer signed a “memorandum of understanding for the redemption of the . . . property,” in which she agreed to make monthly payments of $370 from May, 1980, to November, 1981, in satisfaction of the existing tax arrearages, and further agreed that the city would be entitled to a “decree of foreclosure” in the present action if she defaulted on any of those payments or on future taxes as they fell due. The memorandum was also signed by Philip Lundberg, an employee of the city, who, as admitted by the city and found by the trial judge, “was acting within the scope of his duties when he approved and signed the agreement.” The judge also found that the defendant had made all the contemplated monthly payments in a substantially timely fashion and that she had made two payments on account of newly assessed taxes during the period covered by the memorandum.
+In the Land Court the city, relying solely upon the terms of the memorandum, attempted to establish that the payment of interest on the defendant’s tax arrearages was a condition of the preservation of her right of redemption. The city claimed below, as it does here, that the taxpayer was in default because “the Memorandum clearly indicates the total amount due as of the day of the agreement and that interest from that day forward would be added to the total due.” The city admitted that “there were no explicit provisions to this effect in the Memorandum.” Notwithstanding the absence of any reference to interest in the installment payments “schedule” of the memorandum, the city now, for the first time, argues that because of certain statutory provisions (e.g., G. L. c. 60, § 62) its agreement as set forth in that memorandum was unauthorized and a nullity insofar as it purported to waive the city’s right to interest on the late-paid taxes. Although we need not do so, we nevertheless consider that belated contention. Compare Royal Indem. Co. v. Blakely, 372 Mass. 86, 88 (1977).
+We are mindful that one of the factors to be taken into consideration in construing such an agreement is the language of G. L. c. 60, § 62, which looks towards a prohibition of any waiver of interest on back taxes. This point is not missed by the city in its brief on appeal but is conspicuously absent from the record of the proceedings below. As troubling as the question of waiver by a municipality in such circumstances is, we, however, are unable in this case to establish any rule for the future because the present record does not afford an adequate basis to analyze this important question. The judge found and ruled that the installment payments made pursuant to the memorandum “shall be deemed to include all sums due, to include taxes, interest and costs” (emphasis added). Because no transcript of the Land Court proceedings has been provided, the accuracy of the judge’s findings must be taken as established. In light of the absence of any reference to interest in the memorandum of understanding, we think that the judge fairly could have inferred that the installment payment schedule set out in the agreement encompassed the full amount due including interest. The city has in no way made it appear otherwise. With the record in this posture, there is no basis for overturning the judge’s decision.
+Judgment affirmed.
+The trial judge found that the city “authorized its employee to enter into this contract” and did not “question! ] its legality.” He then ruled that the city “is deemed to have adopted it.”
+The city made no challenge to the sufficiency of these payments in the trial court.
+There are no provisions to that effect, explicit or otherwise. The only reference to interest appears in an earlier section of the agreement wherein it is provided that an initial payment by the taxpayer is “to be applied to unpaid Property taxes and interest and costs thereon” (emphasis in original).
+General Laws c. 60, § 62, as amended through St. 1970, c. 235, § 1, states in relevant part: “Any person having an interest in land taken or sold for non-payment of taxes . . . may redeem the same by paying or tendering to [the] treasurer instalments on account of the tax title account. . . together with the full amount of interest, as aforesaid, to the date of payment of the amount of the tax title account . . . , and all charges lawfully added as aforesaid, until the full amount of the tax title account, with interest as aforesaid and all such charges, is paid” (emphasis added).
+It reasonably can be implied from the judge’s decision that he found “the agreement to be a complete statement of the amount [the taxpayer] owed and that no further interest was due.”
+The defendant in her brief correctly observes that a factual assertion in the city’s brief of “an outstanding tax title of $9,162.51” at the time the city and the taxpayer executed the agreement is nowhere supported on the pages of the record appendix cited by the city or by anything else in the appendix.
