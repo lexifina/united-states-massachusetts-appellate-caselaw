@@ -1,0 +1,33 @@
+---
+court: "Massachusetts Appellate Division"
+decided: "1938-04-29"
+citations: ["3 Mass. App. Div. 214"]
+reporter: "mass-app-div"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ALICE BABIKYAN vs. J. P. COLLINS COMPANY"]
+source_url: "https://static.case.law/mass-app-div/3/cases/0214-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3879577
+cites_cases: ["21 App. Div. 317", "229 Mass. 106", "234 Mass. 526", "246 Mass. 139", "256 Mass. 598", "267 Mass. 501"]
+---
+
+# Babikyan v. J. P. Collins Co.
+
+## Majority (Zottoli, J.)
+
+Zottoli, J.
+This is an action on a judgment alleged to have been rendered in the Municipal Court of the City of Boston on November 5, 1937. The answer is a general denial. The evidence reported is meagre. All that the report states on this branch of the case is that, “at the trial there was evidence that the plaintiff brought an action, No'. 39436 of 1937; that the writ described the defendant as the J. P. Collins Company, a corporation having a usual place of business in Boston in our County of Suffolk; that a judgment was rendered in that suit November 5th, 1937, which was put in evidence. The writ was dated April 30, 1937 in said action. There was further evidence that the defendant was incorporated in Massachusetts, September 12,1935; that a J. P. Collins incorporated under the laws of Delaware January 30, 1933 withdrew from doing business in this state October 3,1935”.
+The report does not state that the judgment in the original action was in favor of the plaintiff, but though this fact should have been incorporated in the report, we do not feel that the case warrants a recommittal to have the error corrected, as we have taken judicial notice of the fact that the record of the original action shows that the plaintiff recovered the judgment in suit.
+During the course of the trial, “the defendant offered in evidence, the declaration in action No. 39436 and offered to prove by it that the contract on which the breach alleged in the declaration in suit No. 39436 was dated prior to the incorporation of the defendant company. This evidence was excluded and the defendant duly excepted”. On this state of the evidence the defendant filed the following requests for rulings:—
+“1. Upon all the evidence the plaintiff is not entitled to recover.
+“2. The plaintiff must prove that the defendant, J. P. Collins Company, is the identical party against whom judgment was rendered.
+“3. The plaintiff must prove that he has a right to recover against the defendant under her declaration.
+“4. The plaintiff has failed to prove the allegations in her declaration.
+“5. The defendant could not be held for the contract of others if the defendant was not in existence when the original contract was made for which the breach is charged.
+‘ ‘ 6. The defendant cannot be charged for the breach of contract of another party of the same name”. The report sets forth that “the court allowed requests Nos. 2 and 3 and refused the other requests. To the denial of request 5, the court added, sole issue is whether defendant is same defendant on whom judgment was rendered”.
+As a matter of fact, the statement in the report that “the court allowed requests numbered 2 and 3 and refused the other requests” is incorrect. An inspection of the record in the case shows that the court did not deny the defendant’s 6th request, but actually gave it.
+Though the report invites us to review alleged “rulings and refusals to rule” we feel that the situation which now confronts us does not warrant such a review.
+No one appeared before this division, on behalf of the defendant, to argue its alleged grievances. It has filed a brief which in substance only sets up1 a contention that the evidence is not sufficient to sustain a finding in favor of the plaintiff on the issue relating to the identity of the parties defendant. As this is the only issue which the defendant has argued or briefed, all other alleged grievances; are deemed to have been waived. Guinan v. Famous Players-Lasky Corporation, 267 Mass. 501, 519. Though the other alleged grievances are deemed to have been waived, it may serve a useful purpose to point out that the judgment rendered in the earlier action was not open to collateral attack. Joyce v. Thompson, 229 Mass. 106, Heard v. Calkins, 234 Mass. 526, 529. Under these circumstances, the remaining issue was that which related to the identity of the parties defendant. It is apparent from the fact the court granted the defendant’s second and third! requests. that it realized the plaintiff had the burden of proving the defendant in this action was the same party as the judgment debtor in the prior suit. From the court’s special and general finding it is to be inferred the court concluded that the plaintiff sustained that burden. If there is sufficient evidence to warrant the court’s special and general finding it cannot be disturbed. Moss v. Old Colony Trust Co., 246 Mass. 139, 143. Though the evidence reported is rather meagre, we feel it cannot be ruled that these findings are not warranted. The record shows that the writ in this action describes the defendant as “ J. P. Collins Company, a Massachusetts Corporation duly organized under the laws of the Commonwealth of Massachusetts arid existing by law and having a usual place of business in Boston, in our County of Suffolk.”
+Since no special demand for proof of incorporation was made by the defendant, this allegation could be taken as admitted by the defendant. Gen. Laws (Ter. Ed.), Ch. 231, sec. 30. This fact, coupled with the further fact that it is the established policy of this Commonwealth not to authorize more than one corporation to bear the same name (see Gen. Laws (Ter. Ed.), Ch. 155, sec. 9), and the additional fact that the evidence reported showed that the writ in the original action “described the defendant as J. P. Collins Company, a corporation having a . usual place of business in Boston in our County of Suffolk”; that “the defendant in this action was incorporated in Massachusetts September 12,1935;” that “a J. P. Collins Company incorporated under the laws of Delaware January 30,1933 withdrew from doing business in this state October 3, 1935”, and that the writ in the original “action was dated April 30,1937”, warranted a finding that the judgment debtor and the defendant were identical. No. 20567 of 1924, Markorios v. H. V. Greene Company, Inc., Municipal Court of the City of Boston, 21 App. Div. 317, affirmed in Markorios v. H. V. Greene Co., Inc., 256 Mass. 598, 600. It follows that the defendant’s position is not tenable.
+Report dismissed.
