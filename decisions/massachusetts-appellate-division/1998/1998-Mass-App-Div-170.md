@@ -1,0 +1,30 @@
+---
+court: "Massachusetts Appellate Division"
+decided: "1998-08-21"
+citations: ["1998 Mass. App. Div. 170"]
+reporter: "mass-app-div-annual"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Residence Inn By Marriott, Inc. vs. Mary Louise Flavel"]
+source_url: "https://static.case.law/mass-app-div-annual/1998/cases/0170-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 11793876
+cites_cases: ["5 Mass. App. Ct. 101"]
+---
+
+# Residence Inn By Marriott, Inc. v. Flavel
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+This is a summary process action for unpaid rent and possession in which judgment was entered for the plaintiff. The defendant-tenant has appealed the trial court’s order for a G.Lc. 239, §5 appeal bond
+conditioned to pay to the plaintiff, if final judgment is in plaintiff’s favor, all rent accrued at the date of the bond, all intervening rent and all damage and loss which the plaintiff may sustain by the withholding of possession of the land or tenements demanded and by an injury done thereto during such withholding, with all costs, until delivery of possession thereof to such plaintiff.
+Section 5 provides for such a damages bond, as distinguished from a cost bond, in the event of an appeal in a summary process action from the District Court to the Superior Court, or from the Superior or Housing Courts to the Appeals Court. The purpose of the bond requirement is plain.
+A dual rational purpose is served by the requirement that rent be paid as a condition of appeal. It serves as a deterrent to frivolous appeals (citations omitted), and more importantly, it provides landlords with a degree of financial protection during the course of litigation which may well be protracted.
+Kargman v. Dustin, 5 Mass. App. Ct. 101, 113 (1977).
+Effective September 30, 1996, Chapter 358 of the Acts of 1996, which was recently extended for a two year period, limits civil actions, including summary process actions, in the courts of Norfolk and Middlesex Counties to a single trial in the Superior or District Court Department, depending upon whether the likely damages in a given case are more or less than $25,000.00. Such actions, again including summary process actions, tried in the District Court may now be appealed only to the Appellate Division. Section 9 of Chapter 358 provides that G.L.C. 231, §§97,98,99,101,102,102C, 103,104A and 107, all dealing with various forms of appeal, removal, remand and retransfer of cases between the District and Superior Courts, “shall not apply in Norfolk and Middlesex counties.” In sharp contrast to §9, §10 of Chapter 358 provides only that:
+[n]otwithstanding the provisions of sections three and five of chapter two hundred and thirty-nine of the General Laws, summary process actions in the district courts of Norfolk and Middlesex counties shall be subject to one trial in the district court department as provided in section eight.
+The defendant-tenant herein argues that this language, together with the absence of any reference in Chapter 358 to the damages bond provided for in G.L.C. 239, §5, indicates that no such bond may be ordered upon the appeal of a summary process case to the Appellate Division. We disagree. Section 10, particularly when contrasted with the language in §9, does not abolish the bond provisions of G.L.c. 239.
+The purpose of Chapter 358 is to experiment with a system for a single trial in all civil cases, while G.L.c. 239 governs procedure in summary process actions. We grant that the overlap of the two statutory schemes has caused some confusion on the subject of the damages bond. See PERLIN & CONNORS, HANDBOOK OF CIVIL PROCEDURE IN THE MASS. DISTRICT COURT, 1998 Supp. §14A7. However, nothing in Chapter 358, including its provision in §8 for a cost bond in all civil cases on appeal, lends itself to the interpretation that the Legislature intended to abolish the damages bond requirement in creating the one-trial experiment. Indeed, there would appear to be no policy justification for requiring a damages bond in appeals from the Superior and Housing Courts to the Appeals Court, while eliminating the requirement solely for the District Courts in Middlesex and Norfolk Counties and, despite the defendant’s argument to the contrary, it is highly unlikely that the Legislature intended to do so. ‘To reach a different conclusion would be to accord tenants squatters’ rights pending the resolution of their appeal.” Kargman v. Dustin, supra at 111. A bond has been required in Massachusetts residential tenancy actions since the Eighteenth Century; the specific bond requirements of G.L.c. 239, §5 have been effective since 1825. It would be highly unusual for the Legislature to suspend over 160 years of landlord-tenant jurisprudence without explanation, and we decline to adopt the position that it has done so.
+Similarly, Chapter 358 does not provide a method of appeal of the bond itself. Section 5 of G.L.c. 239, governing prior practice, provides that appeal bonds set by a District Court judge may be reviewed by a Superior Court judge, and those set by a Superior or Housing Court judge may be reviewed by a single justice of the Appeals Court. Acting in a legislative vacuum, we have followed an analogous procedure, made somewhat awkward by the absence of statutory authority for a “single justice” of the Appellate Division. An appeal of a bond order, as in the instant case, is ordinarily heard at the next scheduled sitting of a full panel of the Appellate Division, and a decision is made immediately after argument and without a written opinion. The exception to the latter practice of an opinion in this case has been made because of the importance of making our position on the recurring issue involved herein known to the bench and bar.
+The decision and order of the trial judge setting the appeal bond in this case is affirmed. The bond of $25,000.00 shall be posted within 10 days of the date of this summary decision.
