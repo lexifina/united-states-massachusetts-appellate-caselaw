@@ -1,0 +1,59 @@
+---
+court: "Massachusetts Appellate Division"
+docket: "293546"
+decided: "1973-04-02"
+citations: ["51 Mass. App. Dec. 41"]
+reporter: "mass-app-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ACE FINANCE & INVESTMENT COMPANY v. BOSTON REDEVELOPMENT AUTHORITY"]
+source_url: "https://static.case.law/mass-app-dec/51/cases/0041-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4336304
+cites_cases: ["119 Mass. 546", "131 F. 2d 715", "303 Mass. 506", "316 Mass. 558", "321 Mass. 536", "329 Mass. 736", "332 Mass. 643", "333 Mass. 44", "347 Mass. 126", "347 Mass. 514"]
+---
+
+# Ace Finance & Investment Co. v. Boston Redevelopment Authority
+
+## Majority (DeGuglielmo, J.)
+
+DeGuglielmo, J.
+This is an action of contract for money had and received begun in the Municipal Court of the City of Boston by writ dated August 13, 1971. The defendant duly filed" an answer alleging general denial, payment, statute of limitations and absence of privity between the parties.
+At the trial, the parties submitted the matter to the trial justice on case stated, as follows:
+“That the plantiff commenced an action at law in the Boston- Municipal Court on a writ dated March 18, 1955 and returnable April 2, 1955 against Oscar R. Jenkins and several other defendants because of monies due on a promissory note which was in default. On August 15, 1957, a special precept of attachment issued from this court returnable September 7, 1957. On August 19, 1957, the plaintiff attached all the right, title, and interest of real estate of Oscar R. Jenkins by recording the attachment in the Suffolk Registry of Deeds, Book 7258, Page 137. On July 17, 1962, the plaintiff duly brought forward the attachment by recording same in Book 7663, Page 327 of the Suffolk Registry of Deeds notification that the attachment, was still in effect on the pending matter. On December 6, 1967, the plaintiff once again brought forward the attachment by recording notification in Book 8166 page 470, that the attachment was still in effect.
+“On May 21, 1971, the plaintiff obtained a judgment against the defendants named in the writ dated March 18, 1955, and an execution issued on May 22,1971.
+“OnNovember 8,1963, the defendant' Boston Redevelopment Authority, took the property of Oscar R. Jenkins, which was under attachment of the plaintiff by eminent domain for the purposes of urban renewal. The property taken was identified as Block #23512, Parcel #29, situated at 173 Townsend Street, Roxbury. The award for damages paid by the defendant, Boston Redevelopment Authority, was $12,700.00 of which after expenses and mortgages of $7,812.53 an equity or $4,992.02 was paid to Oscar R. Jenkins.
+“The plaintiff had no knowledge of the taking or that monies had been paid to Oscar R. Jenkins, nor was the plaintiff, as an attaching creditor, paid any money by the Boston Redevelopment Authority. The plaintiff, therefore, brought this action against the Boston Redevelopment Authority for money had and received.”
+The plaintiff duly filed seven (7) requests for rulings of law, as follows:
+“1. As a matter of law the court must find for the plaintiff for the amount stated in the declaration.
+“2. If the court finds that the plaintiff attaehed the Real Estate in question on August 15, 1957 by recording a special precept of attachment in the Suffolk Registry of Deeds and thereafter on July 17, 1962, extended the said attachment by recording an extension in the said Registry and thereafter on December 6, 1967 extended the said attachment by recording a further extension of the said attachment, as a matter of law a specific charge remained upon the property as security for the debt owed to the plaintiff by Oscar R. Jenkins.
+“3. As a matter of law the acquisition of the title by eminent domain by the defendant did not terminate the plaintiff’s rights under the original attachment but gave rise to an equitable lien in favor of the plaintiff.
+“4. As a matter of law if the proceeds paid under the taking by the defendant were paid to the equity owners and not the plaintiff then it was in violation of the plaintiff’s property right of which the defendant had notice through the recording of the attachment in the registry of deeds.
+“5. As a matter of law the plaintiff has a cause of action against the defendant for the amount paid to the equity owner Oscar R. Jenkins, trustee of the Jenkins Realty Trust.
+“6. If the court finds that Oscar R. Jenkins did not pay the amount of $2,165.67 to the plaintiff on its execution dated May 22, .1971, against the said Oscar R. Jenkins, as a' matter of law the defendant is legally obliged to pay the plaintiff this amount.
+“7. As a matter of law the plaintiff has an equitable lien on $4,992.02 which the defendant paid to Oscar B. Jenkins.’’
+The court, in denying all of the plaintiff’s requests, made a memorandum of findings, as follows:
+• “On the agreed statement of facts it would appear that the plaintiff did not make a levy within thirty days of obtaining judgment as required by General Laws e. 223, §59. According to the statement of facts, judgment was obtained by the plaintiff on May 21, 1971, who then brought this action against the Boston Bedevelopment Authority on August 13, 1971. It also appears that the Boston Bedevelopment Authority (defendant in this action) made a taking of the property in question on November 8, 1963, and on February 5, 1964, made an award to Oscar B. Jenkins, the debtor in this action, at which time the plaintiff had not perfected his attachment by securing a judgment and levying on the execution.
+“This case is in line with the decisions in Kacouris v. Loukas, 333 Mass. 44 and Horn v. Hitchcock, 332 Mass. 643, and is to be distinguished from Kahler v. Marshfield, 347 Mass. 514, in which a levy was made within a prescribed time. Therefore the court finds for the defendant.”
+It would appear that the giving or denial of the plaintiff’s request for ruling #1 would be conclusive in the proper determination of the case at bar. The case, being submitted as a case stated, we, therefore, have before us a matter from which any reasonable inferences may be drawn from the facts as agreed. Rogers v. Atty. General, 347 Mass. 126 and cases cited therein.
+At the time of the taking of the land in question by the defendant, there was a valid existing attachment of the Jenkins land running in favor of the plaintiff. It is reasonable to infer that in its proceedings to take the Jenkins land by eminent domain, the defendant had an examination of the title to the land performed. On November 8, 1963 when the defendant took the Jenkins property by eminent domain, the defendant was given either actual or constructive notice of the plaintiff’s attachment by its recordation in the Suffolk Registry of Deeds. Baker v. Seneca, 329 Mass. 736. Peck v. Conway, 119 Mass. 546.
+As to the right of removal and bringing forward of attachments, see G.L. c. 223, § 114A.
+The taking of the Jenkins land by eminent domain vested in the defendant complete title and all interests in the property became extinguished. Silberman v. U.S. 131 Fed. 2nd 715 G.L. c. 79, §3.
+The taking authority, however, must give notice to all persons entitled to damages by virtue of the taking. G.L. c. 79, §7C.
+Upon the consummation of the eminent domain proceedings, the attachment of one of the creditors then changes in form from an attachment to an equitable lien. Kahler v. Marshfield, 347 Mass. 514. General Builders Supply v. Arlington Co-op. Bank, 1971 A.S. 1066. Universal Container v. Cambridge, 1971 A.S. 184.
+This lien did not become enforceable until final judgment in the case of the plaintiff v. Jenkins (May 21, 1971), at which time the title to the land in question was already vested, absolutely and free from all encumbrances, in the defendant. See Silberman v. U.S., 131 F. 2d 715. G.L. c. 79, §3.
+The plaintiff’s sole remedy, therefore, is to share in the award of the condemnation proceedings to which its lien attached by operation of law.
+The condemnation statute, G.L. c. 79, created an obligation on the defendant to allocate the damages, after notice, to all parties involved. This, the taking authority neglected to do, and instead paid all monies to Jenkins despite having constructive notice, at least, of the plaintiff’s interest. G.L. c. 79, §7C.
+The mandate of G.L., c. 79, §7C and the decisions of the Supreme Judicial Court of this Commonwealth create, by implication of law, an obligation founded in contract between the parties whereby the taking authority by law must pay all parties entitled thereto the value of their real interest in the estate taken. This obligation created by law, and protected in the form of an equitable lien establishes the privity necessary to maintain the action of contract by the plaintiff versus the defendant.
+Since all interests in the Jenkins estate vested absolutely in the defendant, any attempt by the plaintiff to levy on its attachment would be a nullity and futile.
+A contractual duty ... is discharged, in the absence of circumstances showing either a contrary intention or contributing fault on the part of the person subject to the duty, where performance is subsequently prevented . .- . by the judicial, executive or administrative order made with due authority by a judge or other officer of any one of the United States. Restatement, Contracts, §458.
+When is said that a promise is excused, the meaning is “no liability arises because of nonperformance of the promised act; but when it is said that a condition is excused, it is meant that liability on the promise arises in spite of the non-performance of the condition.” Willis-ton on Contracts: §676, Vol. III (Rev. Ed.). (See cases cited).
+It is elementary that one whose conduct has brought on the condition complained of cannot take advantage of it. Equity will not allow a party to benefit by a default that he has deliberately procured by strategem. Pierce v. Mass. Accident Co., 303 Mass. 506. Ravage v. Johnson, 316 Mass. 558. Boylston Housing v. O’Toole, 321 Mass. 536, 564. Kerrigan v. Boston, 1972 A.S. 149, 157.-Mass.-.
+Kacouris v. Loukas, 333 Mass. 44 and Horn v. Hitchcock, 332 Mass. 643, are distinguishable from the ease at bar in that in both those cases when the attaching creditor sought to enforce the attachment, it had expired by operation of law (i.e. the failure to perfect the attachment within 30 days of final judgment). There was nothing to supplant the rights of the attaching creditor.
+In the case at bar, at the time of obtaining execution by the plaintiff, May 21, 1971, the rights of the plaintiff had been changed to right under an equitable lien on proceeds of taking as of November 3,1963.
+There is no authority, statutory or otherwise, limiting the attempt to enforce an equitable lien to any period or time other than that prescribed by the statute of limitations or in .some cases, laches in an equitable action. We find no evidence of laches in this case.
+In an action of contract, the statute of limitations does not begin to run until there has been a breach of the contractual rights of the plaintiff. The breach in the case at bar did not occur until May 22, 1971, when execution issued against Jenkins. Consequently, we rule that the defense of Statute of Limitations does not lie in this case. G.L. c. 260, §2.
+We conclude, therefore, that the plaintiff’s request for ruling #1 should have been given and that there should be a vnding for the plaintiff in the amount of $2,165.67, together with interest and costs from May 22, 1971.
+Santo J. Ruma, for the Plaintiff
+Peter F. Hines, for the Defendant
+The finding of the trial justice is hereby reversed and there is to be entered a finding for the plaintiff in the amount of $2,165.67 with interest and costs from May 22, 1971.
