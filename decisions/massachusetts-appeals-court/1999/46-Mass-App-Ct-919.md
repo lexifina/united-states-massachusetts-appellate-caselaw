@@ -1,0 +1,28 @@
+---
+court: "Massachusetts Appeals Court"
+docket: "97-P-2039"
+decided: "1999-03-25"
+citations: ["46 Mass. App. Ct. 919"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Commonwealth vs. Brandon Klusman."]
+source_url: "https://static.case.law/mass-app-ct/46/cases/0919-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 123931
+cites_cases: ["124 N.J. 582", "238 N.J. Super. 93", "366 Mass. 89", "413 Mass. 224", "413 Mass. 647", "603 N.E.2d 1376"]
+---
+
+# Commonwealth v. Klusman
+
+## Majority
+
+Claiming a number of errors, the defendant appeals from convictions of distributing marijuana and of doing so within 1,000 feet of a school, the West Springfield Middle School Academy (academy). We focus our discussion on the defendant’s argument regarding the school zone conviction.
+The academy is a two-room alternative school of the West Springfield school system, located in a building owned by the West Springfield Boys and Girls Club (club). Each classroom has a teacher and six to eight students in grades six through eight. The town of West Springfield rents the rooms from the club. There is a prominent sign identifying the building as the Boys and Girls Club. There are also letters on the windows of the rooms used as classrooms that say “Middle School Academy.”
+General Laws c. 94C, § 32J, as inserted by St. 1989, c. 227, § 2, the statute under which the defendant was convicted, provides for two-year mandatory minimum additional sentences for those who distribute narcotics “within one thousand feet of the real property comprising a public or private elementary, vocational, or secondary school whether or not in session.” The defendant argues (1) that his conviction for distribution within the school zone violated his due process rights to fundamental fairness because the sign identifying the school was less prominent than the sign of the club; and (2) that he was not within 1,000 feet of the real property of a school because the school was on the real property of the club. There is no merit to these arguments.
+In enacting § 32J, the Legislature explicitly provided that “[l]ack of knowledge of school boundaries shall not be a defense to any person who violates the provisions of this section.” It is by now well established that this “strict liability” does not constitute a denial of due process. Commonwealth v. Alvarez, 413 Mass. 224, 228-230 (1992). “[S]omeone who knows he is dealing in drugs” must “proceed at his peril with respect to the proximity of a school.” Id. at 230. The same principle applies to the location of a qualifying school. “Although some schools are not clearly recognizable as such from all points within the 1000 foot radius, the dealers bear the burden of ascertaining where schools are located and removing their operations from those areas or face enhanced penalties.” Bailey v. State, 603 N.E.2d 1376, 1380 (Ind. App. 1992) (one room in a community center used by school system as an alternative classroom). See Commonwealth v. Roucoulet, 413 Mass. 647, 648 (1992) (conviction proper on showing that defendant possessed the drugs within the school zone even if he intended to distribute them outside zone).
+Section 321 does not require that “the real property comprising a . . . school” be owned by the school. Nothing about this phrase suggests permanent ownership. See Black’s Law Dictionary 287 (6th ed. 1990), defining “comprise” as “to comprehend; include; contain; embrace; cover.” Indeed such a requirement is inconsistent with the legislative purpose. See Commonwealth v. Roucoulet, 413 Mass, at 651 (“[c]learly, the Legislature intended to create drag-free zones of safety where children could be, learn and play free of the potential infection of drags,” quoting from State v. Ivory, 124 N.J. 582, 594-595 [1991]). As did the Supreme Judicial Court in Commonwealth v. Roucoulet, supra, we turn to New Jersey for a “reasoned decision[]” on this issue. “It is obvious to those against whom the statute is directed as well as to those who enforce it that the conduct in question is made criminal [and subject to an enhanced penalty] when it occurs on or within 1,000 feet of property being used for elementary or secondary school purposes. The crime has nothing to do with the nature of the school’s or the school board’s interest in the property.” State v. Baez, 238 N.J. Super. 93, 97 (1990). “The manner in which a school board holds title to property used for school purposes is not an element of an offense that is intended to protect school children.” 238 N.J. Super, at 98.
+None of the defendant’s arguments that his trial counsel provided ineffective assistance has merit. Officer Porter’s testimony on direct examination about finding the two metal tubes, which tested positive for crack cocaine residue, on the buyer, and counsel’s further exploration of that subject during cross-examination, did not deprive the defendant of an otherwise available, substantial ground of defense. Commonwealth v. Saferian, 366 Mass. 89, 96 (1974). The buyer’s admission that he had smoked crack cocaine was not inconsistent with the rest of his testimony concerning his use of narcotics, including the marijuana he denied purchasing from the defendant. Indeed, counsel made effective use of this evidence in that portion of his closing argument regarding the buyer’s credibility. Finally, even if not entirely felicitous, the prosecutor’s closing argument did not vouch for the credibility of the police.
+Nadell Hill for the defendant.
+Bethany C. Lowe, Assistant District Attorney, for the Commonwealth.
+Judgments affirmed.
