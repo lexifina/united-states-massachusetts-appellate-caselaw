@@ -1,0 +1,36 @@
+---
+court: "Massachusetts Appeals Court"
+docket: "88-P-1069"
+decided: "1990-07-18"
+citations: ["29 Mass. App. Ct. 11"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Trustees of Paul Revere Realty Trust vs. Revere License Commission (and a companion case)."]
+source_url: "https://static.case.law/mass-app-ct/29/cases/0011-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4003448
+cites_cases: ["19 Mass. App. Ct. 197", "24 Mass. App. Ct. 475", "24 Mass. App. Ct. 965", "28 Mass. App. Ct. 249", "28 Mass. App. Ct. 499", "353 Mass. 645", "356 Mass. 720", "378 Mass. 925"]
+---
+
+# Trustees of Paul Revere Realty Trust v. Revere License Commission
+
+## Majority (Dreben J.)
+
+Dreben J.
+In this action in the nature of certiorari, the trustees of Paul Revere Realty Trust sought review of two decisions of the commission denying the trustees’ applications for a license, pursuant to G. L. c. 140, § 23, to operate a lodging house for the years 1986 and 1987. A judge of the Superior Court reversed and remanded the matter to the commission for further proceedings. We affirm for essentially the reasons given by the trial judge.
+The guest house here involved was also the subject of litigation in Selvetti v. Building Inspector of Revere, 353 Mass. 645 (1968), and its sequel, 356 Mass. 720 (1969) (Selvetti II). In Selvetti II, the building was predominantly used by flight crews not based in Boston, under agreements with Eastern Airlines, “on a continuing basis for rotating occupancy of certain rooms” and under less formal arrangements with another airline. Such use was held to be “consistent with ordinary concepts of a lodging house” even if the Revere ordinance precluded the operation of a motel in the district. Ibid.
+At the time of the applications in this case, the commission found that the majority of rooms were temporarily rented under informal arrangements with the Department of Public Welfare to public welfare recipients who were waiting for long-term housing. According to the statements of the lawyer for the trustees before the commission, the Department of Public Welfare would ascertain if rooms were available and would then send families to the guest house with vouchers for payment. This arrangement with the department, accounting for the majority of rooms on “a continuing basis for rotating occupancy,” is similar to the rental pattern in Selvetti v. Building Inspector of Revere, 356 Mass. at 720, and like it, is “consistent with ordinary concepts of a lodging house.” Contrary to the commission’s contention, Selvetti does not require a contract. The commission’s conclusion that the use of the building is predominantly a transient business and not a lodging house does not recognize that an informal rental of a majority of rooms is consistent with lodging house use. Compare Hall v. Zoning Bd. of Appeals of Edgartown, 28 Mass. App. Ct. 249, 254 (1990).
+As an additional ground for its denial of the 1987 license, the commission found that the “present operation of the building is unhealthy and detrimental to both the occupants and the neighborhood.” In its decision denying the application for 1986, the commission’s additional reason for denial, was “that the present use of the building and the manner of operation by the applicant is injurious and detrimental to the neighborhood.” Such considerations as those in the decision for the 1986 license were held irrelevant for dormitories in Newbury Jr. College v. Brookline, 19 Mass. App. Ct. 197, 203-205 (1985), and in Trustees of Boston Univ. v. Licensing Bd. of Boston, 24 Mass. App. Ct. 475, 479 (1987). In the latter case, this court found it unnecessary to determine whether the criteria for awarding lodging house licenses for dormitories differ from those for commercial establishments. Id. at 479 n.6.
+The rationale of that case, however, applies to all lodging house applicants. No distinction is made in G. L. c. 140, § 23, among the categories of lodging house applicants defined in § 22, and,-as indicated in the Trustees of Boston Univ. case at 479-480, in turn relying on the Newbury Jr. College case, the “Legislature’s purpose in enacting § 23 was directed primarily towards considerations of public health and morality.” Both cases held that, in ruling on dormitory applications, the licensing agencies had no authority to weigh the general effect on a neighborhood. We see no reason to apply different criteria here and agree with the trial judge that the commission may not deny the lodging house license “on general grounds of adverse impact on the neighborhood.” Newbury Jr. College v. Brookline, 19 Mass. App. Ct. at 206-207.
+In its denial of the 1987 application, the commission mentioned, as additional grounds, some factors which are rele-vont considerations in denying a license. See Newbury Jr. College v. Brookline, 19 Mass. App. Ct. at 204-207; Trustees of Boston Univ. v. Licensing Bd. of Boston, 24 Mass. App. Ct. at 480. We do not know if, or to what extent, the commission relied on those grounds, and since we hold that the primary bases of the commission’s decisions cannot be sustained, a remand to the commission is necessary. Because three years have passed since the date of the last hearing and conditions may have changed since that time, the matter is remanded to the commission for consideration of a current lodging house license, provided that the trustees apply within thirty days of the rescript from this court for a 1990 lodging house license. As so modified, the judgment is affirmed.
+So ordered.
+The commission cites to the lawyer’s statements as support for its argument that no contract existed between the department and the trustees. In the circumstances, we treat the lawyer’s statements as uncontested.
+The parties disagree as to whether the action of the commission should be reviewed on the “arbitrary and capricious” test or the “substantial evidence” test. The second paragraph of G. L. c. 140, § 30, inserted by St. 1987, c. 743 (effective January 14, 1988), prescribes the latter standard. Since we think the commission made an error of law, we need not decide which standard applies.
+
+## Concurrence (Brown, J.)
+
+Brown, J.
+(concurring). I enthusiastically endorse the majority opinion. It should have been clear to the commission that the judge’s decision was unassailable, and this appeal represents yet another retrograde battle by a public agency wasting its precious resources as well as scarce judicial resources. Blakely v. Commissioner of Rev., 28 Mass. App. Ct. 499, 503 (1990) (Brown, J., concurring).
+When will communities learn that welfare recipients and the other less fortunate citizens among us have rights equal to all? They may be powerless but never defenseless as long as justice and fairness are preserved. Assistance to the needy is, after all, assistance to society as a whole.
+Shame on you, commission. Double costs and counsel fees would be the usual response to an appeal this frivolous. See G. L. c. 211 A, § 15; Mass.R.A.P. 25 & 26, both as amended, 378 Mass. 925 (1979); Spartichino v. Commissioner of the Metropolitan Dist. Commn., 24 Mass. App. Ct. 965, 966 (1987).
