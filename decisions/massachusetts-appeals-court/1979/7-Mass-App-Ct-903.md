@@ -1,0 +1,22 @@
+---
+court: "Massachusetts Appeals Court"
+decided: "1979-04-13"
+citations: ["7 Mass. App. Ct. 903"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Samuel J. Nigro, trustee, vs. The First National Bank of Boston & another, executors (and a companion case)."]
+source_url: "https://static.case.law/mass-app-ct/7/cases/0903-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3956491
+cites_cases: ["181 Mass. 580", "3 Mass. App. Ct. 705", "311 Mass. 299", "335 Mass. 84", "345 Mass. 712", "355 Mass. 671"]
+---
+
+# Nigro v. First National Bank of Boston
+
+## Majority
+
+1. A master, finding the brothers Samuel and Carl Nigro to be in irreconcilable conflict and deadlock, recommended that the court order the dissolution, as sought by Samuel, of the Nigro Real Estate Trust and distribution of the assets in specie to the two brothers, who held the shares of the trust in equal numbers and were the sole trustees. The judge adopted the report but expressed doubt about his authority to order dissolution of a Massachusetts business trust at the request of one shareholder and over the objection of another and about his authority to order distribution in specie. Instead, he ordered the appointment of a receiver to manage the trust properties on an indefinite basis. That order, which was stayed by a single justice of this court, was in error, the appointment of a receiver normally being appropriate only when ancillary to some other form of relief. Richardson v. Clinton Wall Trunk Mfg. Co., 181 Mass. 580, 583 (1902). Mount Hope Finishing Co. v. Daylor, 335 Mass. 84, 86-87 (1956). Albre v. Sinclair Constr. Co., 345 Mass. 712, 716 (1963). We do not doubt that it lay within the court’s power to order dissolution in the unusual circumstances of this case, where Carl was bent on using his authority as cotrustee to injure the trust and frustrate its business purpose in order to injure Samuel and where there were no other shareholders or creditors whose rights could be affected by dissolution. Contrast State St. Trust Co. v. Hall, 311 Mass. 299, 305, 307 (1942). Compare id. at 308. Compare Selig v. Wexler, 355 Mass. 671, 679-681 (1969). Nor are we aware of a rule of law which would preclude distribution in specie of the trust properties, compare Restatement of Trusts, Second § 347, Comment n (1959), particularly where the preservation intact of certain of those properties is essential to the successful operation of the parties’ fuel oil business (the shares of which were at issue in Nigro v. Nigro, 3 Mass. App. Ct. 705 [1975]) and where the party opposing distribution in specie does so for the purpose of inflicting injury on the other party. We do not further consider the plan of distribution suggested by the master, because, while this appeal was pending, Carl died, resulting, by the terms of the trust, in Samuel’s being the sole trustee, unless he (as trustee) and the shareholders (currently Samuel and Carl’s executors) should agree on the appointment of additional trustees, and, in any event, resolving for the time being the deadlock which had left the trust disabled. More significantly, Carl’s death may have terminated the vendetta which had threatened ruin to the trust and the other family enterprises and thus may have eliminated the factual basis on which the master’s recommendations were predicated. In these circumstances we would remand the case for reconsideration in the light of Carl’s death and the position to be taken by the successors to his shares, even if the judgment had been sustainable on the basis of the facts as they appeared at the time the judgment was entered. The judgment in the case brought by Samuel is therefore vacated, the order appointing a receiver is reversed, and the case is remanded to the Superior Court for further proceedings, including, if necessary, the taking of additional evidence. 2. On the basis of the master’s findings numbered 24 and 27, neither of which was the subject of objection, Carl’s estate is entitled to recovery against the trust of moneys lent by Carl, either on the first counterclaim asserted by Carl in the action brought by Samuel or in the separate action brought by Carl against the trust. The second and third counterclaims asserted by Carl are to be dismissed.
+So ordered.
+James R. DeGiacomo (Frank M. Capezzera with him) for the plaintiff.
+Charles F. Choate for the defendants.
