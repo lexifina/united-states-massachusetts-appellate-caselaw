@@ -1,0 +1,22 @@
+---
+court: "Massachusetts Appeals Court"
+decided: "1982-06-10"
+citations: ["14 Mass. App. Ct. 907"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Roy A. Dart, Jr., & another vs. W. Dana Bartlett & another."]
+source_url: "https://static.case.law/mass-app-ct/14/cases/0907-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5738471
+cites_cases: ["10 Mass. App. Ct. 929", "11 Mass. App. Ct. 91", "12 Mass. App. Ct. 310", "12 Mass. App. Ct. 873", "13 Mass. App. Ct. 462", "326 Mass. 290", "329 Mass. 5", "332 Mass. 338", "349 Mass. 749", "361 Mass. 131", "379 Mass. 381", "380 Mass. 829", "5 Mass. App. Ct. 868", "9 Mass. App. Ct. 344", "9 Mass. App. Ct. 454"]
+---
+
+# Dart v. Bartlett
+
+## Majority
+
+1. There is nothing in any of the master’s subsidiary findings (whether designated as such or as ultimate findings), and in particular in any of the paragraphs numbered 10, 11 and 18 thereof, which would warrant an inference of the existence of a fiduciary relationship between the plaintiff and the defendant Bartlett (defendant). See and compare Cardullo v. Landau, 329 Mass. 5, 7-9 (1952); Superior Glass Co. v. First Bristol County Natl. Bank, 380 Mass. 829, 830-831, 833 (1980); Schleifstein v. Greenstein, 9 Mass. App. Ct. 344, 346-347 (1980). Contrast Warsofsky v. Sherman, 326 Mass. 290, 291-295 (1950); Barry v. Covich, 332 Mass. 338, 342-343 (1955); Broomfield v. Kosow, 349 Mass. 749, 754-758 (1965). 2. In the absence of any fiduciary relationship between the parties, the only support for the plaintiffs claim under G. L. c. 93A, § 11, is an opaque statement in par. 28 of the subsidiary findings which might be susceptible to an interpretation that the defendant had made a false representation to the plaintiff as to whether he (the defendant) had put any of his own funds into his acquisition of the agency which was to be sold to the plaintiff. See Lynn v. Nashawaty, 12 Mass. App. Ct. 310, 311-314 (1981); Newton v. Moffie, 13 Mass. App. Ct. 462, 466-467 (1982). The value of that statement as a finding of fact was dissipated by the further, and wholly inconsistent, subsidiary findings in pars. 16, 22 and 23 of the report that the defendant had personally borrowed $35,000 from a bank in order to raise the down payment which was made in connection with his acquisition of the agency and that $25,000 of that amount remained unpaid when the agency was sold to the plaintiff. Any remaining value which the supposed misrepresentation might have had was obliterated by the finding in par. 17 that the plaintiff learned of the terms on which the defendant had acquired the agency before he (the plaintiff) committed himself to purchase it. 3. The claim for attorney’s fees under G. L. c. 93A, § 11 (see Linthicum v. Archambault, 379 Mass. 381, 388-389 [1979]), falls with the substantive claim under that section. 4. The only portion of the judgment directed to the defendant Bartlett which is correct is that which allows a $25,000 credit against the total purchase price in accordance with the provisions of par. 3(4) of the purchase and sale agreement. The argument to the contrary is based on documentary evidence which was not before the Superior Court and is not before this court. See and compare Glynn v. Gloucester, 9 Mass. App. Ct. 454, 458 n.6 (1980); Roderick v. Carvalho, 12 Mass. App. Ct. 873, 874 (1981). 5. We are at a loss to understand why the judgment ignores the subsidiary findings in pars. 4, 21, 24 and 27 of the report as to the amounts due from the plaintiff to the defendant under the agreement of guaranty which was executed by the plaintiff and which was attached to the defendant’s answer and counterclaims. The judgment is to be modified (i) by striking out all of par. (1) except (a) thereof, (ii) by deleting from para. (3) thereof the words “and the counterclaim of the defendants” and (iii) by inserting therein an award of damages in favor of the defendant Bartlett against the individual plaintiff in the amount of $109,062.40, together with interest on that amount from September 28, 1978, and, as so modified, is affirmed; costs of appeal are not to be awarded to any party.
+Edward T. Dangel, III (Michael K. Mattchen with him) for the plaintiffs.
+James R. DeGiacomo (Joel M. Sowalsky & Judith K. Wyman with him) for W. Dana Bartlett.
+So ordered.
