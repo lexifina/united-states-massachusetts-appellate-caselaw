@@ -1,0 +1,25 @@
+---
+court: "Massachusetts Appeals Court"
+decided: "1980-10-30"
+citations: ["10 Mass. App. Ct. 918"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Mary J. Bruno vs. Robert E. Bruno & another."]
+source_url: "https://static.case.law/mass-app-ct/10/cases/0918-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3965344
+cites_cases: ["234 Mass. 367", "247 Mass. 319", "302 Mass. 366", "339 Mass. 101", "353 Mass. 600", "355 Mass. 148", "356 Mass. 654", "362 Mass. 107", "9 Mass. App. Ct. 412"]
+---
+
+# Bruno v. Bruno
+
+## Majority
+
+The defendants Robert E. and Doris E. Bruno appeal from a judgment of a Probate Court in favor of the plaintiff, who is Robert’s aunt. The defendants contend that the judge’s ultimate finding that the deed conveying certain of the plaintiff s property in Douglas to the defendants was procured by undue influence is not warranted by his subsidiary findings. We agree. The judge’s factual findings may be summarized as follows. Sometime in late November of 1976, after Robert had made substantial repairs to the property which repairs the judge found to be worth $2,500, the plaintiff approached Robert and asked him if he would like to purchase the property for $5,000, a price he had offered many years previously. Robert retained an attorney to prepare the deed and during a meeting on January 19,1977, at which Robert, his attorney, and the plaintiff were present, the plaintiff signed the deed conveying the property to the defendants. Thereafter, Robert paid the taxes on the property for years 1977 and 1978. The judge specifically found that although the plaintiff was ninety-nine years of age, she was of sound mind, lived alone and was self-sufficient. Nevertheless, he found that because of her advanced years, a “most subtle kind of undue influence was sufficient to overcome [her] will.” He also found that, as a result of Robert’s undue influence (accomplished without malice), the plaintiff did not understand the consequences of her signature on the deed and that “because of her advanced age, it was incumbent upon the defendant [Robert] ... to deal with the plaintiff with extraordinary care.”
+One who signs a writing that is obviously a legal document is presumed to be fully aware of its terms, unless it can be proved that he was induced to sign it by fraud or undue influence. Dobija v. Hopey, 353 Mass. 600 (1968). Markell v. Sidney B. Pfeifer Foundation, Inc., 9 Mass. App. Ct. 412, 440 (1980). The burden of proving undue influence by a preponderance of the evidence rests on the party so alleging. Cereghino v. Giannone, 247 Mass. 319 (1924). Viens v. Viens, 302 Mass. 366 (1939). Undue influence is “whatever destroys free agency and constrains the person whose act is under review to do that which is contrary to his own untrammeled desire.” Neill v. Brackett, 234 Mass. 367, 369 (1920). See also Miles v. Caples, 362 Mass. 107 (1972). Mere suspicion is not enough to warrant a finding of undue influence. “There must be a solid foundation of established facts upon which to rest an inference of its existence.” Neill v. Brackett, supra at 370. See also New England Merchants Natl. Bank v. Mahoney, 356 Mass. 654, 657-658 (1970). Even though the judge found that the plaintiff was of “advanced age” and was not represented by her own attorney in the transaction, there was no evidence to warrant the conclusion that Robert exercised any influence on the plaintiff or otherwise exploited her advanced age in the conveyance of the property.
+Joseph C. Cove for the defendants.
+C. A. Peairs (Adele E. Moroney with him) for the plaintiff.
+The plaintiff argues that, because of the special nature of the relationship between the plaintiff and her nephew, he owed her a greater duty of care in order to insure that she understood the consequences of her act. This argument must fail. Apart from the narrow circumstances where a fiduciary relationship is implied as a matter of law, whether a relationship of trust and confidence exists in a question of fact. Markell v. Sidney B. Pfeifer Foundation, Inc., supra at 443. Whether such a relationship exists, “may be found on evidence indicating that one person is in fact dependent on another’s judgment in business affairs or property matters.” Id. at 444. “Such a relationship does not arise merely by reason of family ties.” Id. See Samia v. Central Oil Co., 339 Mass. 101, 112 (1959); Meskell v. Meskell, 355 Mass. 148, 151-152 (1969). There is no evidence indicating that the plaintiff was dependent on her nephew’s judgment in her business affairs. Nor was there any evidence of such dependency in her personal affairs. Accordingly, we conclude, contrary to the judge’s ruling, that the plaintiff s advanced age alone, without any showing of such dependency, could not have given rise to an extraordinary duty of care on the part of Robert.
+The judgment is reversed. A new judgment is to be entered dismissing the action and the counterclaim. Neither party shall have the costs of appeal.
+So ordered.
