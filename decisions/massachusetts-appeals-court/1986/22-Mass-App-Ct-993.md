@@ -1,0 +1,23 @@
+---
+court: "Massachusetts Appeals Court"
+decided: "1986-09-03"
+citations: ["22 Mass. App. Ct. 993"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Joanna Lippoldt vs. The Hartford Chemical Corporation."]
+source_url: "https://static.case.law/mass-app-ct/22/cases/0993-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3990903
+cites_cases: ["12 Mass. App. Ct. 310", "14 Mass. App. Ct. 396", "17 Mass. App. Ct. 976", "288 Mass. 402", "340 Mass. 73", "381 Mass. 432", "390 Mass. 464", "7 Mass. App. Ct. 918"]
+---
+
+# Lippoldt v. Hartford Chemical Corp.
+
+## Majority
+
+1. The principal theory of liability advanced in this case was that the use of common calcium chloride pellets (such as those packaged and sold by the defendant) to melt sidewalk ice was unreasonably dangerous unless the pellets were applied in conjunction with a non-skid material, like sand or ashes, and that the defendant’s failure to warn accordingly constituted both negligence and a breach of the implied warranty of merchantability. In answers to special questions the jury rejected both contentions. The plaintiff’s extensive argument that their verdict must be set aside because it was not supported by substantial evidence seems to be grounded in part on an assumption that the jury were required to accept the testimony of the plaintiff’s expert witnesses (an assumption we do not accept: see Dodge v. Sawyer, 288 Mass. 402, 408 [1934]; Banaghan v. Dewey, 340 Mass. 73, 79 [1959]; Commonwealth v. Guiliana, 390 Mass. 464, 468 n.7 [1983]; Liacos, Massachusetts Evidence 117 [5th ed. 1981] and in part on fundamental misconceptions about the burden of proof and the right of a fact finder
+Steven M. Wise for the plaintiff.
+Mary Holland Harvey for the defendant.
+to decide what to accept and what not to accept. The same misconceptions underlie the contention that the jury were required to find that the defendant was in breach of certain express warranties on the chemical package. (The jury could properly conclude on the evidence that no employee of the bank that bought the chemical and applied it to the sidewalk ice was aware of those warranties prior to the plaintiff’s fall.) 2. The substance of the plaintiff’s requested instructions 3, 5, 7, and 11, insofar as it bore on the issues in dispute, was sufficiently articulated to the jury (expressly or by implication) in the judge’s charge. The same is probably true of number 6. As to that request, however, the judge did not rule definitely, but said he would return to it. The plaintiff had the obligation to remind the judge if she wished still to insist on the instruction. Burke v. Gallison, 7 Mass. App. Ct. 918, 919 (1979). 3. The judge’s formbook instruction on notice and prejudice would have been better left unsaid, as there had been no evidence of either. The instruction did not harm the plaintiff, however, because, in accordance with G. L. c. 106, § 2-318, it told the jury to disregard a lack of notice unless the defendant proved prejudice. See Henrick v. Coats Co., 17 Mass. App. Ct. 976, 977 (1984). There is no reason to assume they did not follow the instruction 4. On the count under G. L. c. 93A, the judge did not err either in agreeing with the jury’s assessment of the facts or in doubting that there was a causal connection (there was evidence from which it could be inferred that the calcium chloride was last applied to the sidewalk two or three days before the accident). In any event, he stated the critical findings on which his decision was based. The reasons for his decision were fully articulated. The requests for rulings of law were superfluous. Lynn v. Nashawaty, 12 Mass. App. Ct. 310, 314-315 (1981). Ricky Smith Pontiac, Inc. v. Subaru of New England, Inc., 14 Mass. App. Ct. 396, 404-405 (1982). 5. The judge did not err in refusing to grant the plaintiff’s motion (made after the trial started) to default the defendant for failure to file a separate answer to the third amended complaint. See Riley v. Davidson Construction Co., 381 Mass. 432, 441-442 (1980). 6. The judge ruled correctly that the subpoenas which the plaintiff caused to be served on the defendant’s out-of-State officers and employees (a) at its out-of-State place of business and (b) at the office of the Secretary of the Commonwealth were nullities. The judge did not abuse his discretion in declining to suggest to the plaintiff a proper procedure for securing their attendance at trial, particularly where the plaintiff had deposed each of the officers and employees extensively and was permitted to use the depositions at trial.
+Judgment affirmed.
