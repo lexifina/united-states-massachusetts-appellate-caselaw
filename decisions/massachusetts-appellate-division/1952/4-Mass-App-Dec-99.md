@@ -1,0 +1,48 @@
+---
+court: "Massachusetts Appellate Division"
+decided: "1952"
+citations: ["4 Mass. App. Dec. 99"]
+reporter: "mass-app-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["U. O. MACDONALD v. CARL F. SEMON"]
+source_url: "https://static.case.law/mass-app-dec/4/cases/0099-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6064611
+cites_cases: ["189 Mass. 124", "236 Mass. 105", "97 Mass. 30"]
+---
+
+# MacDonald v. Semon
+
+## Majority (HOBSON, J.)
+
+HOBSON, J.
+This is an action of contract in which the declaration contained the following counts:
+Count 1.
+And the Plaintiff says that the Defendant owes him Eleven Hundred Seventy-Five and 12/100 ($1175.12) Dollars and interest for labor performed and materials furnished by the Plaintiff at the request of the Defendant.
+Count 2.
+And the Plaintiff says that the Defendant owes Mm Eleven Hundred Seventy-Five and 12/100 ($1175.12) Dollars and interest according to the account annexed marked A.
+“A”
+U. O. MacDonald to Carl F. Semon, Auburn, Mass. 701.4 cubic yards of ledge
+$2454.90 at $3.50 per yard
+$1279.78 Payments to date
+$1175.12 Balance due
+The defendant’s answer is a general denial, an allegation of payment, want of substantial performance on the part of the plaintiff and that the contract between the parties was made on the Lord’s Day and therefore void.
+Upon the evidence as set forth in the report, the trial judge found, among others, the following pertinent facts:
+Thai the City of Worcester, Massachusetts was engaged in the installation of a water main in Lincoln Street in Worcester and gave a contract to the defendant and the Winchester Construction Co. to do the work; that some time before September 23, 1950, the defendant and a representative of the Winchester Construction Co. met with the plaintiff on a Sunday for the purpose of asking the plaintiff to look over the job and to give them a bid on doing the necessary drilling and blasting of rock on the job; that the plaintiff was informed by the defendant that it was estimated it would be necessary to drill and blast 3500 cubic yards of rock on the job; that the plaintiff, believing the estimate of 3500 cubic yards was correct, made a bid of $3.50 per cubic yard for drilling and blasting all the rock which needed to be drilled and blasted on the job; that no contract was arrived at on that day because one of the men of the Winchester Construction Co. had to submit the bid to one of his partners for his approval; that a few days later both the defendant and the Winchester Construction Company informed the plaintiff that his bid of $3.50 per cubic yard was accepted; that on September 23, 1950, the plaintiff commenced work and drilled and blasted all of the rock necessary to be done for both contractors until October 25, 1950, when the plaintiff had an opportunity to put his men on a job in Boston; that at this time it became apparent to all parties that there would be nowhere near the rock to be drilled and blasted on the job which had been originally estimated; that when the plaintiff took his men from the job on October 25th it was agreed that the plaintiff had drilled and blasted all rock encountered to that time and that when further rock was encountered the defendant would contact the plaintiff and the plaintiff would return his men to the job; that instead of calling on the plaintiff to take care of the other rock encountered after that date the defendant did it with his own men; that the plaintiff actually drilled and blasted 365.65 cubic yards; that the defendant did the drilling and blasting required for the rest of the work, but that the plaintiff was ready, able and willing to take care of it without unreasonable delay and would have done so if the defendant had called him, as agreed; that a fair price for drilling and blasting rock on this job, where the quantities were under 800 cubic yards, was $4.50 per cubic yard, and that a fair profit to the plaintiff per cubic yard would be 15% or 65.5 cents; that the contract was not made on a Sunday. The court found “that the plaintiff drilled and blasted 365.65 cubic yards of rock and that he should have one dollar ($1.00) more per cubic yard for this than he was paid or a total for this item of Three Hundred Sixty-five Dollars and Sixty-five Cents ($365.65)”, and further found that the plaintiff is entitled to lost profit on the work done by the defendant which amounted to One Hundred Thirty-eight Dollars and forty-four cents ($138.44). It was agreed that the defendant had paid the plaintiff the sum of Twelve Hundred Seventy-nine Dollars and seventy-eight cents ($1279.78).
+In this case, the contract was broken by the defendant without the plaintiff’s fault. The plaintiff therefore had an election of remedies; he could consider the contract as subsisting and recover damages for its breach, in which case the damages would be the net profit which he would have made if the contract had been performed. Magnolia Metal Co. v. Gale, 189 Mass. 124 at 132-3; or he could consider the contract ended and sue upon a quantum meruit for value of his work and labor. The plaintiff could not have both remedies. If he chose the latter remedy, he could recover the full value of his work and labor, regardless of the contract price. The true value of the work and labor performed may be more or less than the price agreed upon. Mullaly v. Austin, 97 Mass. 30; Dalton v. American Ammonia Co., 236 Mass. 105.
+In our opinion the trial judge could find for the plaintiff in the sum of $365.65 for work and labor performed under Count 1.
+The trial judge found that the plaintiff had drilled and blasted 365.65 cubic yards and that he should have one dollar $1.00 more per cubic yard than he was paid.
+In effect, the trial judge found that the plaintiff had drilled and blasted 365.65 cubic yards and that the fair value of this work and labor was $4.50 per cubic yard, amounting to Sixteen Hundred Forty-five Dollars and forty-three cents ($1645.43) ; that he had been paid Twelve Hundred Seventy-nine Dollars and seventy-eight cents ($1279.78), leaving a balance due the plaintiff of Three Hundred Sixty-five Dollars and sixty-five cents ($365.65). Upon the facts and the law this finding was correct.
+In Count 2 the plaintiff sought to recover at the agreed price for all the work done by himself as well as by the defendant. This, under the law, he could not do. The trial judge should have found for the defendant on this count, but inasmuch as he made no finding for the plaintiff, there was no prejudicial error.
+There was, however, error in the trial judge’s finding for the plaintiff in the sum of One Hundred Thirty-eight Dollars and forty-four cents ($138.44) for lost profit. There is no count in the declaration containing any statement of an executory contract, a breach thereof, by the defendant, a readiness by the plaintiff to fulfill and perform his part of the agreement and an averment of damages caused by such breach, and therefore no count upon which this finding could be made. If there had been such a count in addition to Count 1, the trial judge should have compelled the plaintiff to elect on which count he would proceed and order the other count to be stricken out, or he should have instructed himself to make a finding only upon either the quantum meruit count or the count for breach of contract. Mullaly v. Austin, supra. Because of the error above stated, the finding of One Hundred Thirty-eight Dollars and forty-four cents ($138.44) for lost profit should be vacated.
+It may not be out of place to observe that if there had been a proper count in the declaration for damages for breach of the contract or loss of net profit, on the facts as found by the trial judge, namely, that the cost of doing the work per cubic yard was $3.83 (the fair price of $4.50 less a fair profit of 15%, or 67.5 cents), the plaintiff would have made no profit if he had been permitted to complete the work at $3.50 per cubic yard as agreed. Instead he would have lost 33c on each cubic yard.
+The trial judge refused the following defendant’s requests for rulings:
+1. There is not sufficient evidence in this case to warrant a finding for the plaintiff.
+2. There is no evidence in this case to warrant a finding that the plaintiff did any of the work or furnished any of the materials for which claim is made in his declaration.
+4. The pleadings and evidence in this case require a finding for the defendant.
+7. The evidence warrants a finding for the defendant.
+8. If the court finds that the plaintiff on or about December 28, 1950, was paid for 163.75 cubic yards of rock drilled and blasted at the rate of $3.50 per cubic yard and accepted payment at that rate, such transaction is final between the parties and the plaintiff is not entitled to be paid as to these cubic yards any further amount on the basis of quantum meruit.
+9. If the court finds that the defendant paid the plaintiff on or about February 8, 1951 for 201.9 cubic yards of rock drilled and blasted at the rate of $3.50 per cubic yard and accepted payment at that rate such transaction is final between the parties and the plaintiff is not entitled to be paid as to these cubic yards any further amount on the basis of quantum meruit.
+There was no prejudicial error on the part of the trial judge in refusing all of the above requests in view of the facts found by him.
+As the finding that there was Three Hundred Sixty-five Dollars and sixty-five cents ($365.65) due the plaintiff for work and labor performed was correct upon the facts and the law, a finding should be entered for the plaintiff in that amount.
