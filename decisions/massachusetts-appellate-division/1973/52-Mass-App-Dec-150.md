@@ -1,0 +1,58 @@
+---
+court: "Massachusetts Appellate Division"
+docket: "62; No. 50042"
+decided: "1973-11-08"
+citations: ["52 Mass. App. Dec. 150"]
+reporter: "mass-app-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["DUNPHY & CRAIG, INC. v. ALFRED A. KEITH, TRUSTEE OF KEITH REALTY TRUST"]
+source_url: "https://static.case.law/mass-app-dec/52/cases/0150-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4336637
+cites_cases: ["246 Mass. 139", "268 Mass. 55", "282 Mass. 352", "285 Mass. 554", "292 Mass. 511", "302 Mass. 249", "304 Mass. 172", "310 Mass. 695", "314 Mass. 67", "327 Mass. 516", "345 Mass. 616", "352 Mass. 322"]
+---
+
+# Dunphy & Craig, Inc. v. Keith
+
+## Majority (Rider, J.)
+
+Rider, J.
+This is an action in contract' to recover for work performed under a written contract. The answer is a general denial.
+Prior to the trial held on February 3, 1972, a cross action (Keith, Trustee, Keith Realty Trust v. Dunphy & Craig, Inc., No. 67917) was consolidated with the subject case.
+The court made a finding in favor of the plaintiff Dunphy & Craig, Inc. for $3,022.00. and a finding for the defendant in the cross action.
+At the trial, there was evidence tending to show:
+Mr. William Craig testified that:
+The ' plaintiff corporation entered into a written contract on January 12, 1966 with Alfred Keith, Trustee of Keith Realty Trust, to build an apartment building in Quincy for $414,000.00. During the construction of the building, Mr. Keith ordered certain extras incorporated into the building.
+A dispute arose as to the cost of the 1‘ex-tras”. Originally, the “extras’’ amounted to $63,745.00. Of this amount $32,250.00 had been paid to Dunphy & Craig, Inc., leaving a disputed balance of $31,500.00. As a result of this dispute a written contract was entered into on June 29, 1967 calling for a total payment of $24,000.00, and immediate payment of $14,000.00 upon the signing of the agreement and the balance of $10,000.00 to be paid upon the performance of certain work that was itemized on a “Punch List”. This work was to be completed within 30 days of the signing of the agreement. Mr. Craig testified that the balance owed on the $10,000.00 final payment was $3,022.00.. He further testified that work was commenced on July 25th on the items contained in the “Punch List” and was completed August 4, 1967. This work was performed under his direct supervision by three men employed by him and by two painting subcontractors. Some delay was experienced by not obtaining entrance to some of the apartments.
+Mr. Joseph Hunt, a former employee of the defendant trustee was called as a witness by the plaintiff corporation, testified that he remembered letting Mr. Craig and his men into some of the apartments in late July and early August.
+Mr. Francis Dunphy testified that among the items contained on the Punch List was the securing of the occupancy permit. This was obtained on September 7, 1967 and was not forwarded to Mr. Keith until November 10, 1967.
+There was no other witness at the trial and neither the plaintiff nor the defendant filed interrogatories to each other, nor were there any agreements made by counsel.
+At the close of the evidence and before final arguments the defendant made the following requests for rulings:
+“(1) The plaintiff cannot recover in that he has failed to prove a prima facie case; specifically in that he has failed to prove that the defendant as named in the writ and declaration is the same person with whom he entered into an agreement.
+(-2) The plaintiff cannot recover in that it has failed to prove a prima facie case; specifically in that he has failed to prove that the Alfred A. Keith as named in the writ and declaration is in fact a Trustee for the Keith Bealty Trust or was at the time the alleged agreement was entered into.
+(3) The plaintiff cannot recover in that it has failed to prove a prima facie (sic); specifically in that it has failed to show that the Keith Bealty Trust as named in the writ and declaration was in fact the trust with which the plaintiff allegedly entered into an agreement.
+(4) The plaintiff cannot recover in that it has failed to prove a prima facie (sic); specifically that it has failed to show the existence of the trust as alleged in its writ and declara* tian.
+(5) The plaintiff cannot recover in that it has failed to prove a prima facie case; specifically that it has failed to show the existence of the written contract allegedly entered into.
+(6) The plaintiff cannot recover in that it has failed to prove a prima facie case; specifically that it has failed to show its damages with substantial certainty.
+(7) A funding for the defendant is required.
+(8) A finding for the defendant is warranted.”
+The court denied numbers one through seven of the defendant’s requests for rulings and allowed number eight.
+The special findings of the trial justice were as follows:
+“(1) The plaintiff Dunphy & Craig, Inc., completed the work agreed to and incorporated by reference in the contract executed between the plaintiff and defendant on June 29, 1967.
+(2) Although not totally finished within the time set forth in the said contract, the plaintiff performed in good faith and without unreasonable delay, all that it was required to do.
+(3) The defendant did not have to expend any money to others to complete the work.
+(4) The work was done by the plaintiff in a workmanlike manner. ’ ’
+The defendant claims to be aggrieved [a] by the court’s denial of its requests for rulings numbered one through seven, [b] by the failure of the trial judge to make special findings as to the facts found for his denial, and [c] by the finding in favor of the plaintiff.
+We consider first the questions raised in defendant’s requests for rulings Nos. 1 to 4, inclusive. These questions were properly raised by the defendant’s general denial, which made it incumbent upon the plaintiff to prove every element of his case. Herman v. Fine, 314 Mass. 67. In his special findings of fact, the judge at least by inference found as a fact the identity of the defendant- as named in the writ and declaration as the same person with whom the plaintiff entered into an agreement in his reference to “the contract executed between the plaintiff and defendant on June 29,1967.”
+Findings of fact are not reviewable on this, appeal. The only question for the Appellate Division in this regard is whether upon the evidence, with all rational inferences which might be drawn therefrom, the findings can be sustained. Moss v. Old Colony Trust Co., 246 Mass. 139, 143; Ahern v. Towle, 310 Mass. 695, 701.
+Bald identity of name without confirmatory facts or circumstances is insufficient to prove identity of the person. Herman v. Fine (supra), 314 Mass. 67; Hinds v. Bowen, 268 Mass. 55; although slight additional evidence of identity may suffice. Brockton Hos pital v. Cooper, 345 Mass. 616; Horton v. Marston, 352 Mass. 322, 326.
+In the writ the defendant is named as “Alfred A. Keith, of Quincy, County of Norfolk as he is Trustee under a certain Declaration of Trust known as Keith Realty Trust, having its usual place of business in said Quincy, (15 West Squantum Street, Quincy, Mass.).” Service of the writ was accepted on behalf of the defendant by his attorney. The defendant appeared and answered. Subsequently, the cross-action of Alfred A. Keith, Trustee, Keith Realty Trust v. Dunphy & Craig, Inc., was brought in the District Court of East Norfolk, Docket No. 67917. This cross-action was consolidated for trial with- the subject case and the judge found for the defendant, Dunphy & Craig, Inc., in the cross-action.- Counsel for the defendant in the subject action and for the plaintiff in the cross-action are the same. Consolidation of the cross-action for trial with the subject action imports that the parties are the same. Gr.L. c. 223, ^2A; Rule 63 of the Rules of the District Courts (1965* .as amended). In addition, Joseph Hunt, who1 testified as a witness for the plaintiff, was identified as a former employee of the defendant Trustee, and stated that he “remembered letting Mr. Craig and his men into some of the apartments in laté July and early August.”
+Defendant’s requests for rulings Nos. 2, 3 and 4 are immaterial. As noted above, the writ in this action described the defendant “as he is Trustee under a certain Declaration of Trust known as Keith Realty Trust.” In contemplation of law, this action is against Alfred A. Keith individually and if he is liable, •judgment will be rendered against him as an individual. The description is mere surplusage. “Apart from statute, common law practice knows no such thing as an action against a trustee in his trust capacity.” Alfano v. Donnelly, 285 Mass. 554, 555. The statute, G.L. c. 182, 6, permits a creditor to get satisfaction out of the funds of a trust for debts contracted by its trustee. It does not' relieve a trustee who has made a contract for such a trust from personal liability. Larson v. Sylvester, 282 Mass. 352, 359-360; Dolben v. Gleason, 292 Mass. 511, 515. The trust can do no act nor make a' contract. The trustee “is its embodiment in dealing with its property and in making contracts which affect its property. Such contracts when made are his contracts and he is personally liable upon them unless they include an agreement that he shall not be personally liable.” Dolben v. Gleason, 292 Mass. 511, 514-515. Here, there is no reported evidence of such an express stipulation in the contract nor of any collateral agreement made by the plaintiff, nor is there any reported evidence from which it may be inferred that the plaintiff had any knowledge of the character or terms of the trust.
+We hold, therefore, that the denial of defendant’s requests for rulings Nos. 1 to 4, inclusive, was warranted.
+2. Defendant’s request for ruling No. 5 was properly denied. The contract executed between the plaintiff and the defendant on June 29, 1967, was introduced in evidence by the plaintiff.
+3. There was no error in the denial of defendant’s request for ruling No. 6. There was testimony on behalf of the plaintiff that the balance owed by the defendant to the plaintiff under the written contract was $3,022.00. So far as appears from the report, ths evidence was not rebutted. The extent of the damages suffered by the plaintiff and the sum which would fairly compensate it are questions of pure fact and as such are not reviewable m the Appellate Division (Gr.L. c. 231, $108), unless we conclude that the damages awarded were erroneous as a matter of law. Succinctly stated, what the defendant asks us to say is that “no conscientious judge, acting intelligently, could honestly have taken the view expressed” by the trial judge. Palma v. Raes, 302 Mass. 249. This we decline to do.
+4. There was no error in the denial of request No. 7 which is equivalent to a ruling that the evidence warranted a finding for the plaintiff. This request could have been denied since it does not meet the requirement of Buie 27 of the Buies of the District Courts (1965, as amended) as to specifying the grounds on which it is based. Pannella v. Reilly, 304 Mass. 172; Irving v. Bonjorno, 327 Mass. 516. Moreover, the evidence presented questions of fact which, as noted above, are not reviewable on appeal. The trial judge made special findings which would warrant a finding for the plaintiff.
+Thomas W. Crosby, Esq. for Plaintiff
+Walsh, Gould & Turco, Esq. for Defendant
+We find no error in the trial judge’s findings and rulings. Therefore, the report is to be dismissed.
