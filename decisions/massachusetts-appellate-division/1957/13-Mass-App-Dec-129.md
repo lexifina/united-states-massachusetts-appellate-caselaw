@@ -1,0 +1,40 @@
+---
+court: "Massachusetts Appellate Division"
+docket: "432050"
+decided: "1957-02-18"
+citations: ["13 Mass. App. Dec. 129"]
+reporter: "mass-app-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ASSOCIATED FINANCE OF BOSTON, INC. v. HUB MOTOR CAR CO., INC."]
+source_url: "https://static.case.law/mass-app-dec/13/cases/0129-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6063766
+cites_cases: ["247 Mass. 292", "251 Mass. 399"]
+---
+
+# Associated Finance of Boston, Inc. v. Hub Motor Car Co.
+
+## Majority (Adlow, C. /.)
+
+Adlow, C. /.
+Action of replevin to recover an automobile sold by the Associated Finance of Boston, Inc., under a conditional sale agreement and repaired by the Hub Motor Car Co., Inc., which now claims a lien for the amount of the repair bill.
+It appears from the report that on April j, 1955 the Associated Finance of Boston, Inc., sold a Chrysler car to William Jordan for $1,800. under a conditional sale agreement. The conditional vendee failed to meet the payment due under his contract on March 5, 1956 and thereafter was in default under the terms of his agreement. On March 22 the car, in a damaged condition, was towed to the repair shop of the Hub Motor Car Co., Inc., which gave to Jordan an estimate with respect to the repairs necessary for the car. Jordan subsequently notified the Hub Motor Car Co., Inc., that his insurance company refused to pay for the repairs. He thereupon personally agreed to pay for the repairs and the price agreed upon was $719.00.
+There was evidence that the defendant knew that Jordan did not have title to the car and also knew that the unpaid balance on it amounted to $1,118. There was also evidence to the effect that before the repair work was started the Hub Motor Car Co., Inc., asked the conditional vendor to agree to pay for the repairs and that this request was refused. After the repairs were made the conditional vendee and the defendant became involved in a dispute over the amount of the bill and the car remained in the defendant’s possession. On June 4, x956 the conditional vendor made a demand in writing for the car from the defendant which refused to comply with the request.
+In this replevin action the conditional vendor seeks to establish its rights to the car. There was a finding for the plaintiff for possession with damages assessed in the amount of $1. The defendant being aggrieved by certain rulings made by the court now brings this report.
+The right of a repair man to a lien for repairs made on an automobile is statutory and is governed by G. L. (Ter. Ed.) c. 255, §35, as amended by the St. 1938, c. 83, §1, It is provided in this act that:
+"As against a conditional vendor or lessor, or person claiming under him, the lien of a bailee of the vendee or lessee or person claiming under him on property exceeding twenty dollars in value, for consideration furnished, without actual notice of the conditional sale or lease, shall prevail; except that the lien of such bailee on property delivered to him subsequent to the breach of condition of the sale or lease shall not prevail if the conditional vendor or lessor or person claiming under him makes demand in writing on the bailee for the property within 90 days of the date of the bailment.”
+Under the clear and unequivocal terms of this Act no lien can be asserted against a conditional vendor of an automobile if the repairman knew before he made the repairs that the car was brought to him by one who held it as a conditional vendee under a conditional sale agreement.
+Nor can the repairman claim a lien on such a car if at the time it was brought to him the conditional vendee was in default with respect to his conditional sale agreement unless no demand is made upon the repairman by the conditional vendor for the return of the car within 90 days of the delivery of the car to the repairman.
+Such being the law, the burden was on the conditional vendor (the plaintiff) to prove the facts necessary to establish either of two situations. He might establish his right to the car by proving (1) the existence of the conditional sale agreement and the balance due under it, and (2) that the repairman knew of the conditional sale agreement before he made the repairs to the car: or he might establish his right to the car by proving that the conditional vendee was in default on his conditional sale agreement at the time he brought the car to the repairman and that within 90 days the conditional vendor had demanded the return of the car to it by the repairman. Cuneo v. Smith, 251 Mass. 399; Dunbar-Laporte Motor Co. v. Desrocher, 247 Mass. 292.
+It appears from the report that prior to commencing work on the car the repairman requested the conditional vendor to agree to pay for the repairs when the work was performed. This request was refused. While little more is said in the report with respect to this aspect of the controversy, the express finding made by the court that the conditional vendor did not authorize the repairs resolves this particular issue in favor of the plaintiff. It also establishes the fact that the existence of the interest of the conditional vendor was known to the repairman before the work was done. Such being the conclusion of the court with respect to a material fact in issue the repairman clearly had no right to a lien. A great many of the defendant’s requests for rulings were based on the assumption that the conditional vendor had authorized the work; the finding of the court to the contrary deprives these requests of any material significance.
+It is urged by the defendant that the court erred in its denial of its request to rule that
+“1. On ail the evidence there should be a finding that the defendant has a lien . . . for the reason that it furnished labor and materials in repairing said automobile . . .”
+The furnishing of labor and materials in repairing the automobile represented but a fragment of the evidence and limiting the recital to these facts was not consistent with the claim that the request was based on all the evidence. It ignored evidence contained in the report which was material to the issue raised by the conditional vendor’s claim that the conditional vendee was in default and that the repairman was aware of the existence of a conditional sale agreement. Such a request ignored the requirements of Rule 30 of the Rules of this Court, and the defendant has no right to a review of the ruling.
+The defendant also claims to be aggrieved by the disposition made by the court of its request that the court rule that:
+“The evidence is sufficient to warrant the Court in finding that the defendant has a lien on the Chrysler automobile . . . for labor furnished and materials supplied in repairing said automobile.”
+The court disposed of this request by noting: "Warrant but not require.” In so ruling the court indicated that it was aware of the contingencies affecting the issue, and if it believed that the work was done by the defendant as claimed, and that the defendant had no notice of the conditional sale status of the car, or that the conditional vendee was in default when the car was brought to the repairman, it could properly find that the defendant had an enforceable lien.
+Michael Carchia, for the plaintiff.
+Louis W. Black, for the defendant.
+The defendant, though admitting that the report contains sufficient evidence to warrant a finding for the conditional vendor, now complains that the court has nowhere indicated the legal basis on which its finding rests. Had the defendant filed proper requests for rulings of law, it would have avoided this situation. There were two versions of the facts in the case, that of the conditional vendor and that of the repairman. After weighing the facts the court accepted the plaintiff’s version and rejected that of the defendant. It does not lie in the defendant’s power now to protest if its requests were all predicated on a version of the evidence which the court disbelieved.
+Report dismissed.
