@@ -1,0 +1,28 @@
+---
+court: "Massachusetts Appeals Court"
+decided: "1972-12-29"
+citations: ["1 Mass. App. Ct. 9"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["South Shore National Bank, executor, vs. Charles Berman & others."]
+source_url: "https://static.case.law/mass-app-ct/1/cases/0009-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3940127
+cites_cases: ["197 Mass. 273", "266 Mass. 4", "276 Mass. 165", "281 Mass. 261", "307 Mass. 449", "312 Mass. 214", "320 Mass. 101", "326 Mass. 641", "333 Mass. 34", "344 Mass. 466", "357 Mass. 158", "359 Mass. 439"]
+---
+
+# South Shore National Bank v. Berman
+
+## Majority (Keville, J.)
+
+Keville, J.
+This is an appeal from a decree of the Probate Court on a petition brought by the executor of the will of Dora R. Kaufman seeking instructions as to the distribution of her estate. The case was submitted upon a statement of agreed facts.
+In her will the testatrix gave her entire estate in trust for the benefit of her husband for life “if he survives me,” with unlimited discretion in the trustees to invade principal for his benefit, and directed her trustees to pay over the remainder “[u]pon the death of my husband” in equal shares to eight specifically named nephews and nieces identified as such. In a succeeding paragraph she stated: “I intentionally make no provision for any other member of my family who may be entitled to a share of my estate by the provisions of law and this omission is not occasioned by accident or mistake, it being my intention to provide for my said husband during his lifetime and then to remember members of my family as set forth elsewhere in this Will.” Her husband and the eight nephews and nieces were the only members of her family named in her will. Her husband and ne of her nephews predeceased her. This nephew was survived by two children. No trustee has been appointed. The appellants are nephews and nieces excluded from her will who would share in her estate were it to pass by intestacy.
+The decree of the probate judge ordered distribution of the estate in eight equal shares, one to each of seven of the named nephews and nieces, and one to the children of the deceased nephew. The first question for decision is whether her estate passed by intestacy to her heirs at law or under her will to the remaindermen named therein.
+To determine the intent of the testatrix, it is our duty to ascertain her intention from the entire instrument, attributing due weight to all its language, and to give effect to that intent unless some positive rule of law forbids. Fitts v. Powell, 307 Mass. 449, 454. Wheeler v. Kennard, 344 Mass. 466, 469. “It is well settled that a construction of a will resulting in intestacy is not to be adopted unless plainly required; and it is to be presumed that when a will is made the testator intended a disposition of all his property and did not intend to leave an intestate estate.” Lyman v. Sohier, 266 Mass. 4, 8. Casey v. Genter, 276 Mass. 165,170. Anderson v. Harris, 320 Mass. 101,104.
+The language of the will makes clear that the testatrix intended to dispose of her entire estate and primarily to provide for her husband for life and then to provide for a division of the remainder among her nephews and nieces named therein. She reemphasized these purposes in a separate paragraph in which she explicitly excluded all other relatives who might otherwise become her heirs at law. Although she did anticipate the possibility of her husband’s death before hers, we discern no intention that the gifts in remainder be contingent upon his surviving her, or upon the existence of the trust for his benefit, as contended by the appellants. His death simply accelerated the time when the gifts in remainder became operative. Thompson v. Thornton, 197 Mass. 273, 275. Zeltserman v. Woods, 333 Mass. 34. New England Merchants National Bank v. Frost, 357 Mass. 158, 164. The instant case is distinguishable from Bray v. Bray, 359 Mass. 439, relied upon by the appellants. In the Bray case, the testatrix left her estate to her husband, who predeceased her, with no provision for a gift over, thus requiring an intestate distribution.
+The remaining question is whether the deceased nephew’s share passed to his children or to the surviving nephews and nieces named in the will. It is manifest that the testatrix intended that her nephews and nieces should take as individuals and not as a class. She designated them by name and provided that they should take equal shares in the remainder. “The general rule is that a gift to several legatees described by name of an aggregate sum to be divided equally among them is a gift to them as individuals and not as members of a class ....” Old Colony Trust Co. v. Stetson, 326 Mass. 641, 644. Cf. Old Colony Trust Co. v. Treadwell, 312 Mass. 214. An expression of intention to exclude other members of her family not mentioned in the will is not to be equated with an intention to exclude the children of a specifically named nephew if he should not survive the testatrix. It follows that by virtue of G. L. c. 191 § 22, the share of the deceased nephew passed to his children. Ashley v. Lester, 281 Mass. 261,263.
+Decree affirmed.
+Costs and expenses of this appeal to be awarded in the discretion of the Probate Court.
+No appeal has been taken from this aspect of the judge’s decree by the surviving nephews and nieces named in the will, but the appeal brings up the decree and we can deal with it since their interests are affected thereby. G. L. c. 215, § 28. G. L. c. 211A, § 10 (a). Swift v. Crocker, 262Mass. 321,326.
