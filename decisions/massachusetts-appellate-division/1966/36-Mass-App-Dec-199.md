@@ -1,0 +1,44 @@
+---
+court: "Massachusetts Appellate Division"
+docket: "769"
+decided: "1966"
+citations: ["36 Mass. App. Dec. 199"]
+reporter: "mass-app-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["HELEN E. SOUZA, Petitioner v. EDWARD WALTER KOKOSZKA, Respondent"]
+source_url: "https://static.case.law/mass-app-dec/36/cases/0199-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4045360
+cites_cases: ["13 Mass. App. Div. 24", "197 Mass. 91", "20 Mass. App. Div. 20", "239 Mass. 592", "246 Mass. 139", "287 Mass. 477", "289 Fed. 540", "336 Mass. 561", "336 Mass. 591", "338 Mass. 263", "338 Mass. 54"]
+---
+
+# Souza v. Kokoszka
+
+## Majority (Murphy, J.)
+
+Murphy, J.
+The petitioner did not argue nor file a brief. The respondent has filed a very comprehensive brief, which has been very helpful to us in deciding this case.
+This is an action under the Uniform Reciprocal Enforcement of Support Act, 1690-1692 of the Code of Civil Procedure for the State of California. On August 25, 1965 in the Superior Court of California and forwarded to this Commonwealth as provided in Chapter 273A of the General Laws.
+After hearing in the District Court, the judge found the respondent owed a duty of support to the child involved and made an order of $10.00 per week for its support.
+The petitioner was divorced, from the respondent by decree of the Probate Court of Bristol County dated September 30,1954, which decree was subsequently modified by that Court on January 10, 1956, with all parties present. The pertinent part of the modified decree reads as follows:
+“It is decreed that said decree nisi dated September 30, 1954 is hereby modified so that the libellant may remove the minor child, Glenn Edward Kokoszka, from the Commonwealth of Massachusetts, and the payments for the support of said child are to be discontinued during his absence from said Commonwealth. The libelle'e may have said child during the whole of the summer vacations and the libellant may see said child at reasonable times during the summer vacations; all until otherwise ordered by the Court.”
+This modification was granted at the request of the petitioner so that she might leave the Commonwealth and remarry.
+The respondent claims to be aggrieved by the finding of a duty to support and ordering him to pay $10.00 a week, and by the failure of the court to recognize the Probate Court decree as binding.
+This is an appeal from a general finding—there are no requests for rulings. A general finding imports a finding of all the subsidiary facts necessary to support it, and unless such finding is plainly wrong or there is a mistake of law, it must be affirmed. Moss v. Old Colony Trust Co., 246 Mass. 139; Kennedy Brothers v. Bird, 287 Mass. 477.
+We are in agreement with the finding but, since this case involves a rather tenuous question, we feel it merits some discussion by us.
+The questions for us to decide stated simply are as follows: Is the Probate Court decree as modified valid? Does this decree necessarily negate any legal duty of the respondent to support this child? Does the law which requires a father to support his minor children take precedence regardless of that prior decree?
+These proceedings under G.L.C. 273A are civil in character and not criminal in nature. Phillips v. Phillips, 336 Mass. 561.
+The modified decree expressly states that the respondent shall not be obligated for the support of said child during his (the child’s) absence from the Commonwealth.
+The respondent’s brief indicates that the petitioner has never complied with the order of the Probate Court requiring her to allow the respondent to have custody of the child during the summer months, despite the fact that the respondent furnished a ticket for air transportation to the petitioner to accomplish that fact, and the child has never been in Massachusetts since that modified decree was executed in January, 1956. However, the respondent’s brief further indicates that the wife’s second marriage has since been dissolved, and that she is a recipient of Aid to Dependent Children in the State of California.
+Under G.L.C. 273, § 1, a husband can be held liable for the support of his minor children, even though the wife may have deserted him and regardless of any court decree concerning custody, and under § 8 of that Chapter, “it shall not of itself be a defence that the defendant has ceased to have custody or the right to custody of such child on his own acquiescence or by judicial action—This duty of support shall continue notwithstanding the absence of a court decree ordering—(him) to pay for the support of said child, and notwithstanding any court decree granting custody of such child to another”. Prior to February, 1961 the defendant could not be obligated in excess of the amount ordered; however, that part of the statute was struck out in 1961, and it would appear that the court may now make whatever order it deems proper, be it more or less. G.L.C. 273, §8 as amended. Such prosecutions and orders are put in effect every day in the several District Courts of our Commonwealth, and a father may be convicted of nonsupport even though the child has never been in the Commonwealth. Commonwealth v. Acker, 197 Mass. 91, and Parmelee v. Parmelee, 20 Mass. App. Dec. at 26.
+The Uniform Reciprocal Enforcement of Support Act is to provide an effective procedure to compel performance by a person who is under a duty to support a dependent in another state, G.L.C. 273A, but there must be a duty to support. Keene v. Toth, 336 Mass. 591, Kirby v. Kirby, 338 Mass. 263, 268.
+The respondent takes the view that he has been relieved of any duty imposed by law by virtue of the decree of the Probate Court, wherein it ordered that any support payments be discontinued during the absence of the child from the state or until otherwise ordered by the court.
+A decree of a Probate Court is conclusive with respect to subjects of which it has jurisdiction, and upon all parties brought within its jurisdiction. Agricultural National Bank of Pittsfield v. Bernard, 338 Mass. 54. However, the District Courts of Massachusetts by Chap. 273A of our General Laws, and by their general jurisdiction under Chap. 273, Sec. 1 and Section 8, cited supra, may compel support of minor children, regardless of any decree that may be outstanding in the Probate Court.
+While it may seem that we are in effect ignoring the decree of the Probate Court in compelling the father to pay support, that is not quite so. We feel the paramount obligation, yes, the greater obligation in this respect is to the child, having in mind the duty imposed by law on all male parents to support their minor children, and the general purpose of the Uniform Reciprocal Enforcement of Support Act.
+Futhermore, the father in this instance consented to the Probate Court decree, allowing the mother to take their child out of the state. True, only under certain conditions with which the mother has not complied, and only with the understanding that support payments would be discontinued. Any modification of that decree in this respect is for the Probate Court. The respondent himself can move to modify that decree at any time. The record is bare of any moves in that direction, and the child is presently being supported under the Aid to Dependent Children Act in California.
+While it may seem unduly harsh on the father to compel him to pay support, nevertheless, in a situation of this kind the judge was right, and such an order was proper under all the circumstances of this case. To hold otherwise would be to ignore completely the needs of the child and allow him to be a victim of circumstances beyond his control. We cannot conceive this to be the law. The father has the primary duty to support, maintain and educate the minor children of the marriage. While this is not a criminal prosecution, we are of the opinion that G.L.C. 273, § 1 imposes a duty on a father to support his minor children, no matter where (or under what circumstances) they have been taken by the mother. Parsons v. Parsons, 15 Legalite 529. It is unfortunate that such a situation exists, but as was said in Maschauer v. Downs, 289 Fed. 540, "it would be a harsh rule to impute to each children the wrongful conduct of the mother.” Bucknell v. Endreason, 13 Mass. App. Div. 24; Alexander v. Alexander, 20 Mass. App. Div. 20 and also see, Commonwealth v. Dornes, 239 Mass. 592.
+Kenneth Williams, District Attorney, Family Support Division, Orange County, Santa Ana, California, for Plaintiff
+William F. Long, Jr., Fall River, Mass. for Defendant
+We are of the opinion that there is a duty of support here, and that the order of $10.00 a week was proper.
+We find no prejudical error, and an order should be entered dismissing the report.
