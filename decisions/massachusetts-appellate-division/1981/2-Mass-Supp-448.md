@@ -1,0 +1,45 @@
+---
+court: "Massachusetts Appellate Division"
+docket: "298"
+decided: "1981-05-15"
+citations: ["2 Mass. Supp. 448"]
+reporter: "mass-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["William T. Walsh, Justice", "Bernard Lenhoff, Justice", "Allan McGuane, Justice"]
+parties: ["Earl R. DREW d/b/a Earl R. DREW & SON. CONTRACTORS Plaintiff vs. BERRY ENGINEERING, INC."]
+source_url: "https://static.case.law/mass-supp/2/cases/0448-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5606484
+cites_cases: ["278 Mass 261", "292 Mass. 293", "348 Mass 458", "369 Mass 99"]
+---
+
+# Drew v. Berry Engineering, Inc.
+
+## Majority (McGUANE, I.)
+
+OPINION
+McGUANE, I.
+This is an action in tort in which the Plaintiff seeks to recover for damages due to the negligence of the Defendant in laying out the sewer lines in connection with the construction of the Gardner Court House.
+The Defendant’s answer contained a general denial as well as a counterclaim for services rendered. The Plaintiff answered the counterclaim with a general denial.
+The Court found for the Defendant on the Plaintiff’s negligence claim and found for the Defendant in its counterclaim for services.
+The Plaintiff filed requests for rulings of law and appealed from the denial of certain of its requests.
+The Plaintiff, a contractor, was the successful bidder on a contract for the excavation and laying of sanitary sewer and water lines to the Court House in Gardner, Mass. In conjunction with the project the Plaintiff hired the Defendant to provide engineering services. The service was to translate the plans supplied by Masiello Associates through its engineer, J oseph Montano, to the ground on the site. Both the Plaintiff and Defendant entered into the performance of the work. During the course of the work, specifically on October 28, 1976 at a meeting attended by John Mackell of Masiello Associates, Arthur Young — City Engineer, Earl Drew — General Contractor, Charles Munent — Bureau of Building Construction, Richard Fitzgerald — Bureau of . Building Construction and Bruce Tompkin — Clerk of the Works, it was decided that the plans should be changed so that manhole locations would be moved southerly from the tree line into the street. The Defendant was not present at this meeting. After this meeting Earl Drew contacted Berry Engineering and advised them of the problem and discussed the moving of the manholes into the street to avoid the tree line. As a result of this discussion the manholes #6 and #7 were moved southward into the street and manhole #8 was moved southerly into the street and easterly some fifty feet. The easterly movement of manhole #8 necessitated a change of pitch of the pipe in order to connect the inverts with manhole #8. The easterly location to the manhole was never approved by the architect nor was any approval requested of the general contractor. In order to change the original plans, approval was required, although approval did not have to be in writing unless it involved an increase in cost. Any changes in the plans were the responsibility of the general contractor. During the course of the laying of the pipe from manhole #7 tp manhole #8 as relocated, it was discovered that the pitch was wrong and that the invert was too high. This necessitated working back from manhole #8 to relocated manhole #8 . with a change of pitch and from #8 at a change of pitch to a new manhole #7A not originally called for by the architect’s plans. These changes were then approved by the architect and the plaintiff completed this work at an additional cost because of digging the pipe up, blasting necessitated by the delay, installing the new manhole #7A and relaying the pipe to connect up #8 to #7 A and then picking up the pipe between #7A and #7,
+There is no dispute that there was a problem, that the problem resulted from a change in the location of manhole #7 when it was moved southerly and easterly. As a result of this relocation the pitch from #7 to #8 had to be changed and it was not changed on the plan. The pitch used during actual laying was taken from the architect’s plan and this resulted in the extra work as set forth above.
+The only issue in dispute, other than damages, is , whether the Defendant changed the location of the manhole on his own and failed to advise the Plaintiff of the change in location and change in pitch. The testimony on this point is in conflict. The Plaintiff and his witnesses testified that the only change that they were aware of was the relocation of the manhole from the tree line southerly out into the street in the same location. This would not have changed the pitch and would not have required any additional work. The Defendant’s witnesses testified .that Mr. Drew was present at the time of relocation and that he participated in the selection and relocation site of manhole #8 and further that he was told to contact the Defendant when he got to the fopt of the hill and the Defendant would give him the new pitch.
+The burden of persuasion in a civil action is upon the Plaintiff to prove by a preponderance of the evidence all the necessary elements to establish liability on the part of the Defendant. The evidence evinced at the trial indicates that the Defendant was in fact hired by the Plaintiff to translate the working plans onto the ground. The Defendant performed these services under its contract but changes had to be made because of the City’s refusal to permit removal of the trees. The Defendant did not at any time supply any information to the contractor relating to'the pitch of the pipe. The pitch used was taken from the working plans. If the , Defendant was negligent at all it was due to the fact that the location of the manhole was changed by the Defendant without the knowledge of the Plaintiff and that the Defendant failed to notify the Plaintiff of the change in location and pitch. The burden of proof was on the Plaintiff and he has not sustained that burden.
+I find for Defendant.
+COUNTERCLAIM
+I find for Berry Engineering, Inc., Plaintiff in Counterclaim in the sum of $920.00 plus interest.
+The issue presented on appeal is whether the trial court erred in its denial of certain requests for rulings filed by the Plaintiff. We find no error.
+The Plaintiff in its brief argues no specific error or law by the trial court but instead claims to be aggrieved by the trial court’s denial of his requests. We have examined all of the Plaintiff’s requests for rulings and they are in fact requests for findings of íact.
+While admitting that the framing of. proper requests for rulings of law is difficult and requires a certain nicety, if the requests in fact are for questions of fact, not rulings of law then no legal issue is presented to the Appellate Court.
+Under Dist./Mun. Cts. Rules of Civil Procedure 52(a), . a trial court may make findings of fact, and such findings of fact shall not be set aside unless clearly erroneous. “The mere incorporation within a request of the words ‘ a finding is wárranted’ does not require a judge to deal with indecisive portions of the evidence.” Stella v. Curtis 348 Mass 458 (1965).
+If requests are characterized as rulings of law, then the trial court must pass on them, but the judge is not required to allow all such requests simply because they ask for rulings of law. DiGesse vs. Columbia Pontiac Co., Inc. 369 Mass 99 (1975).
+The court made detailed findings of fact and these facts could certainly be found from the reported testimony contained on the Report. Bresnick vs. Heath 292 Mass. 293 (1935) Halton vs. Denaro 278 Mass 261 (1932).
+It is well to note one other issue raised by the Plaintiff when he argues that the trial court was not free to disregard the testimony of the Plaintiff’s expert witness.
+In the matter of Petition of the Department of Public Welfare 1978 Adv. Sheets 2388, 381 N.E. 2nd 565 at 575, the court stated “ — it is well settled that evidence is not binding on the judge simply because it is offered by an expert’ ’. .
+Finally, the Plaintiff raises on appeal for the first time matters concerning the Defendant’s Counterclaim. Since no requests for rulings of law were ever presented concerning the Defendant’s Counterclaim we are not inclined to disturb the/Trial Court’s finding. There being no error the report was dismissed.
+William T. Walsh, Justice
+Bernard Lenhoff, Justice
+Allan McGuane, Justice
