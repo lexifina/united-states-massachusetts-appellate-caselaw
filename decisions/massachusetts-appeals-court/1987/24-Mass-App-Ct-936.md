@@ -1,0 +1,26 @@
+---
+court: "Massachusetts Appeals Court"
+decided: "1987-06-12"
+citations: ["24 Mass. App. Ct. 936"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Commonwealth vs. Edward G. White."]
+source_url: "https://static.case.law/mass-app-ct/24/cases/0936-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3994584
+cites_cases: ["18 Mass. App. Ct. 930", "23 Mass. App. Ct. 534", "319 Mass. 627", "355 Mass. 526", "359 Mass. 39", "380 Mass. 220", "388 Mass. 583", "399 Mass. 668", "399 Mass. 674", "399 Mass. 678"]
+---
+
+# Commonwealth v. White
+
+## Majority
+
+The only issue raised in this appeal is the admissibility of certain evidence as fresh complaint. The defendant makes the novel argument that, because the statement in issue was made after an investigation had begun and after the victim had been questioned by the police, the judge had no discretion to admit it, even if the statement was made reasonably promptly.
+The defendant was tried before a jury in the Superior Court on three indictments, two charging forcible rape of a child and one charging indecent assault and battery on a child. The defendant was found guilty as charged on the indictment for indecent assault and battery; he was found guilty on one of the two indictments charging rape, but only to so much of it as charged indecent assault and battery on a child; and on the remaining indictment, charging rape, he was found not guilty.
+According to the Commonwealth’s evidence, the victim, nine or ten years old at the time, was forced to have sexual intercourse with her father on three occasions, the last of which occurred on December 1,1984, during weekend visits she and her younger sister paid to their father after their mother and father had separated. The defendant denied that any of the incidents had occurred. The first time the victim told her mother what had happened was on December 16, 1984. The mother’s account of that statement was admitted in evidence, without objection, as fresh complaint. Within a few days of the child’s first report of the incidents, the mother was in contact with the district attorney’s office. On December 27, 1984, the victim was interviewed by a police officer at the Plymouth District Court. The interview was videotaped, but neither the videotape nor any other account of the interview was offered in evidence. The following day, the mother brought the victim to be examined by a gynecologist. The mother testified, over objection, that as the physician was conducting a digital examination of the victim’s vagina, the victim “screamed. She cried. She said: ‘That feels like what my father did to me. Stop, please stop.’” A motion for mistrial was made and denied. The judge stated that he was admitting the statement as fresh complaint. He did not err.
+The defendant concedes that in cases of sexual abuse involving children the fresh complaint doctrine is applied flexibly, and he does not argue that the statement in issue was not reasonably prompt. See Commonwealth v. Comtois, 399 Mass. 668, 672-674 (1987); Commonwealth v. Brenner, 18 Mass. App. Ct. 930, 931-932 (1984); Commonwealth v. Adams, 23 Mass. App. Ct. 534, 536 (1987). He contends, instead, that a statement made after police interrogation is inherently unreliable because the declarant at that point has a motive to fabricate. We think the pendency of the police investigation was a factor for the judge to consider in exercising his discretion but that it did not preclude his admission of the statement. Although the issue was not raised in the precise form in which this defendant now raises it, in Commonwealth v. Howard, 355 Mass. 526, 530 (1969), fresh complaint testimony was held to have been properly admitted when the victim’s complaint was one of a continuous series of such complaints, one of the earlier ones in the series having been made to the police. See also Commonwealth v. Izzo, 359 Mass. 39, 41-43 (1971); Commonwealth v. Comtois, 399 Mass. 674-675. Compare Commonwealth v. Ellis, 319 Mass. 627, 629-630 (1946). Here there was no abuse of discretion. Only the mother and the physician, not the police, were present when the victim made the statement. The statement was not made in response to questioning. It came in the form of a spontaneous outcry in response to a physical event, the vaginal examination to which the victim was being subjected. The circumtances, thus, provided reasonable indicia of reliability; calculated fabrication was unlikely.
+Brownlow M. Speer, Committee for Public Counsel Services, for the defendant.
+Robert P. Snell, Assistant District Attorney, for the Commonwealth.
+Although we need not reach the question, the judge may also have had discretion to admit the statement under the spontaneous utterance exception to the hearsay rule. See Commonwealth v. Sellon, 380 Mass. 220, 229-230 (1980); Commonwealth v. Clary, 388 Mass. 583, 589 (1983); Commonwealth v. Fuller, 399 Mass. 678, 682 (1987). Because the statement was properly admitted, we also need not reach the question whether, in light of the jury’s implicit finding that there was no penetration, the exposure of the jury to the victim’s statement was harmless.
+Judgments affirmed.
