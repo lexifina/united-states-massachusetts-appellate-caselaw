@@ -1,0 +1,31 @@
+---
+court: "Massachusetts Appeals Court"
+decided: "1986-12-18"
+citations: ["23 Mass. App. Ct. 941"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Anna M. Cappello vs. Norman C. Cappello."]
+source_url: "https://static.case.law/mass-app-ct/23/cases/0941-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3991649
+cites_cases: ["1 Mass. App. Ct. 323", "10 Mass. App. Ct. 856", "13 Mass. App. Ct. 456", "16 Mass. App. Ct. 223", "18 Mass. App. Ct. 85", "18 Mass. App. Ct. 986", "19 Mass. App. Ct. 364", "20 Mass. App. Ct. 904", "22 Mass. App. Ct. 581", "323 Mass. 652", "332 Mass. 414", "371 Mass. 433", "385 Mass. 510", "389 Mass. 248"]
+---
+
+# Cappello v. Cappello
+
+## Majority
+
+The wife initiated divorce proceedings by filing a complaint on the ground of irretrievable breakdown. See G. L. c. 208, § IB. The complaint requested custody of the four minor children, support for herself and the children and the conveyance of property owned jointly with her husband. It appears from the face of the complaint that the request for property was deleted, as a line was drawn through the request. The divorce action was pending for five years during which time various financial statements were filed by the parties. On the date set for the pretrial conference, the parties entered into an agreement. On the same day, pursuant to G. L. c. 208, § IB, the court entered a judgment of divorce nisi which incorporated and merged the parties’ separation agreement, as was expressly provided therein. No findings were made by the court.
+The agreement stated that “ [t]he parties are desirous of settling their affairs and provide for support of their minor children.” The agreement provided for joint legal custody of the minor children, each parent having the physical custody of two children. The parties further agreed that the husband pay to the wife $146.00 per week for child support. The agreement made no reference, explicit or otherwise, to the questions of alimony and division of property.
+Asserting that her statutory rights to alimony and equitable division of property have never been determined, the wife contends that she is entitled to a hearing under G. L. c. 208, § 34, respecting those rights. She has taken an appeal from the denial of her “Motion for Relief from Judgment Pursuant to Massachusetts Rules of Domestic Relations Procedure 60 (b) (6) or in the Alternative a Hearing pursuant to Massachusetts General Laws, Chapter 208, § 34.”
+The first sentence of G. L. c. 208, § 34, as appearing in St. 1982, c. 642, § 1, permits a petition for alimony or property division to be filed “at any time after a divorce.” Where property rights have not been previously adjudicated, the Probate Court may assign property pursuant to § 34, after a judgment of divorce has become absolute. Maze v. Mihalovich, 1 Mass. App. Ct. 323, 324(1979). See Hay v. Cloutier, 389 Mass. 248, 252(1983); Davidson v. Davidson, 19 Mass. App. Ct. 364, 367 (1985). It is also true that when there has been a change of circumstances, if no alimony award was made at the time of divorce, G. L. c. 208, § 34, gives a judge authority to make an alimony award. Talbot v. Talbot, 13 Mass. App. Ct. 456, 460 (1982).
+The wife argues that she is entitled to a hearing under § 34 since there is no evidence that the issues of alimony and property division had been determined, i.e., the contract and the judgment are silent as to alimony and property rights of the parties. The husband asserts that the agreement between the parties is a bar to the wife’s petition.
+There is neither an allegation nor a showing of fraud in the negotiation of the agreement. See Knox v. Remick, 371 Mass. 433, 436-437 (1976). Both parties were represented by counsel and there was full disclosure of the property holdings which are the subject of this appeal. We also can infer that the motion judge was familiar with the circumstances of this case because he was the same judge who entered the judgment of divorce.
+Herbert William Boudreau, Jr., for the plaintiff.
+David C. Prince for the defendant.
+The wife has misapplied the reasoning of the Maze, Hay, and Davidson cases to the facts of her own case. In that line of cases interpreting § 34, the various issues involved in the divorce actions were adjudicated by a judge following litigation wherein the merits were canvassed. To the contrary, here, the parties chose to resolve their mutual financial and property rights and support obligations by means of an agreement. See Knox v. Remick, 371 Mass. at 436-437; Stansel v. Stansel, 385 Mass. 510, 514-515 (1982). Contrast Dominick v. Dominick, 18 Mass. App. Ct. 85,91 (1984).
+While the merged separation agreement certainly is not “comprehensive,” the express language that the “parties are desirous of settling their affairs” evidences an intent that it be a final settlement of the financial relationship of the parties. Cf. Freeman v. Sieve, 323 Mass. 652, 654 (1949); Pavluvcik v. Sullivan, 22 Mass. App. Ct. 581,584 (1986). The judge properly could infer that an arrangement regarding the final settlement of the parties’ “affairs” encompassed division of property. Contrast Cramer v. Hirsch, 18 Mass. App. Ct. 986 (1984) (where contract was silent on subject of retention of father’s name and barren of any language from which obligation might be inferred, no understanding was inherent in nature of contract).
+As to the claim for alimony, the wife has failed to allege any change of circumstances which would warrant a hearing on that issue. Talbot v. Talbot, 13 Mass. App. Ct. at 460. See Kellermann v. Kellermann, 10 Mass. App. Ct. 856 (1980); Nixon v. Levinson, 20 Mass. App. Ct. 904, 905 (1985), and cases cited therein.
+Judgment affirmed.
+The husband also has raised the procedural argument that the motion was properly denied because relief under G. L. c."208, § 34, must be sought in the form of a complaint. Although the statute provides for the bringing of a complaint, the court could have treated the relief sought according to its obvious character rather than its label. See Ahern v. Warner, 16 Mass. App. Ct. 223, 225 (1983). See also Tierney v. Tierney, 332 Mass. 414, 416-417 (1955).
