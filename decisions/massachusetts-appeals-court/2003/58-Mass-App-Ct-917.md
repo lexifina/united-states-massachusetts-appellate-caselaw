@@ -1,0 +1,28 @@
+---
+court: "Massachusetts Appeals Court"
+docket: "02-P-840"
+decided: "2003-08-04"
+citations: ["58 Mass. App. Ct. 917"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Commonwealth vs. Donald L. Snow."]
+source_url: "https://static.case.law/mass-app-ct/58/cases/0917-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 65660
+cites_cases: ["15 Mass. App. Ct. 437", "328 U.S. 750", "417 Mass. 348", "430 Mass. 8", "49 Mass. App. Ct. 273", "51 Mass. App. Ct. 285", "52 Mass. App. Ct. 912"]
+---
+
+# Commonwealth v. Snow
+
+## Majority
+
+The defendant was convicted as a joint venturer with one Peter Bardzik on indictments for breaking and entering in the daytime with intent to commit a felony and larceny over $250. His principal contention on appeal is that evidence of his admission to a police officer that he was a heroin addict was erroneously admitted. We agree, but affirm on the ground that the evidence against him was so overwhelming that there is no likelihood that this evidence made a difference to the jury in reaching their verdict. See Commonwealth v. Alphas, 430 Mass. 8, 23 (1999); Commonwealth v. Johnson, 49 Mass. App. Ct. 273, 279-280 (2000). See also Kotteakos v. United States, 328 U.S. 750, 764-765 (1946).
+1. Evidence of heroin addiction was inadmissible for any purpose. Evidence that the defendant was a heroin addict is obviously prejudicial. It paints him not only as an outlaw, since there is no lawful way for one to use heroin for recreation, but also as one who is likely to commit property crimes to finance what is understood to be an expensive habit. The judge tried to limit the evidence by instructing the jury that they were not to infer that he committed the crimes charged against him in this case based upon his addiction or lawless habits. But the judge also expressly permitted the jury to use this evidence as a circumstance relevant to his knowledge of what Bardzik was doing and as relevant to the defendant’s intent that Bardzik’s crime be accomplished. The only relevance, however, in the context of the evidence in this case, is based on the inference that a heroin user was likely to know that Bardzik, a fellow heroin user, was at the residence in order to break into the residence and steal property. In other words, the limiting instruction did not cure but rather perpetuated the impermissible use of the defendant’s addiction and association with a fellow addict.
+This is not a case such as Commonwealth v. Irving, 51 Mass. App. Ct. 285, 291-292 (2001). In that case, there was direct evidence relating the strained financial condition of a drug dependent, cooperating witness who had been motivated thereby to execute a robbery with the drug dealer defendant to pay off his drug debt to the defendant. In the case at bar, there was no such evidence, and the jury were, in effect, permitted to infer that a drug user had a propensity to commit larcenies and housebreaks. If this were the rule, it would be fair game to allow in evidence the drug habits of any defendant charged with larceny, robbery, breaking and entering, embezzlement, or other crimes the object of which was to obtain money. Everyone needs money. The reason that a defendant charged with a property crime needs money is a collateral issue that should not become a regular topic of inquiry in criminal trials where those reasons constitute evidence of bad character and are likely to be misused by the jury.
+David Keighley for the defendant.
+Judith Ellen Pietras, Assistant District Attorney, for the Commonwealth.
+2. Harmless error. The defendant preserved his objection to the admission of this evidence, and to the inadequacy of the limiting instruction, at all relevant stages. Thus we examine the record of the trial to determine whether we can be “sure that the error did not influence the jury, or had but very slight effect .... [I]f one cannot say, without fair assurance, after pondering all that happened without stripping the erroneous action from the whole, that the judgment was not substantially swayed by the error, it is impossible to conclude that substantial rights were not affected.” Commonwealth v. Fle-botte, 417 Mass. 348, 353 (1994), quoting from Commonwealth v. Peruzzi, 15 Mass. App. Ct. 437, 445 (1983).
+The defendant, through his statement to the police, admitted being the person seen by the daughter of the homeowner during the commission of the crime. He admitted running away. He admitted being in possession of a pink pillowcase full of loot from the house while he was running away. He admitted intending to flee and hide, in Florida if possible. There was evidence of a trail of hidden loot along the path he took in escaping the scene of the crime. Evidence of the defendant’s guilt being strong, the admission of evidence of his addiction to heroin was not prejudicial and constituted harmless error. See Commonwealth v. Siano, 52 Mass. App. Ct. 912, 914 (2001).
+His story of having the pink pillowcase full of loot thrust into his hand by Bardzik as the crime was being discovered was highly implausible, without regard to his problems with heroin. Likewise, his story of wandering into the house just at the wrong moment after waiting in a benighted state in the truck was hard to believe, regardless of his character. In short, assuming there had been no reference to his heroin habit, the evidence of his guilt as a joint venturer with Bardzik was overwhelming. See Commonwealth v. Johnson, 49 Mass. App. Ct. 273, 279 (2000).
+Judgments affirmed.
