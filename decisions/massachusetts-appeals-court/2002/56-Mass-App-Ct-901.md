@@ -1,0 +1,34 @@
+---
+court: "Massachusetts Appeals Court"
+docket: "01-P-1"
+decided: "2002-10-09"
+citations: ["56 Mass. App. Ct. 901"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Timothy Tilton vs. Union Oil Company of California."]
+source_url: "https://static.case.law/mass-app-ct/56/cases/0901-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 626908
+cites_cases: ["130 Mass. 472", "370 Mass. 69", "374 Mass. 206", "394 Mass. 131", "41 Mass. App. Ct. 923", "434 Mass. 624", "474 U.S. 920", "791 F. Supp. 1460"]
+---
+
+# Tilton v. Union Oil Co. of California
+
+## Majority
+
+Facts. The plaintiff was an employee of Compton Toilet Partitions, Inc. (Compton). On October 9, 1991, fee plaintiff was assigned by Scott Braley, the proprietor of Compton, to remove the lids from empty fifty-five gallon drums that were scattered all over fee property. The plaintiff was seriously injured when he attempted to remove a lid from an unmarked drum containing a small amount of the chemical solvent toluene wife an acetylene torch, which caused the drum to explode. After fee jury found fee defendant negligent in answers to special questions and assessed damages against the defendant in the amount of $1,750,000, fee trial judge entered a judgment for fee plaintiff.
+The defendant filed separate motions for JNOV and for a new trial on August 8, 1999. The trial judge denied both motions on August 18, 1999. In denying fee defendant’s JNOV motion, fee trial judge held that the issues had been raised and discussed during fee trial and feat he had not altered his position on those issues. In denying fee motion for a new trial, fee trial judge stated that he was “not persuaded by [fee defendant’s] contentions feat it was error not to give requested instructions; [to] exclud[e] testimony of [the defendant’s expert] regarding the duties of employers to maintain safe work environments; to refusfe] to bifurcate fee trial; and to fail[] to instruct the jury feat [fee defendant] could discharge its duty to warn plaintiff of fee hazards associated with its products by warning plaintiff’s employer.” This appeal ensued.
+We need not pause long to consider fee defendant’s JNOV motion. On this record fee judge properly could deny that motion. The defendant’s motion for a new trial presents a more difficult question.
+1. Motion for a new trial. The defendant claims the trial judge erred in denying its motion for a new trial on liability, arguing that the jury misunderstood the applicable law because the trial judge failed to give a necessary jury instruction. The defendant also claims error in disallowing testimony of two witnesses and allowing inadmissible hearsay evidence. In reviewing the judge’s denial of this new trial motion, we focus on whether there was an error of law. “An appellate court will not reverse a lower court’s denial of a new trial motion absent an error of law or abuse of discretion.” CBI Partners Ltd. Partnership v. Chatham, 41 Mass. App. Ct. 923, 926-927 (1996).
+The defendant claims that the trial judge failed to instruct the jury regarding the bulk supplier doctrine as an affirmative defense, arguing that as a bulk supplier of drums of toluene it discharged its duty to warn when it informed Compton of the inherent dangers associated with toluene, and reasonably relied upon Compton to inform its own employees, such as the plaintiff, of those dangers.
+In Massachusetts, a manufacturer who knows or should know that its product is inherently dangerous or in a dangerous condition is “under a duty to give warning of those dangers to ‘persons who it is foreseeable will come in contact with, and consequently be endangered by, that product.’ ” MacDonald v. Ortho Pharmaceutical Corp., 394 Mass. 131, 135, cert. denied, 474 U.S. 920 (1985), quoting from H.P. Hood & Sons v. Ford Motor Co., 370 Mass. 69, 75 (1976). However, a manufacturer is deemed to have discharged its duty if it could justifiably rely on the intermediary purchaser to warn such foreseeable users of the product’s dangers, i.e., if the manufacturer’s reliance on the intermediary purchaser is reasonable. Id. at 135-136.
+Here, a jury could find that the defendant is a bulk supplier; therefore, a jury instruction explaining the scope of the defendant’s duty to warn was necessary to provide the jury with a correct statement of the applicable law. Under the teaching of Hoffinan v. Houghton Chem. Corp., 434 Mass. 624, 629-634 (2001), decided after the trial in this case, the defendant was entitled to the requested instruction on this affirmative defense, and the trial judge erred in declining to give such an instruction. The absence of an instruction on this affirmative defense requires a new trial on liability. See Smith & Zobel, Rules Practice § 59.14 (1977 & Supp. 2002).
+2. Evidentiary rulings. The defendant also claims that Fred Compton, the prior owner and operator of the business, and Larry Freeman, an employee of Compton at the time of the accident, should have been allowed to testify about their knowledge of the hazards of toluene and toluene drums. The defendant argues that such testimony was relevant to the issue whether the defendant discharged its duty to warn purchasers of the dangers of toluene. “Evidence is relevant if it renders the desired inference more probable than it would be without the evidence.” Poirier v. Plymouth, 374 Mass. 206, 210 (1978). “Evidence may be sufficiently relevant to be admitted if it ‘tends to establish the issue’ or ‘constitutes a link in the chain of proof.’ ” Id., quoting from Commonwealth v. Abbott, 130 Mass. 472, 473 (1881).
+As stated above, the defendant was entitled to argue the bulk supplier doctrine as an affirmative defense. Therefore, the knowledge that Fred Compton and Freeman possessed about the dangers of toluene and toluene drums was relevant on the issue whether it discharged its duty to warn of the dangers of toluene. Since no rule barred its admission, the trial judge erred when he excluded such testimony.
+Joel F. Pierce for the defendant.
+John M. Wozniak for the plaintiff.
+Accordingly, the order denying the defendant’s motion for a new trial as to liability is reversed, and a new order is to enter allowing the motion. The case is remanded to the Superior Court for further proceedings consistent with this decision.
+So ordered.
+Under the bulk supplier doctrine “a manufacturer-supplier ... of bulk products, in certain circumstances, . . . discharge^] its duty to warn end users of a product’s hazards by reasonable reliance on an intermediary.” Hoffman v. Houghton Chem. Corp., 434 Mass. 624, 629 (2001). See Forest v. E.I. DuPont de Nemours & Co., 791 F. Supp. 1460, 1465 (D. Nev. 1992).
+In view of the result, we do not address the defendant’s remaining contentions.
