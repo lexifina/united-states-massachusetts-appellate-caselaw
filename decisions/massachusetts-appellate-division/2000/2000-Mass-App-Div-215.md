@@ -1,0 +1,33 @@
+---
+court: "Massachusetts Appellate Division"
+decided: "2000-07-28"
+citations: ["2000 Mass. App. Div. 215"]
+reporter: "mass-app-div-annual"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Present: Wheatley, P.J., Welsh & Creedon, JJ."]
+parties: ["Howard Priluck vs. Jill Rodrigues, and another"]
+source_url: "https://static.case.law/mass-app-div-annual/2000/cases/0215-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 11140324
+cites_cases: ["315 Mass. 739", "342 Mass. 161", "345 Mass. 93", "416 U.S. 363", "5 Mass. App. Ct. 101"]
+---
+
+# Priluck v. Rodrigues
+
+## Majority (Welsh, J.)
+
+Welsh, J.
+This is an action of summary process, G.L.c. 239, §1, et seq. The action was entered in the Stoughton District Court.
+Since no jury was claimed, the matter was called for trial before a judge sitting without jury under the one-trial system prevailing in Norfolk and Middlesex Counties by virtue of St. 1996 c. 358, §10. The judge found for the landlord for possession and denied the claim for rent. The defendant appeals to this Appellate Division, claiming to be aggrieved by the judge’s failure to afford her a trial on the merits. We agree that the defendant was not afforded her right to a trial and remand the case for trial on the merits.
+The plaintiff (landlord) brought an action seeking eviction of the defendant (tenant) and $8,000 in rent allegedly overdue. The tenant, acting pro se, filed an answer denying the landlord’s claim for possession and rent and served a counterclaim alleging breaches of the implied warranty of habitability agreeable to G.L.c. 239, §8A.
+Both parties appeared pro se at the designated time for trial. Neither party was sworn. The transcript reflects that no witnesses were called and no documentary or other exhibits were received. The judge conducted an informal colloquy with the parties. He prefaced this colloquy with the statement, “I’m not actually trying the case. I want to see if it can be settled.” The landlord told the judge that he had an agreement with the defendant’s former husband whereby he would receive credit for certain improvements and repairs on the premises toward the rent. The husband had separated from the defendant, had left the premises after two months, and did not appear at the hearing. The defendant, Jill Rodrigues, attempted to present evidence of violations of the State Sanitary Code by means of a letter from the Board of Health. The judge asked the landlord if the defendant had any agreement with him. The landlord answered in the negative but the tenant insisted that she did have an agreement. The judge heard no evidence and refused to allow the tenant to produce evidence of the violations of the health code, concluding that the landlord had no agreement with her, a conclusion of fact which was never conceded by the tenant. He concluded that she occupied the premises without right, notwithstanding that plaintiff had at one point accepted $500 from her on account of rent.
+We are constrained to conclude that the tenant was not afforded her right to a trial. The judge made a finding for the landlord for possession without giving the tenant an opportunity to adduce proof on her behalf on the issue of entitlement to possession of the premises and on the counterclaim.
+1. Whatever might be said as to the utility of attempting an informal settlement, it is axiomatic that if a party wants a trial on disputed issues of fact and law, he or she is entitled to it. The judge acknowledged that he was not actually trying the case but was exploring the possibility of a settlement. No witnesses were sworn. The landlord’s assertion that he had no agreement with the defendant (an assertion the tenant vehemently denied) was certainly a fact question upon which the parties were entitled to offer proof. Even if the judge was right in concluding that there was no agreement with the defendant, clearly there was an agreement with her husband who no longer lives there with her. Arguably, she might be found a beneficiary of that agreement. She apparently occupied the unit with the landlord’s knowledge, and she apparently made a partial payment toward overdue rent. She was no interloper or squatter who occupied the premises without right.
+While recognizing that it is the judge’s province to decide questions of credibility and to determine disputed issues of fact, the parties are entitled to a trial, including the right to have witnesses testify under oath and subject to cross-examination. Even if the defendant could not establish an express agreement with the landlord, she might yet have the status of a tenant as a result of the agreement between her husband and the landlord. The bald fact is that the judge made a finding that she was there without right without a trial, her ardent protest to the contrary notwithstanding.
+2. Tenants are entitled to their day in court before they can be evicted. This implies a trial with the right to offer evidence and to cross-examine. Courts were not intended to function simply as rubber stamps for landlords seeking to evict tenants and those lawfully claiming under them. Kargman v. Dustin, 5 Mass. App. Ct. 101, 106 (1977) citing Pernell v. Southall Realty, 416 U.S. 363, 365 (1976). The right to a trial implies the right to all protections, including the right to call witnesses and to cross-examine opposing witnesses, compliance with the rules of evidence and action upon requests for rulings, if any. Lubell v. First National Stores, Inc., 342 Mass. 161, 165 (1961). The record does not support a claim of waiver by the defendant-appellant of the right to a trial. A waiver implies an intelligent relinquishment of a known right. Roseman v. Day, 345 Mass. 93, 99 (1962).
+Due to the appearance of possible predisposition by the judge of the factual issues in this case, we determine that the cause be remanded for hearing on the merits before another judge.
+So ordered.
+The appellant raised the issues such as alleged inconsistency in finding for the landlord and not awarding rent where the basis for eviction was non-payment of rent, and failure to address her counterclaim. G.L.c. 239, §8A. We need not decide these issues on this record.
+The record is unclear how much credit, if any, was given on account of rent by reason of work by defendant.
+The right to a trial contemplates a full and fair hearing upon all relevant issues where all fact questions presented by the testimony are decided by the trier of fact in accordance with applicable rules, of law. New England Novelty Co. v. Sandberg, 315 Mass. 739, 750 (1944).
