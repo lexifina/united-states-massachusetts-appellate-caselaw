@@ -1,0 +1,24 @@
+---
+court: "Massachusetts Appeals Court"
+docket: "94-P-1458"
+decided: "1995-05-24"
+citations: ["38 Mass. App. Ct. 593"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Elena McHerron & another vs. Jiminy Peak, Inc."]
+source_url: "https://static.case.law/mass-app-ct/38/cases/0593-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4023031
+cites_cases: ["118 Or. App. 450", "264 Mont. 465", "393 Mass. 256", "401 Mass. 81", "420 Mass. 1107", "432 N.W.2d 774", "808 P.2d 1037", "821 P.2d 1354"]
+---
+
+# McHerron v. Jiminy Peak, Inc.
+
+## Majority (Porada, J.)
+
+Porada, J.
+While skiing on an open trail leading to a chair lift at the defendant’s ski resort, the plaintiff Elena McHerron was injured when her skis came into contact with a bare spot on the trail, causing her to fall. She brought an action in the Superior Court against the defendant. She claimed that the defendant was negligent in failing to provide adequate man-made snow cover for an open, heavily traveled trail. The defendant filed a motion for summary judgment on the ground that the plaintiffs’ action was barred by the provisions of G. L. c. 143, § 710, as amended by St. 1987, c. 287, which preclude a skier from recovering from an inherent risk of the sport. Since a bare spot is one of the inherent risks of the sport enumerated in § 710, the motion judge agreed with the defendant and allowed the motion. On appeal, the plaintiffs claim that the judge erred because a material issue of fact exists as to whether the bare spot was an unavoidable risk inherent in the sport of skiing. Although the motion judge’s interpretation is not without merit, we find we agree with the plaintiffs and reverse.
+In enacting G. L. c. 143, §§ 71H-71S, it is generally accepted that the Legislature intended not only to decrease the economic threat to the ski industry but also to enhance the safety of skiers. Atkins v. Jiminy Peak, Inc., 401 Mass. 81, 84, 85 (1987). General Laws c. 143, § 71N(6), as inserted by St. 1978, c. 455, § 4, provides that a ski area operator “shall be responsible for the maintenance and operation of ski areas under its control in a reasonably safe condition or manner; provided, however, that ski area operators shall not be liable for damages to persons or property, while skiing, which arise out of the risks inherent in the sport of skiing.” This statute must be read and harmonized with c. 143, § 710, with all the words of both sections given practical effect. School Comm. of Brockton v. Teachers’ Retirement Bd., 393 Mass. 256, 262 (1984). Section 710 provides that a skier “shall be presumed to know of the existence of certain unavoidable risks inherent in the sport of skiing, which shall include, but not be limited to, variations in terrain, surface or subsurface snow, ice conditions or bare spots, and shall assume the risk of injury or loss caused by such inherent risks” (emphasis supplied). In using the word “unavoidable” to modify risks inherent in the sport of skiing, we conclude that the Legislature did not intend to protect the operator from liability for injuries caused by a known hazard that could have been eliminated by the use of ordinary care by the ski operator. This interpretation is consonant with the purpose of the statute and in accord with the interpretation of similar statutes in other jurisdictions. See, e.g., Hiibschman v. Valdez, 821 P.2d 1354 (Alaska 1991); Mead v. M.S.B., Inc., 264 Mont. 465 (1994); Pierce v. Mount Hood Meadows, Or., Ltd., 118 Or. App. 450 (1993); Clover v. Snowbird Ski Resort, 808 P.2d 1037 (Utah 1991). See also Larson v. Powder Ridge Ski Corp., 432 N.W.2d 774 (Minn. Ct. App. 1988). To hold otherwise would be to shield a ski operator from liability for a known hazard caused by its own neglect.
+In this case, the plaintiffs have averred that the injuries were the result of a bare spot caused by the failure of the ski operator to provide adequate man-made snow cover on a heavily traveled trail leading to a chair lift at the base of the mountain where there was limited maneuverability. While it may be unreasonable to expect a ski operator to provide man-made snow cover for bare spots on every open trail, it may not be unreasonable to expect that the operator will provide adequate man-made cover on a heavily traveled trail leading to a chair lift. In any event, we conclude the plaintiffs’ averments were sufficient to present a material issue of fact as to whether the defendant knew or should have known that the bare spot on the trail was a risk that could have been avoided through the exercise of ordinary care by the defendant. Summary judgment was inappropriate in these circumstances.
+Judgment reversed.
