@@ -1,0 +1,42 @@
+---
+court: "Massachusetts Appellate Division"
+decided: "1986-11-17"
+citations: ["1986 Mass. App. Div. 161"]
+reporter: "mass-app-div-annual"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Present: Doyle, P..J.,Forte& Jodrey, JJ."]
+parties: ["Gary E. Gardner and another vs. Robert E. Burke"]
+source_url: "https://static.case.law/mass-app-div-annual/1986/cases/0161-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6815176
+cites_cases: ["1985 Mass. App. Div. 178", "26 Mass. App. Dec. 181", "280 Mass. 514", "291 Mass. 527", "297 Mass. 448", "311 Mass. 521", "314 Mass. 167", "348 Mass. 458"]
+---
+
+# Gardner v. Burke
+
+## Majority (Jodrey, J.)
+
+Jodrey, J.
+In this act ion, t he plaint iffs seek t o recover damages incurred as a result of an alleged misrepresentation by the defendant as to the cause of flooding which occurred on the* premises at 2 Candlewood Road, Lynnfield, Massachusetts, in the spring of 198:1.
+Judgment was entered for the defendant.
+There was evidence t hat t he part ies ent (‘red int o an agreement for t he sale and purchase of the defendant’s Lynnfield home, the sale was completed and the plaintiffs took title to the premise's.
+The agreement contained the following provision:
+Seller has informed buyer t hat during t he spring, 1988, wat er from the adjoining property overflowed onto the premises as á result of a broken drain pipe on said adjoining property. Seller has further informed buyer that the septic system on the premises, including the leaching field and connecting pipes, has functioned properly during the period buyer [sic] has owned the premises, except that at times when the underlying wat er table rises (typically in spring) t he system may become; temporarily overloaded. The provisions of t his paragraph shall survive the delivery of the deed.
+Attorney Moore, a witness called by the defendant, testified that the above provision was discussed with plaintiffs’ counsel prior to the execution of the purchase and sale agreement.
+There was further evidence tending to show the following: The plaintiffs were informed by the defendant about the water problem in the spring of 1988. The defendant informed the plaintiffs of a problem with the pool installed in 1980; that each spring when the high water table would rise it caused the vinyl lining of the pool to separate from the metal walls of the pool. The defendant stated that the drain pipe referred to above was repaired prior to his sale of the premises on August 22, 1983.
+The defendant stated that, in the fall of 1980, during construction of the inground pool, he had a drain system installed on the premises at a cost to the defendant of $3,375.00. This system consisted of an interceptor drain approximately 250 feet in length which was filled with crushed stone and led to a dry well. Pipes connecting the down spouts of the premises to the interceptor drain were also included.
+In 1984, one Pezella, a drainage repair man called by the plaintiffs to repair drainage problems on the premises, saw water on the site similar to that in 1983, and thai the source of the water was the surrounding properties. There was also evidence that the plaintiffs paid $9,911.03 in the spring of 1984 to resolve the water problem on the premises.
+At the close of the trial, before final arguments, the plaintiffs made the following requests for rulings:
+1. Defendant’s statements to plaintiffs contained in paragraph 30 of the purchase and sales agreement between the parties and cited in paragraph 4 of plaintiffs request for findings of fact is actionable as deceit because defendant made the statements as statements of material fact, as of his own knowledge, intending plaintiffs to rely thereon and those statements of fact were susceptible of exact knowledge.
+2. Even if the broken drain pipe on the adjacent property was part of the cause of water accumulating on the premises in the spring, 1983, defendant had a duty to disclose the other causes of water accumulating on the premises at that time.
+The trial judge declined to rule on these requests, stating that they did not call for rulings of law but for findings of fact.
+The plaintiffs, claiming to be aggrieved by the failure of the court to rule on their requests for rulings, bring this appeal.
+A judge sitting without a jury in the District Court Department must correctly instruct himself as to governing principles of law, and be guided by them in making findings of fact. Stella v. Curtis, 348 Mass. 458 (1965); Perry v. Hanover, 314 Mass. 167 (1943). Upon proper requests for rulings of law, the judge must state principles of law adopted by him for his guidance as trier of fact in order that the right of appellate review may be preserved. Perry v. Hanover, supra; Memishian v. Phipps, 311 Mass. 521 (1942). The judge is not required in the district court to make findings of fact even though requested to do so. Dist./Mun. Cts. R. Civ. P., Rule 52 (a~); Ashapa v. Reed, 280 Mass. 514, 516 (1932); United Distributors Inc. v. Souza, 26 Mass. App. Dec. 181 (1962).
+While findings of fact cannot be required, a trial judge may wish to consider making special findings of fact in appropriate cases where such findings would make clear to the parties, to counsel, and to an appellate court those subsidiary, factual determinations to which rules of law were applied and which underlie the court’s ultimate decision. See Baybank Harvard Trust Co. v. Costello, 1985 Mass. App. Div. 178.
+It is frequently difficult to determine whether a request is a request for a ruling of law or for afinding of fact. Sometimes requests filed with the court are mistitled. The judge is not bound by the designation used by the requestor. It is the substance of the request that matters. A request, for example, that “the statute of limitations on a contract under seal is twenty years” is obviously a request for a ruling of law; and a request which states that “the defendant was under the influence of intoxicating liquor when the accident took place” is clearly a request for a finding of fact.
+Some requests are quite complex and require careful consideration and analysis if ajudge is to avoid falling into error. The granting of a request which really calls for a finding of fact, though appearing under the heading “requests for rulings,” often tends to raise doubt and to cause difficulty in the determination by any appellate court whether the judge in granting the request intended to make a ruling of law or a finding of fact. See Pearson v. O'Connell, 291 Mass. 527, 529 (1935).
+If the language of a request imports that it is directed to a finding of fact, it is properly denied or need not be dealt with. A test to indicate whether a request is directed to a finding or a ruling of law is to determine whether the phraseology is more characteristic of a call for the application of reasoning from facts than of a request for a declaration of legal principles. Gibbons v. Denoncourt, 297 Mass. 448, 457 (1937).
+Plaintiffs’ first request assumes facts not necessarily found by the trial judge or supported by the reported evidence. It would require the judge to find, among other things, that there was a misrepresentation, that it was made with knowledge of its falsity, that it related to a matter susceptible of actual knowledge, that the defendant intended that the plaintiffs rely on it or that there was a failure to disclose known facts when there was a duty to disclose them. The trial judge was correct in refusing to act upon this request.
+The second request would impose upon the defendant a duty to disclose causes of water accumulating on the premises whether or not he knew of them and whether or not the same were susceptible of actual knowledge. The law imposes no such obligation in these circumstances. It was disclosed that the water table in the area rises at certain times, normally in the spring. It may be inferred that this was due to the usual spring thaw and seasonal storms. There was no evidence that defendant knew of other causes such as a neighbor’s sump pump, a broken water main, the channeling or (lumping of water from outside the property or a tidal problem. This request also assumes facts which the trial judge was not required to find. The refusal to act. upon this request was proper.
+There being no error in the trial court’s refusal t.o grant, the foregoing requests, this report is dismissed.
