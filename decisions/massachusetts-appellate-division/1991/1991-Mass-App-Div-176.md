@@ -1,0 +1,29 @@
+---
+court: "Massachusetts Appellate Division"
+decided: "1991-11-07"
+citations: ["1991 Mass. App. Div. 176"]
+reporter: "mass-app-div-annual"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Present Dolan, P.J., Kane & Martin, JJ."]
+parties: ["Richard Testa vs. Brookline Rent Control Board, and others"]
+source_url: "https://static.case.law/mass-app-div-annual/1991/cases/0176-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6815174
+cites_cases: ["18 Mass. App. Ct. 272", "26 Mass. App. Ct. 985", "324 Mass. 309", "389 Mass. 920"]
+---
+
+# Testa v. Brookline Rent Control Board
+
+## Majority (Kane, J.)
+
+Kane, J.
+Defendant-landlord in November of 1988 petitioned the Brookline Rent Control Board to issue a Certificate of Eviction for plaintiff Richard Testa’s tenancy. The Board, after hearing, issued the eviction certificate on the ground that tenant’s consistent late payment of rent over the course of the twelve months preceding the Board’s hearing represented “just cause” for eviction. Judge Shubow reviewed the Board’s decision and affirmed. The tenant presently seeks our review and argues that the Board’s action was unlawful because, under the Board’s bylaws and regulations, the Board may only approve an eviction for late payment of rent where the late payments occur during the twelve months preceding the filing of the petition. Landlord agrees that a specific rent control regulation authorizes the Board to find just cause in the case of late rental payments that occur in the twelve months preceding the filing of the petition but submits that this specific authorization does not bar the Board from applying the broad just cause clause to consistently late rental payments that occur in the interim between the filing of the petition and the Board’s hearing. We affirm.
+Brookline’s rent control bylaws delineate ten independent grounds for eviction; and the tenth ground, unlike the other specific nine grounds, is broadly framed as “just cause.” Further meaning on “just cause” is provided by regulations, one of which requires a just cause finding where late rental payments exceed 135 days during a 12-month period preceding the filing of a petition for Certificate of Eviction. These regulations offer no guidance on the applicability of just cause to late rental payments that occur after the filing of the petition.
+In this eviction petition, the landlord claimed six eviction grounds including just cause which he specified as the tenant’s consistent late payment of rent. The Board found 45 days of late rental payments in the twelve months preceding the filing of the petition and found 175 days of late rental payments in the twelve months between the filing of the petition and the Board’s hearing. The Board ruled that, though the 175 tardy days did not meet the regulation’s definition of just cause, the tardy payments did satisfy the broad just cause definition of the bylaws; and the Board granted the Certificate of Eviction.
+Plaintiff argues that the Board’s action was unlawful because the Board’s bylaws do not permit a just cause eviction for late rental payments not meeting the terms of Regulation 37. This argument implies that the authors of the bylaws and regulations intended to narrow the meaning of just cause in the context of late rental payments to the specific definition found in Regulation 37. We must test the value of this reasoning by a review and application of traditional principles of construction.
+A bylaw must be interpreted in a manner that achieves the author’s intent Selectmen of Topsfield v. State Racing Commission, 324 Mass. 309 (1949). This method requires that we give the words “their ordinary and usual meaning. at312. It also requires that deference begiven to administrative interpretation of a bylaw. See Mass. Organization of State Engineers and Scientists v. Labor Relations Commission, 389 Mass. 920 (1963). This is especially so in rent control matters. H.N. Gorin & Leeder Management Co. v. Rent Control Board of Cambridge, 18 Mass. App. Ct. 272, 276 (1984); Slavin v. Rent Control Board of Brookline, 26 Mass. App. Ct. 985, 986 (1988).
+This Board interpreted its rent control bylaws to permit a broader treatment of late rental payments than that provided by a regulation. This interpretation satisfies the flexibility intended by the broad just cause language and also fulfills the regulation’s expressed policy interests in requiring that an eviction for late payments be based on substantial and proximate violations. These policy interests expressed by numerical and time line requirements were served as the number of days (175) exceeded the regulation’s numerical requirement and the period of time comported with the regulation’s protection against violations not being too remote. This interpretation thus accommodates both the intent of the bylaw and the regulation. Furthermore, this interpretation is a reasonable one as it avoids the anomalous outcome of denying the eviction because of allegedly inadequate facts which, upon the filing of a new petition, would convert into facts compelling an opposite result. We thus find the Board’s application of just cause in this case to be a reasonable and faithful construction of its bylaws and regulations.
+Report dismissed.
+The Brookline Rent Control Board is hereinafter referred to as the Board.
+Regulation 37:8 (a) and 8(b) relevantly provide “Consistent late payment of rent shall be considered as that rent which... when added together totals 135 days or more late in the twelve (12) month period immediately preceding the filing of an application for certificate of eviction. ... Such consistent late payment of rent as defined in paragraph (a) of this section shall be considered sufficient just cause under section 9(a) (10) of ArticleXXXVIII to warrant the issuance of a certificate of eviction.”
