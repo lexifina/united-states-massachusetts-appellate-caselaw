@@ -1,0 +1,27 @@
+---
+court: "Massachusetts Appellate Division"
+decided: "1987-10-22"
+citations: ["1987 Mass. App. Div. 177"]
+reporter: "mass-app-div-annual"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Present: Doyle, P.J., Forte & Ruma, JJ."]
+parties: ["C.D. DiGiambattista vs. Anne P. Orlandella and another"]
+source_url: "https://static.case.law/mass-app-div-annual/1987/cases/0177-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6815469
+cites_cases: ["1980 Mass. App. Div. 117", "1980 Mass. App. Div. 120", "1980 Mass. App. Div. 123", "1982 Mass. App. Div. 156", "1983 Mass. App. Div. 24", "1983 Mass. App. Div. 37", "1984 Mass. App. Div. 254", "357 Mass. 772", "370 Mass. 266", "384 Mass. 481", "387 Mass. 841", "388 Mass. 1003", "393 Mass. 617", "422 U.S. 806", "43 Mass. App. Dec. 212", "48 Mass. App. Dec. 132"]
+---
+
+# DiGiambattista v. Orlandella
+
+## Majority (Forte, J.)
+
+Forte, J.
+Plaintiff C.D. DiGiambattista, acting pro se, has prosecuted two Dist./Mun. Cts. R. Civ. P., Rule 64 (c) (6) appeals to this Division to challenge the trial court’s dismissal of his draft reports. These draft reports were filed in two separate actions against defendants Anne P. Orlandella and Ralph A. Orlandella which were instituted in the Malden Division and thereafter dismissed on defendants’ motion.
+Each of the reports sub judice consists in its entirety of only three sentences; to wit, (a) that the plaintiffs cause of action was dismissed; (b) that the plaintiffs subsequent draft report was dismissed; and (c) that this Division should determine if the plaintiffs non-compliance with Rule 64 constituted an “inconsequential breach [of] or a serious misstep” with respect to procedural mandates. Cape Cod Bank & Trust Co. v. LeTendre, 384 Mass. 481 (1981). Literally no other information as to the procedural progression or legal substance of the plaintiff’s- claims is advanced. The precise nature of the plaintiffs deviation from'Rule 64 strictures is also undisclosed. Obviously, the reports omit the requisite statement that they contain all evidence material to the questions reported. See Comfort Air Systems v. Cacopardo, 370 Mass. 266, 259 (1976); Chavoor v. Lewis, 1980 Mass. App. Div. 123.
+1. The report in Case Number 8931 (Malden No. 87-289) at least states that the plaintiffs cause of action was for "forcible detainer” and summary possession. This threshold item of information is sufficient to dictate the dismissal of the plaintiff’s appeal, for this Division enjoys no jurisdiction in summary process proceedings. Labao v. Rudnicki, 357 Mass. 772 (1970); Bristol Industrties, Inc. v. Calef Bros. & Co., 48 Mass. App. Dec. 132, 134 (1972); DiNatali v. Jackson, 43 Mass. App. Dec. 212, 216-217 (1970).
+2. Conversely, it is apparent that Case Number 8932 is within the jurisdictional gambit of this Division as the report labels the plaintiffs claim as a “Complaint for Damages,” and. the docket’ denotes the action as one in contract. Beyond this point, the critical deficiencies of the report preclude even the most superficial investigation of possible trial court error. .
+Rule 64 (c) (2) of the Dist./Mun. Cts. R. Civ. P. mandates the inclusion in a draft report of a statement of the issues raised and of all facts essential to á full understanding of the case presented. The report envisioned by Rule 64 is a concise, complete, accurate record of trial court evidence and proceedings, which is designed to serve as the exclusive vehicle for the presentation of an appeal to this Division. Vernon A. Martin, Inc. v. Glidden, 1980 Mass. App. Div. 120, 121; Lechiara v. Amato, 1980 Mass. App. Div. 117, 118. Insistence on the comprehensiveness of a report does not signify an unwarranted preoccupation with procedural technicalities, but rather constitutes a pragmatic recognition of the obvious impossibility of considering what is not presented for review. Brooks v. Hautala, 1984 Mass. App. Div. 254, 254-255; Kaps, Inc. v. Sherman, 1983 Mass. App. Div. 24, 25-26.
+In assessing the fatal inadequacies of the present appeal, we remain cognizant of the liberal construction to be accorded pleadings and other documents drafted by laymen, Roberts v. Kilgore, 1983 Mass. App. Div. 37, 39 and cases cited, and of the degree of leniency to be employed in evaluating a pro se litigant’s adherence to procedural rules. Mmoe v. Commonwealth, 393 Mass. 617, 620 (1985). Unfortunately, the plaintiffs appeal remains nearly unfathomable upon the most generous reading of the three-sentence report at issue. Moreover, the “right of self-representation is not a ‘license not to comply with relevant rules of procedural and substantive law.’... A pro se litigant is bound by the same rules of procedure as litigants with counsel.” International Fidelity Ins. Co. v. Wilson, 387 Mass. 841, 847 (1983), quoting Faretta v. California, 422 U.S. 806, 834-835 n.46 (1975). To endeavor to identify the plaintiffs claims or to proceed in anyway upon the basis of the reportbefore us would require an impermissible excursion into speculation and conjecture in violation of the most elementary concepts of acceptable appellate procedure.
+A report which fails to disclose prejudicial error must be dismissed. Black v. Haar, 1982 Mass. App. Div. 156, 157 and cases cited. See also, McGowan v. Director of Division of Employment Security, 388 Mass. 1003, 1004 (1983). So ordered.
