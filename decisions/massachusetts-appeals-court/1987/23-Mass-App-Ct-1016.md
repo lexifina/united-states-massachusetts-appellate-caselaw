@@ -1,0 +1,22 @@
+---
+court: "Massachusetts Appeals Court"
+decided: "1987-03-30"
+citations: ["23 Mass. App. Ct. 1016"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Commonwealth vs. William T. Maloney."]
+source_url: "https://static.case.law/mass-app-ct/23/cases/1016-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3992693
+cites_cases: ["10 Mass. App. Ct. 748", "18 Mass. App. Ct. 930", "22 Mass. App. Ct. 921", "325 Mass. 143", "370 Mass. 147", "378 Mass. 671", "378 Mass. 895", "379 Mass. 786", "380 Mass. 296", "382 Mass. 189", "383 Mass. 615", "387 Mass. 748", "390 Mass. 480", "391 Mass. 97", "392 Mass. 126", "469 U.S. 840"]
+---
+
+# Commonwealth v. Maloney
+
+## Majority
+
+The defendant has appealed from his conviction by a jury on an indictment framed under G. L. c. 265, § 13B, as in effect prior to St. 1986, c. 187. 1. The evidence at the close of the Commonwealth’s case (Commonwealth v. Kelley, 370 Mass. 147, 149-150 [1976]) was sufficient to warrant a rational trier of fact (Commonwealth v. Latimore, 378 Mass. 671, 677-678 [1979] ) in concluding beyond a reasonable doubt that the defendant had committed each of the elements of the offence as explicated in Commonwealth v. Burke, 390 Mass. 480, 482-487 (1983). In particular, the age of the victim (ten years at the time of the offence) and his obvious difficulty in answering some of the prosecutor’s questions at trial warranted a finding that the victim had not consented to the indecent touching proved through other witnesses. Commonwealth v. Burke, 390 Mass. at 484,487. Commonwealth v. Brenner, 18 Mass. App. Ct. 930, 931-932 (1984). The jury could also consider the improbability that anyone who voluntarily engages in an amateur wrestling match consents to an intentional squeezing of his genitals. Compare Commonwealth v. Sostilio, 325 Mass. 143, 146 (1949) (wanton and reckless driving not an essential part of automobile racing); Commonwealth v. Appleby, 380 Mass. 296, 308-311 (1980) (private consensual sadomasochistic behavior not a defence to charge of assault and battery by means of a dangerous weapon). 2. The request for an instruction on the effect of an accidental touching came late (see Mass.R.Crim.P. 24[b], 378 Mass. 895 [1979]; Commonwealth v. Deagle, 10 Mass. App. Ct. 748, 751 [1980] ) and was defective in the sense that, if given verbatim, it would have had the effect of reversing the burden of proof on that question (see Lannon v. Commonwealth, 379 Mass. 786,792-793 [1980]; Commonwealth v. Zezima, 387 Mass. 748, 756-757 [1982]), but there had been some evidence which warranted a finding that the touching had been accidental and the prosecutor had dealt with that evidence in his closing argument. In the circumstances, the judge, no matter how incredible he may have thought the evidence was (see Commonwealth v. Robinson, 382 Mass. 189, 200 [1981]), should have given a specific instruction to the effect that the Commonwealth had the burden of proving beyond a reasonable doubt that the touching had not been accidental. Lannon v. Commonwealth, 379 Mass. at 790. Commonwealth v. Zaccagnini, 383 Mass. 615, 616 (1981). Commonwealth v. Palmariello, 392 Mass. 126, 145 (1984). We see no need for reversal, however, because the essential purpose of the defendant’s request was served by other parts of the charge. The jury were properly instructed on the presumption of innocence and on the Commonwealth’s burden of proving each of the essential elements of the offence beyond a reasonable doubt; and they were instructed three different times, in varying language, that the Commonwealth was required to prove that any indecent touching had been intentional (e.g., “Thus, in order to prove [an] indecent assault and battery on a child under the age of fourteen, the Commonwealth must prove beyond a reasonable doubt that the [defendant committed an intentional, unconsented to and indecent touching of a child under the age of fourteen”). We are of opinion that this case is governed by Commonwealth v. Lowe, 391 Mass. 97, 108-110, cert. denied, 469 U.S. 840 (1984), and that a new trial is not required. Compare Commonwealth v. Hakala, 22 Mass. App. Ct. 921, 923 (1986).
+William R. Hill, Jr., Committee for Public Counsel Services, for the defendant.
+Charles K. Stephenson, Assistant District Attorney, for the Commonwealth.
+Judgment affirmed.
