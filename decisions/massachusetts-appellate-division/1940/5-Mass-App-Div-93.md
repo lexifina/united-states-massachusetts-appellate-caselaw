@@ -1,0 +1,48 @@
+---
+court: "Massachusetts Appellate Division"
+decided: "1940-04-04"
+citations: ["5 Mass. App. Div. 93"]
+reporter: "mass-app-div"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Present: Jones, P. J., Pettingeul <& Sullivan, JJ."]
+parties: ["NEW JERSEY INSURANCE CO. vs. RUSSELL H. MACK"]
+source_url: "https://static.case.law/mass-app-div/5/cases/0093-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3881838
+cites_cases: ["102 Mass. 313", "102 Mass. 316", "103 Mass. 219", "145 Mass. 13", "153 Mass. 536", "168 Mass. 245", "223 Mass. 44", "290 Mass. 560", "3 Allen 256", "5 Allen 333", "54 Mass. 99"]
+---
+
+# New Jersey Insurance v. Mack
+
+## Majority (Pettingell, J.)
+
+Pettingell, J.
+Action of contract on a count for money had and received. The plaintiff is an insurance company which had insured the defendant against liability in the use of his automobile, and, after his collision with another car, had paid the defendant, in accordance with the policy issued to him, the sum of one hundred and twenty-one dollars for the damage suffered by him.
+The plaintiff filed a Bill of Particulars describing its claim against the defendant, in which it alleges that after the defendant had executed an assignment to the plaintiff of the defendant’s rights against the other party involved in the collision, one Cora McKenna, the defendant, “in violation of his agreement and duty to the plaintiff, executed a release under seal to the said Cora McKenna and her agents whereby the rights of the plaintiff against Cora McKenna and her agents were barred.”
+The case was tried without oral evidence. The plaintiff offered in evidence four instruments, as follows: a proof of loss, signed by the defendant in which he stated his loss under the policy to be one hundred and twenty-one dollars; a receipt, signed by the defendant, acknowledging the receipt of payment to him of one hundred and twenty-one dollars in full of his claims under the policy with the plaintiff, assigning to the plaintiff all claims and demands accruing to the defendant because of the collision, and stating that the plaintiff is subrogated to the claims of the defendant; a specific assignment of the defendant’s claims and causes of action against Cora McKenna, growing out of the automobile collision ;, a release under seal, dated later than the three instruments already mentioned, whereby the defendant for consideration of one hundred and fifty dollars, releases the said Cora McKenna “from any and all claims by reason of said accident”.
+The defendant offered no evidence.
+The plaintiff filed seven requests for rulings; which, with the disposition of each by the trial judge, are as follows:
+“1. If the Court finds the facts set forth in the plaintiff’s Bill of Particulars, the Court is required to find for the plaintiff and on its declaration for money had and received.
+Granted as a statement of law; however, I do not find the facts set forth in the plaintiff’s Bill of Particulars.
+“2. Upon the documentary evidence introduced by the plaintiff, the Court is required to find for the plaintiff on its declaration.
+Denied.
+“3. The defendant’s act in releasing the parties primarily liable for the damage for which the plaintiff indemnified the defendant, barred the plaintiff, as subrogee, from proceeding with a claim against the person or persons connected with such loss or damage and the defendant, therefore, is not entitled in equity and good conscience, to retain money paid by the plaintiff to the defendant, that is, the sum of One Hundred Twenty-one ($121.00) Dollars, under the subrogation agreement.
+Denied; on the evidence before me, I do not find affirmatively that the defendant’s act barred the plaintiff as subrogee from proceeding as set forth in said request. I rule that in an action between the present parties I am not called upon to decide the legal effect of a written instrument involving the rights of a third party; see, however, Hart vs. Western Railroad Corp., 54 Mass. 99 and also Wall vs. Mason, 102 Mass. 316.; furthermore, there was no evidence that the so-called release referred to purporting to release a third party from liability was ever delivered to said third party.
+“4. The defendant, by his act, in executing a release under seal, introduced in evidence, has prejudiced the rights of the plaintiff, and the plaintiff is entitled to recover the $121.00 paid the defendant, as evidenced by the subrogation receipt.
+Denied; see Ruling on Request numbered 3.
+“5. The law is settled that, if the insured does an act which takes away the insurer’s right to subrogation, the_ insured loses his right to indemnity under the policy, and any money which he has received from the insurer, he holds as Trustee and the insurer is entitled to recover such money under an action for money had and received.
+Granted as a statement of law; however, I do not find affirmatively that the insured did an act which took away the insurer’s right to subrogation. See Ruling on request numbered 3.
+“6. The plaintiff is entitled to recover in this action the sum of $121.00 paid by the New Jersey Insurance Company to the defendant because the defendant signed a full release to Cora McKenna et al. which barred the plaintiff from recovering from said Cora McKenna et al. on the claim to which the plaintiff insurance company became subrogated, by reason of said payment by the plaintiff insurance company to said defendant.
+Denied, as I do not find the fact upon which said request is predicated.
+“7. It makes no difference whether the act of the defendant in executing a complete release which bars the New Jersey Insurance Company from proceeding against McKenna et al. was unintentional or whether it was made in utter disregard of the rights of the New Jersey Insurance Company, the plaintiff is, nevertheless, entitled to recover the money which it paid to the defendant.”
+Granted as a statement of law; however, I do not find that the defendant did an act which barred the plaintiff from proceeding against said McKenna.
+Where an insurer pays a claim, legally due in accordance with a policy, the insurer is subrogated to the rights of the insured and may sue in the name of the insured. Hart v. Western Railroad, 13 Met. 99, at 107, 108. Blake v. Traders National Bank, 145 Mass. 13, at 15. Stevens v. Stewart-Warner Speedometer Corp., 223 Mass. 44, at 46. Where, on the facts, subrogation exists, no formal assignment by the insured is necessary to transfer his rights to the insured. They pass by operation of law. Wall v. Mason, 102 Mass. 313, at 316. Piper v. Childs, 290 Mass. 560, at 564.
+The plaintiff’s right to sue in the defendant’s name is an equitable right which the courts will protect. Any attempt on the part of the insured to discharge his claim against the third party is a fraud upon the insurer. Stevens v. Parker, 5 Allen 333, at 337. Troeder v. Hyams, 153 Mass. 536, at 538.
+The question immediately arises whether in this case the insured had any power, subrogation having taken place by operation of law, to do anything which would affect injuriously the rights of the insurer. In Hart v. Western Railroad, supra, a formal discharge given hy the insured was brushed aside as no bar. The language of the court in Clark v. Wilson, 103 Mass. 219, at 221, 222, would seem to indicate that where the insurer gains such a right by subrogation, it “vests” as of the time of the loss. In this respect the case may differ materially from that of an ordinary assignment of a chose in action where notice to the debtor may be necessary.
+In the case before us, however, the trial judge was not specifically asked to rule upon this question. In effect, he was asked to rule that what the insured had done had sufficiently injured the insurer to entitle it, to have its money back. It is to be noted that there is neither allegation nor proof that the defendant received payment twice, once from the plaintiff and once from McKenna, unless the statement of consideration in the release is such an admission as to bind the defendant.
+The trial judge disposed of the entire issue by pointing out that there was no evidence that the release had ever been delivered to the other party to the collision, McKenna.
+The case was heard without oral evidence. The plaintiff’s evidence was the four instruments already mentioned. There was no explanation of the possession by the plaintiff of the release to McKenna, an instrument to which the plaintiff was not a party, and in which it had no beneficial interest. Without oral evidence, the trial judge could have ' found that the release was signed by the defendant, for he had for comparison, the other instruments signed by the defendant, the signatures not being denied and there being no objection to their admission. Once in, they were entitled to whatever probative value they had.
+Where a document is produced by one who is legitimately in possession of it, the delivery of it to him may be presumed. Jones v. New York Life Ins. Co., 168 Mass. 245, at 246. Here, however, we have nothing to explain where or how, or why, the plaintiff acquired the release and no testimony that it was ever in the hands of McKenna. See Stevens vs. Parker, 3 Allen 256, at 257, 258.
+The burden, clearly, was on the plaintiff to prove a delivery of the release to McKenna.
+Thus, whether or not the release, if delivered, would have harmed the plaintiff, delivery not having been proven, the plaintiff shows no harm, and no right to recover. There was no error in the disposition of the rulings requested by the plaintiff and the report is to be dismissed.
