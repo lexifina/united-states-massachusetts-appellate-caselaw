@@ -1,0 +1,32 @@
+---
+court: "Massachusetts Appellate Division"
+decided: "1957"
+citations: ["14 Mass. App. Dec. 84"]
+reporter: "mass-app-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Present: Nash, P. J., Callan and Sgarzi, JJ."]
+parties: ["THE BENEFICIAL FINANCE COMPANY v. JOSEPH CASADONTE"]
+source_url: "https://static.case.law/mass-app-dec/14/cases/0084-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6063748
+cites_cases: ["102 Mass. 439", "11 F2d 897", "172 Mass. 240", "218 Mass. 167", "218 Mass. 310", "226 Mass. 175", "247 Fed. 669", "262 Mass. 63", "273 N.Y.S. 136", "291 Mass. 450", "317 Mass. 485"]
+---
+
+# Beneficial Finance Co. v. Casadonte
+
+## Majority (Callan, J.)
+
+Callan, J.
+This is an action of contract and tort to recover $458.54, with interest. Although the declaration contained two counts, count 2 in deceit is the only one on which the plaintiff is proceeding.
+The following facts do not appear to be in dispute. On September 3, 1953, the defendant being indebted to the plaintiff on a promissory note dated June 23rd, 1953, hereinafter referred to as the first note, on which there was due a balance of $456.00, obtained from the plaintiff an additional loan of $44.00 in cash. A new note dated September 3rd, 1953, hereinafter referred to as the second note, for $500.00 was then executed which included these two sums. The defendant falsely represented on a financial statement to the plaintiff just prior to the execution of the second note that his total indebtedness and liabilities consisted only of the balance of $456.00 owed the plaintiff on the first note. In fact the defendant had liabilities of over $5,000,00. The plaintiff, relying on the financial statement made the loan and received the second note.
+In January of 1954, the defendant filed a voluntary petition in bankruptcy, was later adjudged a bankrupt and received a discharge.
+The defendant concedes that he deceived the plaintiff and that his discharge in bankruptcy does not preclude recovery against him in this action to the extent of $44.00. At the time of trial the balance due on the second note was $458.54. There was testimony at the trial by the plaintiff’s loan-manager that when he gave back to the defendant the first note upon which there was a balance of $456.00, the value of this note was $456.00. The sole question is the amount which the plaintiff is entitled to recover.
+The plaintiff duly filed ten requests for rulings but the only one we are concerned with is No. 3 which was denied by the judge. The others were allowed. Request No. 3 is as follows:
+“3. The evidence warrants a finding that the defendant on September 3, 1953 applied for a loan from the plaintiff in the sum of $500.00; that the defendant on said date signed a promissory note in the sum of $500.00 payable to the plaintiff, that the defendant, in order to induce the plaintiff or its agents to make said loan, signed a financial statement, a copy of which is annexed to the Plaintiff’s Declaration and that the plaintiff through its agents returned to the defendant a note in the amount of $500.00 and accepted in place thereof said new note due at a future date relying on said financial statement and believing it to be true; that said financial statement was a materially false statement in writing representing the defendant’s financial condition, and that the plaintiff or its agents did not know and had no reason to know that the said financial statement w-as a materially false statement; that the transaction constituted the obtaining of money and property by false pretences and false representations within the meaning of Section 17 of the Bankruptcy-Act of 1939. Samet v. Farmers Bank, 247 Fed. 669; Re Weitzman, 11 F2d 897; Harred Const. Corp. v. Englander, 273 N.Y.S. 136, 139.”
+The judge made a finding of facts and found for the plaintiff in the sum of $44.00. The plaintiff, claiming to be aggrieved by the denial of his request and by the judge’s finding in respect to damages, claims a report to the Appellate Division.
+There was no fraud surrounding the execution of the first note. The plaintiff’s value of the first note on Sept. 3, was $456.00. This is the value placed on it by the plaintiff’s loan-manager. Its value at that time would to the same extent be the value of the second note.
+Since bankruptcy intervened after the giving of the second note the defendant would have normally been! discharged from all liability on the same unless its execution was tainted with fraud. "A discharge in bankruptcy shall release a bankrupt from all his provable debts whether allowable in full or in part, except such as are liabilities for obtaining money or property by false pretences or false representations.” Bankruptcy Act. Par. 17 Sub. a (2). USC 1940 Ed. Title II — 11 USC Par. 35.
+The defendant concedes that fraud was involved in accomplishing what he desired. The plaintiff is entitled therefore to damages the measure of which is the difference between the actual value of what the plaintiff received and what that value would have been if the defendant’s representations had been true. Morse v. Hutchins, 102 Mass. 439; Whiting v. Price, 172 Mass. 240; Kerr v. Shurtleff, 218 Mass. 167; McKinley v. Warren, 218 Mass. 310; Vouras v. Pierce, 226 Mass. 175; Leader v. Kolligan, 262 Mass. 63; David v. Belmont, 291 Mass. 450; Nat. Shawmut Bank v. Johnson, 317 Mass. 485, 491.
+If the defendant’s representations had been true, the value of the second note would have been $300. Upon a default and had bankruptcy not intervened it would have been the foundation for a judgment of $500.00. A note with the value of $500,00 is what the plaintiff should have received. Its value, however, at this time was only $456.00. The damage to the plaintiff is $44.00. The correct rule was applied by the judge.
+The plaintiff contends that the defendant by his fraud in procuring a return of the first note "obtained property” which under the bankruptcy act would entitle him to recover the value of the first note. With this contention we cannot agree. The plaintiff only changed his position financially in this transaction to the extent of $44.00. The value of the property he gave up he received back in the second note. To allow the plaintiff to recover more would permit him to recover what the law states the defendant is not liable for. In our opinion there is no prejudicial error and the report is ordered dismissed. So ordered.
