@@ -1,0 +1,28 @@
+---
+court: "Massachusetts Appellate Division"
+decided: "1998-06-22"
+citations: ["1998 Mass. App. Div. 131"]
+reporter: "mass-app-div-annual"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Present: LoConto, P.J., Merrigan & Brennan, JJ."]
+parties: ["Antonia McCrimmons vs. Century Pacific Housing Partnership, Ltd., and another"]
+source_url: "https://static.case.law/mass-app-div-annual/1998/cases/0131-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 11792898
+cites_cases: ["167 F.Supp. 167", "526 F.2d 1211"]
+---
+
+# McCrimmons v. Century Pacific Housing Partnership, Ltd.
+
+## Majority (LoConto, RJ.)
+
+LoConto, RJ.
+This matter came before the Western Appellate Division on the plaintiff/appellanfs Expedited Appeal pursuant to District/Municipal Court R. A. D. A., Rule 8B. The facts and issues necessary to an understanding of this case are taken from the agreed statement of the case, which by rule of court, constitutes the record on appeal. Rule 8B(a).
+After trial on the merits, an entry in favor of the defendants was made on March 29, 1996. On May 10, 1996, defendants/appellees filed a Motion to Dismiss the plaintiff/appellanfs attempt to appeal the case to the Appellate Division. Competing post judgment motions, including the plaintiff/appellanfs Request to Extend Time and a Motion for Leave to File a Rule 8C Appeal, and the above-mentioned Motion to Dismiss, were argued before a judge, who was not the trial justice, on June 18,1996. On August 29,1996, the trial judge, without further oral argument, allowed the Motion to Dismiss the appeal, but took no action on the plaintiff/appellants motions. Aggrieved by the above rulings, on September 5,1996, and September 25, 1996, the plaintiff/appellant filed a timely Notice of Appeal and 8A Expedited Appeal, respectively. She also filed an 8C appeal in order to address the merits of the case itself. On October 22, 1996, the plaintiff/appellant filed an 8B agreed statement subsequent to the defendant/appellee’s rejection of the 8A appeal. On January 3,1997, the parties received notice, under the signature of the First Assistant Clerk, that the appeal to the Appellate Division of the 8C appeal was dismissed for failure to properly comply with the Rules of Appellate Procedure. The plaintiff/appellant filed a Motion to Stay Execution of the Dismissal pending the result of the outstanding motions and the 8B appeal on January 29,1997, and a Motion for Relief pursuant to Mass. R. Civ. R, Rule 60(a), on February 13,1997. After hearing held before a third judge on March 26,1997, the parties were notified on April 9,1997, that the Plaintiffs Motion for Relief was denied. Specifically, the notice from the court stated that “[A] review of the filings and docket entries reveal that both appeals were untimely.” On April 17,1997, the plaintiff/appellant filed a second Motion to Stay Execution pending the outcome of this appeal challenging the correctness of the April 9, 1997 ruling. By this appeal, the plaintiff/ appellant asks that we review the correctness of the trial judge’s denial of her Motion for Relief from Order Pursuant to Mass. R. Civ. R, Rule 60(a). Specifically, that motion requests relief from the January 3, 1997 order dismissing the 8C appeal.
+Mass. R. Civ. R, Rule 60 (a), permitting relief from a judgment or order is stated as follows:
+Clerical mistakes in judgments, orders or other parts of the record and errors therein arising from oversight or omission may be corrected by the court at any time of its own initiative or on the motion of any party and after such notice, if any, as the court orders. During the pendency of an appeal, such mistakes may be so corrected before the appeal is docketed in the appellate court, and thereafter while the appeal is pending may be so corrected with leave of the appellate court. Mass. R. Civ. R, Rule 60(a).
+This rule is limited to the correction of purely clerical errors. Within this category are, “mistakes, oversights, omissions unintended acts or failures to act.” First National Bank v. National Airlines, 167 F.Supp. 167 (S.D.N.Y. 1958). Reporters’ Notes-Mass. R. Civ. R, Rule 60(a). It is intended to cover errors “that cause the record or judgment to fail to reflect what was intended at the time of trial.” Warner v. City of Bay St. Louis, 526 F.2d 1211 (5th Cir. 1976). The rule covers a typographical or transcribing mistake or an inadvertent mistake, but a clear error of law does not qualify for relief under section (a). Warner v. City of Bay St. Louis, supra. “The test is whether the court intended to write the words or figures which it used. If it did, then no matter how erroneous the product, rule 60(a) does not control.” Warner v. City of Bay St. Louis, supra at 1212.
+The plaintiff/appellant’s reliance on Mass. R. Civ. R, Rule 60(a) to test the correctness of the dismissal by the clerk of the 8C appeal is misplaced. It is clear that there was no “clerical mistake” in the recording of the clerk’s order. Nor does the plaintiff/appellant suggest otherwise. However, she relies on that rule to support her request for relief. We rule that the trial judge’s denial of the above-mentioned motion was not error for the reasons stated above. Therefore, we order that the clerk of the trial court dismiss the appeal.
+Unless otherwise stated, references are to the District/Municipal Courts Rules for Appellate Division Appeal.
+There is nothing in the record to suggest that the plaintiff/appellant challenged the First Assistant Clerk’s authority to dismiss an appeal brought under Rule 8C. Neither these Rules nor G.L. chapter 221, §62C, confer such authority.
