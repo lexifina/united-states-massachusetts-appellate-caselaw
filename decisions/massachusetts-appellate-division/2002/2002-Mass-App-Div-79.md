@@ -1,0 +1,34 @@
+---
+court: "Massachusetts Appellate Division"
+decided: "2002-05-06"
+citations: ["2002 Mass. App. Div. 79"]
+reporter: "mass-app-div-annual"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Present Merrick, EJ., Coven & Curtin, JJ."]
+parties: ["Katherine Calhoun vs. Bechtel/Parsons/Brinckerhoff, and another"]
+source_url: "https://static.case.law/mass-app-div-annual/2002/cases/0079-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 9382103
+cites_cases: ["1991 Mass. App. Div. 199", "1997 Mass. App. Div. 91", "25 Mass. App. Ct. 953", "363 Mass. 165", "408 Mass. 108", "410 Mass. 706", "422 Mass. 281", "454 CMR 10", "8 Mass. App. Ct. 178"]
+---
+
+# Calhoun v. Bechtel/Parsons/Brinckerhoff
+
+## Majority (Merrick, P.J.)
+
+Merrick, P.J.
+This action is based upon the plaintiffs claim that because of their contractual obligations in connection with the Central Artery/Third Harbor Tunnel project (the “Project”), perhaps better known as the “Big Dig,” the defendants are liable for personal injuries she suffered from a fall on a defective sidewalk. Summary judgment was entered in favor of the defendants, and the plaintiff has appealed pursuant to Dist/Mun. Cts. RAD.A, Rule 8C.
+Defendant Bechtel/Parsons/Brinckerhoff (“Bechtel”) is a limited partnership formed for the purpose of serving as construction manager of the Project Defendant Perini/Kiewit/Cashman Joint Venture (“Perini”) was the general contractor on Contract C11A1, one of the many contracts undertaken to complete the Project
+According to the summary in the “Consolidated Construction Permit” issued by officials of the Cily of Boston, Contract C11A1 alone called for construction of about 2000 linear feet of the depressed Central Artery and access ramps, 1500 linear feet of an MBTA tunnel and a new underground station, relocation of a Massachusetts Turnpike exit and construction and maintenance of temporary bridging and streets. This work was to take place over a period in excess of five years, from May 29,1995 through September 15,2000, at (Efferent locations within the “Work Site Plan” in the Consolidated Construction Permit included in the record before us. The “Work Site Plan” includes an area along the Surface Artery and Atlantic Avenue in downtown Boston, bounded roughly by the Massachusetts Turnpike, High Street, Congress Street and the Fort Point Channel.
+On Sunday evening, August 4,1996, the plaintiff was returning from her weekly summer weekend visit to her cottage on Martha’s Vineyard. As was her custom, she emerged from the South Station bus terminal at about 9:00 P.M., intending to take a cab to her home. At the bottom of the stars from South Station, she stepped into a hole on the sidewalk and fell. The plaintiff described the hole as about the size of a woman’s foot and, while she could not state its depth, she characterized it as “like a well.” The plaintiff had not seen the hole during her previous trips over that route. She does not know how, when or by whom the hole was made. When she examined it two weeks after her accident, the hole had been patched. If Perini had made the repair, it would have charged for the work and would thus have had a record of it Perini has no such record.
+The South Station bus terminal is included in the “Work Site Plan” which shows all of the area in which work was to be performed under Contract C11A1. The work under the contract was done in phases called “work zones.” Work in the work zone which includes the steps and sidewalk involved in this action did not begin until 1998. Potentially hazardous defects discovered in a work zone would be repaired by Perini and billed to the Project. Those defects discovered in the “Work Site Plan” area but not in an actual work zone would be reported to Bechtel, which would then make arrangements for repair. There is no evidence that any employee of either Perini or Bechtel observed the condition before the accident, or that it was ever reported to Bechtel.
+1. It is certainly true, as the plaintiff asserts, that “[ojbligations created by contract can provide a basis for an action in tort” O’Brien v. Christensen, 422 Mass. 281, 287 (1996), citing Parent v. Stone & Webster Engineering Corp., 408 Mass. 108, 113 (1990). None of the essential contract documents were included in the record, however. Given that this action was filed in July of 1991, and a pre-trial memorandum was filed and a trial date was scheduled before the summary judgment motions were filed, the plaintiff may not be heard to complain that she needed time to obtain those contracts under Mass. R. Civ. R, Rule 56(f). A. John Cohen Ins. Agency, Inc. v. Middlesex Ins. Co., 8 Mass. App. Ct. 178, 183 (1979); Wilshire Credit Corp. v. Scott, 1997 Mass. App. Div. 91, 93.
+“Builders or contractors who are engaged by owners or governmental authorities to perform repairs or other work upon land become obligated to exercise reasonable care to avoid harm to third parties only when they assume control over the area in which they are working.” Bradstreet v. A.R. Belli, Inc., 1991 Mass. App. Div. 199, 200. When the contractor enters into such an agreement, it is not liable for sidewalk defects until it takes control of the area by commencing work on it Id. at 200-201. As Bechtel and Perini were not shown to have been working in the work zone where the accident occurred, the plaintiff “has no reasonable expectation of proving an essential element of [her] case.” Kourouvacilis v. General Motors Corp., 410 Mass. 706, 716 (1991).
+2. For the same reason, the plaintiff could not avoid summary judgment on her related argument that Perini and Bechtel are liable under Division of Occupational Safety Regulation 454 CMR 10.03(1) (a), which provides:
+All places where employees are directed or permitted to perform work of any kind in construction work or demolition work shall be so constructed, equipped, arranged, operated and conducted as to provide reasonable and adequate protection to the lives, health and safety of employees and others.
+The South Station bus terminal, including the stairs and sidewalk at issue, were not “places where employees [were] directed or permitted to work” at or before the time of the plaintiffs 1996 MI. They were not such until 1998.
+3. Finally, we note the absence of any evidence supporting an assertion that either defendant caused the defect or knew of it, or that the defect was there long enough so that the defendants, assuming they had a duty, should have known of it and repaired it, or at least posted a warning. Oliveri v. Massachusetts Bay Transp. Auth., 363 Mass. 165, 167 (1973); Sahagan v. Commonwealth, 25 Mass. App. Ct. 953, 953-954 (1988).
+The trial judge correctly allowed the motions for summary judgment, and judgment in favor of both defendants is hereby affirmed.
+Appeal dismissed.
+So ordered.
