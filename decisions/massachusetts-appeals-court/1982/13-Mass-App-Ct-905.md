@@ -1,0 +1,30 @@
+---
+court: "Massachusetts Appeals Court"
+decided: "1982-01-06"
+citations: ["13 Mass. App. Ct. 905"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Commonwealth vs. Willie Frank Johnson."]
+source_url: "https://static.case.law/mass-app-ct/13/cases/0905-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3971988
+cites_cases: ["10 Mass. App. Ct. 651", "10 Mass. App. Ct. 937", "257 Mass. 391", "3 Mass. App. Ct. 189", "365 Mass. 37", "367 Mass. 454", "370 Mass. 684", "375 Mass. 613", "378 Mass. 671", "378 Mass. 842", "383 Mass. 201"]
+---
+
+# Commonwealth v. Johnson
+
+## Majority
+
+Johnson appeals from his conviction of manslaughter of his brother (the victim) upon an indictment for murder in the second degree. There was evidence that the following events took place on October 15,1976. During at least the early afternoon, the victim had been drinking with Johnson and, part of the time, with two other men at an apartment in Jamaica Plain, occupied by the victim and a woman with whom he lived. About 2:00 p.m. , or 2:30 p.m. , Johnson left the apartment. Later he called the woman and told her he was returning and wanted to speak to the victim, who had said something to Johnson’s “girl friend” that Johnson did not like. The woman tried to persuade Johnson not to come. After an interval there were knocks on the door. The victim answered the door and went outside followed by the other two men. Fifteen minutes or more later, the victim was found outside in the parking lot bleeding. Near him was a knife with what appeared to be blood on it. Later, Johnson was found by the police at the emergency ward of the Boston City Hospital where “[h]e was getting stitched up by” some doctors and nurses. Further discussion of the evidence appears later in this opinion in dealing with the issues argued by Johnson’s counsel.
+1. The trial judge committed no error in refusing to direct a verdict of not guilty after the prosecutor’s opening. Commonwealth v. Michel, 367 Mass. 454, 463 (1975).
+2. In this trial before the effective date of Massachusetts Rules of Criminal Procedure, 378 Mass. 842 (1979), the trial judge properly denied a motion for a directed verdict at the close of the Commonwealth’s case. The evidence, including that about Johnson’s statements to the police, amply permitted the jury to find beyond a reasonable doubt that Johnson and his brother had engaged in a knife fight, that the essential elements of manslaughter existed (see Commonwealth v. Latimore, 378 Mass. 671, 678 [1979]), and that the killing was not in self-defense. See and compare Commonwealth v. Rodriguez, 370 Mass. 684, 691-692 (1976).
+3. There was testimony that Johnson at the hospital, after the usual Miranda warnings, at first had given a false name and a wholly false account of his own injuries, from which the jury could infer consciousness of guilt. See Commonwealth v. Meuse, 3 Mass. App. Ct. 189, 190 (1975), S.C., 10 Mass. App. Ct. 937 (1980). Later he had given an account which established that he had been cut by his brother and had stabbed him. There was testimony also that, when he was told that his brother was dead, he had replied, “Good, because I was trying to kill him.” On conflicting evidence at a voir dire (preceding the admission of various statements made by Johnson to officers at the hospital), it was open to the trial judge to conclude that the statements were voluntary from the testimony (a) concerning the logical way in which Johnson told his story, (b) showing his apparent understanding of questions, (c) that he left the hospital after treatment with an officer on either side of him but without actual need of support, and (d) that he was questioned only after a nurse gave permission. The trial judge made no findings, either written or oral, at the close of the voir dire (at which Johnson himself testified) and was not asked by counsel to do so. It would have been helpful had he done so. See Commonwealth v. Forrester, 365 Mass. 37, 45 (1974). The next morning, without objection, the judge proceeded before the jury with the testimony of the witness who had been on the stand at the time the voir dire was requested. Thus, under the Forrester case at 45-46, the admission in evidence of the statements discussed in the voir dire “necessarily implies a finding” that the statements were voluntary, despite testimony (relied on by Johnson’s counsel) which might have led to a different conclusion.
+The case was submitted on briefs.
+Robert A. Aronson for the defendant.
+Newman Flanagan, District Attorney, & Michael J. Traft, Assistant District Attorney, for the Commonwealth.
+4. After the charge, the jury requested reinstruction. The judge reasonably asked the jury to specify the matters upon which further instructions were desired and then gave them additional instructions on the specified matters and also on self-defense in a manner wholly consistent with the Rodriguez case, 370 Mass. at 691-692. Counsel made no objection to these instructions or to the procedure employed.
+5. There was no showing that the trial judge abused his discretion in denying a new trial. Cf. Commonwealth v. Devereaux, 257 Mass. 391, 394-397 (1926); Blaikie v. District Atty. for the Suffolk Dist., 375 Mass. 613, 618 (1978); Commonwealth v. Markham, 10 Mass. App. Ct. 651, 653-655 (1980). On the only aspect, self-defense, mentioned as a basis for a new trial, the judge had given instructions which complied fully with applicable principles. There was no failure on the part of the Commonwealth to present for appraisal by the jury all the evidence showing the circumstances of the homicide.
+6. Examination of the record shows no basis for the contention that Johnson was denied effective assistance of counsel at trial. His counsel on this appeal has complied fully with his obligation under Commonwealth v. Moffett, 383 Mass. 201, 208-209 (1981).
+Denial of motion for a new trial affirmed.
+Judgment affirmed.
