@@ -1,0 +1,60 @@
+---
+court: "Massachusetts Appellate Division"
+docket: "5991; No. 8944"
+decided: "1964-11-13"
+citations: ["31 Mass. App. Dec. 110"]
+reporter: "mass-app-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["BLANCHE D. ZERNER, ET AL v. BERTRAN WHITE"]
+source_url: "https://static.case.law/mass-app-dec/31/cases/0110-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4041293
+cites_cases: ["105 Mass. 276", "319 Mass. 707", "331 Mass. 664", "334 Mass. 123"]
+---
+
+# Zerner v. White
+
+## Majority (Parker, J.)
+
+Parker, J.
+This is an action of contract to recover a deposit of $500.00 made by the plaintiffs (the buyers) with the defendant (the sellers) under a written purchase and sale agreement. The plaintiffs’ declaration is in two counts: the first being under the contract itself, and the second is for money had and received. The defences relied upon by the defendant are a general denial and that the plaintiffs wrongfully refused to fulfill their obligations under the agreement while the defendant was ready, willing, and able to fulfill all of the terms of the agreement.
+There was evidence that the plaintiffs and the defendant entered into a written agreement whereby the defendant agreed to sell and the plaintiffs to buy real estate located in the Town of Hull. The agreement stated: “If the Buyers (the plaintiff) shall be unable to obtain a Bank mortgage for $9500.00 or higher, then this agreement shall be null and void and all deposits shall be returned”.
+It also provided that the deed was to be delivered 28 June 1962, unless otherwise agreed in writing and it further provided that if the seller (the defendant) should be unable to give title or to make conveyance or to deliver possession “as herein stipulated” the agreement was to be void and all payments refunded, unless the Seller (the defendant) elects to use reasonable efforts to remove any defect in title, or “restore said premises to their former conditions . . . . in which event the Seller shall give written notice to the buyer at or before the time set for performance . . . . , and thereupon the time for performance shall be extended for a period of thirty days”. The buyer was also given the right to accept such title as the seller could deliver without deduction in the price with a provision for payments to the buyer of any insurance received by the seller for fire damage unless the seller shall have restored the premises to their former condition, or if partially restored, the seller may retain the proceeds of the insurance which covers such partial restoration. THE AGREEMENT ALSO PROVIDED THAT THE PREMISES WERE TO BE DELIVERED “IN THE SAME CONDITION AS THEY ARE NOW, REASONABLE USE AND WEAR OF THE BUILDINGS THEREON EXCEPTED”. [EMPHASIS ADDED]. Further the agreement states that time is of the essence of the agreement.
+There was evidence that prior to 28 June 1962, the time for performance set forth in the agreement, the basement apartment was damaged, and that the partitions were removed and that the defendant did not restore all the partitions, but made some repairs to the damages. He testified that at all times was ready, willing, and able to convey the property.
+There was evidence that on 19 June 1962, a bank approved the application for a loan on the property for $10,000.00 subject to final checking of credit references and title. On 23 August 1962, the plaintiff demanded return of his deposit, and on 31 August 1962, the parties were notified that the property was encumbered.
+The court found the following facts:
+The plaintiffs seek to recover their deposit under a written agreement for purchase and sale of real estate with a provision that unless the plaintiffs obtained a mortgage loan of $9,000.00 or higher the agreement would be null and void. The agreement was made, a mortgage loan of $10,000.00 was available; because of the damage to the basement apartment, the plaintiffs refused to go through with the agreement and the defendant was at all times ready, willing and able to convey property in accordance with agreement. The court found for the defendant.
+The plaintiff properly presented ten requests for rulings of which ##1, 2, 3, 4, and 7 were granted.
+Request #5 reads :
+“That the written agreement declared on was made by the plaintiffs and the defendant upon an implied condition that the building upon the defendant’s land be in existence at the time of performance and in the same condition as it was at the time of the agreement, reasonable use and'wear excepted”.
+The court’s ruling was:
+“Denied as the court has ruled that there was no ambiguity in agreement and therefore implies no condition”.
+The court in granting the plaintiffs’ request #3 had ruled that there was no ambiguity in the agreement relative to what the defendant agreed to sell and what the plaintiffs agreed to buy.
+Request #6 reads:
+“If an unanticipated event happens, which was not in contemplation of the parties at the inception of the contract and upon which, the continued existence of the contract must depend, that upon the happening of the event,' the contract is dissolved and the defendant cannot retain any part of the purchase money.”
+Request #8 reads:
+“If the plaintiffs cannot get what they agreed to buy under the agreement, they are not bound to take title, and all payments made by them under the said agreement must be refunded to them.”
+Request #9 reads:
+“Right to recover in an action for money had and received does not depend upon the privity of contract, but on the obligation to restore what which the law implies should be returned when one is unjustly enriched at the expense of another.”
+The court’s ruling on each of these requests was:
+“Granted, but immaterial in view of the court’s findings”.
+Request #io reads:
+“That the agreement between the parties dated May 26, 1962 is null and void as there is evidence that the plaintiffs obtained a first mortgage from any Bank for $9500.00 or higher, as set forth in said agreement and the entire deposit made by the plaintiffs must be returned to them.”
+The court’s ruling was:
+“Denied as ambiguous but if the plaintiffs intended a ‘no’ precede the word ‘evidence’ in line two the request is still denied in view of the court’s findings.”
+The plaintiffs maintain that (1) the plaintiffs’ obligation was to obtain a bank mortgage within the time set by the agreement, and that they did not so obtain the mortgage; (2) the defendant has broken the contract and was not ready, able and willing to convey the property because the premises were not in the same .condition as they were when the contract was entered into reasonable use and wear of the building thereon excepted, and that therefore the court was in error in denying the plaintiffs’ requests #5 and #10, and by denying, in effect the plaintiffs’ requests ##6, 8, and 9 by granting them, but ruling them to be immaterial.
+The plaintiff had received the approval of a loan subject to final checking of credit references and title. This was on 19 June 1962 and the papers were to be passed on 28 June 1962. Neither the report of the evidence nor the finding of the court disclosed that the plaintiff did anything further relative to the mortgage, nor does the report show that the defendant was informed of this. The agreement stated that if the plaintiff “shall be unable to obtain a Bank mortgage for $9500.00 or higher, then this agreement shall be null and void and all deposits shall be returned.”
+[ 1 ] While it may be said that the record fails to show that the plaintiff was “unable to obtain” the mortgage since his application had been approved, it is plain that he was unable to procure such a mortgage before the date for the consummation of the contract. The record shows that his application had been received by a bank and had been approved subject to a credit check and a .check of title. The plaintiff could do no more.
+In the case of Sorota v. Baskin, 334 Mass. 123, a provision in an agreement for purchase and sale of real estate provided that if the sellers shall be unable to obtain formal extensions or extensions by letter of certain mortgages, then the agreement was to be cancelled and the deposit returned. The evidence showed that the plaintiffs were refused the extension and notified the buyer. It was held that the seller was without fault, that they could not make the deed and therefore the plaintiffs (the buyer) could not recover for breach of the contract and that after refunding payments made all obligations of both parties should cease. The court further held that the seller in this case was not required to use diligence or reasonable efforts to procure extensions during the period from the refusal of extensions on 28 April 1949 to the date for performance 1 June 1949.
+In the case at bar, the application had been granted subject to check of credit reference and title. The plaintiffs could do nothing further until the Bank had completed this, which was not done till after the date of performance. The buyer, under the agreement, could not secure an extension of time to obtain the mortgage as could the seller if he could not give title or restore the premises to their condition at the time of the signing of the agreement if they had become damages.
+The agreement provided that if the buyers shall be unable to obtain a Bank mortgage for $9500.00 or higher, then this agreement shall be null and void and all deposits shall be returned. We are of the opinion that the plaintiffs have been unable to obtain a Bank Mortgage at the time for delivery of the deed and under the terms of the agreement it has become void and therefore the plaintiffs are entitled to the return of their deposit.
+Under the provision of the agreement, which provided that “if the Seller (the defendant) shall be unable to deliver possession as herein stipulated, then any payments made under this agreement shall be refunded”, the plaintiffs are entitled to recover.
+The court found that because of damage to the basement apartment the plaintiff did not go through with the agreement. The court made no finding as to the extent of the damage. On this point the evidence reported is that before the time for performance as set forth in the agreement, the basement apartment was damaged and that the partitions were removed and that the defendant did not restore all the partitions, but made some repairs to the damage.
+The defendant testified that he was at all times ready, willing, and able to convey the property. However, there was no evidence that he manifested this by tender or by availing himself of his right to call for an extension of time so that he might restore the property to its condition at the time the agreement was entered into. The seller cannot put a buyer in default unless the seller makes tender or offer of performance. Leigh v. Rule, 331 Mass. 664, 668; Beck v. Doore, 319 Mass. 707, 710; Hapgood v. Shaw, 105 Mass. 276, 279.
+From the facts of the case, it therefore appears that the Seller, (the defendant) was unable to deliver possession as stipulated since the property was damaged and not restored to its former .condition and therefore the agreement was void and the payment of $500.00 should be refunded to the plaintiff. Further, the defendant is in default on the agreement in that he has failed to make tender and so give the plaintiff the right to take the property even though damaged as was his right under, the agreement.
+William E. McKendall, of Boston, for the Plaintiff.
+Poster, Willinsky & Goldstein, of Boston, for the Defendant.
+The court was in error in the denial of the corrected plaintiffs’ request #10 and further in ruling that the plaintiffs’ requests #8 and #9 were immaterial.
+There was no error in the court’s rulings on the plaintiffs’ requests 5 and 6.
+The finding for the defendant is to be vacated and a finding is to be entered for the plaintiffs in the amount of $500.00 with interest from 23 August 1962. The plaintiffs are to have one execution only.
