@@ -1,0 +1,26 @@
+---
+court: "Massachusetts Appellate Division"
+decided: "1948-05-27"
+citations: ["13 Mass. App. Div. 123"]
+reporter: "mass-app-div"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MICHAEL GABRIEL p. p. a. et al. v. CATHERINE A. MURPHY et al."]
+source_url: "https://static.case.law/mass-app-div/13/cases/0123-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3890154
+cites_cases: ["240 Mass. 211", "246 Mass. 391", "247 Mass. 316", "263 Mass. 215", "298 Mass. 130", "298 Mass. 146", "317 Mass. 222"]
+---
+
+# Gabriel v. Murphy
+
+## Majority (Pettingell, P. J.)
+
+Pettingell, P. J.
+Five actions of tort growing out of a collision between a bicycle and a taxicab. The bicyclist, a minor, sues for personal injuries, his sister sues for injury to her bicycle, their father sues for expense incurred for medical treatment of the minor and the two defendants are the operator and owner of the taxicab. The operator of the bicycle rode out of Dunster Street at Harvard Square, Cambridge, turning to the left intending to go toward North Cambridge. Ahead of him in the center of the square, was the subway structure in Harvard Square, referred to as the “pill box.” A cross walk seven feet wide crossed the square. Cars were parked on Massachusetts Avenue up to the cross walk and on the other side of the cross walk “other automobiles were parked up to the cross walks.” The plaintiff was at the cross walk and one or two feet from the curb when he was hit, knocked off the bicycle and thrown to the ground. After the accident the bicycle was lying flat on the ground under the defendant’s taxicab at the rear of the right- front fender, “in the crosswalk.” His foot was under the bike. He did not see the taxicab before the accident. Before he reached the crosswalk he passed six taxis and two other cars parked on the right.
+There was testimony by the driver of the taxicab that the taxi was parked at the cab stand at the pill-box when he picked up a fare. He backed out into Massachusetts Avenue, swung to his right and started up Massachusetts Avenue toward North Cambridge at a rate of speed of about fifteen miles an hour. He travelled about 150 feet in the same direction the bicycle was travelling and turned to throw the flag when he saw the plaintiff on a bike strike the right rear side of the cab. The bike was then headed directly out from the curb. He stopped the cab and got out just before he reached the cross walk, and saw the bicycle lying on the ground near the right rear wheel of the cab. The passenger in the cab testified at the time of the accident she was sitting in the right rear seat of the cab when the cab was about a car length from the cross walk she saw the tip of the front wheel of a bicycle protruding from between two parked cars and then saw a bicycle in contact with the right rear side of the cab in back of the door. She did not see the rider of the bicycle. There was also testimony that after the accident the wreckage of the bicycle was on the cross walk. The defendants’ answers were general denials and of contributory negligence. The defendant filed the following requests for rulings of law in the action of Michael Gabriel v. Catherine A. Murphy:
+“(1). The evidence does not warrant a finding for the plaintiff. (2) The plaintiff has failed to sustain the burden of proving that his injuries were sustained by reason of the negligence of the defendant, her servant or agent. (3) The mere happening of an accident is not sufficient in and of itself to warrant a finding that the defendant was negligent.”
+In the case of Michael Gabriel v. Charles G. MacLeod, Samuel Gabriel v. Catherine A. Murphy, and Michael Gabriel v. Catherine A. Murphy, and Victoria Gabriel v. Charles G. MacLeod, each defendant filed the following request: “(1). The evidence does not warrant a finding for the plaintiff.” The trial judge denied request 1 in each instance, denied request 2 in the case of Michael Gabriel v. Catherine A. Murphy, and gave the third request in the latter case.
+The first request of the defendant should have been given in each instance. There is in the evidence as contained in the report no intelligible statement of facts which forms a basis for a finding of negligence. How such an accident could have happened is wholly a matter of conjecture.
+How a bicycle rider 150 feet from the pill-box and within a few feet of the curb at the right of Massachusetts Avenue could have come from the right between two automobiles and on the cross walk, and strike a taxicab on the right rear side is somewhat beyond comprehension. The happening of the collision is no evidence of negligence. Nager v. Reid, 240 Mass. 211, at 214; Rizzittelli v. Vestine, 246 Mass. 391, at 392; Whalen v. Mutrie, 247 Mass. 316; Bartlett v. Town Taxi, Inc., 263 Mass. 215, at 218; Conley v. Town Taxi, Inc., 298 Mass. 130, at 132; Rogers v. Dalton, 298 Mass. 146, at 148; Luvera v. Decaro, 317 Mass. 222, at 224; Tamagno v. Conley, Mass. Adv. Sh. (1948) 33, at 34.
+The denials of the first requested ruling were prejudicial error. If it had been allowed, a finding for the defendants would have been required. The several findings for the plaintiff are to be vacated and findings for the defendants are to be entered.
