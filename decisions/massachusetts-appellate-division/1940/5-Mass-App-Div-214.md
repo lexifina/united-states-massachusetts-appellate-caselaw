@@ -1,0 +1,42 @@
+---
+court: "Massachusetts Appellate Division"
+decided: "1940-04-16"
+citations: ["5 Mass. App. Div. 214"]
+reporter: "mass-app-div"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Present: Zottoli, Adlow & Riley, JJ."]
+parties: ["THE DUNVEGAN CORPORATION vs. ELLA BEATRICE FABER"]
+source_url: "https://static.case.law/mass-app-div/5/cases/0214-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3881057
+cites_cases: ["2 Cush. 80", "267 Mass. 501"]
+---
+
+# Dunvegan Corp. v. Faber
+
+## Majority (Riley, J.)
+
+Riley, J.
+This is an action of contract to recover rent under the terms of a written lease. The declaration particularizes four items: I for rent for the month of January, 1939; II for rent for the month of February, 1939; III for interest on item I from January 1, 1939 to the date of writ (February 1, 1939); IY for interest on item I from February 1, 1939 to date of judgment; Y for interest on item II from February 1, 1939, to date of judgment. The answer contains a general denial and certain special defenses.
+At the close of the trial the plaintiff filed five requests for rulings, all of which the trial judge granted. The defendant filed eight requests for rulings and the trial judge granted those numbered 3, 4, 5 and 8, and denied those numbered 1, 2, 6, and 7 accompanied by findings of fact, together with a voluntary ruling of law.
+The Court found for the plaintiff on item I in the sum of $80. with interest according to items 3 and 4.'
+At the trial the lease was offered in evidence and was admittedly executed by both the parties named therein. It was dated the 30th day of September, 1938, and provided that the lessee was to have and to hold the demised premises for the term of one year from and including October 20,1938, through October 19, 1939, “yielding and paying therefor the rent of $960. during said term of one year by equal monthly payments of $80. in advance on the first day of each month during said term, the first monthly payment to be made on the day of signing of leases, a like payment to be made on the first day of each succeeding month and a proportionate part of said rent for any part of a month unexpired at the legal determination of this lease.”
+It was agreed that the defendant occupied the demised premises from on or about October 20, 1938 until either the 7th or 8th of January 1939, and that she had made three; payments of rent each in the amount of $80., which payments were made on the following dates: October 20, 1938; November 19, 1938 and December 21, 1938.
+The defendant claiming to be aggrieved by the trial judge’s allowance of all five of the plaintiff’s requests and by his denial of her requests numbered 1, 2, 6 and 7, and by the judge’s voluntary ruling, presents this report.
+So far as the requests which were granted to the plaintiff are concerned, they must be considered as waived due to the defendant’s failure to brief or argue them. Guinan v. Famous Players-Lasky Corp., 267 Mass. 501.
+The defendant’s request numbered 1 was properly denied as not being in compliance with Buie 28 of the Buies of the Municipal Court of the City of Boston, and request numbered 2 not having been argued or briefed must be treated as waived. Ubi Supra.
+The defendant’s request numbered 6 which was denied, and request numbered 7 which was denied and accompanied by a finding of fact and the trial judge’s voluntary ruling present the real question at issue on this report. Those requests together with the trial judge’s action thereon, read as follows:
+6. The Indenture of Lease sued upon in the above-entitled cause is void for uncertainty with relation to the amount of rent reserved, the terms of said lease providing for periodic payment of rent being in contradiction to the term respecting the total amount reserved cannot be enforced. Notation: “Denied.”
+7. The above-entitled action is prematurely brought.
+Notation: “Denied not in toto. I find as a fact that the rent was paid for October, November and December, 1938, although not on due date. I rule that rent of $80. was due September 30, 1938, November 1, 1938, December 1, 1938, January 1, 1939 and the first day of each succeeding month under the lease. I find as a fact that only three payments of $80'. were made, one October 20, 1938, two November 19, 1938, three December 21, 1938, and that no other payments were made.”
+The question concisely stated is whether or not the trial judge’s interpretation of the lease is a correct interpretation as a matter of law.
+It is well established that an interpretation which renders an agreement valid and its performance possible will be preferred to one which makes it void or its performance impossible or meaningless; also, that an interpretation which makes an agreement fair and reasonable will be preferred to one accomplishing unreasonable results. Further, when a contract is reduced to writing and one or both of the contracting parties misapprehend the legal effect of the writing, provided it be not altogether unintelligible, the court will read the contract for the parties, and they will be bound by its legal effect. Rice v. The Dwight Manufacturing Company, 2 Cush. 80.
+A reading of the lease shows very plainly that its term starts on October 20, 1938 and ends on October 19, 1939; that the yearly rental agreed to was in the amount of $960., payable in equal monthly installments of $80. each, making twelve payments in all; that each payment was to be made on the first day of each month during said term. If we pause at this point in reading the lease it is plain that each monthly payment of rent was due and payable on October 20, 1938, and on the 20th day of each month thereafter, to and including September 20, 1939. However, an excepting clause appears in the lease reading as follows: “the first monthly payment to be made on the day of signing of leases.” All that this clause means, or changes in the previous wording of the lease, is the date of the first payment. It means that the first payment of $80. was to be made on September 30, 1938 (the date of signing of the lease) instead of on October 20,1938 (the first day of the first month during the term of the lease) but it does not change the dates of subsequent payments, to wit: November 20, 1938, and the twentieth of each succeeding month to and including September 20,1939. At no place in the quoted portion of the lease which is set forth in the report to this Division, is any mention made of the first day of a calendar month, but on the contrary each reference is to the first day of each month during the term of the lease.
+The trial judge’s treatment of the defendant’s requests contained no prejudicial error, but his voluntary ruling of law which accompanied his finding of fact,—
+“I rule that rent of $80. was due September 30,1938, November 1, 1938, December 1, 1938, January 1, 1939 and the first day of each succeeding month under the lease”; we believe to be erroneous.
+The trial judge apparently confused the first day of each month during the term of the lease with the first day of each calendar month, as did the plaintiff’s counsel in his pleadings and defendant’s counsel in his requests for rulings.
+The facts found by the trial judge established that payments of rent in the amount of $80' each were made on October 20, 1938; on November 191, 1938; and, on December 21, 1938. These payments were due respectively on September 30, 1938; November 20, 1938 and December 20, 1938. The next payment of rent was due on January 20,1939, and the report contains no evidence tending1 to show that such payment was ever made. It was this payment of $80. due and payable on January 20, 1939 that had not been paid on February 1, 1939, the date of commencement of this action.
+It follows that while the trial judge reached the correct conclusion, that there was a month’s rent of $80. due and unpaid, he erred in his interpretation of the lease and consequently erred in the computation of the date upon which said payment became due. This error does not change the amount of his finding under item I of the plaintiff’s’ particulars, but it does change the period of time upon which interest is to be computed under item III of said particulars.
+■ Accordingly, let the following entry be made:
+Judgment for the plaintiff in the amount of $80. with interest on the same from January 20,1939.
