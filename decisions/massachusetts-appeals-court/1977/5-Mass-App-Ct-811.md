@@ -1,0 +1,23 @@
+---
+court: "Massachusetts Appeals Court"
+decided: "1977-04-13"
+citations: ["5 Mass. App. Ct. 811"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Commonwealth vs. Raymond D. Mott."]
+source_url: "https://static.case.law/mass-app-ct/5/cases/0811-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5732359
+cites_cases: ["1 Mass. App. Ct. 1", "1 Mass. App. Ct. 303", "2 Mass. App. Ct. 47", "2 Mass. App. Ct. 706", "2 Mass. App. Ct. 821", "257 Mass. 426", "3 Mass. App. Ct. 189", "351 Mass. 37", "358 Mass. 506", "360 Mass. 531", "361 Mass. 515", "366 Mass. 284", "369 Mass. 419", "4 Mass App. Ct. 606", "4 Mass. App. Ct. 379"]
+---
+
+# Commonwealth v. Mott
+
+## Majority
+
+At the retrial of this case, which was held subject to the provisions of G. L. c. 278, §§ 33A-33G, the defendant was convicted of possession of heroin with intent to sell. We have examined each of the defendant’s assignments of error and have found no error. 1. Testimony relative to the money found in the defendant’s trousers but not seized was relevant and properly admitted. Commonwealth v. Durkin, 257 Mass. 426, 428 (1926). Commonwealth v. Deschamps, 1 Mass. App. Ct. 1, 3 (1972). See Commonwealth v. Miller, 4 Mass. App. Ct. 379, 384 (1976); Commonwealth v. Nichols, 4 Mass App. Ct. 606, 609 (1976). 2. Testimony as to the defendant’s statements, which were essentially as described in Commonwealth v. Mott, 2 Mass. App. Ct. 47, 48 (1974), was properly admitted as (a) no pretrial motion to suppress or request for a voir dire hearing had been filed or requested (Commonwealth v. Nichols, supra, at 608), (b) no contention was voiced (nor could there have been one in view of the testimony at the prior trial) that the defendant was not aware of those statements before trial (Rule 61 of the Superior Court [1974]), and (c) no Miranda issue had been specifically raised. See Commonwealth v. Festa, 369 Mass. 419, 426, n.l (1976); Commonwealth v. Smith, 2 Mass. App. Ct. 821 (1974). 3. We find no abuse of discretion by the judge in limiting cross examination relative to the application for the search warrant and the informant referred to in the affidavit. Commonwealth v. Nassar, 351 Mass. 37, 43-44 (1966). Commonwealth v. Kronis, 1 Mass. App. Ct. 303, 307 (1973). The defendant extensively cross examined the police witnesses, and the information sought to be elicited by the excluded questions was largely irrelevant and at best was an attempt at impeachment on a collateral issue. (See part 4.) We perceive no prejudice resulting to the defendant. See Commonwealth v. Underwood, 358 Mass. 506, 513 (1970). Contrast Commonwealth v. Franklin, 366 Mass. 284, 289-290 (1974). 4. Testimony as to the practice and procedure of the local District Court relative to the issuance of search warrants, offered to impeach the credibility of the police officers, was properly excluded in the exercise of the judge’s discretion, as the evidence was collateral and would have served only to obfuscate the issue. Commonwealth v. Bettencourt, 361 Mass. 515, 519-520 (1972). 5. As we have concluded that the rulings referred to in parts 3 and 4 were proper, we consider to be without merit the defendant’s contention that the cumulative effect of those rulings was to deny him due process and a fair trial. 6. The defendant’s pretrial motion for a rehearing on the motion to be furnished the name of the informant and the defendant’s oral motion submitted after all the evidence had been concluded were properly denied. That subject was fully considered in the first Mott case, 2 Mass. App. Ct. at 53 (1974). The defendant correctly conceded at oral argument that there was no offer of any additional evidence on this point which had not been available at the earlier trial or which could not have been obtained at that time through the exercise of reasonable diligence. Nor does anything in the defendant’s brief add anything of substance which would lead us to a conclusion different from that reached in the earlier case. See Commonwealth v. Colella, 2 Mass. App. Ct. 706, 707-708 (1974). Compare Commonwealth v. DeChristoforo, 360 Mass. 531, 542 (1971), and Commonwealth v. Meuse, 3 Mass. App. Ct. 189, 192 (1975).
+Frederick J. McLoughlin, Jr., for the defendant.
+Lance J. Garth, Assistant District Attorney, for the Commonwealth.
+Judgment affirmed.
+See Commonwealth v. Mott, 2 Mass. App. Ct. 47 (1974), where the defendant’s prior conviction was reversed on grounds other than those raised by the present appeal. The facts brought out by the evidence at retrial were substantially the same as those recounted in the earlier appeal.
