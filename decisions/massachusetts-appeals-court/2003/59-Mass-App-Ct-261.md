@@ -1,0 +1,32 @@
+---
+court: "Massachusetts Appeals Court"
+docket: "02-P-614"
+decided: "2003-09-10"
+citations: ["59 Mass. App. Ct. 261"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Commonwealth vs. Vitaliy Katykhin."]
+source_url: "https://static.case.law/mass-app-ct/59/cases/0261-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1508559
+cites_cases: ["378 Mass. 671", "433 Mass. 135"]
+---
+
+# Commonwealth v. Katykhin
+
+## Majority (Mills, J.)
+
+Mills, J.
+On appeal from his conviction for resisting arrest, G. L. c. 268, § 32B, the defendant claims that the evidence was insufficient. The relevant portions of the statute are set forth in the margin. The defendant argues that his behavior subjecting him to the charge (a) occurred after his arrest had already been effected, and (b) in any event was so innocuous that it was not contemplated by the statute, i.e., that the statute does not reach conduct that interferes with an arrest but poses no threat to the bodily integrity of the arresting officer, let alone a substantial risk of bodily injury. In support of both arguments the defendant relies upon Commonwealth v. Grandison, 433 Mass. 135 (2001).
+1. Background. In the light most favorable to the Commonwealth, see Commonwealth v. Latimore, 378 Mass. 671, 676-678 (1979), the judge at the bench trial could have found as follows: while investigating a traffic accident, a uniformed West Springfield police officer, Brian Duffy, recognized the defendant as the subject of an outstanding arrest warrant, notified-him that he was being arrested under the outstanding warrant, handcuffed him, and led him to the marked police cruiser. The defendant complied to that point, but when Officer Duffy opened the door and asked the defendant to get in, he refused several times, became defiant and uncooperative, and bantered back and forth with the officer. Officer Duffy’s right hand was on the defendant’s left arm as the officer tried to move the defendant into the cruiser. The defendant stood rigid, upright, “almost like a plank of wood,” and refused to bend or get into the cruiser. The defendant began to pull away, starting a “tug of war.” The officer gave him a “quick spray” of a substance that is “used to control subjects who are either under arrest or trying to be under arrest or to break up certain acts of violence,” after which the defendant entered the cruiser.
+The judge, in denying the defendant’s motion for a required finding of not guilty at the close of the Commonwealth’s evidence, stated that the defendant “through physical movement did engage in an act of force ... by going with his body in the direction opposite from which the officer sought to take him to place him in the back of the cruiser,” violating G. L. c. 268, § 32B(a)(l). In announcing the ultimate guilty finding, the judge stated that he found the defendant guilty because of “his mechanical going in the direction opposite to what the officer sought to put him toward the back of the cruiser.”
+2. Discussion. First, we conclude that for purposes of the statute the defendant’s recalcitrant behavior occurred while the police officer was “effecting” his arrest and before the arrest was complete. Contrary to the defendant’s claim, his arrest was not complete at the point that he was handcuffed. Although certainly he had been “seized” at that time in the constitutional sense, the defendant’s arrest here had not been “effect[ed],” within the specific meaning of G. L. c. 268, § 32B, at least until he was fully detained in the cruiser. His resistant conduct, immediately after being handcuffed, prevented and preceded the conclusion of the sequence of events that consummated his arrest.
+The defendant’s reliance upon Commonwealth v. Grandison, supra, is unpersuasive. While the court in Grandison held that a conviction for resisting arrest “can, in no way, rest on post-arrest conduct,” id. at 145, the court was addressing a defendant’s behavior once he had been transported to the station, a separate and distinct location from the place he had been handcuffed and taken into custody. Indeed, the court noted that, “in different circumstances, the ‘continuing course of conduct’ principle could conceivably factor into the prosecution of a resisting arrest charge.” Id. at 146. The court further commented that “[w]here, as here, the two alleged incidents of resisting arrest constitute separate, distinct factual episodes occurring at different locations, and the arrest was ‘effected’ at the scene, the ‘continuing course of conduct’ principle clearly does not apply.” Ibid. We conclude that the instant case resembles the “different circumstances” anticipated by the court in Grandison.
+Second, we hold that the trial judge properly concluded that the defendant’s conduct was of a type prohibited by G. L. c. 268, § 32B(a)(l). Under that subsection, a suspect commits the crime of resisting arrest when he uses or threatens to use physical force or violence against the police officer or another. There is no requirement under § 32B(o)(l) that the Commonwealth show a substantial risk of causing bodily injury to the police officer or another. The judge found that the defendant used force in opposition to the officer when refusing to enter the cruiser. This conduct met the plainly stated statutory criteria for resisting arrest.
+Thus, viewing the evidence in the light most favorable to the Commonwealth, the judge could have found beyond a reasonable doubt that the defendant resisted arrest when he attempted to prevent Officer Duffy from effecting the arrest by using physical force against the officer. The defendant’s motions were correctly denied both at the close of the Commonwealth’s case and at the close of all the evidence.
+Judgment affirmed.
+“(a) A person commits the crime of resisting arrest if he knowingly prevents or attempts to prevent a police officer, acting under color of his official authority, from effecting an arrest of the actor or another, by:
+“(1) using or threatening to use physical force or violence against the police officer or another; or
+“(2) using any other means which creates a substantial risk of causing bodily injury to such police officer or another.” G. L. c. 268, § 32B.
+Our opinion does not address, in any way, purely passive conduct not involving the use or threat of force or violence, such as that characteristic of nonviolent protestors.
