@@ -1,0 +1,30 @@
+---
+court: "Massachusetts Appeals Court"
+docket: "89-P-1220"
+decided: "1990-07-23"
+citations: ["29 Mass. App. Ct. 914"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Commonwealth vs. Michael J. Blonde."]
+source_url: "https://static.case.law/mass-app-ct/29/cases/0914-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4002049
+cites_cases: ["10 Mass. App. Ct. 255", "17 Mass. App. Ct. 441", "19 Mass. App. Ct. 666", "26 Mass. App. Ct. 522", "367 Mass. 46", "395 Mass. 594", "399 Mass. 395", "406 Mass. 450"]
+---
+
+# Commonwealth v. Blonde
+
+## Majority
+
+Measured against the criteria set out in Commonwealth v. Cardenuto, 406 Mass. 450 (1990), the defendant’s motion for a required finding of not guilty should have been allowed. A jury returned a verdict of guilty on an indictment of arson of a dwelling house.
+The site of the fire, 371/373 Dorchester Street, South Boston, was a mixed use property with two store spaces on the ground floor and two apartments above. It was obvious that the blaze which occurred on February 17, 1988, had been set. The firefighters who responded to the alarm smelled gasoline and discovered a Ziploc bag with gasoline, on top of which rested a pack of matches and a burned cigarette butt. The evidence warranted a finding that Blonde was the trustee of the trust which held title to the premises, but shed no light on the relationship between Blonde and Ronald Bradford Lawrence, III, who was identified as having the beneficial interest, nor did the evidence indicate who would own any remainder. When the firefighters came upon the premises, they were locked. Blonde, the defendant, had keys to the premises, but so did other persons. No evidence placed the defendant at the premises on the evening the fire occurred; the woman who managed the tanning salon, which occupied one of the two store spaces on the premises, had been at the salon from late afternoon to 8:30 p.m. Other store space had been used as a barbershop but had been vacant for five months. All the balance of the property was tenanted. An existing fire insurance policy was due to expire on the day following the fire, but an insurance agent had arranged for a substitute policy. The amounts of insurance, $250,000 for the building and $60,000 for its contents, represented no increase of insurance. A 1987 appraisal, made in connection with a mortgage application, placed a value of $200,000 on the property. The market for real estate in South Boston in 1987-1988 was firm. Beneficiaries of the insurance policy were not identified.
+No one saw the defendant at the scene of the fire. There was no evidence that Blonde had entered into an agreement with anyone to set fire to the premises or had inquired for an arsonist. Apart from the single vacancy in the property, there was no evidence of financial distress, and that vacancy did not warrant an inference that the defendant was in dire financial straits.
+As to consciousness of guilt, there was some evidence. On the day of the fire, the defendant said that he had suffered chest pains (he had experienced a prior episode of this trouble) and took himself into Massachusetts General Hospital (MGH). Blonde first said that he went to MGH between 8 p.m. and 9 p.m.; later he told the district chief who was investigating the fire that he had gone to MGH at 7:30 p.m. Hospital records show Blonde to have been logged in at the emergency service at 9:15 p.m. His examining physician at MGH concluded that Blonde was not suffering from heart disease (of which there was family history). The Commonwealth draws inculpatory inferences from Blonde’s placement of himself at MGH at a time earlier than his actual arrival. The fire had been discovered at 9:50 p.m. and, according to the fire investigators, had begun burning between 9 p.m. and 9; 15 P.M. The incendiary device must have been started some time before that. Thus, the prosecution reasons, Blonde attempted to place himself at MGH at around the time the incendiary device was likely to have been set and ignited, thereby establishing an alibi. It is a theory which requires compounding an inference of a misstatement with the inference of an intent to mislead, leading to an inference of consciousness of guilt. We do not say compounded inferences are unacceptable as pieces of evidence, but here the degree of attenuation gives pause. In any event, consciousness of guilt does not have probative value in isolation but develops force only when combined with other evidence. Commonwealth v. Montecalvo, 367 Mass. 46, 55 (1975); Commonwealth v. Salemme, 395 Mass. 594, 602 (1985); Commonwealth v. Mazza, 399 Mass. 395, 400 (1987).
+Michael J. Traft for the defendant.
+Jane A. Donohue, Assistant District Attorney, for the Commonwealth.
+As other evidence, the prosecution adduced testimony that the defendant had authorized painting and repairs in the vacant store. In that connection the defendant had asked the workman he had hired to “soap” the store window so that people could not see inside. From that fairly routine act the Commonwealth infers an intent to conceal. The incendiary device, however, had been placed in the basement and not in the vacant store.
+Arson cases typically are made out on a web of circumstantial evidence. See, e.g., Commonwealth v. Walter, 10 Mass. App. Ct. 255; 257-259 (1980); Commonwealth v. Shuman, 17 Mass. App. Ct. 441, 442-447 (1984); Commonwealth v. Jacobson, 19 Mass. App. Ct. 666, 674 (1985); Commonwealth v. Mezzanotti, 26 Mass. App. Ct. 522, 525-527 (1988). Here, as in the Cardenuto case, there is no web of evidence. There are only isolated strands: that the defendant may have contrived an alibi and that the defendant may have had an interest — value unknown — in the property. That is not enough to permit a finding of guilty beyond a reasonable doubt.
+Judgment reversed.
+Verdict set aside.
+Judgment for the defendant.
