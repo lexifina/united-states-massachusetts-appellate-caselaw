@@ -1,0 +1,27 @@
+---
+court: "Massachusetts Appeals Court"
+decided: "1979-07-17"
+citations: ["8 Mass. App. Ct. 123"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["J. & C. Homes, Inc. & others vs. Planning Board of Groton (and a companion case)."]
+source_url: "https://static.case.law/mass-app-ct/8/cases/0123-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3960246
+cites_cases: ["2 Mass. App. Ct. 715", "340 Mass. 157", "365 Mass. 816", "5 Mass. App. Ct. 18", "6 Mass. App. Ct. 951"]
+---
+
+# J. & C. Homes, Inc. v. Planning Board
+
+## Majority (Dreben, J.)
+
+Dreben, J.
+These are appeals in two actions which were consolidated for trial. In the first action, the plaintiffs claimed that the planning board of Groton (board) violated G. L. c. 39, §§ 23A-23B, the Massachusetts open meeting law; in the second action, an appeal pursuant to G. L. c. 41, § 81BB, J. & C. Homes, Inc. (the developer), claimed that the board exceeded its authority in imposing certain conditions as a prerequisite to approval of the developer’s plan. The plaintiffs and the board both appeal from a single judgment entered in both actions which ordered the board not to violate G. L. c. 39, § 23B, in its future meetings and which ordered further proceedings and adjudged the vote of the board to be null and void. The plaintiffs also appeal from the denial of their post-judgment motion seeking to have the board ordered to approve the plan without the conditions.
+The facts are taken from a stipulation of the parties and from the judge’s findings, which were made after an evidentiary hearing. The findings, not being clearly erroneous, are binding on us. Mass.R.Civ.P. 52(a), 365 Mass. 816 (1974).
+At a public hearing a vote was taken by the board, which approved the developer’s application subject to the developer’s entering into a covenant containing "such conditions which would show due regard for the concerns expressed at the public hearing.” At the time of adjournment of the public meeting, neither the developer nor the public knew the substance of all of the conditions which were to be imposed on the developer, and in fact at that time the decision of the board had not yet been reached. The judge found that there "was a meeting (of the minds) in private, of a quorum of the [planning [bjoard, after the public meetings were ended, for the purpose of deciding on or deliberating ... on the matter of the [developer’s] plan.”
+1. The vote at the public hearing was insufficient since it merely anticipated that conditions would be imposed. The substance of such conditions was not made known to the developer and to any possible objectors. See Strand v. Planning Bd. of Sudbury, 5 Mass. App. Ct. 18, 23-24 (1977); Patelle v. Planning Bd. of Woburn, 6 Mass. App. Ct. 951 (1978). See also Pieper v. Planning Bd. of Southborough, 340 Mass. 157,160-161 (1959). On these facts the judge was correct in concluding that the board had not met the burden imposed on it under G. L. c. 39, § 23B, to show that its actions were in accord with the open meeting provisions. The order to the board not to violate G. L. c. 39, § 23B, in all future hearings is a proper remedy under that section.
+2. The appeals from the judge’s orders concerning the conditions imposed by the board must be dismissed, as they are from what is, in effect, an interlocutory order. The "order of judgment,” entered after rulings by the judge that some of the conditions imposed by the board were invalid, adjudged the vote of the board "null and void” and ordered further proceedings to be taken under the applicable statutes and the board’s rules and regulations. This was not a final judgment.
+These appeals are governed by the reasoning of Roberts-Haverhill Associates v. City Council of Haverhill, 2 Mass. App. Ct. 715, 720 (1974), and cases there cited, and the language of that case is apposite here. "Even though the present controversy may not be resolved in the course of the further proceedings before the [board], it may well be resolved in the course of ensuing proceedings in the Superior Court. Depending on the action taken by the [board] ... issues which now seem important may lose their significance or even disappear altogether; if such issues retain any vitality, they may be considered on an appeal from a final judgment of the Superior Court. In addition, the further action of the [board] may give rise to new issues which cannot be anticipated or resolved at this juncture. We believe that such considerations require us ... to conclude that the present appeals have been taken from an interlocutory decree and must, therefore, be dismissed.”
+A single form of judgment was entered in both actions. In Superior Court No. 77-1717 the judgment is to be modified by striking the portions purporting to dispose of the plaintiffs appeal under G. L. c. 41, § 81BB, and, as so modified, the judgment is affirmed. In Superior Court No. 77-1871, the docket entries should be amended to indicate that the "order of judgment” is not a final judgment, and that order should be amended to include a provision that the Superior Court will retain jurisdiction over the action. See Roberts-Haverhill Associates v. City Council of Haverhill, 2 Mass. App. Ct. at 721. The appeals in Superior Court No. 77-1871 are dismissed.
+So ordered.
