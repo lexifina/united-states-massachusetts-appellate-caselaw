@@ -1,0 +1,26 @@
+---
+court: "Massachusetts Appeals Court"
+decided: "1983-10-31"
+citations: ["17 Mass. App. Ct. 907"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Quincy Mutual Fire Insurance Company vs. Brooke Abernathy & others."]
+source_url: "https://static.case.law/mass-app-ct/17/cases/0907-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3980984
+cites_cases: ["13 Mass. App. Ct. 923", "16 Mass. App. Ct. 163", "219 Mass. 147", "279 Mass. 309", "321 Mass. 200", "348 Mass. 427", "365 Mass. 824", "374 Mass. 419"]
+---
+
+# Quincy Mutual Fire Insurance v. Abernathy
+
+## Majority
+
+The defendants appeal from the entry of summary judgment in favor of the plaintiff insurer. The insurer’s complaint sought a declaration that certain injuries to the defendants Abernathy (mother and daughter) caused by the defendant James Hannon are excluded from coverage under a homeowner’s comprehensive personal liability policy issued to James’ parents, the defendants Harold and Annette G. Hannon. Cross motions for judgment on the pleadings or, in the alternative, for summary judgment by the defendants Abernathy and the plaintiff insurer were submitted on a statement of agreed facts. See Mass.R.Civ.P. 56(c), 365 Mass. 824 (1974); 10 Wright & Miller, Federal Practice & Procedure § 2724, at 74 (2d ed. 1983) (stipulations of fact are “admissions” properly considered on motion for summary judgment).
+The following facts are drawn from the statement of agreed facts. In November, 1979, James, then aged sixteen, threw “a large piece of blacktop” at a car in which the Abernathys were travelling. The blacktop shattered the driver’s side window, causing facial injuries to the driver, Mrs. Abernathy, and then continued into the back seat, where it struck Mrs. Abernathy’s minor daughter, fracturing her skull. James admitted throwing the blacktop at the car. James is an “insured” under his parents’ homeowners’ policy. The policy excludes from coverage “bodily injury which is either expected or intended from the standpoint of the insured.”
+The Superior Court judge ruled that “no reasonable jury could find that a sixteen-year old throwing a large piece of asphalt at a moving car did not intend or expect injury to result to the occupants of that car,” and that, therefore, the injuries so occasioned fell within the policy’s exclusion clause. Summary judgment was entered for the plaintiff insurer, declaring that the insurer is not liable under the policy to any of the defendants for the Abernathys’ injuries.
+“Exclusions from [insurance] coverage are to be strictly construed.” Vappi & Co. v. Aetna Cas. & Sur. Co., 348 Mass. 427, 431 (1965). Therefore, coverage under a homeowner’s policy containing an exclusion for “bodily injuries either expected or intended from the standpoint of the insured” is not limited to injuries caused by unintentional, negligent, or reckless acts but extends to unforeseen or unintended injuries caused by intentional acts. See Lane v. Worcester Mutual Ins. Co., 13 Mass. App. Ct. 923, 923-924 (1982). See also Vappi & Co. v. Aetna Cas. & Sur. Co., supra at 432. Only those injuries foreseen or intended by the insured are excluded from coverage. Cf. Sontag v. Galer, 279 Mass. 309, 312 (1932). The standard of foreseeability in this context is higher than that employed in determining negligence or criminal recklessness; the insured must have been “substantially] certain[ ]” that the harm in question would result from his act or omission. See Sheehan v. Goriansky, 321 Mass. 200, 204 (1947); 10 Anderson, Couch’s Cyclopedia of Insurance Law § 41:23, at 31-32 (2d ed. rev. 1982). Compare Smith v. Travelers Ins. Co., 219 Mass. 147, 148 (1914).
+James threw “a large piece of blacktop” at the Abernathys’ car within a range close enough and at a velocity great enough to shatter the driver’s side window, injure the driver, and continue into the rear seat to fracture a child’s skull. It was substantially certain that James’ act would result in injuries to the occupants of the car. Cf. Terrio v. McDonough, 16 Mass. App. Ct. 163, 169 (1983). There is nothing in the statement of agreed facts which rebuts the necessary inference that James was aware of the substantially certain consequences of his deliberate act. The statement of agreed facts makes out a prima facie case which would entitle the insurer to a directed verdict if uncontroverted at trial, and thus shifted the burden to the defendants to “set forth specific facts showing that there is a genuine issue for trial.” Mass.R.Civ.P. 56(e). See 10A Wright & Miller, Federal Practice & Procedure § 2727, at 143-144 (2d ed. 1983). The defendants failed to meet their burden. A party so failing “cannot rely on the hope that the judge may draw ‘contradictory inferences’ in his favor from apparently undisputed facts. . . .” Farley v. Sprague, 374 Mass. 419, 425 (1978). The plaintiff insurer was entitled to judgment, declaring that the Abernathys’ injuries fall within the policy’s exclusion clause, as a matter of law. See Mass.R.Civ.P. 56(c).
+William K. Danaher, Jr., for the defendants.
+Philip A. Contant for the plaintiff.
+Judgment affirmed.
