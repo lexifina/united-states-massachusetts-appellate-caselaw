@@ -1,0 +1,35 @@
+---
+court: "Massachusetts Appeals Court"
+docket: "00-P-1098"
+decided: "2001-07-09"
+citations: ["52 Mass. App. Ct. 901"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Adoption of Donald."]
+source_url: "https://static.case.law/mass-app-ct/52/cases/0873-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1011154
+cites_cases: ["39 Mass. App. Ct. 484", "392 Mass. 696", "415 Mass. 439", "429 Mass. 856", "432 Mass. 1104", "432 Mass. 489", "433 Mass. 636", "49 Mass. App. Ct. 352", "49 Mass. App. Ct. 908"]
+---
+
+# Adoption of Donald
+
+## Majority
+
+A judge of the Juvenile Court entered a decree pursuant to G. L. c. 119, § 26, and G. L. c. 210, § 3, dispensing with the need for parental consent to the adoption of two children, Donald and Nicholas. In Adoption of Donald, 49 Mass. App. Ct. 908 (2000), we affirmed the decree. The mother now appeals from the decision of a Juvenile Court judge denying her request to participate in postdecree permanency hearings that are required to be held when children have been committed to the custody of the Department of Social Services. G. L. c. 119, § 29B.
+A committing court, such as the Juvenile Court, is required to conduct a permanency hearing within twelve months of “the original commitment, grant of custody or transfer of responsibility of a child to the department,” and every twelve months while the child remains in the care of the department in order “to determine and periodically review ... the permanency plan for the child.” G. L. c. 119, § 29B.
+The mother claims for the first time on appeal that the judge’s denial of her request to participate in a permanency hearing was a violation of her due process rights. She makes no claim that the statute should be declared unconstitutional. “As a general practice we do not consider issues, particularly constitutional ones, raised for the first time in this court.” Petition of the Dept. of Social Servs. to Dispense with Consent to Adoption, 392 Mass. 696, 697 (1984). Accordingly, we need not reach the constitutional claim.
+The statutory scheme precludes participation in a permanency hearing by a parent when a decree dispensing with the need for parental consent to adoption has entered. Pursuant to G. L. c. 119, § 26, a committing court, upon the department’s petition, or motion to amend a petition, “shall enter an order dispensing with the need for consent to adoption upon finding that the best interests of the child, as defined in [G. L. c. 210, § 3], will be served thereby. The entry of such an order shall have the effect of terminating the rights of a person named therein to receive notice of or to consent to any legal proceeding affecting the custody, guardianship, adoption or other disposition of the child named [in the petition].” G. L. c. 119, § 26(4). (Emphasis added.) A permanency hearing is a “legal proceeding affecting . . . disposition of the child,” and the mother has no right to notice of such a hearing. That the mother therefore has no concomitant right to participate in a permanency hearing is axiomatic.
+Our decision is consistent with the rules governing the conduct of permanency hearings that the Legislature required to be “established by the chief justice for administration and management.” G. L. c. 119, § 29B. These rules are set forth in Rule VI of the Rules of the Trial Court, Uniform Rules for Permanency Hearings (2000), and provide that parents are not parties to the hearing if the child has been freed for adoption pursuant to §§ 2 (voluntary surrender) or 3 of G. L. c. 210. Rule 2G, Trial Court Rule VI. Neither are such parents entitled to notice, Rule 3C, Trial Court Rule VI; or to the appointment of an attorney, Rule 4D, Trial Court Rule VI.
+The mother argues that not all parental rights are terminated upon the entry of a decree pursuant to G. L. c. 119, § 26, or G. L. c. 210, § 3, and further that until the decree terminating her rights to notice or to give consent has run the course of possible appellate review, c. 119, § 29B, contemplates her participation in the post-decree permanency hearings to “help insure careful consideration of the department’s plan” for the child. This argument is without merit. It is the entry of the decree, and not affirmance on appeal or eventual adoption of the child, that terminates a parent’s rights to physical custody and right to regain custody, as well as to notice of or consent to adoption, of the child. See Adoption of Helen, 429 Mass. 856, 864 (1999). See also Adoption of Gabrielle, 39 Mass. App. Ct. 484, 489 n.8 (1995).
+Also without merit is the mother’s argument that her right to participation is embodied in that provision in c. 119, § 29B, requiring the department to address, in its plan for the child, “whether, and if applicable, when ... the child will be returned to the parent.” Her rights having been terminated, the provision is not applicable. Neither does the fact that § 29B extends to “parents” the right to “appeal . . . from the determination or order of the trial court,” aid the mother. Reading the statute “as a whole to produce an internal consistency,” Adoption of Derrick, 415 Mass. 439, 444 (1993) (citation omitted), we conclude that the reference to “parents” here contemplates only those parents whose rights have not been terminated pursuant to G. L. c. 119, § 26, or G. L. c. 210, § 3. Compare Adoption of Willow, 433 Mass. 636, 647 n.11 (2001).
+Robert J. McCarthy, Jr., for the mother.
+Steven L. Wollman for the children.
+Virginia A. Peel, Special Assistant Attorney General, for Department of Social Services.
+We affirm the decision of the trial court.
+So ordered.
+The procedural history leading to our decision affirming the decree entered by the Juvenile Court judge is set forth in our decision. Adoption of Donald, 49 Mass. App. Ct. at 908. The mother’s application for further appellate review was denied by the Supreme Judicial Court on July 21, 2000. Adoption of Donald, 432 Mass. 1104 (2000).
+The father has not appealed.
+That statute sets forth conditions pursuant to which adoption may take place without parental consent and mirrors the provision in c. 119, § 26.
+In a footnote to her brief, the mother suggests that because the italicized language was not added until March, 1999, after entry of the decree in August, 1995, this provision does not apply to her. The statement is unsupported by citation to any authority. Such statements do not rise to the level of appellate argument. Glass v. Lynn, 49 Mass. App. Ct. 352, 358 (2000) (“[a]rguments relegated to a footnote do not rise to the level of appellate argument” [citation omitted]). We note that the review is of a child’s permanency plan and not of parental fitness. “When the conduct triggering the statute’s application occurs on or after its effective date, the statute’s application is deemed prospective, and therefore permissible.” Commonwealth v. Bruno, 432 Mass. 489, 497-498 (2000). On this basis, the statute is applicable to the March 24, 2000, permanency hearing.
