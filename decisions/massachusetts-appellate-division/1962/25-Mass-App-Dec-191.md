@@ -1,0 +1,31 @@
+---
+court: "Massachusetts Appellate Division"
+docket: "46807"
+decided: "1962-12-04"
+citations: ["25 Mass. App. Dec. 191"]
+reporter: "mass-app-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MASSACHUSETTS GENERAL HOSPITAL v. CITY OF REVERE"]
+source_url: "https://static.case.law/mass-app-dec/25/cases/0191-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4038280
+cites_cases: ["138 Mass. 109", "292 Mass. 162", "320 Mass. 166", "344 Mass. 449"]
+---
+
+# Massachusetts General Hospital v. City of Revere
+
+## Majority (Adlow, C. J.)
+
+Adlow, C. J.
+Action of contract brought by the Massachusetts General Hospital, a charitable corporation, located in Boston, against the City of Revere to recover for hospitalization furnished to one Mary Barney, an alleged pauper resident in Revere.
+The patient concerned was hospitalized at the plaintiff institution on two different occasions between November 1, 1960 and February 8, 1861. When she was admitted as a patient she informed the hospital authorities that she had no money of her own; that jointly with her husband she owned a trailer in which they lived, and a 1948 Buick car; that the equity in their trailer was worth $2,000; and that her husband worked and received a take-home pay of $56 a week. While the facts herein recited were agreed upon and submitted to the court virtually as a case stated, the plaintiff filed numerous requests for rulings, most of which were allowed by the court. However, the court refused to rule at the request of the plaintiff that if the plaintiff furnished necessary hospitalization at the request of the patient, and the patient was unable to pay for the services which payment became due, the defendant would be liable. (Plaintiff’s request No. 18). There was a finding for the defendant, and being aggrieved, the plaintiff requested a report.
+We find no error in the court’s disposition of the issue raised by the facts in this report. In order to recover against the defendant, the plaintiff had to prove that the person hospitalized was “in distress and standing in need of immediate relief.” Templeton v. Winchendon, 138 Mass. 109, 110; Symmes-Arlington Hospital v. Arlington, 292 Mass. 162, 164. Whether Mary Barney was in distress was a question of fact which was open for the court to decide on the basis of the evidence.
+The court had properly ruled that the test in law of a pauper is not whether the person has property but rather whether it is available at the time of his need (Plaintiff’s request No. 3). It was an open question and in the exercise of its discretion the court found on the facts that Mary Barney was not a person in distress.
+Aside from the question whether Mary Barney was a person in distress, there was a further question whether she was a person in need of immediate relief. In cases involving claims of hospitals against municipalities certain refinements have been introduced with respect to what constitutes “need of immediate relief”. In Symmes v. Arlington Hospital (supra) the boys for whose hospitalization payment was sought had been involved in accidents requiring emergency treatment, and a majority of the court distinguished between that part of the care and treatment at the expense of the hospital that was necessary and that part which was not. (292 Mass. 162, 165). In a later case the court limited the hospital’s right to recover to such time as “was encompassed within the emergency.” Mass. Gen. Hospital v. City of Chelsea, 344 Mass. 449, 452).
+Whether the court in using the phrase “as was encompassed within the emergency” sought to embrace within this term necessary medical attention is not clear. In its strict literal sense an emergency is not identical with usual conditions requiring medical attention. There are a vast variety of situations which require medical attention which do not require immediate relief.
+To have requested the court to rule as a matter of law that the plaintiff was entitled to recover if it furnished necessary medical attention and the patient was unable to pay for the services when due, ignored the fact that on the evidence the court could find as a fact that no emergency existed and that, although she had no funds at hand, she was not a pauper because of other circumstances. Symmes Arlington Hospital v. Arlington, 292 Mass. 162, 164. It was in this context that the court ruled as it did.
+Hospitalization of paupers has been specially provided for by G. L. c. 117, §24A. In .construing this section, the courts have made the benefits of the act available to persons in need of immediate relief regardless of whether or not they are in distress. They have proceeded on the theory that where human life is at stake .considerations of credit assume a secondary role. Realizing that charitable hospitals are under no obligation to extend credit to anyone and that the necessities of persons requiring immediate relief are not served by delays in making admissions, the courts have assured hospitals which accept emergency cases that the primary responsibility for such services will be borne by the municipality where the patient resides. Mass. Gen. Hospital v. City of Chelsea, 344 Mass. 449, 452. Such construction does not thereby transform persons of means into paupers. Nor does it practice an imposition on municipalities. Where the patient so benefitted has money or property, the municipality has a right of action for reimbursement. G. L. c. 117, §5. Where the person so helped is a pauper, there is no question about the municipality’s responsibility.
+In the case under review, Mary Barney was not brought to the hospital under emergency conditions. There is nothing in the report to indicate that she was in need of immediate relief. Before she was accepted into the plaintiff hospital she was interviewed and made a full disclosure of her financial condition, and knowing the facts, the hospital accepted her. We see no reason why it should now look to the defendant for payment. The cause is governed by the rule in Treas. and Rec. Gen. v. City of Boston, 320 Mass. 166. Report dismissed.
+Tierney & Tierney, of Boston, for the Plaintiff.
+Ralph E. Martino, of Revere, for the Defendant.
