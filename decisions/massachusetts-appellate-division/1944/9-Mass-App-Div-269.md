@@ -1,0 +1,34 @@
+---
+court: "Massachusetts Appellate Division"
+decided: "1944-12-15"
+citations: ["9 Mass. App. Div. 269"]
+reporter: "mass-app-div"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ACUSHNET HOSPITAL ASSOCIATION vs. INHABITANTS OF THE TOWN OF ACUSHNET"]
+source_url: "https://static.case.law/mass-app-div/9/cases/0269-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3886022
+cites_cases: ["105 Mass. 553"]
+---
+
+# Acushnet Hospital Ass'n v. Inhabitants of the Acushnet
+
+## Majority (Briggs, J.)
+
+Briggs, J.
+This is an action on an account annexed in which the plaintiff seeks to recover for hospital services rendered by the plaintiff to an alleged indigent inhabitant of the defendant town. The defendant denied liability.
+The Court found for the plaintiff, and found that the patient was an indigent inhabitant of the defendant town in need of an immediate emergency operation and assistance, which was necessarily supplied to the patient by an organization not liable for his support.
+The defendant contends that no liability was created against it since the plaintiff had failed to give such notice and request to the Board of Public Welfare as would constitute compliance with Section 24 of Chapter 117 of the General Laws. The statute provides that “every town shall be liable . . . after notice and request made in writing to one or more members of the Board of Public Welfare thereof ...”
+The report here discloses that following private treatments by.a physician the patient became worse and was told by his physician that an operation would be necessary. On July 12,1943, he went to the office of the Board of Public Welfare, and there being no members of the Board present explained his condition to the investigator for the Board and asked permission to be admitted to the plaintiff hospital at the expense of the said town, as he was unable to pay for hospitalization. The investigator told him that he would inform the Board of his request.
+The patient did not at any time consult with any member of the Board or make any request in writing.
+The next day, July 13, 1943, his physical condition required immediate hospital and surgical treatment and he was taken to the hospital on orders from his physician, and there operated on and thereafter treated and cared for.
+Several days prior to said July 13, 1943, the doctor, acting on behalf of the patient, conferred with the investigator at the office of the Board of Public Welfare and informed him of the necessity for an operation and that the hospital would have to look to the town for payment. The investigator made notes of the request, but no evidence was presented of the contents. There was evidence that it was the duty of the investigator to receive such information and requests, but no written request was made by the physician on behalf of either the patient or the hospital.
+On August 17, 1943, the hospital notified the Board of Public Welfare in writing of the admittance of the patient on July 13th, and requested that hospitalization be authorized. On Augmst 31st the Welfare Board declined to assume responsibility and later claimed the patient was not a pauper.
+The Court granted the following requests for rulings made by the plaintiff.
+‘ ‘ 1. Elmer Pittsley was, at the time of the treatment furnished by the plaintiff, a poor person in need of public assistance. 3. The expense to which the plaintiff was put was necessarily incurred in behalf of the said Elmer Pittsley. 4. The defendant is liable for any expense necessarily incurred in behalf of Elmer Pittsley, if it appears that said Elmer Pittsley was, at the time such services were rendered, domiciled within the jurisdiction of the defendant. See G. L. (T. E.) Ch. 117, Section 24. 6. Notice to any member of the Board of Public Welfare or its agent or servant is sufficient notice for all members of said Board. Rogers vs. Newbury, 105 Mass. 553.”
+Requests numbered 1, 3 and 4 incorporate language to the effect that the expense was necessarily incurred. As was stated in Symmes Arlington Hospital vs. Arlington, 292 Mass, at 164, “The question is, whether it could properly have been ruled as a matter of law that the expense for the whole period of care and treatment was ‘necessarily incurred. ’ ” That is, that the patient during the whole period was “in distress and standing in need of immediate relief.” The burden was on the plaintiff to prove the need. In the absence of any evidence as to physical and financial conditions after admittance we feel that the plaintiff failed to sustain this burden, and the granting of the requests, as drawn, was erroneous.
+The burden is upon the plaintiff to show that it is entitled to maintain its action and that it has performed every condition precedent to the obtaining of that right. Hence the plaintiff must show that a notice in compliance with the Statute was given. Chapter 117 See. 24 of General Laws, as amended, concludes as follows — “After notice and request made in writing to one or more of the members of the Board of Public Welfare thereof ...” Prior to 1935 the liability of the town could be established by proof of the due giving of an oral notice and request. In that year the oral notice was abolished and a requirement that such notice and request be made in writing was adopted. Had it been the intention of the Legislature to retain the sufficiency of oral notice, nothing would have been accomplished by the substitution of a notice in writing.
+Other than the conferences had by the patient and the doctor with the investigator, hereinbefore referred to, neither notice nor request was made to or upon the Board or any member of it until the written report and request of August 17, 1943, when the patient had been hospitalized for more than a month.
+Whether or not notice to the investigator would be sufficient service as contended by the plaintiff need not be decided here, since there was no written notice and request made to either the investigator or the Board'by or on behalf of either the patient or the plaintiff. Such notice is mandatory and required. The notice of August 17,1943, was a sufficient compliance with the requirements of the Statute, and the defendant is liable, if evidence is produced by the plaintiff to satisfy the Court that from that date until the discharge of the patient, he was in distress and standing in the need of immediate relief as set forth in the Statute. The granting of the 6th request of the plaintiff was error.
+The finding for the plaintiff is vacated — New trial is ordered for the assessment of damages, limited to the period from August 17, 1943, to the date of discharge of the patient, and the reception of material evidence in accordance with this opinion. So ordered.
