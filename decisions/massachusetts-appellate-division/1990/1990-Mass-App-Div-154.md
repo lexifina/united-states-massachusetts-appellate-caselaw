@@ -1,0 +1,31 @@
+---
+court: "Massachusetts Appellate Division"
+decided: "1990-09-21"
+citations: ["1990 Mass. App. Div. 154"]
+reporter: "mass-app-div-annual"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Present Dolan, P.J., Hurley & Kane, JJ."]
+parties: ["Boston Yacht Sales, Inc. vs. Bill Jameson Yacht Sales, Inc."]
+source_url: "https://static.case.law/mass-app-div-annual/1990/cases/0154-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6814757
+cites_cases: ["14 Mass. App. Ct. 63", "1982 Mass. App. Div. 218", "1984 Mass. App. Div. 254", "1986 Mass. App. Div. 167", "1988 Mass. App. Div. 163", "1989 Mass. App. Div. 76", "303 Mass. 88", "4 Mass. App. Ct. 862", "412 F.Supp. 15"]
+---
+
+# Boston Yacht Sales, Inc. v. Bill Jameson Yacht Sales, Inc.
+
+## Majority (Dolan, PJ.)
+
+Dolan, PJ.
+This appeal by plaintiff seeks to review the trial judge’s allowance of defendant’s motion to dismiss pursuant to Dist/Mun. Cts. R. Civ. P., Rule 12(b) (6).
+From the briefs filed, it appears that plaintiff, Boston Yacht Sales, Inc. (“Boston”), and defendant, Billjameson Yacht Sales, Inc. (“Jameson”), were named respectively as “listing” and “selling” brokers in a purchase and sale agreement between Noel J. Almeida, seller, and Joseph R. Gauthier, buyer, for a used 37 foot Hatteras Yacht The purchase and sale agreement, which was entered into in September, 1987, provided Gauthier with the right to terminate the agreement if not satisfied with the yacht surveyed. The agreement further provided that if the sale were terminated and,
+Seller and Buyer, or their assigns, either directly or indirectly transfer any interest in the yacht... within two years of the date of [the] Agreement, then Seller agrees to pay the Brokers the amount of commission otherwise agreed upon.
+On September 24,1987, Gauthier terminated the sale with Almeida and thereafter Boston refunded Gauthier’s deposit in October of 1987.
+In January of 1988, Jameson purchased the Hatteras yacht from Almeida as a trade-in for the sale of a new yacht to Ameida. Subsequently, Jameson re-sold the yacht to Gauthier on February 5,1988.
+Plaintiff filed suit on October 20,1989 seeking to recover a commission on four grounds: contract, quantum meruit, unjust enrichment, and violation of G.L.c. 93A. Defendant’s motion to dismiss for failure to state a claim upon which relief can be granted was allowed on March 15,1990 andnotices were sentto the respective parties. Twelve days later on March 27,1990, plaintiff filed a request for a report along with a draft report without moving for an extension of time to file a request for report pursuant to Dist./Mun. Cts. R. Civ. P., Rule 64(c) (1) (i).
+Rule 64 (c) (1) 0) requires that requests for reports be filed within ten days after judgment is entered. Although in this case the trial judge granted a Rule 12(b) (6) motion, the judgment is still a final one. Bacon v. Best Foods Div. of C.P.C. Int’l, Inc., 412 F.Supp. 15 (D.Mass. 1976). Dist./Mun. Cts. R. Civ. P., Rule 6 states that the time period for calculating the running of the rule begins on the day after “the act, event, or default” and by stipulating that the last day of such a time period cannot be a Saturday, Sunday or legal holiday, but the next business day. In this case, judgment was entered on Thursday, March 15,1990. On Friday, March 16,1990, the time prescribed by Rule 64(c) (1) (i) began to run. Pursuant to Rule 6, said time period expired on Monday, March 26,1990. Plaintiff without motioning the court filed a request for a report on Tuesday, March 27,1990. Plaintiffs filing of a request for a report was, therefore, one day late.
+This late filing sounded the death knell of plaintiffs appeal. In Yankelev v. Colletta, 1988 Mass. App. Div. 163, 164, (citing, Marquis v. Galasti, 1982 Mass. App. Div. 218, 219), we held that, “ [failure to comply with the ten day requirement prescribed by the rule forfeits the party’s right of appeal.” See also Farland v. Young, 1989 Mass. App. Div. 76. This failure to conform to the rule is not an insignificant one, but one constituting a “serious breach which is inimical to the scheme of orderly appellate review.” Yankelev, 1988 Mass. App. Div. at 164.
+The draft report filed by plaintiff purports to include, but does not, all the essential materials for a full understanding of the questions presented. Rule 64 (c) (2) requires that the draft report contain these materials. Brooks v. Hautala, 1984 Mass. App. Div. 254, 255. These needed materials cannot be incorporated by reference. Butts v. Boudreau, 1986 Mass. App. Div. 167, 168. A failure to include these materials renders the draft “fatally deficient in content” warranting dismissal. Brooks, 1984 Mass. App. Div. at 255. Plaintiff appeals the trial judge’s granting of defendant’s motion to dismiss for the reason that the complaint failed to state a claim upon which relief can be granted, but failed to furnish this division with a copy of its complaint Plaintiff merely made reference to the complaint in the draft report. This division cannot review what is not summarized or set before us. Butts, 1986 Mass App. Div, at 168. We, therefore, are obliged to dismiss plaintiffs report on this ground as well.
+Notwithstandingthefatal procedural errors, the trial judge’s allowance of defendant’s Rule 12(b) (6) motion does not appear to be in error. A motion to dismiss for Mure to state a claim upon which relief can be granted should be allowed when a pleader is not entitled to relief under any state of facts which could be provided in support of a claim. Romano v. Sacknoff, 4 Mass. App. Ct. 862 (1976). While the complaint is not available for review, it is difficult to imagine how the trial judge could have acted to the contrary. A broker is entitled to a commission from a seller if his “sendees were the efficient or effective means of bringing about the actual sale.” Bonin v. Chestnut Hill Towers Realty Co., 14 Mass. App. Ct. 63, 69 (1982). (citing Kavcas v. Diamond, 303 Mass. 88, 92 (1932)). In this case, theobligationofsellertoplaintiffwasapparently extended by the agreement to include any sale to anyone within a two year period. The obligation for the sales commission remains on seller not defendant, the eventual purchaser.
+Report dismissed.
