@@ -1,0 +1,35 @@
+---
+court: "Massachusetts Appellate Division"
+docket: "364685"
+decided: "1953-10-02"
+citations: ["6 Mass. App. Dec. 49"]
+reporter: "mass-app-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["HAMILTON FINANCE CORPORATION v. EGYPTIAN CHEMICAL CO. HERMAN A. SNIDER and STATE STREET TRUST COMPANY, TRUSTEE MORTGAGEE"]
+source_url: "https://static.case.law/mass-app-dec/6/cases/0049-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6064496
+cites_cases: ["1 Allen, 381", "253 Mass. 383", "268 Mass. 305"]
+---
+
+# Hamilton Finance Corp. v. Egyptian Chemical Co.
+
+## Majority (Adlow, J,)
+
+Adlow, J,
+In this action of contract, goods in the possession of the defendant were attached and the State Street Trust Company was named in the writ as mortgagee, under the provisions of G. L. c. 22 3, § 79. The attachment was made on May 16, 1953, and service was made on the defendants on June 18, 1953. The original writ was returnable and entered in court on June 6, 1953.
+On June 8, 1953 the mortgagees filed an answer in court setting forth the facts concerning its mortgages of the attached property, stating the amount due from the mortgagor for which debt the mortgage was security, and further stating that it had no other goods or effects belonging to the defendant. At the same time the mortgagee filed a motion that it be discharged on its answer.
+On June 11, 1953 the plaintiff filed a motion for hearing in the following form: mortgage the consideration thereof, and if said mortgage is valid the amount due thereon.”
+"The plaintiff moves for a personal examination of the State Street Trust Company, Trustee Mortgagee, and to offer any competent evidence according to the rules applicable in adversary proceedings at law to determine the question of the validity of said
+The mortgagee set down its motion to be discharged as trustee for a hearing on June 19, 1953 at 9:30 A. M. On this day said mortgagee appeared in court with his witnesses. At the call of the list on this day the plaintiff objected to the court hearing said motion of the mortgagee to be discharged, and further the plaintiff challenged the authority of the court to determine the issue of the validity of the mortgage and the amount due thereon at such hearing.
+The report indicates that aside from the witnesses produced by the mortgagee there were also present in court the treasurer of the plaintiff company, the treasurer of the defendant, Egyptian Chemical Company, as well as the defendant, Herman A. Snider. In reply to the court’s question as to whether the plaintiff challenged the validity of the mortgage in issue, the plaintiff replied that the mortgage was invalid for want of proper recording, and the plaintiff reiterated his demand for a full adversary hearing to determine its invalidity.
+Over the objection of the plaintiff the court proceeded with the hearing, and the mortgagee offered in evidence the original mortgage executed by Herman A. Snyder bearing date, January 12, 1953, a copy of said mortgage showing its recording on January 3, 1953 in the City of Newton, book 6j, page 332, and a certificate of the Clerk of the City of Newton that the mortgage was properly recorded. The assistant treasurer of the mortgagee bank testified that the amount due on the mortgage was $1,333.08.
+It does not appear from the record whether the plaintiff’s counsel participated in the hearing other than as mentioned above. However, the plaintiff did file requests for rulings at the close of the hearing. In substance these rulings called upon the court to rule that the mortgagee’s motion for discharge as trustee was premature, and in particular the plaintiff called on the court to rule that the privilege of testing the validity of the mortgage is exclusive to the plaintiff. The court denied these requests and found the mortgage valid in the amount of $1,333.08 and ordered the attaching creditor to pay the mortgagee by June 25, 1953; otherwise to lose its attachment.
+In this report the sole issue concerns the rights of the court to proceed with the hearing as above noted. It is apparent that on the face of the pleadings the issue of the validity of the mortgage was clearly joined. Furthermore the plaintiff by his motion of June 11, 1933 had asked for a hearing on this issue. While the motion of the mortgagee-trustee to be discharged does not succinctly raise the issues involved in the hearing, it was sufficient to bring before the court the issue of the validity of the mortgage and the amount due thereon.
+The plaintiff bases its grievance on the claim that it has the sole right, under G. L. c. 223, §§ 79, 80 and 81 to determine how and when the issue of the validity of the mortgage shall be determined. While the cases have clearly indicated that the privilege of deciding whether the issue is to be determined by a jury or by an examination of the mortgagee belongs to the creditor, Martin v. Bayley, 1 Allen, 381, 383 there is nothing in the statute or in the decisions which support his right to determine when the issue should be tried. In fact it has been clearly indicated by the cases that, having commenced proceedings by attaching the mortgaged property, it becomes the creditor’s duty to pursue the matter until the issue is determined. In O’Neill v. Small, 268 Mass. 305, at 309 the court says "It is the duty of the creditor to pursue the proceeding which he has begun by his attachment until the validity of the mortgage is determined; or to abandon his attachment.”
+In the pending cause the issue was joined and the parties were before the court. While it may be true that the motion which brought the parties into court did not accurately describe the process by which the issue might be determined, it did suffice to bring about the hearing necessary for such determination. Whether the matter could be properly determined on the particular day was a question directed to the discretion of the presiding justice. Keeping in mind that while the action is pending against the mortgagee, he is barred from exercising the rights of a mortgagee, Shapiro v. Park Trust Co., 253 Mass. 383, 387, there was ample reason for expediting the hearing of the issue.
+Samuel J. Freedman, for the plaintiff.
+Peabody, Arnold, Batchelder and Luther, for the defendants.
+On the face of this report the plaintiff had ample opportunity to try the issue. Its witnesses were in court. What is more, the issue raised by it as disclosed by the record concerned the validity of the recording of the mortgage, and this involved a question of law rather than one of fact. If there were evidence not then available the plaintiff had ample opportunity to apprise the court of the fact. On this matter the report is silent. Aside from the cumbersome and irregular manner in which the mortgagee-trustee brought this issue before the court, we see nothing in this report indicating an abuse of discretion by the court in proceeding with the hearing.
+Report dismissed.
