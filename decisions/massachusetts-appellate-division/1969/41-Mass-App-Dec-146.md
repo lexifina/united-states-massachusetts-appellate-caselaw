@@ -1,0 +1,39 @@
+---
+court: "Massachusetts Appellate Division"
+docket: "7058; No. 7148"
+decided: "1969-09-24"
+citations: ["41 Mass. App. Dec. 146"]
+reporter: "mass-app-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["FRAMINGHAM U.A.W. CREDIT UNION v. DICK RUSSELL PONTIAC, INC. doing business as PONTIAC VILLAGE, INC."]
+source_url: "https://static.case.law/mass-app-dec/41/cases/0146-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4334962
+cites_cases: ["22 Mass. App. Dec. 36", "305 Mass. 269", "317 Mass. 346", "340 Mass. 727", "347 Mass. 126"]
+---
+
+# Framingham U.A.W. Credit Union v. Dick Russell Pontiac, Inc.
+
+## Majority (Yesley, J.)
+
+Yesley, J.
+This is cm action of tort for the conversion of a motor vehicle. The case was submitted to the trial justice on an Agreed Statement of Facts.
+On June 28, 1965 the plaintiff credit union gave one Roy Willis its check payable to “Roy Willis and Pontiac Village, Inc.” in the amount of $2,400.00, in return for which Willis executed and delivered to the plaintiff an instrument granting to the plaintiff a “security interest in, and mortgag[ing] to [the plaintiff]” a 1965 Grand Prix Pontiac “to secure the payment of” the $2,400.00 advanced to him, plus finance and other charges which brought the “Total Debt” to $2,707.60. On the same day Willis bought from the defendant a new 1965 Pontiac of the same type. The said check was given in part payment thereof. The balance of the purchase price after giving credit for a trade-in was financed under a “Conditional Sale Contract” which was assigned by the defendant to the National Shawmut Bank of Boston (Bank). No notice was given to the plaintiff of the additional financing provided by the defendant. The vehicle was purchased by Willis for his own personal use. No financing statement was filed by either party.
+On November 8, 1965 the Bank repossessed the car and thereupon delivered it, and reassigned the contract, to the defendant, which subsequently sold the car to a third party without notice to the plaintiff. There was a finding for the plaintiff.
+We have before us a “case stated,” since the agreed statement contains all of the material facts upon which the rights of parties are to be determined. Rogers v. Attorney General & Others, 347 Mass. 126, 130; Caissie v. Cam bridge, 317 Mass. 346, 347. It was the duty of the trial justice to order the judgment required by the application of the correct principles of law to the facts stated. Richard D. Kimball Co. v. Medford, 340 Mass. 727, 728, 729; Caissie v. Cambridge, supra 347; Murphy v. Plymouth National Bank, 22 Mass. App. Dec. 36, 38. On review, we may draw from these facts any inference that the trial justice could have drawn, G.L. c. 231, § 126. We are not bound by the inferences drawn by the trial justice, Caissie v. Cambridge, supra 347. Hence, we decide the questions of law involved unaffected by his decision. Rogers v. Attorney General & Others, supra 130.
+In order to make out a case the plaintiff must show that at the time of the alleged conversion it had a general or special property in the car and actual possession or the right to immediate possession thereof. Massachusetts Lubricant Corporation v. Socony-Vacuum Oil Company, Incorporated, 305 Mass. 269, 271. The plaintiff had such right of possession under its “mortgage”, by reason of the breach by Willis of his warranties that the collateral was “free from any adverse lien, security interest or incumbrance” and that it would be kept “free of any [such] lien, security interest or incumbrance”.
+The question is whether that right of possession is superior or subordinate to the right of possession in the defendant and its assignee under the Conditional Sales Contract. The issue is to be determined by the provisions of the Uniform Commercial Code. (G.L. c. 106).
+Section 9-312 of Chapter 106 deals with “Priorities Among Conflicting Security Interests in the Same Collateral”. In order to determine which of the several sub-divisions of this section are pertinent to this case the particular security interests involved must first be identified. It appears that both the plaintiff and defendant took “purchase money security interest [s],” the defendant’s being taken “by the seller of the collateral to secure all or part of its price” — Chapter 106, § 9-107(a); and the plaintiff’s being “taken by a person who by making advances......gives value to enable the defendant to acquire rights in collateral if such value is in fact so used”. (Chap. 106, § 9-107(b) ).
+Examination of the provisions of § 9-312 reveals that the pertinent sub-division thereof is (5), which reads as follows:
+(5) In all cases not governed by other rules stated in this section (including cases of purchase money security interests which do not qualify for the special priorities set forth in subsections (3) and (4) of this section), priority between conflicting security interests in the same collateral shall be determined as follows:
+(a) in the order of filing if both are perfected by filings, regardless of which security interest attached first under section 9-204(1) and whether it attached before or after filing;
+(b) in the order of perfection unless both are perfected by filing, regardless of which security interest attached first under section 9-204(1) and, in the case of a filed security interest, whether it attached before or after filing; and
+(c) in the order of attachment under section 9-204(1) so long as neither is perfected.
+Since neither security interest was perfected by filing, sub-paragraph (b) above appears to be the applicable provision.
+It becomes necessary thereunder to determine “the order of perfection”. Since Willis purchased the car for his own personal use it comes within the classification of “consumer goods” as defined in § 9-109(1). Bach of the interests being a purchase money security interest in consumer goods a financing statement was not required to be filed to perfect the security interest, § 9-302(1) (d). Under § 9-303(1), a security interest is perfected when it has attached and when all of the applicable steps required for perfection have been taken. For a security interest to attach the debtor must have rights in the collateral. (§ 9-204). At the time that the plaintiff gave its check and received its security interest Willis had no rights in the collateral. At the time that the defendant retained its security interest Willis did have rights in the collateral by virtue of the sale of the car to him, and the defendant’s security interest simultaneously became perfected. This perfection, being simultaneous, we hold that the defendant’s security interest became perfected before the plaintiff’s. The plaintiff’s interest therefore was subordinate to that of the defendant and its right of possession of the motor vehicle was subordinate to that of the defendant. (§ 9-312 (5)(b)). The trial justice should have found in favor of the defendant.
+This result is in accord with common sense in that the plaintiff credit union could not possibly obtain an interest in the collateral supposedly securing its loan unless and until defendant, the owner, was willing to put an interest in the collateral in Willis’ hands under the conditional sale. This presumably it would not be willing to do without retaining an interest in the collateral superior to all other interests therein. Obviously, it would not part with the collateral, if by so doing it was vesting in another party a security interest superior to its own.
+The finding for the plaintiff is ordered vacated and judgment is to he entered for the defendant.
+Marvin A. Glaser, for plaintiff
+Samuel E. Kaufman, for defendant.
+The purchase money security interests here do not so qualify.
