@@ -1,0 +1,40 @@
+---
+court: "Massachusetts Appellate Division"
+decided: "2000-02-09"
+citations: ["2000 Mass. App. Div. 46"]
+reporter: "mass-app-div-annual"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Present: LoConto, P.J., Merrigan & Rutberg, JJ."]
+parties: ["Josephine M. Samaluk vs. James J. DeMartis"]
+source_url: "https://static.case.law/mass-app-div-annual/2000/cases/0046-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 11138112
+cites_cases: ["17 Mass. App. Ct. 1004", "1995 Mass. App. Div. 48", "211 CMR 74", "260 Mass. 110", "410 Mass. 805", "421 Mass. 535"]
+---
+
+# Samaluk v. DeMartis
+
+## Majority (Rutberg, J.)
+
+Rutberg, J.
+This is an expedited appeal from the allowance of defendant’s motion for summary judgment in a motor vehicle tort case. Defendant’s motion is grounded in his assertion that plaintiff could not prove that defendant’s putative negligence was the primary cause of the collision which underlies this action. The trial judge concurred with this assertion Summary judgment is rarely granted in negligence actions, as courts traditionally defer to a jury’s “unique competence in applying the reasonable man standard to a given fact situation.” Foley v. Matulewicz, 17 Mass. App. Ct. 1004, 1005 (1984); Wright v. Sabatino, 1995 Mass. App. Div. 48.
+The accident occurred when plaintiff topped at a “T” intersection; plaintiff was on Furnace Street, a side street, which intersected with State Route 8, a local thoroughfare. Plaintiff intended to make a left turn onto Route 8 northbound. As plaintiff looked to her left to check oncoming traffic, she saw defendant’s automobile approaching with his right turn signal flashing. Plaintiff, relying on the turn signal, pulled onto Route 8 and collided with the defendant’s car which did not turn onto Furnace Street as plaintiff apparently anticipated.
+In reviewing the allowance of a motion for summary judgment, the appellate court is to apply the same standard as that which the trial judge used, to wit: "... whether, viewing the evidence in the light most favorable to the nonmoving party, all material facts have been established and the moving party is entitled to a judgment as a matter of law.” Beal v. Board of Selectmen of Hingham, 421 Mass. 535, 539 (1995) [citations omitted]. However, this basic principle has been modified by the SJC’s holding in Kourouvacilis v. General Motors, which can shift the burden of producing affirmative evidence of factual issues to the nonmoving party [here the plaintiff], 410 Mass. 805 (1991). Kourouvacilis holds that when the nonmoving party has the burden of proof as to any issue, that party must respond and set forth specific facts showing that a genuine factual issue exists, after the moving party has met its burden pursuant to Rule 56(c). Id. The burden placed upon the moving party by Rule 56(c) is to satisfy the Court that it is entitled to judgment as a matter of law based upon the documents submitted.
+In the case at bar, the defendant produced affidavits, answers to interrogatories and deposition testimony. Upon reviewing this information, the trial judge found that a reasonable trier of the fact could not find that defendant’s putative negligence was more than 50% responsible for causing the collision between the parties’ automobiles. The information provided by the defendant, when viewed in the light most favorable to the plaintiff, is as follows:
+A. Plaintiff was stopped at the intersection intending to make a left turn heading north on State Highway 8;
+B. Defendant was heading south on State Highway 8 at or below the speed limit within the plaintiff’s sight;
+C. Defendant was proceeding with his right turn signal flashing indicating an intent to turn onto Furnace Street, where the plaintiff was stopped;
+D. Defendant did not slow down as he neared Furnace Street, and he did not turn onto Furnace Street;
+E. Plaintiff pulled onto Route 8 attempting to turn to her left when the left front of her car impacted the defendant’s vehicle; and,
+F. After impact, defendant’s vehicle was in the center of the two lane State Highway 8 which did not have marked lanes.
+From the above information, a jury could find that the defendant was negligent in that he “faked out” the plaintiff by proceeding with an active turn signal and not making the turn so indicated. This negligence, if so found, could further be a proximate cause of plaintiffs alleged injuries. The trial judge’s ruling is essentially a determination of fact as he found that plaintiff would be unable to prove that defendant’s putative negligence was greater than plaintiffs. While his conclusion may well predict the eventual outcome of this case, we believe that such a determination is necessarily within the province of a jury.
+We further note that the trial judge relied, in part, upon an administrative board’s presumption that collisions at “T” intersections are presumed to be the fault of the operator coming from the “side street.” The Board’s regulations are not conclusive, although they may be evidentiary. O’Connor v. Hickey, 260 Mass. 110 (1927).
+In opposing defendant’s motion for summary judgment, plaintiff produced an unsworn, undated ‘“Witness Statement” made by Robert Martin, who claims to have witnessed the collision from inside his apartment as he was serendipitously looking out the window. [App., p. 29] From the record, it appears as though this statement was presented to the trial judge at the motion hearing, but he did not take the contents of this statement into account when he granted defendant’s motion for summary judgment. Mr. Martin’s statement includes the following sentence: ‘There is little question in my mind that the other driver [the defendant] was totally at fault for this accident.” Id. While this statement alone appears to be sufficient evidence to meet plaintiffs burden and defeat defendant’s request for summary judgment, it is a conclusion that would be inadmissible at trial. M.R.C.P., Rule 56(e), requires the contents of supporting and opposing affidavits “set forth such facts as would be admissible in evidence.” Id. The remainder of Mr. Martin’s statement adds little of substance to the record; however, as stated above, the facts which were properly before the trial court when viewed in the light most favorable to the plaintiff allow for a finding of the defendant’s negligence.
+The trial judge’s entry of summary judgment for the defendant is reversed and the matter is remanded to the Northern Berkshire District Court for further proceedings consistent with this opinion.
+“I find that a reasonable fact-finder could not find that the defendant was more than 50% responsible for this accident. ...” Summary judgment decision, p. 5 (Ripps, J.)
+The Board of Appeal on Motor Vehicle Liability Policies and Bonds and Insurers has promulgated regulations pursuant to G.L.c. 175, §113B. These regulations presume that the operator coming from the roadway which ends at the “T” is more than 50% at fault if it collides with another vehicle on the thoroughfare. 211 CMR 74.04 (31).
+Plaintiff’s Notice of “Expedited Appeal” [App., p. 5] states:
+The following documents were submitted at the hearing on Defendant’s Motion for Summary Judgment and are attached hereto. Witness statement of Robert Martin, Sr. is attached as Appendix F. Plaintiffs Answers to Defendant’s Interrogatories is attached as Appendix G. Transcript of Plaintiff’s deposition, pages 44 to 68 is attached as Appendix H.
+We assume that the period at the end of the first sentence was intended to be a colon, as there is no other way that the witness statement could have become part of the appellate record.
+This Rule also requires that information be conveyed to the court in a sworn form, either by affidavit, answer to interrogatory or deposition testimony. From the record we do not know if the trial judge did or did not consider Mr. Martin’s statement in making his decision. Our decision does not require us to determine if the statement could have been relied upon by the trial judge.
