@@ -1,0 +1,34 @@
+---
+court: "Massachusetts Appellate Division"
+decided: "1997-04-07"
+citations: ["1997 Mass. App. Div. 43"]
+reporter: "mass-app-div-annual"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Present: Aguiar, P.J., Welsh & Crimmins, JJ."]
+parties: ["Flushing Savings Bank, FSB vs. Gail Rutkousky"]
+source_url: "https://static.case.law/mass-app-div-annual/1997/cases/0043-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 11881918
+cites_cases: ["11 Mass. App. Ct. 845", "420 N.E. 2d 353", "5 Mass. App. Ct. 253", "818 F. Supp. 452", "818 F. Supp. 455"]
+---
+
+# Flushing Savings Bank v. Rutkousky
+
+## Majority (Crimmins, J.)
+
+Crimmins, J.
+This is a Dist./Mun. Cts. R.AD.A, Rule 8A appeal by the plaintiff lender from the allowance of a motion for summary judgment in favor of the defendant pursuant to Mass. R. Civ. R, Rule 56(c). This appeal raises the issue of whether the trial court erred in ruling that the plaintiff was required to comply with the deficiency notice provisions contained in M.G.L.C. 244, §17B. We affirm the decision of the motion judge.
+The material facts under which this action arose are not in dispute. The defendant, Gail A Rutkousky, purchased a condominium unit in Hudson, New Hampshire in January of 1987. Defendant, in order to make the purchase, executed a note in the amount of $78,000, which was secured by a first mortgage on the property. Both the note and mortgage were executed in Pepperell, Massachusetts, and they were delivered to WinBank Mortgage Company, Inc., a Massachusetts corporation with a principal place of business in Gardner, Massachusetts. Subsequently the note and mortgage were transferred to the plaintiff herein. Note payments were to be made at the Gardner, Massachusetts location. The mortgage contained a provision that it “shall be governed by federal law and the law of the jurisdiction in which the property is located.” The promissory note was silent as to what law controlled.
+In April of 1994, defendant defaulted on the note. In accordance with New Hampshire law, plaintiff, by auction, foreclosed upon the property in November of 1994. On May 4,1995, plaintiff filed this action seeking to recover a deficiency of $14,156.85. Subsequently, the plaintiff filed a motion for summary judgment and the court allowed the motion in favor of the defendant pursuant to Mass. R. Civ. E, Rule 56(c).
+Massachusetts General Laws, Chapter 244, Section 17B sets out the requirements that must be satisfied before a party may recover under an action for a deficiency. The salient provisions of this section of the referenced statute provide that:
+No action for a deficiency shall be brought... by the holder of a Mortgage note or other obligation secured by mortgage of real estate after a foreclosure sale by him ... unless a notice in writing of the mortgagee’s intention to foreclose the property has been mailed ... to the defendant sought to be charged with the deficiency at his last known Address then known to the mortgagee, together with a warning of liability for the deficiency ... not less than twenty-one days before the date of the sale under the power in the mortgage, and an affidavit has been signed and sworn to, within thirty days after the foreclosure sale, of the mailing of such a notice.
+The trial court in its Order on the Plaintiffs Motion for Summary Judgment adopted the language of the court in Federal Deposit Ins. Co. v. Henry, 818 F. Supp. 452 (D. Mass. 1993), at 818 F. Supp. 455, that:
+Although New Heritage complied with all applicable provisions of New Hampshire foreclosure law, including notice of foreclosure pursuant to N.H. Rev. Stat. S. 479:25, the additional notice of deficiency imposed by Mass. Gen. Law. Ch. 244, 17B was not given. New Heritage’s failure to provide s. 17B notice precludes the FDIC from now seeking to recover the deficiency from Henry as trustee for the Trust See Vakalis, 403 Mass. at 345, 529 N.E. 2d at 1332; Guempel v. Great Am. Ins. Co., 11 Mass. App. Ct. 845, 851, 420 N.E. 2d 353, 356 (1981). Accordingly partial summary judgment is allowed as to defendant Henry, in his capacity as trustee of the Trust
+The court reasoned that the instant action had facts that were “practically identical to those in Henry,” ibid., and ruled that the lender was barred from recovering under a deficiency action as it did not comply with the applicable statute, M.G.L.c. 244, §17B.
+This appeal raises the issue as to whether or not the requirements of M.G.Lc. 244, §17B relative to sending notice to the mortgagor to claim deficiency are applicable to a deficiency action brought here in the Commonwealth following a foreclosure where the underlying promissory note was secured by a mortgage of real estate in New Hampshire and said mortgage contains language that the instrument shall be governed by the law of the jurisdiction where the property is located.
+Generally, a choice of law expressed by the parties to a contract will be upheld by the courts of the Commonwealth if the designated state has some substantial relation to the contract and the result is not contrary to the public policy of Massachusetts. See Steranko v. Inforex, Inc., 5 Mass. App. Ct. 253, 260 (1977). Pursuant to M.G.L.C. 244, §17B, holders of a mortgage note or other obligation secured by a mortgage of real estate are required to notify the defendant sought to be charged with the deficiency that if a deficiency remained after the foreclosure sale, the holder could maintain a deficiency action under the note. This is an expression of public policy that allows the parry to be charged with an opportunity to protect its interests at the foreclosure sale. Non-compliance with this provision would violate a public policy.
+In addition, a deficiency suit is an attempt to enforce the underlying debt. The note and not the mortgage is the primary obligation, and the law that is to be applied is the law that governs the underlying debt. See RESTATEMENT OF THE LAW, SECOND, CONFLICT OF LAWS 2d, Section 229, Comment (e). The fact that the note was executed and delivered here strongly suggests that Massachusetts, and not New Hampshire, is the state with the most significant relationship to the debt The foreclosure proceeding in New Hampshire is not under attack and thus, there is no substantial relationship to New Hampshire for choice of law purposes.
+Lastly, the remedy here, the deficiency action, is governed by the law of the forum state, that is the Commonwealth of Massachusetts. By seeking recovery based upon the remedy afforded in this state, compliance with the provisions of M.G.L.C. 244, §17B is required.
+The trial court’s allowance of the defendant’s motion for summary judgment is affirmed. Appeal dismissed.
+So ordered.
