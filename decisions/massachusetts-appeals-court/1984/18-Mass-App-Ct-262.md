@@ -1,0 +1,25 @@
+---
+court: "Massachusetts Appeals Court"
+decided: "1984-06-13"
+citations: ["18 Mass. App. Ct. 262"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Commonwealth vs. Raymond Vaughn."]
+source_url: "https://static.case.law/mass-app-ct/18/cases/0262-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3985474
+cites_cases: ["10 Mass. App. Ct. 942", "13 Mass. App. Ct. 1034", "15 Mass. App. Ct. 666", "270 Mass. 88", "351 Mass. 447", "364 Mass. 211", "370 Mass. 147", "378 Mass. 671", "380 Mass. 220", "381 Mass. 356", "388 Mass. 583", "388 Mass. 603", "449 U.S. 1065", "466 U.S. 294", "536 F. Supp. 647", "698 F.2d 1", "9 Mass. App. Ct. 512"]
+---
+
+# Commonwealth v. Vaughn
+
+## Majority (Grant, J.)
+
+Grant, J.
+The defendant was convicted, following a bench trial conducted in the Municipal Court of the City of Boston, on a complaint charging him with larceny of property of the value of less than $100 (G. L. c. 266, § 30) and appealed to the six-person jury session of that court for a trial de novo. G. L. c. 218, §§ 26A (inserted by St. 1978, c. 478, § 188) and 27A (as most recently amended by St. 1979, c. 344, §§ 3 and 4). The defendant timely filed in that session a motion to dismiss the complaint on the ground of double jeopardy, his contention being that the evidence at the bench trial had been insufficient to warrant a finding of guilty. The motion was summarily denied without a hearing. A single justice of the Supreme Judicial Court, acting under G. L. c. 211, § 3, ordered that a hearing be held on the motion. Such a hearing was held, and the motion was denied anew. The defendant waived his right to a jury trial and, following a further brief trial, was convicted again. He appealed to this court, urging error in three respects.
+1. The first contention is that the complaint should have been dismissed for the reason that the evidence at the bench trial was insufficient to warrant a finding of guilty, with the result that the defendant was twice put in jeopardy. Whatever a clairvoyant might have thought the law was at the times of both denials of the instant motion (see Lydon v. Commonwealth, 381 Mass. 356, 359-362, 365-367, cert. denied, 449 U.S. 1065 [1980]; Lydon v. Boston Mun. Court, 536 F. Supp. 647 [D. Mass.], aff'd, 698 F.2d 1 [1st Cir. 1982]; Commonwealth v. Montanez, 388 Mass. 603, 604-605 [1983]), it is clear from the recent (April 18, 1984) decision of the United States Supreme Court in Boston Mun. Court v. Lydon, 466 U.S. 294, 304-313 (1984), that the Supreme Judicial Court was correct in its holdings in the original Lydon case that no question of double jeopardy is implicated by conducting a trial de novo which is requested by a defendant under G. L. c. 218, §§ 26A and 27A, and that a judge sitting in a six-person jury session has no choice but to deny a motion to dismiss which is based on an alleged insufficiency of the evidence at a previous bench trial. See 381 Mass. at 359-362, 365-367.
+Accordingly, there is no occasion for us to consider any question concerning the sufficiency of any evidence except that introduced at the second trial of this case.
+2. There is no merit to either of the other points argued by the defendant, and we would have summarily disposed of the entire case under rule 1:28 of this court, as most recently amended, 10 Mass. App. Ct. 942 (1980), if we had not thought it advisable promptly to alert all concerned to the Supreme Court’s holding in the Lydon case and to the consequences of that holding. For the elucidation of those who have not encountered the strictures of rule 1:28 in criminal cases, there follows an example of how we might have treated the remaining points in an unpublished order entered under that rule.
+(a) The admission in evidence of the two Yasick declarations inculpatory of the defendant was well within the limits of the discretion which is accorded to a trial judge under the spontaneous exclamation exception to the hearsay rule. See Correira v. Boston Motor Tours, Inc., 270 Mass. 88, 90-91 (1930); Commonwealth v. Hampton, 351 Mass. 447, 449-450 (1966); Commonwealth v. McLaughlin, 364 Mass. 211, 215-216, 221-224 (1973); Commonwealth v. Sellon, 380 Mass. 220, 229-230 (1980); Commonwealth v. Winter, 9 Mass. App. Ct. 512, 518, 528 (1980); Commonwealth v. Clary, 13 Mass. App. Ct. 1034, 1034-1035 (1982), S.C., 388 Mass. 583, 585, 589 (1983); Commonwealth v. Burden, 15 Mass. App. Ct. 666, 676-677 (1983); Liacos, Handbook of Massachusetts Evidence 350-351 (5th ed. 1981). (b) For essentially the reasons set out in the Commonwealth’s brief, there is no genuine question as to the sufficiency of the evidence at the close of the Commonwealth’s case (Commonwealth v. Kelley, 370 Mass. 147, 149-150 [1976]) at the second trial to warrant a rational trier of fact (Commonwealth v. Latimore, 378 Mass. 671, 677-678 [1979]) in concluding beyond a reasonable doubt that the defendant was guilty of the offence charged.
+Judgment affirmed.
