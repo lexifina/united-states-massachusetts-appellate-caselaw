@@ -1,0 +1,39 @@
+---
+court: "Massachusetts Appellate Division"
+docket: "87169"
+decided: "1954-11-30"
+citations: ["8 Mass. App. Dec. 82"]
+reporter: "mass-app-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["CROWN SHADE AND SCREEN CO. v. WALTER AND JULIA KARLBURG"]
+source_url: "https://static.case.law/mass-app-dec/8/cases/0082-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6064419
+cites_cases: ["305 Mass. 41"]
+---
+
+# Crown Shade & Screen Co. v. Karlburg
+
+## Majority (Cox, }.)
+
+Cox, }.
+The conditional vendor of certain shades, screens and combination doors brings this action for their conversion against the defendants who purchased the articles from the conditional vendee. The value of the articles at the time and place of the alleged conversion is agreed to have been sixty dollars ($60.00).
+The case was submitted on an agreed statement of evidence. There was a finding for the defendants.
+The case was reported by the trial judge (Mulhall, J.) because the plaintiff claimed to be aggrieved by the judge’s denial of certain of its requests for rulings and the allowance of certain of those of the defendants.
+From the agreed statement of evidence it appears that the plaintiff, for a long period of time, has been engaged in the business of selling window shades, screens, and outside combination storm and screen doors. On August 7, 1950 the plaintiff contracted to sell to Old Colony Construction Company window shades, screens, and combination doors for fourteen houses in the town of Braintree, in Norfolk County. At that time, the plaintiff knew that Old Colony Construction Company was engaged in the business of constructing single family houses for sale. The contract provided that "It is understood that the goods on this order are custom-made and cannot be cancelled by the Buyer.” The contract also provided that "Title to said property shall remain in the seller until the price is paid in full.” The other provisions in the contract are immaterial. Notice of the conditional sales agreement was not recorded in the Registry of Deeds for Norfolk County.
+As a house became ready, the plaintiff installed the window shades and screens and delivered the combination doors to Old Colony Construction Company which caused them to be installed.
+The window shades are described as the common roller type and are attached as follows; A bracket is fastened to each side at the top of the window frame by two or three small nails or screws. The shade is then slipped into the slots in the brackets. The shade is readily removable from the brackets and the brackets may be removed with negligible damage to the window frames. The plaintiff makes no claim for the brackets.
+The screens are described as of the one-half window size made of wire mesh fastened in a wood frame. The screens slide on "runways” attached to the outside window frames. The screens may be put on or taken off the "runways” without damage to the house.
+A combination door has metal hinges near the top and bottom. The door is hung on the door frame by the hinges which are fastened to the door frame by three or four screws in each hinge. The door may be removed by taking out the bolt which holds the two sections of each hinge together. Removal of the door in this manner would leave one part of the hinge fastened to the door frame. The door may also be removed by unfastening the screws which would leave screw holes in the door frame.
+On January 18, 1951, Old Colony Construction Company sold to the defendants a house equipped with such window shades, screens and combination doors. The house was sold by Old Colony Construction Company and bought by the defendants "as a completed house”. At the time the defendants purchased the house they had no knowledge that the plaintiff had any claim affecting the shades, screens and combination doors. Upon demand by the plaintiff, the defendants refused to deliver the shades, screens and combination doors, hence the action against the defendants for the alleged conversion.
+The crucial point raised by the plaintiff’s requests for rulings which the judge denied was that the shades, screens and combination doors are not articles of persona! property "wrought into or attached to real estate” within the meaning of that clause as used in G. L., c. 184, §13, as amended, and therefore the plaintiff was not required to record notice of the conditional sale as a condition to its validity against purchasers such as the defendants. The judge ruled against the plaintiff’s contention as raised by its requests for rulings, which he denied, and ruled in favor of the defendants’ contention as raised in their requests for rulings, which he allowed, that the articles were wrought into or attached to the realty and that section 13 did apply to them. He made the following findings:
+"The Plaintiff knew that the Old Colony Construction Company was engaged in the business of building and selling houses to the general public. It also knew that the shades, screens, and combination doors would be installed in said houses and that such installation would increase the sales value of them and their use and enjoyment.
+"The Defendants had no notice, either actual or constructive, that the shades, screens, and combination doors were sold by the Plaintiff to the Old Colony Construction Company under a conditional bill of sale; and that when they bought the house from the Old Colony Construction Company, they bought the same as a complete house, which included shades, screens, and combination doors.
+"The Plaintiff, by its conduct, is estopped to assert title as against the Defendants.
+"The Court finds no conversion, and finds for the Defendants.”
+We think the judge was right. The conditional sale of the shades, screens, and combination doors was not valid as against the defendants as subsequent purchasers of the real estate to which the articles were "wrought into or attached”, because the plaintiff failed to record the notice required by §13. The case of Gar Wood Industries, Inc. v. Colonial Homes, Inc., 305 Mass. 41, appears to be decisive of the question here presented. As was said by the court, of the heating and humidifying apparatus in the Gar Wood case, so it may also be said of the shades, screens, and combination doors in the present case, that by virtue of the "Numerous connections” they were attached to the real estate within the meaning of §13; they are included by reference in the statute to articles of personal property that remain personal property if they are "attached to” real estate; they are not pieces of furniture which successive tenants, having with them when they became occupants, may take away with them when they cease to occupy the dwelling, particularly as they were custom made for the particular house; they relate to the building itself; "a prospective purchaser or mortgagee of the real estate, in the absence of the notice required to be recorded under the terms of the statute, could reasonably expect that it was (they were) so attached to the real estate as to be a constituent part of it”; "Its presence has a distinct relation to the value of the premises for the purpose of sale or mortgage”.
+Kabatznick, Stern & Gesmer, for the plaintiff.
+Maurice F. Maher, for the defendant.
+It seems clear that the shades, screens and combination doors, were "articles of personal property . . . afterward . . . attached to real estate ...” even though perhaps not fixtures at common law, and that since the plaintiff, as conditional vendor, did not record the notice required of it by section 13, it has lost its right to recover the value of the articles as against the defendants as subsequent purchasers of the real estate. Gar Wood Industries, Inc. v. Colonial Homes, Inc., 305 Mass. 41.
+As we perceive no error of law, an order is to be entered dismissing the report.
