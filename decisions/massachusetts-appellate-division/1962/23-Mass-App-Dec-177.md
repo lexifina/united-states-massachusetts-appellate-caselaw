@@ -1,0 +1,28 @@
+---
+court: "Massachusetts Appellate Division"
+docket: "3989 and 4330"
+decided: "1962-04-09"
+citations: ["23 Mass. App. Dec. 177"]
+reporter: "mass-app-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["RUSSELL E. MORRELL, ET AL v. WHITE CITY APARTMENTS, INC. and ELIZABETH FLANNERY v. WHITE CITY APARTMENTS, INC."]
+source_url: "https://static.case.law/mass-app-dec/23/cases/0177-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4037634
+cites_cases: ["255 Mass. 297", "268 Mass. 462", "279 Mass. 533", "293 Mass. 541", "293 Mass. 552", "306 Mass. 551", "307 Mass. 592", "309 Mass. 541", "320 Mass. 710", "324 Mass. 1", "327 Mass. 1", "327 Mass. 147", "338 Mass. 770", "339 Mass. 679"]
+---
+
+# Morrell v. White City Apartments, Inc.
+
+## Majority (Adlow, C. J.)
+
+Adlow, C. J.
+These two actions joined in a consolidated report involve the rights of tenants to recover from their landlord for damages suffered by reason of a fire on the premises occupied by them.
+There was evidence that on December 10, 1958, a fire occurred at 534-538 Newbury Street; that these buildings were served by a common incinerator located inside the buildings; that the janitor employed by the defendant usually attended to the burning of the rubbish and refuse in the incinerator, which could also be done by any tenant in the building; that on the afternoon of the day of the fire, a nephew of the janitor had burned some trash; that the fire which caused the damage occurred about 10:30 p.m.; that the fire took place in the woodwork enclosing the incinerator on the first floor of the building; that in the opinion of the District Fire Chief, this woodwork was ignited by the heat from the chimney. There was further evidence that a week prior to the event in issue, there had been a fire on the roof of the same apartment house allegedly caused by sparks from the .chimney. There was testimony from both plaintiffs that subsequent to this earlier fire they had observed a spark arrester made of “chicken wire” over the top of the chimney.
+The only evidence bearing on the cause of the fire was offered by the District Fire Chief, who was called to testify by the plaintiffs. While he listed a variety of factors which might have caused the heat he said that he could not determine what actually caused it. When asked by the court if as a result of his inspection he was able to observe anything that might .cause excessive heat, or any defect in the incinerator or chimney which would indicate that they were improperly maintained or used he replied “No”. The direct evidence of both plaintiffs that a spark arrester made of chicken wire rested on the top of the incinerator prior to the fire, eliminated as a possible cause of the fire the confinement of gases in the chimney by reason of a spark arrester. Aside from the evideace of the District Fire Chief there was nothing in the report which tended to explain the cause of this fire or to link the defendant with responsibility for it.
+While the parties in these actions stood toward one another in the relation of landlord and tenant, they have proceeded in this cause on the theory that the landlord’s responsibility is determined by general principles of liability. Inasmuch as the evidence in this case clearly indicates that the fire in question might have started by one of many possible causes, the case is governed by the well established principle that the plaintiff must exclude, by a preponderance of the evidence, those causes for which the defendant is not liable. Walker v. Benz-Kid Co., 279 Mass. 533 and cases cited; Brown v. Bangs, 306 Mass. 551. On this point the evidence clearly indicates that anyone in the building could use the incinerator, and that if it was overloaded or a highly combustible substance introduced a condition might have been produced which caused the fire. The burden was on the plaintiffs to prove that the fire was due to the landlord’s culpable neglect. What remains, therefore, can only be left to speculation or conjecture. This is not the direct or affirmative evidence necessary to link this fire with conduct for which the defendant is responsible. Walker v. Benz-Kid Co., 279 Mass. 533; Mucha v. Northern Crushed Stone, 307 Mass. 592; Creeger v. Springfield Rendering Co., 293 Mass. 541; Moore v. Amesbury, 268 Mass. 462.
+Arnold L. Slavet of Boston, for the plaintiff, cited
+a vast number of cases involving fires: Ross v. Broitman, 338 Mass. 770, 771, 772 (Landlord’s allowing large accumulation of paper and cardboard to remain in first floor common hallway of apartment building. Landlord liable); Chalfen v. Kraft, 324 Mass. 1, 4, 5 (Janitor kept paper and rubbish under stairway near boiler. Landlord liable); Deerfoot Farms, Inc. v. New York, New Haven & Hartford Railroad, 327 Mass. 1 (Sparks entered broken window of building); Burke v. Katoonian, 309 Mass. 541 (Use of a heater caused fire in nearby rubbish); Geraci v. A. G. Tomasello & Son, Inc., 293 Mass. 552 (Accumulated faucet drippings from a gasoline barrel ignited by unknown cause); Gates v. B & M R.R., 255 Mass. 297 (Fire supposedly extinguished four days before could cause a forest fire almost a mile away); Sheldon Forwarding Co. v. Boston & Maine, Railroad, 339 Mass. 679 (Trash piled near burning incinerator); Dean v. Coombs Motor Co., 327 Mass. 147; Carbone v. Trustees, 320 Mass. 710.
+S. Myron Klarfeld of Boston, for the Defendant.
+In the absence of such evidence the finding of the trial court was unwarranted. Finding for the plaintiff vacated. Finding to be entered for the defendant.
