@@ -1,0 +1,47 @@
+---
+court: "Massachusetts Appellate Division"
+docket: "7540; No. R-5472"
+decided: "1972-02-01"
+citations: ["50 Mass. App. Dec. 8"]
+reporter: "mass-app-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["TOBIE ILLMAN v. SAMUEL TURRANSKY"]
+source_url: "https://static.case.law/mass-app-dec/50/cases/0008-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4336146
+cites_cases: ["292 Mass. 293", "295 Mass. 215", "299 Mass. 455", "300 Mass. 264", "300 Mass. 583", "305 Mass. 389", "305 Mass. 446", "307 Mass. 227", "307 Mass. 601", "311 Mass. 203", "314 Mass. 167", "327 Mass. 435", "327 Mass. 516"]
+---
+
+# Illman v. Turransky
+
+## Majority (Durkin, J.)
+
+Durkin, J.
+This is an action of tort originally brought in the Suffolk Superior Court and remanded to the Municipal Court of Dorchester District to recover for personal injuries sustained as a result of being caused to “fall and slip” on premises alleged to be owned by the defendant. There was a finding for the plaintiff.
+The declaration stated that
+“on or about Dec. 29, 1967, the defendant was the owner , of certain premises known as and numbered 7 Outlook Road, in the Mattapan District of the City of Boston; that on said date, while the plaintiff was lawfully on the said defendant’s premises, she was caused to fall and slip due to the negligent manner in which the said defendant maintained his said premises, in consequence of which the said plaintiff sustained severe personal and permanent injuries..
+The second count of the plaintiff’s declaration alleges,
+“that on or about Dec. 29,1967, the plaintiff was lawfully on the premises owned and/or maintained by the defendant, said premises being known and numbered 7 Outlook Road, Mattapan Dist. of the City of Boston, County of Suffolk, that as a result of the negligence, carelessness and unskillfulness of the defendant in the maintenance of said premises the plaintiff was caused to fall and slip thereby sustaining severe personal and permanent injuries..
+The defendant’s answer contained a general denial to each allegation, denied agency, and alleged contributory negligence on the part of the plaintiff.
+The following notice of the accident received by the defendant, Samuel Turransky, was introduced into evidence:
+“Owner, Owners, Lessee, Lessees, Tenant, Tenants, Occupant, Occupants, Person, Persons, Trustee, Trustees of Corporation in Control of Premises 7 Outlook Road, Mattapan, Massachusetts.
+You are hereby notified that on December 29, 1967, at about 6 P.M. when I was lawfully on the premises at 7 Outlook Road, Mattapan, Massachusetts, and when at a point on said premises on the front stairs and porch I was caused to fall and sustained injury by reason of slipping on an accumulation of ice which was on said premises at the front stairs and porch. Said accumulation of snow and ice was caused to be on said premises at said place and allowed to remain on said premises causing a dangerous condition of said stairs and porch.”
+The defendant duly submitted the following requests for rulings:
+1. On all the evidence a finding for the defendant is warranted.
+2. On all the evidence a finding for the defendant is required.
+The court allowed the defendant’s first request, denied the second and found for the plaintiff in the sum of $3,000.00.
+It is stated in the report that it contains all the evidence material for the question reported.
+The report is that of the trial judge, not of the party. Perry v. Hanover, 314 Mass. 167, 168.
+The ruling denied by the judge, that on all the evidence a finding for the defendant is required, did not specify the grounds upon which the request was based, and the defendant is therefore not entitled to a review as of right. Rule 27, par. 2. Okin v. Sullivan, 307 Mass. 227, 228. Sokoloski v. Splann, 311 Mass. 203, 205, 206. However, the circumstances require the exercise of our discretion in proceeding to a review. See Drain v. Brookline Savings Bank, 327 Mass. 435, 439; Irving v. Bonjorno, 327 Mass. 516.
+The sole question reported is the challenge of the requested ruling that on all the evidence a finding for the defendant is required. The subject of the inquiry is whether or not the report of the judge sets forth evidence sufficient to warrant a finding of negligence under the circumstances disclosed by the report. We have no source of information except the following, which is the sum total of the contents of the report relating to the ultimate question of liability. The only witness to testify at the trial was the plaintiff, Tobie Illman, who testified she was living with her mother and father at 7 Outlook Boad and that she knew who owned the house. She was allowed to answer that the owner was the defendant Samuel Turransky and that she saw her father and/or mother give rent money to him. She also testified that she fell on the property of the defendant at 7 Outlook Boad, in an area close to the bottom of the stairs near the sidewalk at about 6 p.m. as she came out of the house. She pointed out an area in the pictures in the right hand corner which represented the bottom of the stairs of the defendant. She said she fell on the ice which had apparently formed from the water which flowed from the drain.
+It is only from the foregoing contents in the report that we must decide whether or not the finding of the trial judge was tainted by error.
+“A judge, sitting without a jury, performs a dual function. He is both a judge of law and a trier of fact. He must adopt correct rules of law for his guidance and find the facts as guided by these rules ... The purpose of such a ruling or of such a special finding or special findings is to show whether the general finding is vitiated by error of law.” Perry v. Hanover, 314 Mass. 167, 173, 174. Adamaitis v. Met. Life Ins. Co., 295 Mass. 215, 219.
+“It has repeatedly been held that a trial judge, sitting without a jury, must correctly instruct himself as to the governing principles of law and must pass upon pertinent requests for rulings of law presented to him for this purpose in such a way as to make plain that he has not fallen into error.” Home Savings Bank v. Savransky, 307 Mass. 601, 603.
+“The record is not fairly susceptible of the construction that the request was denied because rendered immaterial by findings of fact made by the trial judge. No findings of fact are recited. But the record does not show that the ultimate decision may not have been due to the erroneous view of law of the trial judge expressed by his denial of the request. That is an error which this court cannot correct except by reversing the decision.” Bresnick v. Heath, 292 Mass. 293, 298, 299.
+Special findings," if warranted by the evidence referred to in the report, could have been made, and if so warranted would allow the denial of the request to stand, as, for example, in Strong v. Haverhill Electric Co., 299 Mass. 455, 456; in Ajax Shoe & Leather Co. v. Selig, 305 Mass. 389, 391; and in Himelfarb v. Novadel Agene Corporation, 305 Mass. 446, 448. In the latter case, the decision turned upon the opinion that there was more than a “bare finding”.
+In the instant case, the "judge was required to instruct himself and to apply at least the special rules of law governing liability relating to (a) snow and ice, as in Rosenblum v. Economy Grocery Co., 300 Mass. 264, coupled with (b) landlord and tenant status, as in Silver v. Cushner, 300 Mass. 583, 584, and to (c) contributory negligence. The judge could have made, and in these circumstances was required to make, special findings so that the propriety of his ultimate decision could be subjected by an aggrieved party to examination by an appellate court. We have no way of ascertaining whether the judge may or may not have instructed himself on one or more of these problems or whether on the other hand they may have been ignored.
+We do not intimate that other problems also may not lie hidden, and unnoticed, in this case. We are not favorably impressed by the lack of consideration evidenced by counsel for the respective parties, to problems which include among others use of pleading, of evidence, and of notice. It is sufficient to say that the conduct of the case up to and including the report seems to us to have been replete with error both in the trial of the case and as disclosed by the report. We cannot allow it to stand. We have no reason, from examination of the papers in this case, to expect at a second hearing a more complete presentation of the evidence required for the plaintiff to prevail.
+On the state of the evidence, as disclosed by the report, the defendant’s second request should have been granted. The judge’s action thereon was prejudicial error and requires that it be vacated. Since the report contains all the evidence bearing upon the issue presented by the denial of the requested ruling and such evidence was insufficient to warrant a finding for the plaintiff, there was prejudicial error and, in order that the procedure may preserve the plaintiff’s rights under G.L. c. 231, § 102c, our order is that the case is remanded to the Municipal Court of Dorchester District where the finding for the plaintiff, Tobie Illman, should be reversed, and a finding shall be entered for the defendant, Samuel Turransky, on both counts.
+John J. Keenan for the Plaintiff
+Hugh L. Moose for the Defendant
