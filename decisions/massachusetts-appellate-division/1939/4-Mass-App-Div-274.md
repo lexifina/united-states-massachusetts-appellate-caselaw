@@ -1,0 +1,39 @@
+---
+court: "Massachusetts Appellate Division"
+decided: "1939-08-01"
+citations: ["4 Mass. App. Div. 274"]
+reporter: "mass-app-div"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["LEOPOLD MORSE COMPANY vs. CHARLES E. JENKINS & TR."]
+source_url: "https://static.case.law/mass-app-div/4/cases/0274-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3796117
+cites_cases: ["117 U. S. 559", "126 Mass. 523", "138 Mass. 379", "139 Mass. 162", "141 Mass. 410", "182 Mass. 360", "200 Mass. 569", "220 Mass. 137", "246 Mass. 170", "249 Mass. 459", "256 Mass. 153", "273 Mass. 386", "274 Mass. 505", "285 Mass. 370"]
+---
+
+# Leopold Morse Co. v. Jenkins
+
+## Majority (Pettingell, J.)
+
+Pettingell, J.
+Action of contract to recover on a judgment entered in an earlier action between the same parties. The answer is a general denial, payment and discharge in bankruptcy.
+The plaintiff entered its first writ, December 11, 1937; the defendant failed to appear or answer and was defaulted on the record, December 16, 1937; judgment was entered for the plaintiff, July 8, 1938. In the meantime, the defendant filed a petition in bankruptcy, December 13, 1937, and received his discharge, June 10, 1938. The discharge in bankruptcy was never pleaded in the first action, but was pleaded in the present action, begun on January 10, 1939.
+The plaintiff filed the following requests for rulings:
+“1. Upon all the evidence there should be a finding for the plaintiff.
+£<2. The evidence does not warrant a finding for the defendant.
+££3. If the Court finds that the defense of discharge in bankruptcy was not pleaded in the original case wherein the judgment was obtained and which judgment is the basis of this action, then the finding must be for the plaintiff.
+££4. If the Court finds that the defendant obtained a discharge prior to the date on which the judgment, sued upon in this action, was rendered and said discharge was not pleaded in the original action, then the finding should be for the plaintiff.
+££5. Upon all the evidence the defendant has lost his right to plead his discharge in bankruptcy as a matter of law.
+“6. A discharge in bankruptcy can only be availed of by properly pleading it.
+“7. A discharge in bankruptcy is not a defense to a judgment rendered after the date of the discharge.”
+These requests were all denied, the trial judge disposing of them, and finding for the defendant, in the following words:
+££I denied all the plaintiff’s request for rulings because I ruled as a matter of law that the defendant’s discharge in bankruptcy, even though not pleaded in the prior suit is a bar to this present suit and I therefore found for the defendant.”
+When a judgment is recovered after adjudication in bankruptcy and before discharge, Section 63 (5) of the bankruptcy act specifically applies. Such judgments are, by that section, expressly barred, and the discharge is a good defence in a later action. Yale University v. Weissman, Mass. Adv. Sh. (1936) 2331, at 2334, 2335. Other cases governed by this principle are Berry Clothing Co. v. Shopnick, 249 Mass. 459, at 469; Badger v. Jordan Marsh Co., 256 Mass. 153, at 156, 157.
+When, however, the judgment is recovered after the discharge, and the defendant has failed to plead the discharge, the bankruptcy act does not in terms apply and other principles govern.
+As between the parties, a domestic judgment is conclusive, and stands until reversed or annuled. White v. Morse, 139 Mass. 162, at 164; Moll v. Wakefield, 274 Mass. 505, at 507; if the defendant has a good defence against the judgment, his remedy is a review of the judgment by writ of error, or, in exceptional cases, a bill in equity. Savage v. Welch, 246 Mass. 170, at 176; Long v. McDougall, 273 Mass. 386, at 388; Morin v. Ellis, 285 Mass. 370, at 374. If a writ of error to review a domestic judgment is open to the defendant, he cannot set up, in an action on the judgment, matters of defence which he could have pleaded in the first action. McCormick v. Fisk, 138 Mass. 379, at 380, 381; Kittredge v. Martin, 141 Mass. 410, at 411. For a case in which the defendant was entitled, by writ of review, to set up as a defence against a judgment, a suggestion of bankruptcy filed before the judgment was entered, but not actually brought to the attention of the court, see Golden v. Blaskopf, 126 Mass. 523, at 525.
+The application of the principles just stated, to the case of a judgment recovered after a discharge in bankruptcy is best illustrated by the language of the Supreme Court of the United States, in Dimock v. Revere Copper Co., 117 U. S. 559 (29 Lawyers Ed. 994, at 996) as follows:
+“It is not argued that this judgment was void, or that the court was ousted of its jurisdiction by anything done in the bankruptcy court. No such argument could be sustained if it were made. * * * So, here, if Dimock had brought- his discharge to the attention of the superior court at any time before judgment, it would have been received as a bar to the action; and under proper circumstances, even after judgment, it might be made the foundation for setting it aside and admitting the defense. * * * Nothing of the kind was attempted. The question before the Massachusetts court for decision, at the moment it rendered judgment was whether Dimock was then indebted to the Copper Company. Of Dimock and of the question it had complete jurisdiction, and it was bound to decide it on the evidence before it. Its decision was therefore conclusive, as much so as any judgment where the jurisdiction is complete. It concluded Mr. Dimock from ever denying that he was so indebted on that day wherever that judgment was produced as evidence of debt. If he had had the means at that time to prove that the debt had been paid, released or otherwise satisfied, and did not show it to the court, he cannot be permitted to do it in this suit, and the fact that the evidence that he did not then owe the debt was the discharge in bankruptcy made five days before, does not differ from a payment and receipt in full or a release for a valuable consideration * * * We are of opinion that, having in his hands a good defence at the time judgment was rendered against him, namely: the order of discharge and having failed to present it to a court, which had jurisdiction of his case, and of all the defenses which he might have made, including this, the judgment is a valid judgment, and that the defence cannot be set up here in an action on that judgment. * * * It is clear that until the judgment of the Massachusetts Court is set aside or annulled by some direct proceeding in that Court, its effect cannot be defeated as a cause of action, when sued in another State, by pleading the discharge as a bar which might have been pleaded in the original action.”
+This principle has been recognized and followed in Massachusetts. In Lane v. Holcombe, 182 Mass. 360, at 362, a defendant who failed to plead a discharge in bankruptcy until after judgment, was held to have waived that defence. In Hirsh v. Beard, 200 Mass. 569, at 570, it was held within the discretion of the trial judge to deny defendant’s motion, after verdict, to amend his answer by setting up his discharge in bankruptcy. In Herschman v. Justices of the Municipal Court, 220 Mass. 137, at 141, the Supreme Judicial Court held that a judgment, recovered after a discharge in bankruptcy, the discharge not having been pleaded, was not open to collateral attack, based on the discharge, and could be enforced by arrest and levy.
+In the case before us, the trial judge was in error in ruling that the discharge is a bar to the action. There was error, also, in the denial of the plaintiff’s requested rulings, particularly the second, fourth and seventh.
+The finding for the defendant is to be vacated and judgment is to be entered for the plaintiff.
