@@ -1,0 +1,22 @@
+---
+court: "Massachusetts Appeals Court"
+decided: "1977-04-29"
+citations: ["5 Mass. App. Ct. 818"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Irving Coven Construction and Realty, Inc. vs. State Tax Commission."]
+source_url: "https://static.case.law/mass-app-ct/5/cases/0818-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5731930
+cites_cases: ["273 Mass. 212", "3 Mass. App. Ct. 246", "323 Mass. 543", "337 Mass. 615", "340 Mass. 33", "342 Mass. 462", "356 Mass. 279", "362 Mass. 136", "363 Mass. 880", "364 Mass. 335", "364 Mass. 831", "490 F. 2d 827"]
+---
+
+# Irving Coven Construction & Realty, Inc. v. State Tax Commission
+
+## Majority
+
+Nothing appears in the plaintiff’s appeal from the order denying its motion to determine whether the defendant commission had complied with the writ of mandamus previously issued against it. In the first place, the judge was not required to entertain the motion for the reason that it was grounded on factual allegations unverified by affidavit, and not apparent from the record and files or agreed to by written stipulation. Rule 9 of the Superior Court (1974). See H. Piken & Co. Inc. v. Planet Constr. Corp. 3 Mass. App. Ct. 246, 249 (1975). If, on the other hand, the judge did grant a hearing on the motion, and the commission makes the unsupported assertion that he did, the record does not disclose what transpired at that hearing or the reason for the judge’s action. For all that appears, the judge may have denied the motion because he was satisfied that the commission had sufficiently complied with the writ. That conclusion is not shown to have been erroneous. Contrast Gilbert v. Johnson, 490 F. 2d 827, 828-830 (5th Cir. 1974). The commission represented that the decision rendered by it under G. L. c. 58, § 27 (since repealed by St. 1970, c. 601, § 1, but see § 11 of the 1970 statute), was “on the merits” of the plaintiff’s application for abatement, as required by the writ. We are unimpressed by the plaintiff’s arguments to the contrary, most of which seem to be based on the mistaken assumption that the writ had been issued for the purpose of compelling the commission to exercise its judgment favorably to the plaintiff under § 27. See Boston Safe Deposit & Trust Co. v. Commissioner of Corps. & Taxn. 273 Mass. 212, 213-215 (1930); Commissioner of Ins. v. Suffolk Ins. Co. 363 Mass. 880 (1973). Compare Chilton Club v. Commonwealth, 323 Mass. 543, 547-548 (1949); Assessors of Lynn v. Zayre Corp. 364 Mass. 335, 338-339 (1973); Valor, Inc. v. State Tax Commn. 364 Mass. 831 (1973). Nor was the judge required to rule that the procedure followed by the commission in reaching its decision was unacceptable. The commission admittedly gave the plaintiff a hearing; and we are not prepared to say that the mandate of the writ by which the plaintiff was to be afforded “rudimentary due process” meant any more than that. The judge who denied the motion, being the same one who ordered the writ of mandamus to issue, was in a better position than we are to determine the intended scope of that ambiguous phrase. Compare Nickerson v. Dowd, 342 Mass. 462, 464 (1961). The plaintiff’s argument in this connection, that the commission did not observe certain statutory provisions applicable to adjudicatory proceedings, is misdirected. Since the plaintiff had no statutory right to a hearing under G. L. c. 58, § 27, and since the plaintiff’s failure to pursue its appellate remedies after the earlier denial of its application for an abatement under St. 1966, c. 14, § 1, subsections 20-22, amounted to a waiver of any constitutional right which it might have had to such a hearing (Commissioner of Ins. v. Suffolk Ins. Co. supra; see Assessors of Lynn v. Zayre Corp. supra), the proceeding which took place before the commission was not “adjudicatory” within the meaning of the State Administrative Procedure Act. G. L. c. 30A, § 1(1). Natick Trust Co. v. Board of Bank Incorporation, 337 Mass. 615, 617 (1958). Miller v. Alcoholic Beverages Control Commn. 340 Mass. 33, 34-35 (1959). Associated Indus. of Mass. v. Commissioner of Ins. 356 Mass. 279, 285-286 (1969). Reid v. Acting Commr. of the Dept. of Community Affairs, 362 Mass. 136, 144 (1972).
+Richard M. Simonian for the plaintiff.
+Terry J. Seligmann, Assistant Attorney General, for the defendant.
+Order affirmed.
