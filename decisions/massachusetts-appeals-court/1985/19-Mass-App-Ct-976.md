@@ -1,0 +1,30 @@
+---
+court: "Massachusetts Appeals Court"
+decided: "1985-02-12"
+citations: ["19 Mass. App. Ct. 976"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Valerie C. Scovil vs. Gael D. Mattucci."]
+source_url: "https://static.case.law/mass-app-ct/19/cases/0976-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5745350
+cites_cases: ["209 Mass. 359", "326 Mass. 290", "329 Mass. 182", "335 Mass. 367", "349 Mass. 749", "364 Mass. 632", "365 Mass. 750", "382 Mass. 34"]
+---
+
+# Scovil v. Mattucci
+
+## Majority
+
+These, in summary, are the findings of the trial judge: Of the six children of June L. Scovil, Valerie, the plaintiff, was the least educated, the most dependent, and the least able to provide for herself. Valerie lived with her mother at 20 Sydney Street, Medford. In 1970, June executed a will by which she left her entire estate to Valerie. June told her oldest daughter, Gael Mattucci, the defendant, about the will and her concern about Valerie. June relied heavily upon Gael for help in financial and business matters. Between 1970 and 1976, June told Valerie and three other members of her family that Valerie was to own the house after she, June, died. On February 7, 1976, June executed a deed conveying to Gael the premises at 20 Sydney Street, with reservation in June of a life estate. June delivered the deed, together with the will, to Gael some time in 1976 and asked her to keep the papers in a safe deposit box which Gael maintained. The deed was recorded.
+June continued to live at 20 Sydney Street with Valerie and dealt with the property as if it were hers. She maintained home owner’s insurance in which she named herself as the insured and she filed applications for real estate tax abatements on which she identified herself as owner of the premises. In 1980, she renegotiated mortgage payment terms on the property and took out a home improvement loan. On the attendant documentation, she signed as sole owner of the 20 Sydney Street property. Mortgage payments came solely from June’s funds.
+After she delivered the deed to Gael, June reported to the Social Security Administration that she owned no real estate and that no real estate had been sold by her. She did so to retain Supplemental Security Income benefits. For similar reasons, i.e., the bearing of the information on her benefits, June denied the existence of her savings account and that Valerie lived with her. Gael assisted in the deception by putting her address on Valerie’s 1978, 1979, and 1980 income tax returns. During the period 1976 to 1981, however, June told members of her family and friends that the house was to go to Valerie.
+June died December 1, 1981. There was a severe falling out between Gael and the rest of the family about a detail of June’s funeral. So upset was Gael that she refused to go to the funeral and she became alienated from her siblings. Thirty days after the funeral, Gael told Valerie to leave 20 Sydney Street.
+John T. Daley for the defendant.
+Sheldon Newman for the plaintiff.
+Gael, married and with resources of her own, had maintained a close relationship with her mother. They spoke almost every day, and June regularly discussed with Gael her talks with her attorney, her dealings with her real estate, her income, and her expenses. June maintained with Gael a joint checking account into which June deposited funds and upon which Gael drew checks in payment of her mother’s bills. Gael was her mother’s confidante about her will, the deed, and her concerns about Valerie’s future and security.
+On the basis of these facts, the judge determined that Gael held title to 20 Sydney Street upon trust, ordered Gael to convey the property to Valerie, and ordered, also, that Gaél should recover sums she had spent on the property since December 1,1981. From the portion of the judgment ordering her to convey the property Gael appeals. We affirm.
+1. As a first line of defense, Gael sets up the paramount status of the recorded deed and the absence of any writing which reflects that she received the deed in trust. She did not, however, plead the Statute of Frauds (G. L. c. 203, § 1; c. 259, § 1, Fourth) and, therefore, cannot rely upon it. Mass.R.Civ.P. 8(c), 365 Mass. 750 (1965). Abalan v. Abalan, 329 Mass. 182, 183 (1952). Barche v. Shea, 335 Mass. 367, 370 (1957). The recording of the deed, while an act upon which the world at large may rely, if innocent of limitations on the recorded instrument, Richardson v. Lee Realty Corp., 364 Mass. 632, 634-635 (1974), achieves nothing for a grantee aware of those limitations. Wenz v. Pastene, 209 Mass. 359, 362 (1911). See G. L. c. 183, § 4. Compare Kozdras v. Land/Vest Properties, Inc., 382 Mass. 34, 45 (1980).
+2. Whether Gael stood in a fiduciary capacity in relation to June and, consequently, to Valerie depends on whether the record supports a finding that June reposed special confidence in Gael, and that Gael was aware of her trust. See Warsofsky v. Sherman, 326 Mass. 290, 292-293 (1950); Broomfield v. Kosow, 349 Mass. 749, 754-756 (1965). Restatement (Second) of Trusts § 44(1)(b) (1959). Here, the judge could find on the record that there was more than the silent acquiescence of a grantee which in Abalan v. Abalan, 329 Mass. at 183-184, was held sufficient to give rise to a trust. See also Barche v. Shea, 335 Mass. at 370 (“Under all the circumstances relating to the deed ... it can be concluded that the son held the record title subject to a trust in favor of each grantor. . . .”)
+3. Upon our review of the record there was ample evidence from which the judge could infer the subsidiary facts outlined above. That evidence included testimony about June’s intent from other children and from friends. The evidence of June’s and Gael’s joint activity to misrepresent June’s assets to the Social Security Administration lent further weight to the judge’s determination that June did not intend an outright conveyance to Gael.
+Judgment affirmed.
