@@ -1,0 +1,21 @@
+---
+court: "Massachusetts Appeals Court"
+decided: "1975-06-03"
+citations: ["3 Mass. App. Ct. 757"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Structural Systems, Inc. vs. David Siegel (and a companion case)."]
+source_url: "https://static.case.law/mass-app-ct/3/cases/0757-02.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3944896
+cites_cases: ["2 Mass. App. Ct. 695", "217 Mass. 113", "243 Mass. 210", "247 Mass. 463", "293 Mass. 293", "301 Mass. 229", "324 Mass. 678", "325 Mass. 451", "330 Mass. 273", "334 Mass. 593", "97 Mass. 172"]
+---
+
+# Structural Systems, Inc. v. Siegel
+
+## Majority
+
+These cross actions arose from a contract between Structural Systems, Inc. (Structural) and David Siegel (Siegel) in which Structural agreed to deliver steel joists and decking to Siegel for $54,000. Structural claimed that Siegel owed it money for steel delivered, while Siegel claimed that certain deliveries were never made, that nothing was owed to Structural until delivery was complete, and that damages were due from Structural because of its delay and failure to deliver all of the steel. An auditor heard Structural’s, but not Siegel’s, claim and his report was submitted to the jury before whom both actions were tried. Structural was awarded $21,554 in its own action and a verdict was returned in its favor in the action brought by Siegel. The cases are before us on Siegel’s bill of exceptions. We review those questions of law presented and argued. Flint v. Codman, 247 Mass. 463, 468 (1924). Brockton Sav. Bank v. Shapiro, 324 Mass. 678, 684 (1949). Siegel contends that the trial judge erred in admitting in evidence invoices of Structural charging him for steel because there was no foundation for their admission, no evidence that they were records of goods sold and delivered, no evidence of delivery, and no notice to produce or request made for the originals. Siegel also asserts that the testimony of Structural’s president about certain deliveries of steel should have been excluded because of the president’s lack of personal knowledge about the deliveries. Since nothing to the contrary appears in the bill of exceptions, the admission of the invoices implies the finding, warranted by the evidence, of facts prerequisite to their admission. G. L. c. 233, § 78. Taylor v. Harrington, 243 Mass. 210, 213 (1922). Chadwick & Carr Co. v. Smith, 293 Mass. 293, 294, 295 (1936). See Milham v. Mitrano, Inc. ante, 73, 75 (1975). Siegel also contends that the judge erred in ruling that the terms and conditions on the reverse side of the contract were incorporated therein by specific reference on the face of the contract. This contention falls short of argument. Chronopoulos v. Gil Wyner Co. Inc. 334 Mass. 593, 598 (1956). In any event, the judge’s ruling was correct. There was no ambiguity in the contract and no inconsistency between the printed and the typed terms. These terms were properly construed together. Malden Knitting Mills v. U. S. Rubber Co. 301 Mass. 229, 232 (1938). Siegel’s first two requests for instructions were properly refused for to grant them would have left the construction of the contract for the jury. O’Brien v. Boston & Maine R.R. 325 Mass. 451, 454-455 (1950). Corbett v. Salusti, 330 Mass. 273, 276 (1953). Industrial Engr. & Metal Fabricators, Inc. v. Fontaine Bros. 2 Mass. App. Ct. 695, 697 (1974), and cases cited. His third request is not properly argued and brings nothing before us. His ninth request dealing with the evidentiary limitation of the auditor’s report was properly refused. Siegel’s remaining contentions, all of which deal with the law of damages in his action against Structural, are based upon the judge’s denial of requested instructions numbered 4, 5, 7, 8, 10 and 11, and his giving of others which Siegel claims were erroneous. We need not consider them because they relate exclusively to issues rendered immaterial by the jury’s verdicts in favor of Structural. Cunningham v. Parks, 97 Mass. 172, 175 (1867). Gentile v. Boston Elevated Ry. 217 Mass. 113, 115 (1914).
+Morris Michelson for the defendant.
+Exceptions overruled.
