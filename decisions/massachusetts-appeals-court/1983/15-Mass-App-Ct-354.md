@@ -1,0 +1,27 @@
+---
+court: "Massachusetts Appeals Court"
+decided: "1983-02-22"
+citations: ["15 Mass. App. Ct. 354"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Commonwealth vs. Edward J. Nicholas."]
+source_url: "https://static.case.law/mass-app-ct/15/cases/0354-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5737989
+cites_cases: ["11 Mass. App. Ct. 208", "2 Mass. App. Ct. 113", "237 Mass. 122", "282 Mass. 593", "282 U. S. 687", "351 Mass. 37", "365 Mass. 534", "368 Mass. 325", "370 Mass. 283"]
+---
+
+# Commonwealth v. Nicholas
+
+## Majority (Hale, C. J.)
+
+Hale, C. J.
+The defendant was tried before a jury on two indictments charging him with rape of a child (G. L. c. 265, § 23). He was convicted on only so much of each indictment as charged indecent assault and battery on a child (G. L. c. 265, § 13B). He has appealed from the ensuing judgments. We reverse. A recitation of the facts beyond those mentioned in the discussion below is unnecessary.
+1. The defendant alleges that it was error for the trial judge to preclude him from cross-examining one of the victims, age nine at the time of trial, as to whether her mother had improperly coached her on how to testify. By so doing, he asserts, the judge prevented the defense from developing its theory that the child was testifying on the basis of what had been suggested to her by her mother, rather than on what had in fact occurred. The trial judge excluded the inquiry because he felt there had been no showing that the mother was prejudiced against the defendant. Such a showing was not required as a basis for the cross-examination desired by the defendant (see Alford v. United States, 282 U. S. 687, 692 [1931]). In ruling as he did, the judge must have overlooked the fact that the mother admitted to swearing out a false affidavit to support a complaint against the defendant when she was told by her children of the defendant’s activities, and that she felt strongly enough to have him prosecuted. The judge could also have inferred that any mother would be hostile to a person she believed had carnally abused her children.
+While a judge has discretion to limit the scope of cross-examination, the judge here “excluded the total inquiry by his several rulings.” Commonwealth v. Ahearn, 370 Mass. 283, 287 (1976). “A fair and full cross-examination to develop facts in issue or relevant to the issue is a matter of absolute right and is not a mere privilege to be exercised at the sound discretion of the presiding judge, and the denial of the right is prejudicial error.” Commonwealth v. Johnson, 365 Mass. 534, 543 (1974), quoting from Gossman v. Rosenberg, 237 Mass. 122, 124 (1921). The defendant was not required to pursue his line of questioning with the other victim, who was eight at the time of trial, in the face of the judge’s unequivocal adverse ruling. Commonwealth v. Graziano, 368 Mass. 325, 330 (1975). In this case, the defendant’s only available tool to create doubt in the minds of the jury was his ability to impeach by cross-examination the testimony of the young girls. The trial judge’s total exclusion of a relevant line of inquiry was error requiring reversal. Because the remaining assignments of error are likely to arise in a new trial, we discuss them below.
+2. The trial judge further limited cross-examination of one of the victims as to her mother’s live-in boyfriend at the time of trial. The defendant asserts this was error. We disagree. The defendant was allowed to elicit evidence as to the presence of a boyfriend of the mother during the period when the assaults were occurring, but her boyfriend at the time of trial did not fall into this category. “How far the cross-examination of a witness may be relevant to the issue on trial must be left largely to the sound discretion of the court.” Commonwealth v. Nassar, 351 Mass. 37, 43-44 (1966). There was no abuse of that discretion.
+3. The defendant also assigns as error the exclusion of evidence that the victims’ father had been convicted of sexual offenses against children not his own. There was no error. While a defendant may introduce evidence to show that another person committed the crime with which he is charged, Commonwealth v. Murphy, 282 Mass. 593, 597 (1933), “[t]he evidence should not be too remote in time or too weak in probative quality, and it should be closely related to the facts of the case against the defendant.” Commonwealth v. Graziano, 368 Mass. at 329-330. It appears that the father was incarcerated at the Massachusetts Correctional Institution at Walpole during the period in which the assaults occurred. In the absence of any evidence connecting the father to the assaults on his daughters or demonstrating how the facts leading to his conviction might have caused his daughters to fabricate the story, evidence of his conviction would have been irrelevant, and the trial judge was well within his discretion in excluding it. See Commonwealth v. Salemme, 11 Mass. App. Ct. 208, 223 (1981).
+4. As the issue of the failure of the judge to charge on the lesser included offense of simple assault and battery (see Commonwealth v. Eaton, 2 Mass. App. Ct. 113, 118 [1974]) is unlikely to arise at any new trial, we need not discuss it.
+5. The judgments are reversed and the verdicts set aside. We note that the defendant may be retried only on so much of each indictment as charges indecent assault and battery on a child.
+So ordered.
