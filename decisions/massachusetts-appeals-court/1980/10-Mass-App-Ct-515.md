@@ -1,0 +1,22 @@
+---
+court: "Massachusetts Appeals Court"
+decided: "1980-09-16"
+citations: ["10 Mass. App. Ct. 515"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Roger F. Turner, trustee, vs. Town of Walpole."]
+source_url: "https://static.case.law/mass-app-ct/10/cases/0515-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3965267
+cites_cases: ["107 U. Pa. L. Rev. 1098", "146 Conn. 650", "345 Mass. 747", "362 Mass. 221", "367 Mass. 881", "369 Mass. 512", "369 U.S. 590", "379 Mass. 7", "409 U.S. 1108", "42 U.S.C. §§ 4001-4128", "438 U.S. 104", "8 Mass. App. Ct. 541", "9 Mass. App. Ct. 477"]
+---
+
+# Turner v. Town of Walpole
+
+## Majority (Kass, J.)
+
+Kass, J.
+In the absence, as the Land Court judge found, of sufficient evidence which established that the plaintiff’s land was not subject to flooding hazard, there is no basis for concluding that the town’s flood plain zoning overlay district is confiscatory as applied to the plaintiff’s property. The case is controlled by Turnpike Realty Co. v. Dedham, 362 Mass. 221 (1972), cert. denied, 409 U.S. 1108 (1973). Here, as in that case, evidence indicated that there was a reasonable basis for the judgment of the town meeting that the land be included in the flood plain district. Id. at 234. Here, as in the Turnpike Realty case, the plaintiff has not been deprived of all beneficial uses of his property. Id. at 235. See also MacGibbon v. Board of Appeals of Duxbury, 369 Mass. 512, 517 (1976); Lovequist v. Conservation Commn. of Dennis, 379 Mass. 7, 19-20 (1979). A regulation which deprives the owner of the most beneficial use to which his property is suited is not confiscatory. Goldblatt v. Hempstead, 369 U.S. 590, 592 (1962). Penn Cent. Transp. Co. v. New York City, 438 U.S. 104, 123-128 (1978). The plaintiff seeks to distinguish his fact situation from that which pertained in the Turnpike Realty case on the ground that Walpole’s zoning by-law provides no special permit mechanism for the construction of residential and business use buildings in the flood plain zoning district, while it does authorize such an avenue of relief for the construction of new buildings used for industrial and manufacturing purposes. A determination by the town meeting that industrial and manufacturing users might be better able to provide flood protection devices or cope with periodic flooding than residential or business users is not an irrational or unreasonable differentiation. See Collura v. Arlington, 367 Mass. 881, 885 (1975). See also Schertzer v. Somerville, 345 Mass. 747, 751 (1963), and cases cited.
+That determination also reflected several policy considerations which justify interference with the private use of land which is zoned into a flood plain district, including protection of individuals who might develop or occupy such land despite apparent danger to life or property; protection of others from damage caused by the obstruction of the natural flood flow; and protection of the community as a whole from the public expenditures otherwise necessary to safeguard property located within a flood plain. See Turnpike Realty Co. v. Dedham, 362 Mass. at 233; Dunham, Flood Control Via the Police Power, 107 U. Pa. L. Rev. 1098, 1110-1117 (1959). The town’s actions in creating the zone were also consistent with the requirements of the National Flood Insurance Act of 1968, as amended by the Flood Disaster Protections Act of 1973. See 42 U.S.C. §§ 4001-4128 (Supp.I 1977); 24 C.F.R. 1910.1(d) (1979); G. L. c. 40A, § 3, as appearing in St. 1975, c. 808; and Rathkopf, Law of Zoning and Planning § 7.02, at 7.15 (1979). The land owner in this case is substantially restricted, but “such restrictions must be balanced against the potential harm to the community.” Turnpike Realty Co. v. Dedham, 362 Mass. at 235. As applied, the Walpole by-law is an exercise of police power which “regulates use of property because uncontrolled use would be harmful to the public interest” while “[e]minent domain, on the other hand, takes private property because it is useful to the public.” Turnpike Realty Co. v. Dedham, 362 Mass. at 235, quoting from Vartelas v. Water Resources Commn., 146 Conn. 650, 654 (1959). Davidson v. Commonwealth, 8 Mass. App. Ct. 541, 548 (1979). S. Kemble Fischer Realty Trust v. Roard of Appeals of Concord, 9 Mass. App. Ct. 477, 481-482 (1980).
+Judgment affirmed.
