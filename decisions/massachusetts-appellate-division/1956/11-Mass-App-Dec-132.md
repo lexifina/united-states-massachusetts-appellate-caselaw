@@ -1,0 +1,45 @@
+---
+court: "Massachusetts Appellate Division"
+docket: "8773"
+decided: "1956"
+citations: ["11 Mass. App. Dec. 132"]
+reporter: "mass-app-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MARY L. DARLING ET AL v. P. J. RITTER COMPANY"]
+source_url: "https://static.case.law/mass-app-dec/11/cases/0132-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6064019
+cites_cases: ["274 Mass. 281", "282 Mass. 224", "293 Mass. 377", "308 Mass. 531", "319 Mass. 92", "328 Mass. 219"]
+---
+
+# Darling v. P. J. Ritter Co.
+
+## Majority (Cox, J.)
+
+Cox, J.
+This is an action of tort or contract to recover damages for injuries sustained by the plaintiff, Mary L. Darling, while eating a food product containing a foreign substance, which food product was manufactured by the defendant. There was a count by the plaintiff’s husband for consequential damages.
+Service on the defendant was attempted by service on the Commissioner of Corporations and Taxation under the provisions of G. L. c. 181, §3A.
+The defendant filed what is reported as "a plea in abatement and motion to dismiss” which we treat as an answer in abatement. After a trial (Barnet, J.) on the question, the judge sustained the answer in abatement, allowed the defendant’s eight requests for rulings and denied the plaintiffs’ two requests for rulings of law. The case is here because the plaintiffs claim to be aggrieved by the denial of their requests for rulings and the allowance of those of the defendant.
+It could have been found that the defendant is a Pennsylvania corporation having a place of business in Bridgetown, New Jersey. It manufactures food products intended for human consumption. Wholesalers in Massachusetts purchase the defendant’s products from Ferguson-Bedell Company, a food broker in Boston. Ferguson-Bedell employs salesmen who solicit from local wholesalers orders for the food products of the defendant, as well as of fourteen other food brokers. Orders are transmitted by the food broker to the defendant in New Jersey, which, if it accepts the orders, ships the products directly to the wholesaler, who, upon receipt of the invoices from the defendant, pays by check drawn to the defendant’s order. The broker receives his commission directly from the defendant.
+The food which caused the injury to the plaintiff was purchased from a retailer in New Bedford who had purchased it from a wholesaler having places of business in New Bedford and Boston.
+Invoices sent by the defendant to the wholesaler over a period of time, as well as cancelled checks drawn by the wholesaler payable to the order of the defendant and bearing the defendant’s endorsements, were adduced in evidence. The invoices were on a printed form headed "P. J. Ritter Company”, contained the name of the purchaser, the date of the purchase, the defendant’s order number and the name Ferguson-Bedell as the salesman. The manager of the New Bedford branch of the wholesaler, above referred to, testified that "some time ago” a salesman of Ferguson-Bedell called at his office accompanied by another man who was introduced to him as a salesman of the defendant. It does not appear whether or not the latter salesman was in New Bedford with the knowledge- or at the direction of the defendant. However, as a result of the conversation between the manager and the salesman represented to be that o± the defendant, the manager placed an order for certain new food products manufactured by the defendant. There was also evidence that the defendant investigated the plaintiff’s claim.
+The plaintiffs bring this action against the manufacturer with whom they had no direct contact on the strength of Carter v. Yardley & Co. Ltd., 319 Mass. 92.
+The question for decision is whether the foregoing facts demonstrated that the defendant was "doing business” in this Commonwealth. If it was, then the service upon the Commissioner of Corporations and Taxation is as effective upon it under G. L. (Ter. Ed.) c. 181, §3A, as if it had in fact appointed the Commissioner its agent to accept service under G. L. (Ter. Ed.) c. 181, §3.
+In this case there was no service of process except that made upon the Commissioner so that G. L. c. 223, §38 has no application. It must appear that the defendant was doing business within the Commonwealth in order for the plaintiff to be deemed to have secured effective service under §3 A.
+It seems clear that Ferguson-Bedell Company was not the agent of the defendant in Massachusetts but acted independently in its own behalf and for its own profit in obtaining orders for the defendant’s products as well as for the products of fourteen other producers, Ferguson-Bedell Company is not shown to have been under the control or direction of the defendant. Trojan Engineering Corporation v. Green Mountain Power Corporation, 293 Mass. 377, 381. Cosman v. Donovan, 282 Mass. 224, 228. Dangel, Massachusetts Business Corps., §84. Therefore, the defendant cannot be held to be doing business here on the theory that it was acting by Ferguson-Bedell Company as its corporate agent. For a case where the foreign corporation was held to be doing business here by acting through a local agent, see Plibrico Jointless Firebrick Co. v. The Waltham Bleachery & Dye Works, 274 Mass. 281. The significance of the dealings between the defendant and Ferguson-Bedell Company seems to be at most a mere solicitation of business in Massachusetts, and it is settled that the simple solicitation of business here by a foreign corporation does not constitute such a doing of business as to render it subject to the service of process. Wyshak v. Anaconda Copper Mining Co., 328 Mass. 219, 222, 223. Dangel, Mass. Business Corp., §85.
+The only evidence which is at all favorable to the plaintiffs is that "some time ago” a person introduced as a salesman of the defendant accompanied a salesman of Ferguson-Bedell Company to the office of the New Bedford wholesaler and, as a consequence of a conversation between the manager of the wholesaler and the defendant’s salesman, an order was placed. There also was evidence that the defendant investigated the plaintiff’s complaint. A single incident of direct solicitation which occurred "some time ago” does not constitute "doing business” in Massachusetts. Nor, does the investigation by the defendant of the claim against it constitute that something more which, when added to more business solicitation, was held in Wyshak v. Anaconda Copper Mining Co., 328 Mass. 219, 223, to constitute doing business. Investigating customer complaints as an incident to the promotion of good-will seems to us quite different from investigating a claim for damages in one’s own defense. Defending an isolated lawsuit is not doing business within the state. Turner v. United Mineral Lands Corporation, 308 Mass. 531, 537.
+As the defendant was not shown to have been doing business m the Commonwealth, the service on the Commissioner was ineffective and the answer in abatement was rightly sustained.
+We see no error prejudicial to the plaintiffs in the denial of the plaintiffs’ two requests for rulings,* in the allowance of the defendant’s requests,** or in the result reached by the trial judge. Accordingly, an order should be entered dismissing the report.
+* Plaintiffs’ Requests for Rulings
+1. The evidence warrants a finding that as a matter of law the Ferguson and Bedell Company acted as an agent or broker on behalf of the defendant in the New England States.
+2. As a matter of law the defendant was doing business in Massachusetts within the meaning of General Laws (Ter. Ed.) chapter 223 section 28.
+**Defendant’s Requests for Rulings
+1. The evidence does not warrant a finding that the defendant is doing business in this Commonwealth.
+2. The evidence does not warrant a finding that the defendant is qualified to do business in this Commonwealth.
+3. The evidence does not warrant a finding that the defendant has or ever had a usual place of business in this Commonwealth.
+4. The evidence does not warrant a finding that the defendant has ever engaged in this Commonwealth, permanently or temporarily, in the construction, erection, alteration or repair of a building, bridge, railroad, railway or structure of any kind or in the construction or repair of roads, highways, or waterways or in any' other activity requiring the performance of labor within the meaning of G. L. (Ter. Ed.) chapter 181 section 3.
+5. The evidence does not warrant a finding that any legal process has been served upon the defendant, its agents, servants or attorneys.
+6. The evidence does not warrant a finding that the defendant has appointed the Commissioners of Corporations and Taxation of this Commonwealth its attorneys upon whom legal processes may be served.
+7. The evidence does not warrant a finding that the cause of action declared by the plaintiff arises out of business in this Commonwealth within the meaning of G. L. (Ter. Ed.) chapter 181 section 3.
+S. Upon all the law and the evidence the defendant’s plea in abatement must be allowed.
