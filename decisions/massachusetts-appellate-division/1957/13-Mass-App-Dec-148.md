@@ -1,0 +1,48 @@
+---
+court: "Massachusetts Appellate Division"
+docket: "5042"
+decided: "1957-04-17"
+citations: ["13 Mass. App. Dec. 148"]
+reporter: "mass-app-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["GUSTAF N. PETERSON v. NEWTON AWNING CO., INC."]
+source_url: "https://static.case.law/mass-app-dec/13/cases/0148-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6063798
+cites_cases: ["209 Mass. 345", "247 Mass. 316", "274 Mass. 397", "278 Mass. 321", "299 Mass. 345", "314 Mass. 167", "322 Mass. 218", "322 Mass. 245", "323 Mass. 106", "323 Mass. 79"]
+---
+
+# Peterson v. Newton Awning Co.
+
+## Majority (Eno, /.)
+
+Eno, /.
+This is an action of tort for injuries allegedly sustained as a result of a fall on the defendant’s premises. The answer, as amended, contains a general denial, a plea of contributory negligence, assumption of risk, violation of law, and further that the plaintiff was a trespasser or licensee, and that the action was barred by G. L. c. 152.
+The reported evidence is as follows:
+"On May 21, 1952, the day of the accident, and for about ten years prior thereto, the plaintiff was employed by the Standard Shade and Screen Company as a carpenter. The Standard Shade and Screen Company had installed screen porches for customers of the defendant. For a period of years, the plaintiff had visited the defendant’s place of business at 851 Washington Street, Newton and had had conversations with Mr. George Ohlson, President of the defendant company on many occasions in regard to various screen porch installations. These conversations would be held in the office or in the work area at the defendant’s premises.
+"The Defendant’s place of business was on the second floor of the building situated at 851 Washington Street, Newton. Exhibit No. 9 which is incorporated herein and made a part hereof is a plan of the defendant’s premises. Exhibit No. 9 may be referred to at the time of oral argument before the Appellate Division. About three weeks prior to the accident, the plaintiff had installed a screen porch for a Mr. Shapiro in Brookline in accordance with an oral contract between Shapiro and the Newton Awning Co., and the Newton Awning Co. had done the awning work on the porch. Thereafter, Newton Awning Company received a complaint from Shapiro regarding a hole in a piece of wood on the porch. Three days prior to the accident, Ohlson telephoned Standard Shade and Screen in regard to this complaint. On the day in question, the plaintiff came to the defendant’s premises to see Ohlson about the matter. The plaintiff walked up a flight of stairs to the second floor. He was carrying with him at the time, a piece of wood about twelve feet long and three inches wide, which was to be used on the Shapiro job. When he got to the top of the stairs he turned to the right and walked to the work area. Mr. Ohlson was seated in the work area at the time at the point indicated by "O” on Exhibit No. 9. There were no signs of any nature in the vicinity of the aisle, the office, or the work area.
+“Shortly before the plaintiff arrived at the defendant’s premises, the defendant had been waterproofing awnings, and in connection with the waterproofing, employees of the defendant used a waterproofing substance known as "Robinson’s Preserve.” The waterproofing material was sprayed on to the awnings as they hung down from the ceiling, and there was a mist which came from the spraying. The floor near the awnings had some of the waterproofing material on it, and this material caused the plaintiff to fall. The spraying process had been stopped before the plaintiff arrived at the defendant’s premises and at the time of the fall the awnings were hanging there to dry. Mr. Ohlson observed the plaintiff fall. There was no evidence that any one saw the plaintiff before he fell. No warning was given to the plaintiff. The location where the plaintiff fell is indicated by a "P” on Exhibit No. 9. After the fall, Mr. Ohlson and another of the defendant’s employees helped the plaintiff to a seat and thereafter took him to his house.
+"There was further evidence that the plaintiff sustained a broken hip, that he was disabled for about thirteen months, and that he had a permanent shortening of his leg as a result of the accident.”
+At the close of the trial the plaintiff filed twenty-one (21) Requests for Rulings, all of which were allowed except the following:
+"The evidence does not warrant a finding that the plaintiff was guilty of contributory negligence.”
+which was denied with the notation "See Findings of Fact”.
+The Trial Judge found the following facts:
+"The plaintiff, Gustaf N. Peterson, on May 21, 1952 was employed by the Standard Shade and Screen Company, of Watertown, a concern which installed screens and shades. The Standard Shade and Screen Company was the sub-contractor of the Newton Awning Company, Inc., the defendant in this action, in connection with the installing of screens for a Mr. Shapiro, at his house in Brookline. The Newton Awning Company, Inc. had the contract with said Shapiro for the installation of awnings and screens for a patio. The Newton Awning Company, Inc. did the awning work, and sublet the screen work to the Standard Shade and Screen Company, the employer of Gustaf N. Peterson, the plaintiff.
+"The instructions for the screen work were given to the Standard Shade and Screen Company by representatives of the defendant, and the screen work was done by the Standard Shade and Screen Company.
+"After the screening had been finished, some trouble developed in connection with it at the Shapiro residence, and as a result of the trouble, the plaintiff went to the place of business of the defendant, in Newton, for the purpose of finding out what the Standard Shade & Screen Company should do.
+"The plaintiff entered the building where the defendant carried on its business, and walked up a flight of stairs to the second floor. He was carrying with him at the time, a piece of wood about twelve feet long and three inches wide, which was to be used on the Shapiro job. When he got to the top of the stairs, he turned to the right, and walked past the most direct route to the defendant’s office on the second floor, and as he entered the working area, he slipped and fell. The position where he fell is shown on Exhibit No. 9 with the letter "P”.
+"At the time of the fall, the defendant was waterproofing awnings, and in connection with the waterproofing, employees of the defendant used a waterproofing substance known as "Robinson’s Preserve”. The waterproofing material was sprayed on the awnings as they hung down from the ceiling, and there was a mist which came from the spraying. Directly under the awnings, where they were being waterproofed, was a long piece of canvas, which was there to catch any drip from the awnings. The floor near the awnings had some of the waterproofing material on it, and this material caused the plaintiff’s fall.
+"The defendant was carrying on its business in a proper manner, and was not negligent. There was ample space for the plaintiff to have walked down to the office of the defendant in the aisle provided for that purpose, as shown on Exhibit No. 9.”
+The court found for the defendant.
+The report states that it contains all the evidence material to the questions reported.
+The plaintiff claims to be aggrieved by the denial of his request for ruling No. 6 and by the voluntary ruling by the trial judge that
+"The defendant was carrying on its business in a proper manner and was not negligent. There was ample space for the plaintiff to have walked down to the office of the defendant in the aisle provided for that purpose, as shown on Exhibit No. 9”,
+and by the finding for the defendant.
+Exhibit No. 9 referred to in the report was submitted to and accepted by this Division at the time of the hearing thereof. This is not the proper practice. Copies of this exhibit should have been attached to the original and all the copies of the report.
+1. The burden was on the plaintiff to prove by a fair preponderance of the evidence that the defendant was negligent. Bigwood v. Boston and Northern St. Ry., 209 Mass. 345, 348; Whalen v. Mutrie, 247 Mass. 316, 318; Baker v. Davis, 299 Mass. 345, 348; Tamagno v. Conley, 322 Mass. 218. It could not have been ruled as a matter of law that the defendant was negligent as suggested by the plaintiff in his brief. This was a question for the trier of the facts.
+Robert D. O’Leary, for the Plaintiff.
+H, W. Hazen, for the Defendant.
+2. Having found that the defendant was not negligent, the sixth request became immaterial and therefore that there was no prejudicial error in its denial. Perry v. Hanover, 314 Mass. 167, 172; Connell v. Maynard, 322 Mass. 245, 246; Horton v. Tilton, 323 Mass. 79. We do not consider the voluntary finding of the trial judge as a ruling of law, but rather as a finding of facts and therefore not reviewable under this Report.
+3. If the plaintiff claims that there was an inconsistency in the allowance of some of its requests and a finding against it, that the defendant was not negligent, it should have moved for a new trial in order to correct the inconsistency. This question is not now reviewable. Duralith Corp. v. Leonard, 274 Mass. 397, 401; DiLorenzo v. Atlantic Nat’l Bk. of Boston, 278 Mass. 321, 324; Biggs v. Densmore, 323 Mass. 106, 108, 109.
+There being no prejudicial error in the denial of the plaintiff's sixth request and by the voluntary ruling of the trial judge, the report is to be dismissed.
