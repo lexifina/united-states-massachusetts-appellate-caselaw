@@ -1,0 +1,31 @@
+---
+court: "Massachusetts Appellate Division"
+decided: "1984-09-28"
+citations: ["1984 Mass. App. Div. 228"]
+reporter: "mass-app-div-annual"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Present: Cowdrey, P.J., Forte & Tiffany, JJ."]
+parties: ["Gabriel A. Bifano vs. Patten’s Plumbing & Heating Company, Inc. and another"]
+source_url: "https://static.case.law/mass-app-div-annual/1984/cases/0228-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6067969
+cites_cases: ["16 Mass. App. Dec. 8", "19 Mass. App. Dec. 17", "1980 Mass. App. Div. 59", "1981 Mass. App. Div. 47", "1982 Mass. App. Div. 251", "1983 Mass. App. Div. 288", "256 Mass. 66", "278 Mass. 429", "280 Mass. 514", "294 Mass. 80", "30 Mass. App. Dec. 114", "315 Mass. 538", "321 Mass. 449", "329 Mass. 406", "348 Mass. 458", "362 Mass. 867", "363 Mass. 324", "388 Mass. 42", "389 Mass. 1005", "49 Mass. App. Dec. 114"]
+---
+
+# Bifano v. Patten's Plumbing & Heating Co.
+
+## Majority (Cowdry, P.J.)
+
+Cowdry, P.J.
+This is an action in contract in which the plaintiff seeks damages for the alleged breach of express and implied warranties of merchantability and workmanship and for alleged unfair and deceptive practices cognizable under G.L.c. 93A. Specifically, plaintiff initiated suit against defendant N.J. MacDonald & Sons., Inc. for the sale to him of eighty, allegedly defective marbelite sinks; and against defendant Patten’s Plumbing & Heating Co., Inc. for the alleged negligent installation of such sinks.
+The trial court entered judgment for both defendants on May 17, 1983. Pursuant to plaintiffs Dist./Mun. Cts. R. Civ. P., Rule 59 motion for a new trial, the court amended its finding and entered a default judgment on March 30, 1984 against. N.J. MacDonald & Sons, Inc. in the sum of $2,500.00 plus interest and costs.
+Defendant Patten’s Plumbing & Heating Co., Inc. thereafter sought a review by this Division of the trial court’s disposition of fifteen purported requests for rulings of law filed by the defendant.
+1.' It is well established that a party is not entitled upon simple request to the entry of findings of fact in a district court proceeding, Dist./Mun. Cts. R. Civ. P., Rule 52 (b); Ahapa v. Reed, 280 Mass. 514, 516 (1932); Liberatore v. Framingham, 315 Mass. 538 (1946), unless such subsidiary findings are required as a matter of law upon thé evidence. Photiou v. Del Sordo, 1982 Mass. App. Div. 251, 252. Stated alternatively, the refusal to act upon, or the direct denial of, requests for findings of fact by a trial court is generally proper. Stella v. Curtis, 348 Mass. 458, 461 (1965); Hart v. Keoveney, 1980 Mass. App. Div. 59, 60. Such denial ordinarily presents no question of law for consideration by this Division. Huikari v. Eastman, 362 Mass. 867 (1972); Torres v. Early, 49 Mass. App. Dec. 114, 125 (1972).
+2. There was no error in the trial court’s disposition herein of defendant’s requests numbers 1, 2,4, 5, 7, 8, 9,10,10A, 10B, 12,13,16, and 16A. Each of these requests improperly sought findings of fact rather than rulings of law. The defendant’s characterization of what are in substance requests for findings could not alone, transform the same into requests for rulings of law. Huikari v. Eastman, supra at 867; Castano v. Leone, 278 Mass. 429, 431 (1932).
+Requests numbers 3,10A and 10B sought rulings on questions of negligence and causation which ordinarily involve findings of fact. See, e.g., Oldham v. Neorlich, 389 Mass. 1005 (1983); ZeZuski v. Jenny Mfg. Co., 363 Mass. 324, 327 (1973). Requests 4,6 and 12 sought determinations of the defendants’ breach of contract which is customarily an issue of fact for a trial court. Charbonneau v. Sakwa, 19 Mass. App. Dec. 17, 19 (1960). Similarly, the question of rescission herein, as raised in request 16, was one of fact. Goodyear Service Stores v. Gustofson, 16 Mass. App. Dec. 8, 12 (1958). The computation of attorney’s fees and general damages advanced by the defendant in requests 8, 9,13 and 16A would have also entailed factual assessments by the trial court. Weinstein v. Steigman, 1983 Mass. App. Div. 288, 289; Freeman v. Marchi, 30 Mass. App. Dec. 114, 122 (1965). Finally, defendant’s request 1 and 2 sought findings as to the creation of installation contracts and the operation of warranties herein. The existence of a contract, as opposed to contract construction, may present a question of fact for a trial court. Bresky v. Rosenberg, 256 Mass. 66 (1926).
+The above enumerated requests filed by the defendant uniformly called for “the application of the reasoning powers of the trial judge to the facts or the weighing of evidence .. . [rather than] a statement by the trial judge as to what the law is.” J. NOLAN, CIVIL PRACTICE, § 728 [9 M.P.S. (1975)], citing Kravetz v. Lipofsky, 294 Mass. 80, 85 (1936). These requests thus sought findings of fact, to which the defendant was not entitled upon request. The court’s denial of these, requests for factual findings presents no issue for appellate consideration. The Appellate Division is authorized to review only questions of law. Walker v. Board of Appeals of Harwich, 388 Mass. 42, 45 (1983); Elliott v. Warwick Stores, Inc., 329 Mass. 406, 409 (1952); G.L.c. 231, s. 108.
+Report dismissed.
+No issue as to the procedural or substantive propriety of this amendment oí judgment has been raised by either party on this appeal.
+Requests8,9,13 and 16 were expressly denied by the trial court. In response to requests 1,2,4,5, T\, 10 and 12, the court ruled that said requests called for findings of fact and that “I find substantially to the contrary except no. 7." Request number 7 was thus implicitly allowed, and the defendant cannot be deemed tobe aggrieved by the allowance of a request in its favor. No action was taken by the trial court upon requests 10A, 10B and 16A.
+Request number 2 makes reference to specific paragraphs of'a written contract purportedly executed by the parties. A copy of the contract is not, however, attached to the report sub yudice. No further appellate consideration of the court’s disposition of request 2 is thus possible. Staples v. Collins, 321 Mass. 449, 450 (1947); Fiorino v. Worcester Polytechnic Institute, 1981 Mass. App. Div. 47, 48.
