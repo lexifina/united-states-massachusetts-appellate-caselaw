@@ -1,0 +1,32 @@
+---
+court: "Massachusetts Appellate Division"
+docket: "5735"
+decided: "1954"
+citations: ["8 Mass. App. Dec. 110"]
+reporter: "mass-app-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["JOSEPH ARRUDA, JR. v. HENRY GAUDREAU, d-b-a HENRY’S USED CAR LOT"]
+source_url: "https://static.case.law/mass-app-dec/8/cases/0110-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6064441
+cites_cases: ["10 Allen 368", "161 Mass. 21", "191 Mass. 491", "209 Mass. 449", "228 Mass. 487", "288 Mass. 79", "310 Mass. 227", "315 Mass. 440", "323 Mass. 702"]
+---
+
+# Arruda v. Gaudreau
+
+## Majority (Nash, J.)
+
+Nash, J.
+Tort in which the plaintiff seeks recover for destruction of his automobile by fire caused by the negligence of the defendant or his employees. The answer is a general denial, and that if there was a fire and explosion it was an act of God or was caused by agencies beyond the control of the defendant and for which the defendant is not responsible. Other alleged defenses are immaterial. (Taveira, J.).
+At the trial there was evidence that the defendant leased a three stall garage and each stall was full at the time, one occupied by the plaintiff and one by one Rex Carter. The latter drove his car from the garage and then drove it back into the garage reporting a leak in his gas tank. It was testified by both plaintiff and defendant that the defendant told Rex Carter, the plaintiff and a mechanic who were all the people in the garage at the time to step outside the garage while the tank was being drained by the other mechanic and not to smoke. All three went outside but before the gas tank was drained they went back into the garage. Rex Carter was smoking a cigarette and flicked his ashes and the plaintiff saw a spark and the next thing he knew there was an explosion. The mechanic who was working on the gas tank was not using an extension light and was draining the tank. Both plaintiff and defendant agreed there were "No Smoking” signs posted in the garage at various places. Before the explosion the defendant left to go to town and when he returned the fire was in progress.
+There were no requests for rulings of law filed by either the plaintiff or the defendant. The court made no findings of fact but found for the plaintiff in the sum of eight hundred and ninety-five ($895.00) dollars, that being the sum agreed upon by the parties in each of a finding for the plaintiff.
+The defendant claims to be aggrieved because of the Court’s denial of a motion for a new trial based upon an alleged "mistake of law injuriously affecting his substantial rights and in the alternative that said new trial be granted for causes affecting a part only of the matter in controversy and claiming that said motion should not have been denied by the trial judge as he erred in finding any negligence or inference of negligence on all the evidence on the part of the defendant and that the trial judge also erred as a matter of law in finding negligence on the part of the defendant”. The report states that it contains all the evidence material to the issue reported to this Appellate Division for determination.
+"In order to maintain an action for an injury to person or property by reason of negligence or want of due care, there must be shown to exist some obligation or duty towards the plaintiff, which the defendant has left undischarged or unfulfilled. This is the basis on which the cause of action rests. There can be no fault, or negligence, or breach of duty, where there is no act, or service, or contract, which a party is bound to perform or fulfill.” Sweeney v. Old Colony and Newport R.R., 10 Allen 368, 372.
+What was the duty the defendant owed to the plaintiff? If the plaintiff was a trespasser the defendant owed him the duty of refraining from wilfully causing him injury. Blatt v. McBarron, 161 Mass. 21, 22. O’Brien v. Union Freight R.R., 209 Mass. 449, 451. And if he was a mere licensee the defendant owed the obligation of refraining from reckless, wilful or wanton misconduct which tended to injure him. Massell v. Boston El. Ry., 191 Mass. 491, 493, Massaletti v. Fitzroy, 228 Mass. 487, 489. But the court could have found that the plaintiff was a business visitor of the defendants. In this case the defendant’s obligation was to maintain his premises in a reasonably safe condition for the plaintiff’s use and to warn him of any dangers of which the defendant was aware or should have known about. Sweeney v. Old Colony and Newport R.R., 10 Allen 368, 372; Kelley v. Goldberg, 288 Mass. 79, 81; Barker v. Jordan Marsh Co., 310 Mass. 227, 229; LeBlanc v. Atlantic Bldg. Supply Co., 323 Mass. 702, 703. But this duty to inform the plaintiff of any such dangers does not include warning him of dangers that are obvious or that he may reasonably suppose the plaintiff knows of. O’Hanley v. Norwood, 315 Mass. 440, 442.
+In the instant case the car of one Carter was driven into the garage to have a leak in the gas tank repaired. There were "No Smoking” signs in the garage. The defendant told the plaintiff, Carter and one mechanic to leave the garage while the tank was being repaired and not to smoke. They went outside. They were the only persons in the garage but the mechanic who was draining the tank. The defendant left the vicinity. Contrary to the defendant’s instructions Carter and the plaintiff went back into the garage and Carter was smoking. He flicked the ashes of the cigarette containing a spark and an explosion occurred. This caused the damage complained of.
+The judge was in error in finding negligence on the part of the defendant and the error is prejudicial. There were "No Smoking” signs in the garage. The plaintiff and Carter were both asked to leave the garage while repairs were being made to the gas tank and not to smoke. This warning was specific and apprised the plaintiff of a danger that should have been obvious without the warning. The defendant had fulfilled whatever obligation he owed to the plaintiff who even after the warning and the knowledge that dangerous work was being undertaken inside the garage walked back in the garage with Carter who was smoking a cigarette.
+J. London, for the plaintiff.
+A. Dashoff and I. H. Beckwith, for the defendant.
+The finding for the plaintiff is vacated and judgment is entered for the defendant.
+So Ordered.
