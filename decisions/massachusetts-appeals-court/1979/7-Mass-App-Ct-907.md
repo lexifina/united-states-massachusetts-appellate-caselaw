@@ -1,0 +1,26 @@
+---
+court: "Massachusetts Appeals Court"
+decided: "1979-04-23"
+citations: ["7 Mass. App. Ct. 907"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["E. F. Semas Trucking, Inc. vs. Mayor of Taunton & others."]
+source_url: "https://static.case.law/mass-app-ct/7/cases/0907-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3954354
+cites_cases: ["296 Mass. 210", "3 Mass. App. Ct. 393", "343 Mass. 321", "353 Mass. 341", "363 Mass. 256", "371 Mass. 908", "5 Mass. App. Ct. 206", "5 Mass. App. Ct. 328", "6 Mass. App. Ct. 558"]
+---
+
+# E. F. Semas Trucking, Inc. v. Mayor of Taunton
+
+## Majority
+
+The plaintiff, low bidder, brought an action in the Superior Court to enjoin the municipal council and the mayor of Taunton from awarding a refuse collection contract to the third lowest bidder (Pimenta). The master found that the bid awarding procedure was not in accordance with the bid specifications and the controlling ordinance. The judge adopted the findings, invalidated all five of the accepted bids, and ordered that the contract be readvertised and rebid. Sernas and all the city officials appealed.
+As no judgment has been entered, the appeals must be dismissed. Tisei v. Building Inspector of Marlborough, 5 Mass. App. Ct. 328, 330 (1977). Levy v. Bendetson, 6 Mass. App. Ct. 558, 560-561 (1978). Mass. R.Civ.P. 58(a), as amended, 371 Mass. 908 (1977). However, as nothing remains to be done before entry of judgment, we express our views on this matter. Nantucket Land Council, Inc. v. Planning Bd. of Nantucket, 5 Mass. App. Ct. 206, 207-208 (1977).
+The City of Taunton Revised Ordinances, § 6-28, and the bid specifications required the approval of the municipal council should its committee on streets and ways determine, as here, that it would be in the city’s best interest to award the contract to one other than the lowest bidder. At a meeting of the municipal council on December 13,1977, there were two motions addressed to obtaining the council’s approval for the committee to award the contract to Pimenta. Both motions were defeated, and there followed a motion to table the subject of the contract for one week. No vote was taken on this motion, but the councillors conducted their remaining business as if the motion had carried. The council met on December 20, 1977, and, with Sernas present and protesting, it was voted, eight to one, to accept the committee’s recommendation to award the contract to Pimenta. The master concluded: (1) that this last vote was not taken in accordance with the rules and orders of the council because after Pimenta had originally been defeated there was neither a motion to reconsider nor a notice that such a motion would be made at the December 20 meeting; (2) that the subsequent vote was improper; and (3) that the committee lacked authority to award the contract to Pimenta. The master, who was not required to report the evidence, made adequate subsidiary findings upon which his conclusions were based. These subsidiary findings are binding unless they are "mutually inconsistent, or plainly wrong,” Jones v. Gingras, 3 Mass. App. Ct. 393, 395 (1975), however, we must draw our own inferences from these findings to reach our conclusions. Id. O’Brien v. Dwight, 363 Mass. 256, 281-282 (1973). Corrigan v. O’Brien, 353 Mass. 341, 346 (1977).
+Melvin S. Louison for the plaintiff.
+David T. Gay, City Solicitor, for the defendants.
+The procedure as to motions to table and to reconsider, §§ 7 and 16, respectively, of the rules and orders of the municipal council could be waived or suspended because it was governed by rules and not by ordinance. Coleman v. Louison, 296 Mass. 210, 213 (1936). 4 McQuillin, Municipal Corporations § 13.42 (3d ed. 1968). Although the motion to table the matter was not voted upon, no one objected to it, and everyone acted as if the motion had carried. The subject matter of the contract was still pending and, therefore, was properly before the municipal council when it voted at its December 20 meeting. See Id. at § 13.48. Contrast Coleman v. Louison, supra at 215, and Kitty v. Springfield, 343 Mass. 321, 325 (1961) (in both of which reconsideration at subsequent meetings was invalid because of the failure at the prior meetings to take action to carry the questions over to the next meetings). The fact that there was no motion to reconsider or notice that such a motion would be made at this meeting is not controlling. The ultimate eight-to-one vote to accept the committee’s recommendation was the equivalent of a vote by the council to waive its own procedural rule as to reconsideration and a vote on a question pertaining to a matter properly before it. It is obvious that the council would not reverse its prior vote yet object to reconsideration. Further, by virtue of the motion to table for one week Sernas had the same notice as if there had been notice to move for reconsideration pursuant to the council rule.
+The council’s vote to accept the committee’s recommendation was proper, with the result that the action should have been dismissed on the merits.
+Appeals dismissed.
