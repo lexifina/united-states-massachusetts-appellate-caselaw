@@ -1,0 +1,29 @@
+---
+court: "Massachusetts Appellate Division"
+decided: "1992-11-12"
+citations: ["1992 Mass. App. Div. 210"]
+reporter: "mass-app-div-annual"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Present: Tierney, C J., Chin & Giles, JJ."]
+parties: ["Robert Loguidice vs. Richard M. Passalacqua"]
+source_url: "https://static.case.law/mass-app-div-annual/1992/cases/0210-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6814954
+cites_cases: ["11 Mass. App. Ct. 595", "18 Mass. App. Ct. 786", "285 Mass. 594", "30 Mass. App. Ct. 418", "387 Mass. 444", "397 Mass. 230", "402 Mass. 21", "407 Mass. 633", "449 U.S. 90"]
+---
+
+# Loguidice v. Passalacqua
+
+## Majority (Giles, J.)
+
+Giles, J.
+On or about October 8, 1991, the plaintiff-appellant, the owner of an employment agency, filed a small claim action in the Boston Municipal Court Department seeking damages of $1,476.00 “ [f] or services rendered [to the defendant-appellee, an attorney] from May through September, 1991.” After trial, the court found for the plaintiff and awarded $938.00 in damages (plus $19.00 in costs).
+Subsequently, the plaintiff-appellant brought a civil action in the said Department against the same defendant for services allegedly rendered to the defendant from August 5, 1991, through September 1, 1991, by two of the plaintiff s employees. The plaintiffs complaint sought relief under theories of breach of contract, quantum meruit, and General Laws Chapter 93A The defendant brought a motion to dismiss the said complaint under the theories of res judicata and collateral estoppel, which motion was allowed. The plaintiff argues on appeal that his second action is not barred because it seeks payment for different invoices (and, therefore, different contracts, the argument goes) submitted to the defendantfor the period in question and because it raises the G.L.c. 93A claim for the first time (of which claim the plaintiff maintains he was ignorant at the time of the small claim trial).
+The term “res judicata” has been applied to various doctrines holding that a judgment in one action has a binding effect in and effectively bars another action. Heacock v. Heacock, 402 Mass. 21, 23 n.2 (1988). Bagley v. Moxley, 407 Mass. 633, 636 (1990); RESTATEMENT (SECOND) OF JUDGMENTS, §§24, 25 (1982). Courts have long recognized the need of assuring the conclusiveness of judgments and of obviating the relitigation of issues that were or could have been raised in the original action. Anderson v. Phoenix Investment Counsel of Boston, Inc., 387 Mass. 444, 449 (1982); Bagley v. Moxley, supra at 636; Dowd v. Morin, 18 Mass. App. Ct. 786, 793-794 (1984).
+The phrase “res judicata” (or former judgment) comprises the principles of “claim preclusion” and “issue preclusion.” Heacock v. Heacock, supra at 23 n.2. “Claim-preclusion” (formerly known as “merger” and “bar”) prohibits the maintenance of any action based on the same claim between theparties ortheir privies. Id.; Bagley v. Moxley, supra at 636; Larson v. Larson, 30 Mass. App. Ct. 418, 426 (1991). “Issue preclusion, (formerly known as “collateral estoppel”) prevents relitigation of an issue of fact or law determined in an earlier action where the same issue arises in a later action, based on a different claim, between the same parties or their privies. Heacock v. Heacock, supra at 23 n.2; Larson v. Larson, supra at 427. Both doctrines “relieve parties of thecostand vexation of multiple lawsuits, conserve judicial resources, and, by preventing inconsistent decisions, encourage reliance on adjudication.” Allen v. McCurry, 449 U.S. 90, 94 (1980); Anderson v. Phoenix Investment Counsel of Boston, Inc., supra at 449.
+It is uncontroverted that the parties to the original, small claim action and the later civil action are identical. The plaintiff would argue, however, that, because the second action allegedly sought recovery for additional, unlitigated invoices for one employee; for invoices for a wholly unlitigated, additional employee; and for a G.L.c. 93A claim, the later action raises new issues and, therefore, is not barred. We disagree.
+To determine if a subsequent action is precluded, it is necessary to inquire into the commonness of the operative facts and the sameness of the evidence in both actions. Bradford v. Richards, 11 Mass. App. Ct. 595, 599 (1981). Two claims are identical, the second one being barred, if they arise out of the same transaction, act, or agreement” and seek “redress for the same wrong.” Mackintosh v. Chambers, 285 Mass. 594, 596 (1934); Bradford v. Richards, supra at 598.
+Both actions here concerned the parties’ agreement to sell and buy, respectively, temporary employment services. Both actions dealt with the same time period (May through September, 1991) and with the same employees (save one). Had not the plaintiff inexplicably delayed in speaking with one employee who was a subject of the first action, he could have raised his G.L.c. 93A claim in the said small claim action. G.L.c. 218, §21; Travis v. McDonald, 397 Mass. 230, 231-232 (1986); set Anderson v. Phoenix Investment Counsel of Boston, Inc., supra at 449.
+Clearly, both actions arose out of the same agreement and shared important facts in common. Because the plaintiff selectively sought payment of certain invoices and not others in order to avail himself of the $1,500.00jurisdictional limits and convenience of small claims court, and because he lacked the diligence to raise his G.L.c. 93A claim in his original action as he could have, he cannot now be heard to complain of the conclusive, binding effect of the judgment of his chosen forum.
+The defendant’s motion to dismiss having been properly allowed under the doctrine of res judicata, the plaintiff’s report is dismissed.
