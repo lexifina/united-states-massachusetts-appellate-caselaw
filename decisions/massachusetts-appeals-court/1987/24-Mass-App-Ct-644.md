@@ -1,0 +1,33 @@
+---
+court: "Massachusetts Appeals Court"
+decided: "1987-08-28"
+citations: ["24 Mass. App. Ct. 644"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["John C. Ladd & another vs. Kathleen M. Swanson."]
+source_url: "https://static.case.law/mass-app-ct/24/cases/0644-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3994247
+cites_cases: ["12 Allen 30", "24 Pick. 329", "260 Ark. 30", "27 Ill. App. 3d 678", "307 Mass. 542", "342 So.2d 88", "358 P.2d 1097", "9 Mass. App. Ct. 286", "97 Mass. 392"]
+---
+
+# Ladd v. Swanson
+
+## Majority (Perretta, J.)
+
+Perretta, J.
+This appeal raises the single question whether a tenant in common who holds a declaration of homestead under G. L. c. 188, § 2, may assert that declaration against her two cotenants as an absolute bar to their petition to partition. On undisputed facts, a judge of a Probate Court concluded that the two tenants in common had an absolute right to partition which could not be defeated by the third tenant’s declaration of homestead. We affirm.
+I. The Realty.
+Although the record appendix prepared by the defendant leaves much to be desired, it is sufficient to allow us to decide the narrow issue brought before us by her appeal. The real estate in question is a three-family house in which each of the three tenants in common owns a one-third interest. Their title is derived from a deed dated October 23, 1981. The defendant resides in the second-floor unit with her husband and children. Her cotenants do not live on the property, and the other two units of the three-family structure are rented to persons who have no claim to the realty and no interest in these proceedings.
+On November 7, 1983, the defendant filed a declaration of homestead. SeeG. L. c. 188, § 2, which provides that a homestead estate can be acquired either by declaring the same in the deed conveying title to the declarant or by a subsequent writing filed in the appropriate registry of deeds. By the terms of the defendant’s declaration, it pertained to the realty in its entirety, and it referred, by book and page, to the 1981 deed by which she had acquired title. It did not identify her as a tenant in common, nor did it mention the names of her cotenants. The plaintiffs filed their petition for partition on February 22, 1984.
+II. The Homestead Estate.
+It has long been the law of this Commonwealth that “one tenant may always manage his own estate in any way he pleases, provided he does not injure his cotenants.” Peabody v. Minot, 24 Pick. 329, 333 (1834). See also Mills v. Blakelin, 307 Mass. 542, 546 (1940) (“A tenant in common has the right to alienate his interest and the exercise of his right to secure a partition of the land cannot be unduly restricted by making it conditional upon the assent of the other cotenant”).
+The first paragraph of G. L. c. 188, § 1, as amended through St. 1983, c. 220 (and as in effect at the time the defendant filed the declaration of homestead), provides in relevant part: “An estate of homestead . . . may be acquired ... by an owner or owners of a home or one or all who rightfully possess the premise by lease or otherwise and who occupy or intend to occupy said home as a principal residence. Said estate shall be exempt from the laws of conveyance, descent, devise, attachment, levy on execution and sale for payment of debts of legacies” with certain exemptions, not one of which is here applicable. In the second paragraph of the statute, it is expressly provided that “an owner of a home shall include a sole owner, joint tenant, tenant by the entirety or tenant in common; provided, that only one owner may acquire an estate of homestead in any such home for the benefit of his family.”
+We think that, on the basis of the traditional purpose of an estate of homestead and the express language of c. 188, § 1, the defendant cannot rely upon the declaration of homestead to defeat or frustrate the right of her tenants in common to partition the tenancy. An estate of homestead “is a provision by the humanity of the law for a residence for the owner and his family,” Bates v. Bates, 97 Mass. 392, 395 (1867), free from attachment or levy on execution by creditors up to the amount allowed by law. See Silloway v. Brown, 12 Allen 30, 32 (1866). Other jurisdictions passing on the issue have concluded that a tenant in common can assert a claim of homestead against creditors but not against cotenants. See, e.g., Best v. Williams, 260 Ark. 30 (1976); Tullis v. Tullis, 342 So.2d 88 (Fla. Dist. Ct. App. 1977); Gottsch v. Ireland, 358 P.2d 1097 (Okl. 1961). See also Ill. Rev. Stat. c. 110, par. 12-901 (1985), which provides that the Illinois Homestead Act “is not applicable between joint tenants or tenants in common but it is applicable as to any creditors of such persons.” As noted in Ball v. Ball, 27 Ill. App. 3d 678, 680 (1975), construing identical language in an earlier statute, if a claim of homestead could be asserted against a cotenant, then the homestead estate would be increased “to an exclusive right of possession to the entire premises as long as assent to sale was withheld.”
+As an alternative claim, the defendant asserts that, if the plaintiffs are allowed to partition the tenancy, then G. L. c. 188, § 7, requires that her estate of homestead must be set aside and preserved. There is no merit to this contention, as it would effectively nullify what we have held are the rights of tenants in common. See Atlantic Sav. Bank v. Metropolitan Bank & Trust Co., 9 Mass. App. Ct. 286 (1980), construing the purpose and intent of that provision. See also Ball v. Ball, supra.
+Judgment affirmed.
+The plaintiffs have not participated in the appeal.
+By St. 1985, c. 623, the extent of an estate of homestead was increased from $60,000 to $100,000.
+Section 7, as amended by St. 1979, c 248, reads: “An estate of homestead created under section two may be terminated during the lifetime of the owner by either of the following methods: — (1) a deed conveying the property in which an estate of homestead exists, signed by the owner and the owner’s spouse, if any, which does not specifically reserve said estate of homestead; or by (2) a release of the estate of homestead, duly signed, sealed and acknowledged by the owner and the owner’s spouse, if any, and recorded in the registry of deeds for the county or district in which the property is located.
+“A deed reserving said estate of homestead shall convey, according to its terms, any title or interest in the property beyond the estate of homestead. ”
