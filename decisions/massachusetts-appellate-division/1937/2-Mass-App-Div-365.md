@@ -1,7 +1,7 @@
 ---
 court: "Massachusetts Appellate Division"
 decided: "1937-05-26"
-citations: ["2 Mass. App. Div. 365", "2 Mass. App. Div. 368"]
+citations: ["2 Mass. App. Div. 365"]
 reporter: "mass-app-div"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +9,7 @@ parties: ["SAMUEL FEUERSTEIN vs. ISRAEL BLUESTEIN & TRUSTEE."]
 source_url: "https://static.case.law/mass-app-div/2/cases/0365-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3878541
-cites_cases: ["10 Cush. 172", "103 Mass. 245", "11 Mass. 313", "11 Metc. 445", "12 Gray 174", "122 Mass. 406", "128 Mass. 194", "144 Mass. 383", "146 Atl. Rep. 395", "175 Mass. 56", "2 Metc. 114", "208 Mass. 405", "211 Mass. 277", "221 Mass. 201", "225 Mass. 148", "273 Mass. 240", "283 Mass. 192", "3 Mass. 514", "4 Metc. 252", "5 Mass. 67", "65 A. L. R. 553", "8 Allen 259"]
+cites_cases: ["10 Cush. 172", "103 Mass. 245", "11 Mass. 313", "11 Metc. 445", "12 Gray 174", "122 Mass. 406", "128 Mass. 194", "146 Atl. Rep. 395", "2 Metc. 114", "211 Mass. 277", "221 Mass. 201", "283 Mass. 192", "3 Mass. 514", "4 Metc. 252", "5 Mass. 67", "65 A. L. R. 553", "8 Allen 259"]
 ---
 
 # Feuerstein v. Bluestein
