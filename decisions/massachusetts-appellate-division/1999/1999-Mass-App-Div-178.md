@@ -1,0 +1,37 @@
+---
+court: "Massachusetts Appellate Division"
+decided: "1999-07-26"
+citations: ["1999 Mass. App. Div. 178"]
+reporter: "mass-app-div-annual"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Present: Merrick, RJ., Coven & Greco, JJ."]
+parties: ["Guy Bardascino vs. Keith P. Gilbert, Sr., and another"]
+source_url: "https://static.case.law/mass-app-div-annual/1999/cases/0178-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 11494067
+cites_cases: ["1998 Mass. App. Div. 90", "23 Mass. App. Ct. 1", "33 Mass. App. Ct. 219", "351 Mass. 708", "417 Mass. 782", "43 Mass. App. Ct. 650", "5 Mass. App. Ct. 304"]
+---
+
+# Bardascino v. Gilbert
+
+## Majority (Merrick, J.)
+
+Merrick, J.
+This is a summary process action by plaintiff Guy Bardascino (“the Landlord”) to recover possession of leased premises and unpaid rent. Defendants Keith P. Gilbert, Sr. and Ramona A. Campbell-Gilbert (“the Tenants”) counterclaimed, inter alia, for various breaches of the warranty of habitability and for unfair and deceptive practices in violation of G.L.c. 93A.
+The record and the trial judge’s findings indicate that the Landlord, as trustee of a real estate trust, owned a building at 9 Lake Avenue in Woburn. Although the area was zoned for only single and two family dwellings, the Landlord’s building contained four apartments. In January, 1994, the Tenants leased one of those four apartments for $650.00 per month. After the expiration of the lease, they continued as tenants at will to occupy the premises with their young grandson. The apartment leased to the Tenants has only one means of egress in violation of the State Building Code, which requires two. The evidence supported the judge’s finding that the Landlord’s building was also in violation of the State Sanitary Code, 105 CMR §410.354(C), in that there were only two electrical meters for the four apartments. The Tenants paid for their own electricity.
+Continuing disagreements between the Landlord and Tenants eventually resulted in a thirty day notice to quit and complaints to the town building inspector, who cited the Landlord for the egress, metering and other violations. This action followed.
+The trial judge found for the Tenants on their counterclaim. Using the “percentage reduction of use approach” prescribed in McKenna v. Begin, 5 Mass. App. Ct. 304, 310 (1977) (“McKenna v. Begin IP), the judge determined that the lack of a second egress alone reduced the value of the premises by twenty (20%) percent. She calculated those damages from the inception of the tenancy ($4,680.00) and then trebled them pursuant to G.L.c. 93A for a total of $14,040.00. The judge also awarded damages of $25.00 for the electric metering violation. From the total damages of $14,065.00, the trial judge deducted three months’ rent in the total amount of $1,950.00 which she found due to the Landlord. In further proceedings, she awarded counsel fees of $4,000.00.
+The Landlord has appealed pursuant to Dist./Mun. Cts. R. A. D. A., Rule 8A.
+1. Several of the Landlord’s requests for rulings of law dealt with the absence of any evidence of the value of the apartment without a second egress, the sole basis of the trial judge’s “percentage reduction of use” calculation of damages. The Landlord argues that, in the absence of specific evidence of the actual diminished value of the apartment, the judge’s finding of a 20% diminution was unsupported and arbitrary. The judge’s utilization of the “percentage reduction of use” approach in the circumstances of this case was, however, entirely apt.
+We recognize that computing damages under this approach involves some uncertainty. Useful expert testimony is unlikely to be readily available as to the ‘worth’ of the defects [citation omitted], and even if it were available, the imposition upon indigent tenants of the financial burden of supplying expert witnesses would seriously diminish the effectiveness of the relief contemplated in our earlier opinion....
+However, damages in this case ‘do not differ significantly from a host of analogous situations, in both contract and tort law, in which damages cannot be computed with complete certainty.’ [citation omitted] It is settled that mere uncertainty in assessing the amount of damages should not jeopardize an injured party’s right to recover as long as those damages are the certain result of the wrongdoing, [citations omitted] A wrongdoer may not complain that damages cannot be measured precisely where he alone is responsible for the harm, [citations omitted] While the damages may not be determined by speculation or guess, an approximate result is permissible if the evidence shows the extent of damages to be a matter of just and reasonable inference.
+McKenna v. Begin II, supra at 311.
+The judge’s finding of single damages under the “percentage reduction of use approach” was well within her discretion.
+2. The Landlord also argues that the evidence did not support a finding that he had any notice that the absence of a second egress constituted a code violation until citations were issued by the building inspector, which occurred after he had served a notice to quit on the Tenants. Section 8A of G.L.c. 239 provides that code violations are a defense to an eviction action only where the Landlord “knew of such conditions before the tenant or occupant was in arrears in his rent.” It is sufficient to note in the instant case that even assuming that the Landlord did not know the provisions of the State Building Code, he certainly knew of the condition of the apartment; i.e., that it had only one egress.
+3. That standard of liability, however, does not apply to the question of trebling damages under G.Lc. 93A, §9. Pursuant to that statute, damages are not to be trebled where “conditions in the leased premises were attributable to [negligence], and not to a knowing or willful disregard of the conditions in the apartment.” Cruz Management Co. v. Thomas, 417 Mass. 782, 790-791 (1994).
+The trial court’s specific subsidiary findings did not support either its ultimate finding that the failure to maintain the property in accordance with state codes was a “knowing and willful violation” of G.Lc. 93A, or its resulting award of punitive damages. Shear v. Gabovitch, 43 Mass. App. Ct. 650, 652-653 (1997); Atkinson v. Rosenthal, 33 Mass. App. Ct. 219, 223-224 (1992); Phipps v. Barbera, 23 Mass. App. Ct. 1, 7 (1986).
+Accordingly, the judgment for the Tenants is vacated. The court’s assessment of single damages and counsel fees is affirmed, and judgment is to be entered for the Tenants in the total amount thereof. The court’s assessment of treble damages is vacated.
+So ordered.
+The criminal fine for a violation of G.L.c. 186, §14 is $25.00. Although the trial judge apparently found a “cross-metering” violation under the statute, she did not award “actual and consequential damages or three months’ rent, whichever is greater” as required by the statute. The Tenants have not appealed.
+The findings were also, at least arguably, inconsistent with the court’s ruling on the Landlord’s request for ruling number 9. We do not consider the question of an inconsistency, however, because the Landlord failed to bring it to the judge’s attention by means of a motion under Mass. R. Civ. R, Rule 59. See Cook v. Kozlowski, 351 Mass. 708 (1967); Fine Home Builders, Inc. v. Humenn, 1998 Mass. App. Div. 90, 92.
