@@ -1,0 +1,30 @@
+---
+court: "Massachusetts Appellate Division"
+decided: "1937-06-01"
+citations: ["2 Mass. App. Div. 375"]
+reporter: "mass-app-div"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["STEPHEN R. DAVIS vs. ALICE HOWARD"]
+source_url: "https://static.case.law/mass-app-div/2/cases/0375-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3879334
+cites_cases: ["166 Mass. 123", "247 Mass. 147", "253 Mass. 374", "278 Mass. 321", "5 Cushing 219"]
+---
+
+# Davis v. Howard
+
+## Majority (Morton, J.)
+
+Morton, J.
+This is an action of contract to recover for medical services rendered the defendant and also, as the report states, “for services as witness in the trial of a tort action.” The answer was a general denial.
+The evidence tended to show that the plaintiff was a physician who attended the defendant, and that a fair charge for his services in that regard was $25; that he had several conferences with the attorney for this defendant relative to a suit to recover damages in the case in which this defendant was the plaintiff, and that in the same suit he testified before an auditor, before a jury, and in a jury waived session; that on one or more occasions he had to wait for a considerable length of time before taking the witness stand. Relative to conferences the plaintiff testified that a fair charge therefor would be $2.00' each, and that he thought he had ten conferences. The defendant duly filed the following request for ruling:
+“That upon all the evidence the plaintiff is not entitled to recover more than twenty-five dollars for his medical treatment of the defendant, ten dollars for preliminary conferences and three days’ attendance at and travel to and from Court at the rate of two dollars and ten cents per day, and any agreement to pay an amount in excess of two dollars and ten cents per day for court attendance- and travel was illegal and contrary to law, and cannot be enforced. ’ ’
+This was denied on the ground “that it was not in conformity with the evidence and the facts as found” by him, the trial judge. He found for the plaintiff and assessed damages in the sum of $75.00.
+The issue is somewhat novel and involves the right of the plaintiff to recover more than the statutory fee for testifying other than as an expert. The defendant contends that the request was properly denied as the first part thereof was contrary to Rule 27 of the Rules of District Courts (1932); and that the trial court is not required to give that part of a request which contains a proposition sound in law if the remaining part of the request is properly refused. Aste v. Putnam’s Hotel Co., 247 Mass. 147.
+The first part of the request in issue, however, although perhaps contrary to Buie 27 above referred to, was acted upon by the trial court so it becomes our duty to consider the same. DiLorenzo v. Atlantic National Bank of Boston, 278 Mass. 321 at page 325. Under these circumstances the rule stated in Aste v. Putnam’s Hotel Co., supra, does not apply.
+We are concerned with the second part of the request stating that any agreement to pay a witness in excess of the statutory fee is illegal. We have said that this issue is more or less novel because we can find no case in which it has come before- the Supreme Judicial Court in exactly the form as submitted in this case. We tbink, however, that there are decisions sufficiently close to the exact issue in this case as to make it appear that that part of the ruling now under consideration was sound in law and should have been allowed. For instance, in Pool v. City of Boston, 5 Cushing 219, a case involving the right of a public officer to recover a reward for doing his duty, the following dictum appears at page 221:
+“So it has been decided, that a promise of extra compensation to a witness, in case he would attend court, and give testimony, at considerable expense and inconvenience to himself, was void, and that he could only recover his fees allowed by law, he having done no more than he was in duty bound to do. ’ ’
+In Barrus v. Phaneuf, 166 Mass. 123, a case involving the right of an expert witness to recover compensation in addition to the statutory fee, the court at page 125 expresses some doubt as to whether an expert, who was duly summoned and attended and gave the testimony required, could thereafter recover additional fees on a quantum meruit. This case, while not decisive, does indicate that the claim of even an expert witness, under the circumstances referred to, would at least be doubtful. In Keown & McEvoy, Inc. v. Verlin, 253 Mass. 374 the court says at page 377:
+“The administration of justice undoubtedly is a mutual benefit to all members of the community and every competent citizen is under an obligation to further it as a matter of public duty when summoned by due process of law to give evidence . . . The unsummoned witness Keown, who on the record resided in this Commonwealth, could have been summoned and compelled to attend G. L. Ch. 233, §§4, 5, without additional pay ... It has been held that where a witness has been subpoenaed to attend at court and testify, a promise to pay extra fees for his attendance is unenforceable for want of consideration. The performance of a legal duty is not a sufficient consideration to support a promise.”
+From the cases above cited we are of the opinion that an agreement, either express or implied, to pay a witness extra fees for his testimony is unenforceable for want of consideration, whether or not the witness was subpoenaed. It would be repugnant to common sense to allow a witness to recover extra fees on a quantum meruit for testifying, and to bar him from enforcing a specific agreement to the same effect. In our opinion the request filed by the defendant was sound in law. As we cannot be sure, from the reason given by the trial judge for denying this request, that he had correct principles of law in mind, an order will be entered vacating the finding for the plaintiff and directing that a new trial be had upon the merits.
