@@ -1,0 +1,40 @@
+---
+court: "Massachusetts Appellate Division"
+docket: "3083"
+decided: "1942-02-03"
+citations: ["2 Mass. App. Dec. 127"]
+reporter: "mass-app-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["P. A. STARCK PIANO CO. v. PEPPIN"]
+source_url: "https://static.case.law/mass-app-dec/2/cases/0127-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4033073
+cites_cases: ["232 Mass. 275", "240 Mass. 168", "253 Mass. 212", "256 Mass. 66", "272 Mass. 261", "279 Mass. 208", "298 Mass. 37"]
+---
+
+# P. A. Starck Piano Co. v. Peppin
+
+## Majority (PETTINGELL, J. (Jones, P. J„ and Wilson, J.))
+
+PETTINGELL, J. (Jones, P. J„ and Wilson, J.)
+— Action of contract to recover “for rent and use” of a piano.
+Although there was evidence that the parties had signed an instrument described as a conditional sale agreement, cover' ing the sale of the piano and the payment of installments for it, and such an instrument was in evidence and was an exhibit in the case, the action does not appear to be on that agreement, or intended to recover any installment provided for by it.
+The report, which sets forth obscurely some of the vital issues of fact, is not made any clearer by the trial judge’s disposition of the requests for rulings, filed by both plaintiff and defendant, or by his general and indefinite finding of facts; that case is left in such uncertainty as to what was tried and what found, as well as what was in the mind of the trial judge in making his rulings.
+This uncertainty is increased by the following ruling, given at the request of the plaintiff:
+“1. Upon all the law, the Court should find for the plaintiff.”
+There was evidence from the defendant, that the so-called conditional sales agreement, of which copies were in evidence, was signed, November 14, 1940; that a payment of ten dollars on the piano was due, December 14, 1940, and was not made, being the payment sued for.
+The principal disagreement between the parties regarding the agreement was whether or not it had been accepted by the vendor, the plaintiff. Its fifteenth article provides that the agreement shall not be binding upon the vendor “until accepted and approved by the vendor.”
+There was oral testimony that the plaintiff accepted the agreement, when its agent, authorized to do so, placed his initials upon 'it, but it was admitted by the agent, that no notice of this acceptance was given the defendant, and that ther.e was no way in which notice of the acceptance would or could come to his attention. It was also testified that although a copy of the agreement was given the defendant, the copy given him did not contain the agent’s initials. Whether or not putting the initials on the contract was an acceptance of it, and whether they were put on it before delivery of the piano, were questions of fact.
+The piano was delivered to the defendant a day or two after November 14, 1940. As far as appears in the evidence, the delivery of the piano was the only indication the defendant received of an acceptance and approval of the conditional sale agreement by the plaintiff. Whether the delivery was an acceptance of the contract by the vendor, was a question of fact.
+This kind of a contract, in which an acceptance or approval of the vendor is necessary before there is a contract, has been passed upon Iby the Supreme Judicial Court. In Cruver Mfg. Co. v. Rousseau, 240 Mass. 168, there was such a clause in the contract. In that case, however, the issue arose whether the defendant had revoked the offer before the plaintiff accepted it. The court said, at page 169:
+“It was incumbent on the plaintiff to prove that the defendant's proposal was accepted and notice of acceptance when to the defendant. The proposal . . . was not a contract binding on the parties until accepted by the parties, and until it gave notice of such acceptance, the defendant could revoke the offer."
+The court distinctly states further, on page 169, that “it was a question of fact and not a question of law whether the plaintiff accepted the order of the defendant.”
+In the case at bar, the presence in the agreement of the stipulation requiring the acceptance and approval of the vendor, and the oral testimony -regarding the acceptance by the vendor’s agent, by putting on the agreement his initials, raised several issues of fact, especially, whether or not the initials were put on the contract; whether, if put on, they were a sufficient acceptance and approval; whether the defendant was adequately notified of the acceptance of his offer; and whether the delivery of the piano to the defendant was an acceptance.
+If there was a valid contract, which, under the circum' stances is a question of fact, Bresky v. Rosenberg, 256 Mass. 66, then this action, to succeed, should have been brought upon the contract. Where there is an express contract between the parties, there can be no recovery upon an implied con' tract. Turner v. Buttrick, 272 Mass. 261. Whether or not there is an implied contract is a question of fact. Tower v. Jenny, 279 Mass. 208.
+In the case at bar, the trial judge’s ruling that the plaintiff was entitled to recover “upon the law” ignored all the ques' tians of fact involved in the case, and the error in giving such a ruling was not corrected by his findings of fact, “that the plaintiff and the defendant entered into a valid conditional sales agreement for the purchase and sale of a piano which was subsequently delivered” and that “all terms of the agree' ment were complied with by the plaintiff.” Such generalised findings are purely findings of fact, based on fact. If the trial judge had not tied his hands by ruling that the plaintiff was entitled to recover as matter of law, these findings of fact might have justified his general finding. Having ruled, however, that the issue was one of law, his findings of fact became immaterial. They were not of value as findings made by him as a result of weighing the evidence; having ruled that the plaintiff was entitled to recover as matter of law, no issues of fact were left open upon which he was to consider the evidence.
+The giving of this ruling was prejudicial error which wrecked all possibility of a proper consideration of the evidence.
+The facts in this case are definite that the defendant, by a written instrument, offered to buy the piano. The instrument stated that there was not to be a contract until the vendor accepted the offer. The vendor never notified the defendant that it had accepted the offer, but it delivered the piano, it was a question of fact whether, the delivery of the piano was an acceptance of the contract. It was. not a question of law. There was no evidence that the defendant accepted the piano, or that either party, other than by this one act of delivery, ever treated the contract as in complete force. The plaintiff did not so treat it by bringing this action, because it did not sue on the contract, but for “rent and use.”
+To create a right in contract against a defendant there must be a contract, express or implied. Lyons v. Jackson, 232 Mass. 275. French v. Bray, 253 Mass. 212; Walsh v. John J. Walsh & Co., Inc. 298 Mass. 37.
+The cases cited show distinctly that the issues in the case at bar are wholly issues of fact. When the trial judge ruled that the plaintiff was entitled to recover as matter of law, what was the recovery to be upon, an express promise growing out of an offer which the plaintiff may or may not have ao cepted, or upon an implied promise growing out of the delivery of the piano? This simple question discloses the factual character of the situation. A finding for the plaintiff was warranted as a question of fact. It was prejudicial error to rule that it was required as matter of law.
+There having been prejudicial error in the giving of the plaintiff’s first requested ruling, the finding for the plaintiff is to be vacated and the case is to stand for a new trial.
