@@ -1,0 +1,32 @@
+---
+court: "Massachusetts Appellate Division"
+docket: "1205"
+decided: "1962"
+citations: ["23 Mass. App. Dec. 81"]
+reporter: "mass-app-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["EDWARD I. NEUSTADT v. JOHN E. JOYCE"]
+source_url: "https://static.case.law/mass-app-dec/23/cases/0081-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4037243
+cites_cases: ["283 Mass. 21", "299 Mass. 432", "299 Mass. 455", "305 Mass. 173", "305 Mass. 389", "306 Mass. 518", "307 Mass. 584", "309 Mass. 223", "314 Mass. 167", "323 Mass. 106", "333 Mass. 746"]
+---
+
+# Neustadt v. Joyce
+
+## Majority (Callan, J.)
+
+Callan, J.
+In this action of tort to recover damages incurred by the plaintiff to his automobile caused by the alleged negligence of the defendant, there was evidence that: The plaintiff, while driving on Hammond Street in Boston, stopped at the intersection of Tremont Street and saw a car on his right about 175 feet away. He started to cross at a speed of seven or eight miles per hour and got across both sets of car tracks and stopped. The defendant cut in front of the plaintiff’s car at an angle and hooked onto his bumper dragging the plaintiff’s car to the left. The defendant saw the plaintiff’s car come across Tremont Street and stop and that as the defendant was abreast of the plaintiff’s car the latter started up again and struck the defendant’s car on the left rear side; that the defendant was looking to his left at the moment of impact; that he stopped his car twenty five feet away from the point of impact. A picture of the defendant’s car showed damage at its left rear only with an indentation of about three inches. One exhibit was a tracing of the layout of the streets in the area in which the accident happened.
+In the plaintiff’s answer to defendant’s interrogatory no. 15, the plaintiff stated that the defendant was coming from his left on Tremont Street. The defendant filed several requests for rulings, some of which were allowed, some denied and some inapplicable because of the judge’s finding of facts. It becomes unnecessary to restate all of them. A special finding of facts was made by the judge.
+The requests denied are as follows: (2) “no act of the defendant at or before the accident contributed to the proximate cause of the accident”; (8) “The Court will take judicial notice that the defendant’s car could not sustain the dents displayed unless struck by the plaintiff’s car”. The defendant claimed to be aggrieved at the “findings” of the Court as being inconsistent with the evidence; at the inconsistency of the Court in finding for the plaintiff after allowing defendants request for rulings no. 1, 3, 4, 6, 7 and 10; by the denial of the Court of request for rulings no. 2 and 8; at the action on requests no. 5 and 9 as being “inapplicable — see findings”; by the failure of the Court to either allow or deny requests no. 5 and 9; by the failure of the Court to make findings of fact required by law on the denial of the requests no. 2, 5, 8 and 9; on the finding of the Court in favor of the plaintiff and adverse to the defendant as being inconsistent with the evidence.
+As to the contention of an inconsistency between the ultimate finding and the allowance of certain requests there is no error. A motion for a new trial or a motion to correct the inconsistency is the proper procedure to be adopted first and not a report to this Court. Biggs v. Densmore, 323 Mass. 106, 108; Raytheon Mfg. Co. v. Indemnity Ins. Co., 333 Mass. 746.
+The defendant claims a grievance because the judge did not act on certain requests. A requested ruling may be refused, not because it states an incorrect rule of law, but because it is rendered immaterial and inapplicable on the facts found by the judge. Cameron v. Buckley, 299 Mass. 432, 434; Wilson v. Birkenbush, 305 Mass. 173, 175; Crowninshield Shipbuilding Co. v. Jackman, 283 Mass. 21.
+Where the judge did not specifically allow or deny the request, it amounts to a denial where he stated that the ruling became immaterial on the facts found. Strong v. Haverhill El. Co., 299 Mass. 455, 456; Ajax Shoe and Leather Co. v. Selig, 305 Mass. 389, 391; Perry v. Hanover, 314 Mass. 167, 175.
+The defendant also complains that the facts found by the judge and the ultimate finding for the plaintiff are inconsistent with the evidence. By this we take it to mean that the evidence does not support the finding made. As there was a collision, the usual question of due .care on the plaintiff’s part and negligence on defendant’s part are raised and ordinarily they are questions of facts for the judge sitting without jury. Nash v. Heald, 306 Mass. 518, 520; Brightman v. Blanchette, 307 Mass. 584, 586. And the facts found by the judge will not be disturbed if they can be supported or any reasonable view of the evidence and inferences to be drawn therefrom. Barttro v. Watertown Sq. Theatre, Inc., 309 Mass. 223, 224. The judge found that the plaintiff started to cross Tremont Street about seven or eight miles per hour and almost got across both tracks and stopped when he saw the defendant’s car approaching. The defendant, while the plaintiff was stopped, struck the plaintiff’s car and continued for about twenty five feet before stopping and that the defendant was the sole cause of the accident.
+Even though the evidence is conflicting as to whether the defendant approached from the plaintiff’s right or left, and although there was evidence by the defendant that the plaintiff’s car, after stopping, started up again and struck the defendant’s car on the left rear side, it was a question of fact for the judge. He heard the witnesses and did not necessarily have to believe the version related by the defendant. There was evidence of the defendant’s speed at the intersection and from his ultimate finding, we can conclude that he found all facts necessary to support his finding. We are of the opinion that these findings of facts and ultimate finding for the plaintiff are supported by the evidence.
+George B. Rubin, of Boston, for the Plaintiff.
+Edward M. Joyce of Quincy, for the Defendant.
+Request 2 and 8 are based on facts that the judge did not find. He found the plaintiff was stopped and did not strike the defendant’s car; that the defendant struck the plaintiff’s car and was the sole cause of the accident.
+There is no error and the report is ordered dismissed.
