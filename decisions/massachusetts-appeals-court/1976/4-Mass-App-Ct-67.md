@@ -1,0 +1,29 @@
+---
+court: "Massachusetts Appeals Court"
+decided: "1976-02-05"
+citations: ["4 Mass. App. Ct. 67"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Rita Fabrizio vs. Angelo Fabrizio."]
+source_url: "https://static.case.law/mass-app-ct/4/cases/0067-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3947434
+cites_cases: ["283 Mass. 241", "316 Mass. 575"]
+---
+
+# Fabrizio v. Fabrizio
+
+## Majority (Keville, J.)
+
+Keville, J.
+The libellant was granted a decree nisi of divorce from her husband on July 3, 1974. The husband was ordered to pay alimony in a weekly sum to commence when the libellant had paid him the amount of a judgment awarded him against her in a separate proceeding. On November 12, 1974, the libellant filed a motion to dismiss her libel.
+Prior to the filing of this motion, the libellant, on September 24, 1974, had brought a petition to revoke the decree nisi and to dismiss her libel. In the petition she set forth reasons which prompted her to seek dismissal of her libel. (The libellant now contends that she intended to abandon this petition when she filed her motion to dismiss and that it was by inadvertence that the probate judge acted on both the motion and the petition, but there is nothing in the record to support her contention.) The libellant brought a motion to stay the decree absolute, which was filed and allowed on December 12, 1974, by a probate judge other than the judge who was to act upon the libellant’s petition and motion to dismiss. (The parties have raised no question with respect to the allowance of that motion.)
+The latter judge dismissed the petition to dismiss and denied the motion to dismiss. In his dismissal of the petition, the judge stated that “by agreement of counsel, the case was submitted by statements of the attorneys and briefs, and after consideration of the same, it appearing to the Court that the provisions of Probate Rule 45 were not complied with by the Petitioner in that the allegations of the petition were not statements of fact verified by affidavit, and no notice of the filing or affidavit of such notice was given or filed, all as required by said Rule 45,... [the] petition... is dismissed.” No statement by the judge accompanied his denial of the motion to dismiss.
+The libellant has appealed from the denial of her motion to dismiss and the dismissal of her petition to dismiss. The libellant states in her brief that she has abandoned her appeal from the dismissal of the petition but she presses her appeal from the denial of the motion. However, since it appears that the action of the judge with respect to both the motion and the petition was based upon the reasons given in his statement accompanying the dismissal of the petition, we consider both the denial of the motion and the dismissal of the petition.
+The case has come here with no report of the evidence, no report of material facts, and (save for the statement of the judge previously quoted) no voluntary findings of fact. The judge’s reliance upon his stated reasons for the dismissal of the petition and the denial of the motion was error. It is true that where a libellee or any other person interested, including the libellant (Nicolai v. Nicolai, 283 Mass. 241, 244 [1933]), brings a motion to stay a decree absolute within the nisi period (G. L. c. 208, § 21, as amended through St. 1934, c. 181, § 1) the motion should be accompanied by a statement of objections setting forth the facts upon which it is founded and should be verified by affidavit as required by Rule 45 of the Probate Court Rules (1959).
+However, under § 21, another course is open to the libellant. The libellant may bring a motion to dismiss the libel and a statement of objections in that event is not required to support it. Sheffer v. Sheffer, 316 Mass. 575, 577-578 (1944). Nonetheless, as we have observed in Hinds v. Hinds, ante, 63 (1976), decided this day, the right of a libellant to the allowance of such a motion is not absolute, although as a general rule the libellant has that right under § 21, subject only to the power of the court to impose such terms, if any, as it deems just and reasonable. Sheffer v. Sheffer, supra, at 578. Consequently, we may not conclude, as matter of law, that the libellant was, in any event, entitled to the dismissal of her libel. Sheffer v. Sheffer, supra, at 577, 579.
+It is apparent from the statement made by the judge in support of his dismissal of the petition that he did not reach the question whether there were facts sufficient to warrant either the allowance of the petition or the motion to dismiss; and, upon the record as presented to us, we are unable to pass upon that question.
+Therefore, the denial of the motion to dismiss the libel and the dismissal of the petition to dismiss are reversed. The case is remanded to the Probate Court for a hearing anew under the provisions of G. L. c. 208, § 21: (a) to determine whether the libellant is entitled to the allowance of her motion to dismiss and, if so, (b) for the imposition of such terms, if any, as the court may order in accordance with the provisions of that statute.
+So ordered.
+“Decrees of divorce shall in the first instance be decrees nisi, and shall become absolute after the expiration of six months from the entry thereof, unless the court within said period, for sufficient cause, upon application of any party interested, otherwise orders. After the entry of a decree nisi, the libel shall not be dismissed or discontinued on motion of either party except upon such terms, if any, as the court may order after notice to the other party and a hearing, unless there has been filed with the court a memorandum signed by both parties wherein they agree to such disposition of the libel.”
