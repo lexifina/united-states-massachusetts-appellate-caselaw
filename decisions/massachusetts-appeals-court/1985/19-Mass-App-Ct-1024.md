@@ -1,0 +1,23 @@
+---
+court: "Massachusetts Appeals Court"
+decided: "1985-04-22"
+citations: ["19 Mass. App. Ct. 1024"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Commonwealth vs. Daniel Bernard Fetzer."]
+source_url: "https://static.case.law/mass-app-ct/19/cases/1024-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5745144
+cites_cases: ["158 Mass. 127", "17 Mass. App. Ct. 1008", "376 Mass. 90", "377 Mass. 755", "384 Mass. 377", "389 Mass. 743", "390 Mass. 245", "392 Mass. 838", "394 Mass. 394", "394 Mass. 584", "404 U.S. 1025", "446 F.2d 916", "454 U.S. 1102", "466 U.S. 943", "660 F.2d 829", "723 F.2d 666"]
+---
+
+# Commonwealth v. Fetzer
+
+## Majority
+
+The defendant, convicted of rape, admitted the fact of sexual intercourse with the complainant but maintained that it was consensual. 1. Through its first three witnesses (a priest, a Salvation Army worker, and a motel owner) the Commonwealth was permitted to adduce evidence that the defendant had arrived in town the afternoon preceding the night of the alleged rape and had sought and obtained charity in the form of food and shelter for himself, his wife and his child under the name “Wateman.” The use of a false name, the prosecutor argued, was admissible to show consciousness of guilt. Later that day, when the defendant picked up the complainant in a bar (around 6:45 p.m.), he did not use either the name “Wateman” or his legal name, but instead introduced himself as “Spoiler.” Without adopting a hard and fast rule that the use of a false name, to be admissible as evidence of consciousness of guilt, must follow rather that precede the crime (see, e.g., United States v. Sutton, 446 F.2d 916, 922-923 [9th Cir. 1971], cert. denied, 404 U.S. 1025 [1972]; United States v. Tashjian, 660 F.2d 829, 842-844 [1st Cir.], cert. denied sub nom. Campbell v. United States, 454 U.S. 1102 [1981]; United States v. Birges, 723 F.2d 666, 669, 672 [9th Cir.], cert. denied, 466 U.S. 943 [1984]), the panel are of opinion that the incidents in the afternoon were not shown to bear a relation to a crime that, so far as may fairly be surmised from the evidence, was not then even in contemplation. Nor were they admissible to show that the defendant was a deceitful person. Compare Commonwealth v. Frey, 390 Mass. 245, 249 (1983). Contrast Commonwealth v. Bohannon, 376 Mass. 90, 93-95 (1978), with Miller v. Curtis, 158 Mass. 127 (1893). 2. The defendant should have been permitted to inquire into the existence of a romantic relationship between one Laramee and the complainant, as a foundation for his argument that the complainant had a motive to lie concerning the voluntariness of her participation in sexual activity with the defendant. Such inquiry would not violate the rape-shield law, G. L. c. 233, 21B, as amended by St. 1983, c. 367, because, if properly limited, it would not call for evidence of the complainant’s reputation for chastity or for specific instances of the complainant’s prior sexual conduct. Compare Commonwealth v. Bohannon, 376 Mass. at 95; Commonwealth v. Elder, 389 Mass. 743, 749-750 (1983). It cannot be said as matter of law that the complainant had no reason to fear that the fact of her being found at the roadside, partially clad, in a secluded area, would not come to Laramee’s attention. 3. It probably would have been better practice for the judge to permit the defendant to inquire of the complainant whether the Commonwealth had purchased new clothing for her to wear to court. Although the tendency of such evidence to show bias in this instance may have been slight, favors which a witness receives from the party for whom the witness testifies cannot be deemed irrelevant to the existence of bias. The strong policy of our law is to recognize a right in a defendant to bring the possibility of bias to the jury’s attention. Commonwealth v. Martinez, 384 Mass. 377, 379-381 (1981). Commonwealth v. Connor, 392 Mass. 838, 840-842 (1984). Commonwealth v. Brown, 394 Mass. 394, 397 (1985). Any discretionary denial of that opportunity with respect to the complainant’s clothing in this case should, at the very least, be preceded by a “voir dire showing of consistency between [the complainant’s] trial testimony and [her] statements made before any basis for bias existed.” Commonwealth v. Henson, 394 Mass. 584, 589 (1985). Compare Commonwealth v. Haywood, 377 Mass. 755, 761-763 (1979); Commonwealth v. DiBlasio, 17 Mass. App. Ct. 1008, 1010 (1984).
+Stephen Hrones for the defendant.
+Charles K. Stephenson, Assistant District Attorney, for the Commonwealth.
+Judgment reversed.
+Verdict set aside.
