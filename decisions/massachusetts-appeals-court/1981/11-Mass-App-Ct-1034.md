@@ -1,0 +1,22 @@
+---
+court: "Massachusetts Appeals Court"
+decided: "1981-05-15"
+citations: ["11 Mass. App. Ct. 1034"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Deborah Williams vs. Department of Public Welfare."]
+source_url: "https://static.case.law/mass-app-ct/11/cases/1034-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3964786
+cites_cases: ["359 Mass. 635", "369 Mass. 345", "369 Mass. 488", "383 Mass. 456", "397 A.2d 980", "4 Mass. App. Ct. 854", "42 U.S.C. § 602", "420 U.S. 730", "45 C.F.R. § 232.12", "511 F.2d 1146"]
+---
+
+# Williams v. Department of Public Welfare
+
+## Majority
+
+The plaintiff has appealed (Delf v. Commissioner of Pub. Welfare, 369 Mass. 345, 345-346, 348 [1975]) from a judgment of the Superior Court which affirmed a decision of the Department of Public Welfare (G. L. c. 18, § 16, as amended by St. 1974, c. 752, § 10) by which the Department excluded the plaintiff from the family unit for the purpose of computing the family budget under AFDC (G. L. c. 118, § 2, as most recently amended by St. 1979, c. 342, § 8A) and cut off her medical care and assistance benefits (G. L. c. 118E, §§1,5 and 6) by reason of her not cooperating with the Department by providing information which might lead to the identity and whereabouts of the father of her four illegitimate children. See 42 U.S.C. § 602(a)(10) and (26)(B) (1976); 45 C.F.R. § 232.12(a), (b) and (d) (1978); G. L. c. 118, § 3, as most recently amended by St. 1979, c. 393, § 69; 6 CHSR III §§ 305.034 and 305.035 (1978); Grow v. Smith, 511 F.2d 1146 (9th Cir. 1975). 1. The arguments premised on 45 C.F.R. § 232.12(b)(3) (1978) overlook (a) the-plaintiff’s obligation to be truthful in providing information and (b) the absence in the record before the Department (see Duato v. Commissioner of Pub. Welfare, 359 Mass. 635, 639 [1971]) of any evidence that the plaintiff ever executed any affidavit attesting to her lack of any information beyond what she had already provided. 2. The principal contention is that the referee’s “findings” that “the [plaintiff] is withholding information regarding the father of the children and . . . has not fully cooperated with the [Department in locating the [father]” are not supported by “substantial evidence” within the meaning of and as required by G. L. c. 30A, §§ 1(6) (inserted by St. 1954, c. 681, § 1) and 14(7)(e) (as appearing in St. 1973, c. 1114, § 3). See New Boston Garden Corp. v. Assessors of Boston, 383 Mass. 456, 466-467 (1981). But when we consider those “findings” in light of the record as a whole, including (a) the undisputed facts that the plaintiff had known the father for more than eight years and had had four children by him and (b) the testimony at the fair hearing of an experienced child support enforcement officer as to the inference which should be drawn from those facts, we see nothing more than an inept expression of a conclusion drawn by the referee, who was the sole judge of the plaintiff’s credibility (Duato v. Commissioner of Pub. Welfare, 359 Mass. at 641; Maddocks v. Contributory Retirement Appeal Bd., 369 Mass. 488, 495 [1976]), that he did not believe she had made truthful disclosure of all the information “known to, possessed by, or reasonably obtainable by . . . her” within the meaning of 6 CHSR III § 305.035(a). Such a conclusion as to credibility need not be supported by substantial evidence (compare Lovasco’s Case, 4 Mass. App. Ct. 854 [1976], and cases cited) in a case like the present, in which the plaintiff has conceded (in her brief) that “[cooperation with the state child support agency was made an AFDC eligibility requirement by 42 U.S.C. § 602(a)(26)(B).” See Lascaris v. Shirley, 420 U.S. 730 (1975). 3. The contention that the decision somehow results in some form of deprivation to the plaintiff’s children is not supported by the record before the Department. Contrast Peggy S.M. v. State, 397 A.2d 980 (Me. 1979), which was decided under a regulation promulgated under 45 C.F.R. §§ 232.12(d) and 234.60 (1978), which are specifically designed to protect the children of a noncooperating caretaker relative and which are not involved in this case because no appeal has been taken from the Department’s redetermination of the family budget.
+Karen Louise Daniel (Paul R. Collier, III, with her) for the plaintiff.
+William L. Pardee, Assistant Attorney General, for the defendant.
+Judgment affirmed.
