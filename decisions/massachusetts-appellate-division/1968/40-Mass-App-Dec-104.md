@@ -1,0 +1,47 @@
+---
+court: "Massachusetts Appellate Division"
+docket: "T-15521"
+decided: "1968-06-11"
+citations: ["40 Mass. App. Dec. 104"]
+reporter: "mass-app-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["GEORGINA ADAMS, et al v. DOMINIC R. BUCCIERI"]
+source_url: "https://static.case.law/mass-app-dec/40/cases/0104-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4335105
+cites_cases: ["10 Allen 433", "12 Allen 401", "143 Mass. 413", "150 Mass. 372", "163 Mass. 527", "276 Mass. 519", "289 Mass. 549", "315 Mass. 366", "331 Mass. 293", "333 Mass. 695", "349 Mass. 637", "9 Allen 455"]
+---
+
+# Adams v. Buccieri
+
+## Majority (Shamon, J.)
+
+Shamon, J.
+Thisi is an action of tort to recover damages for personal injuries due to the negligence of the defendant in the operation of his motor vehicle. In addition to a general denial the defendant specially pleaded the Statute of Limitations.
+The defendant admits liability and relies solely upon his defense of the Statute of Limitations.
+The accident occurred on the 23rd of April 1964. The plaintiff received a telephone call from some person at the office of the defendant’s insurer within a few days of the accident, asking the plaintiff for a report of the accident which was given by her. Sometime in June of 1964, there was another telephone call from someone from the office of the defendant’s insurer asking for the plaintiff’s doctor’s name which was supplied. Sometime in June of 1964, the plaintiff received a letter from a third person involved in the same accident which she sent to the defendant’s insurer. Sometime in the fall of 1964, someone from the defendant’s insurer called the plaintiff on the telephone and stated that someone from the defendant’s insurer would come to her home to talk about the settlement of the case.
+During the year 1965, the plaintiff did not call the defendant’s insurer, neither did anyone from the defendant’is insurer call her, but her husband did call the defendant’s insurer in 1965.
+In January of 1966, somebody from the defendant’s insurer called the plaintiff stating that someone would come to see her to settle the case. She received another call from the defendant’s insurer a month later. At no time did anyone from the defendant’s insurer visit the plaintiff.
+The plaintiff’s action was started on September 23,1966. Upon being served in October 1966, the defendant called the plaintiff to inquire why she was suing him as he thought the claim had been adjusted.
+The court found for the plaintiff holding “that the plaintiff reasonably and prudently relied on the agents of the defendant’s insurance company, that the company would settle the case and as a result of relying on these representations, the defendant is estopped from pleading the Statute of Limitations as a defense in this case”.
+To show estoppel, the plaintiff has the burden of proving that the defendant’s insurer, by acts or words intentionally prevented her from acting to preserve her claim. The meaning of estoppel, arising from acts or words, is clearly expressed in Baker v. Seavey, 163 Mass. 527 as follows:
+“If a man by his words or conduct wilfully endeavors to cause another to believe in a certain state of things which the first knows to be false, and if the second believes in such a state of things, and acts upon his belief, he who knowingly made the false statement is estopped from averring afterwards that such a state of things did not in fact exist. ’ ’
+This rule has been recognized and acted on in this 'Commonwealth in the following cases: Plumer v. Lord, 9 Allen 455; Langdon v. Bond, 10 Allen 433; Turner v. Coffin, 12 Allen 401; Moore v. Spiegel, 143 Mass. 413; Short v. Currier, 150 Mass. 372.
+Some cases in which estoppel has been discussed are:
+In McLearn v. Hill 276 Mass. 519, it is stated that,
+“In order to work an estoppel, it must appear that one has been induced by the conduct of another to do something different from what otherwise would have been done and which has resulted to his harm and that the other knew or had reasonable cause to know that such consequence might follow”.
+In that case the court sustained exceptions to the refusal of the trial judge to permit facts to be introduced showing conduct from which the jury might have inferred an estoppel.
+In Ford v. Rogovin, 289 Mass. 549, the defendant talked with the attorney for the plaintiff, telling him it would n'ot be necessary to bring suit and that he would see to it that his insurance company would settle the case. The court in sustaining a directed verdict for the defendant, held: “that a finding that the defendant agreed to waive the statute or was es-topped to rely on it was not warranted by the evidence submitted by the plaintiff”.
+In Knight v. Lawrence, 331 Mass. 293, the court held that the defendant was estopped from setting up the one year statute of limitations as a defense when an adjuster of an insurance company authorized “to negotiate” for the defendant told the plaintiff that “good care” would be taken of her and not to worry, that some months before the expiration of the year he told her that “they would settle” her case and she “didn’t need do anything about it”, that a few days before the expiration of the year, he told her that he knew the company would not pay as much as she then stated to him she wanted but that she “would hear from him again”, that he did not communicate with her again before the expiration of the year, and that she did not consult a lawyer until after the expiration of the year statute.
+In Hayes v. Gessner, 315 Mass. 366, the evidence was that at a time when the plaintiff had a good cause of action against the defendant, the adjuster for the defendant’s insurer persuaded the plaintiff not to seek legal advice and to wait until the bar of the statute fell by promising him that he could bring the matter up later and could have at least $1,500. The plaintiff relied on this representation. It was held that the jury could have found that the plaintiff was induced to refrain from necessary action upon representations that the offer was a continuing one, and that delay was harmless and would not prejudice his rights. In these circumstances it was held that the defendant could have been found to be estopped from later taking a position at variance with the representations upon which the plaintiff relied.
+In MacKeen v. Kasinskas, 333 Mass. 695, at 697, the plaintiff suffered personal injuries as a result of an automobile accident on February 22, 1950 but did not commence her suit until August 10, 1951, which was after the expiration of the one year statute of limitations. The plaintiff’s delay in commencing suit was due to representations by an adjuster of the defendant’s insurer, one Hughes, who after taking a statement from the plaintiff told her, “I would not have to bother with getting a lawyer or seeing the company as they would take care of everything. Just do as my doctor said, and everything will be all right”.
+In overruling the defendant’s exceptions to the court’s denial of a motion for a directed verdict, the court said, “we think it plain that the representations of the adjuster for the defendant’s insurer, were such as to lead the plaintiffs to reasonably believe that, when they had fully recovered from their injuries and were through treating with doctors, and were back to work, their damages for pain and suffering, doctor bills, and loss of time from work could definitely be determined, and that the insurer would then pay them for all such damages”.
+The court found that the representative of the insurer, Hughes, had at least apparent authority to make promises of settlement since the principal function of insurance company adjusters is to determine the liability of the insured, and to make arrangements for settling claims. The court distinguishes that case from Ford v. Rogovin, 289 Mass. 549, wherein the defendant told the plaintiff’s attorney that he would “see to it that his insurance company would settle the case”. There was no evidence in that case that the defendant had any authority to bind his insurer and the plaintiff’s attorney knew of this lack of authority.
+The case of MacKeen v. Kasinkas, 333 Mass. 695, supra, was cited favorably in Swift v. American Universal Insurance Co., 349 Mass. 637, recently decided (1965) by our Supreme Judicial Court in which case the authorized representative of an insurance company assured the plaintiff and Ms attorney, two weeks before the one year statute of limitations had barred a suit under a marine policy, that the claim was considered as adjusted and when suit was commenced after the running of the year period for bringing suit, the statute of limitations was pleaded as a bar.
+John A. Irwin of Dorchester for the plaintiff
+Charles J. O’Malley for the defendant
+There is no evidence in the report, of the case under consideration, as to the identity of the person who called the plaintiff from the office of the defendant’s insurer. The case is therefore bare of any of the considerations which have been discussed by the Supreme Judicial Court in the cases cited above on the question of estoppel.
+There is no evidence to support the conclusion that the defendant was estopped to plead the statute of limitations.
+There was error in the denial of the defendant’s requests, numbers 2, 5, 6 and 7.
+Finding for the plaintiff vacated. Finding to be entered for the defendant.
