@@ -1,0 +1,28 @@
+---
+court: "Massachusetts Appeals Court"
+decided: "1983-10-28"
+citations: ["17 Mass. App. Ct. 905"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Board of Selectmen of Clinton vs. Alcoholic Beverages Control Commission."]
+source_url: "https://static.case.law/mass-app-ct/17/cases/0905-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3978827
+cites_cases: ["341 Mass. 438", "353 Mass. 81", "386 Mass. 64", "4 Mass. App. Ct. 705", "7 Mass. App. Ct. 37"]
+---
+
+# Board of Selectmen v. Alcoholic Beverages Control Commission
+
+## Majority
+
+The plaintiffs are members of the board of selectmen of the town of Clinton (board). On February 22, 1982, the board, sitting as the local licensing authority, suspended for a period of one year the off premises license (beer and wine) of Tracy Calcia doing business as Greeley Hill Market and Package Store (Calcia). Calcia appealed to the Alcoholic Beverages Control Commission (commission) pursuant to the first paragraph of G. L. c. 138, § 67, as amended through St. 1971, c. 477, § 4. The commission found the board’s decision “too harsh,” and remanded the matter “with the recommendation that the license be suspended for one year under the following terms: the licensee is not to sell beer and wine for [a] three month period . . . [t]he remaining nine months of the sanction will be suspended.” Apparently unimpressed, the board voted unanimously to reaffirm its prior decision. Calcia then reappealed to the commission pursuant to paragraph six of G. L. c. 138, § 67. After hearing, the commission remained convinced that the penalty was “too harsh,” and ordered that the board’s sanction be vacated and that the commission’s earlier recommendation be substituted. The board sought judicial review (see G. L. c. 30A, § 14), one of its allegations being that the commission had acted beyond its statutory authority. The Superior Court denied the board’s motion for summary judgment and dismissed the action on motion of the commission. The board appeals. We reverse.
+1. General Laws c. 138, § 67, first par., which applies to initial appeals, states, “[A]ny person who is aggrieved by the action of [local licensing] authorities in modifying, suspending, cancelling, revoking or declaring forfeited [a license] may appeal therefrom to the commission” (emphasis added). In contrast, § 67, sixth par., which provides for a second appeal (reappeal) to the commission, states “any licensee who is aggrieved by the action of the local licensing authorities modifying, cancelling, revoking or declaring forfeited a license . . . may . . . again appeal to the commission.” The omission in the statute of a provision for reappeal after a suspension cannot be supplied by this court. “[I]f the omission was intentional, no court can supply it. If the omission was due to inadvertence, an attempt to supply it . . . would be tantamount to adding to a statute a meaning not intended by the Legislature.” Boylston Water Dist. v. Tahanto Reg. Sch. Dist., 353 Mass. 81, 84 (1967). Cole v. Brookline Housing Authy., 4 Mass. App. Ct. 705, 708 (1976). See also Largess v. Nore’s Inc., 341 Mass. 438, 442 (1960) (licensee aggrieved by local licensing authority’s refusal to transfer license could not reappeal under § 67). Our conclusion is bolstered by the legislative history, which discloses that, although the original 1955 bill, Senate No. 344, allowed reappeal from suspensions (see 1955 House Journal at 238), this was subsequently changed by dropping the word “suspending” from the bill as enacted (see St. 1955, c. 461).
+Austin T. Philbin, Town Counsel, for the plaintiff.
+John P. Graceffa, Assistant Attorney General, for the defendant.
+In the instant case, Calcia’s reappeal to the commission of a suspension was without statutory authority. Thus, the commission had no power to entertain the reappeal, let alone to vacate the board’s decision and substitute its own.
+2. In these circumstances we need not consider the argument advanced by the commission that the one year suspension here is (or whether a suspension of any other length might be) equivalent to a cancellation and therefore a subject of reappeal. That question was not raised during the administrative process, nor was it a basis for the commission’s decisions. See Norway Cafe, Inc. v. Alcoholic Bev. Control Commn., 7 Mass. App. Ct. 37, 39 (1979). Compare M.H. Gordon & Son v. Alcoholic Bev. Control Commn., 386 Mass. 64, 69 (1982) (commission preserved contention by making it clear it would not rule on the issue). Throughout the proceedings the commission treated the board’s action as a suspension. Indeed, the commission labeled its own recommendation a “one year suspension” with the last nine months “suspended.”
+The judgment is reversed. Judgment is to enter for the plaintiffs (a) declaring that the decision of the commission exceeded its authority under G. L. c. 138, § 67, (b) annulling the action of the commission, and (c) reinstating the suspension of the license of Calcia imposed by the board.
+So ordered.
+See G. L. c. 138, §§ 1 & 4.
+The board based its suspension on two violations of G. L. c. 138, § 15 (selling above posted price), and two violations of G. L. c. 138, § 33 (selling on Sunday). There was evidence before the commission that Calcia had a prior suspension of six days for violation of G. L. c. 138, § 34 (selling alcohol to a minor). The subsequent violations were exacerbated by the fact that they occurred the day after Calcia’s first suspension elapsed.
