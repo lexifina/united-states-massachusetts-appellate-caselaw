@@ -1,0 +1,33 @@
+---
+court: "Massachusetts Appellate Division"
+docket: "T. 14949"
+decided: "1968-05-01"
+citations: ["40 Mass. App. Dec. 89"]
+reporter: "mass-app-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["CHARLES P. SWEENEY, d/b/a CHARLES P. SWEENEY COMPANY v. THE NEW YORK CENTRAL RAILROAD"]
+source_url: "https://static.case.law/mass-app-dec/40/cases/0089-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4334769
+---
+
+# Sweeney v. New York Central Railroad
+
+## Majority (Riley, J.)
+
+Riley, J.
+This is an action of contract or tort brought by the plaintiff seeking the recovery of damages from the defendant for the loss and damage due to delay, market loss and the condition of a consignment of lettuce from Blythe, California, to Boston, Massachusetts, allegedly on a uniform bill of lading wherein the New York Central was named as terminal carrier.
+The action being under the so-called Car-mack amendment, permits suit being brought against the terminal carrier.
+The defendant answered by way of general denial and that compliance had been made with all provisions of the Uniform Bill of Lading.
+The case was submitted to the trial judge upon the following Agreed Statement of Facts:
+“This is an action of contract to recover damages to a shipment of lettuce which originated at Blythe, California. The Atchison, Topeka and Santa Fe Railway Company on December 20, 1962, issued a uniform straight bill of lading for the shipment which was consigned to Charles Sweeney Co., Boston, Massachusetts. The route specified on the bill of lading was Santa Fe, New York Central, Boston and Albany. The shipment consisted of 960 cartons of lettuce and was carried in car having the initials SFRC 1684. The bill of lading was stamped shippers load and count. The shipment arrived at Kneeland Street, Boston at 3:55 A.M. and was placed at 5:10 A.M. on December 27, 1962. The tracks at Kneeland Street are owned and operated by the New York Central Railroad Company.
+“The consignee, Charles Sweeney Company, entered the car at Kneeland Street and sold from the car 125 cartons at prices ranging from $4.50 to $4.25 per carton. At 11:35 A.M., the consignee, Charles Sweeney Company, gave oral orders to the New York Central yard office at Beacon Park that it wanted the shipment re-consigned to the Boston Market Terminal on Fargo Street, Boston. The Boston Market Terminal is on the property and tracks of the New York, New Haven and Hartford Railroad, and The New York Central Railroad Company does not own or operate any physical connection between Kneeland Street Yard and Fargo Street. The New York Central switched the car from Kneeland Street at some time after 11:35 A.M. and placed the car on the track used to interchange cars with the New Haven Railroad in the vicinity of the South Station, which is approximately one mile from the Fargo Street tracks of the New Haven. The consignee paid transportation charges for the shipment from Blythe, California to Kneeland Street, Boston; and in addition thereto paid a switching charge covering the movement of the car from Kneeland Street to Fargo Street. Both payments were made to the Hew York, Hew Haven and Hartford Bail-road. "Under the interchange arrangement between the Hew York Central Railroad Company and the Hew Haven Railroad, the Hew Haven accepts cars for interchange from the Hew York Central Railroad. Company with a cut-off time of 1:30 A.M. on a regular basis, and on occasion receives such cars for interchange at varying times during the day. The Hew York Central'Railroad delivered this car to the Hew Haven Railroad at 7:35 P.M. on December 27, 1962, and under ordinary and usual conditions this car would have been placed and made available to the plaintiff prior to 5:00 A.M. on December 28, 1962.
+“The car was spotted at the Boston Market Terminal and made available to the consignee at 7:05 A.M. on December 28, 1962. The market terminal is open between 5:00 A.M. to 3:00 P.M., with most of the selling being, done between the hours of 5 :00 A.M. and 7:00 A.M.
+“The market for lettuce on the 28th was $5.00 per carton. The market' was closed on Saturday the 29th, Sunday the 30th, Monday the 31st, and the holiday, January 1st. The consignee on January 2nd received prices ranging from $1.00 to $3.00 per carton. The loss on the sales of this car was $1,917.50. The claim was duly filed with the New Haven Railroad, and when the claim was declined, this suit was instituted seasonably.”
+The bill of lading named the plaintiff as consignee and the destination Boston, Massachusetts, and specified the route as Santa Fe, New York Central, and Boston & Albany (which on the date in question had become the New York Central). It was issued on December 20, 1962 and the shipment arrived in Boston on December 27, 1962 at 3:55 a.m. and was placed at Kneeland St. at 5:10 a.m., which location is on the trackage of the New York Central. The plaintiff unloaded 125 cartons from the car and sold them then and there. Later, at 11:35 a.m. on the same day, the plaintiff decided he wanted the car with the balance of his consignment moved to the Boston Market Terminal which was located on another railroad, to wit: the New Haven Railroad. It was on this last movement that the plaintiff claimed his damage occurred.
+There is no further evidence of the contract made with the New Haven Railroad although it appears that the plaintiff made payment to the New Haven for all charges both under the Bill of Lading and the subsequent cartage to the Boston Market Terminal, notwithstanding the New Haven does not appear as a carrier in the Bill of Lading.
+Infelise & Strout for the plaintiff
+Richard J. Ferriter for the defendant
+The trial judge apparently found that the transportation under the Uniform Bill of Lading had come to an end when the last designated carrier, the New York Central, delivered the shipment to the plaintiff at the Kneeland St. location and the plaintiff took possession to the extent of unloading and selling some part of the shipment. There is nothing in the report as to the contract of cartage to the Boston Market Terminal; who made it; and of. what it consisted. There is not an iota of evidence of any negligence. There was no evidence of what would constitute reasonable dispatch either, or any evidence of just what this contract provided for or required.
+The trial judge having plainly determined that the shipment under the Uniform Bill of Lading had terminated at Kneeland St., had no evidence of this separate contract whatsoever. He accordingly found for the defendant. Report dismissed.
