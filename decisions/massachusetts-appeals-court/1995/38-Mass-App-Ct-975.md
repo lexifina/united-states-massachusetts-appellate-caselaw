@@ -1,0 +1,25 @@
+---
+court: "Massachusetts Appeals Court"
+docket: "94-P-1393"
+decided: "1995-06-14"
+citations: ["38 Mass. App. Ct. 975"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Holly Sheehan vs. El Johnan, Inc."]
+source_url: "https://static.case.law/mass-app-ct/38/cases/0975-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4021528
+cites_cases: ["1 Mass. App. Ct. 817", "11 Mass. App. Ct. 703", "325 Mass. 551", "334 Mass. 386", "340 Mass. 450", "405 Mass. 264", "411 Mass. 394"]
+---
+
+# Sheehan v. El Johnan, Inc.
+
+## Majority
+
+Holly Sheehan, an employee of the United States Postal Service, slipped and fell on ice in the parking area of the Framingham post office while on the way to work early on the morning of February 6, 1989. She was injured in the fall and brought an action against El Johnan, Inc., the owner of the real estate from whom the United States of America (predecessor to the United States Postal Service) had leased the post office property in 1967 for a term of thirty years, with eight five-year extension options. A judge of the Superior Court allowed a defense motion for summary judgment on the ground that, under the lease, as illuminated by the twenty-two year practice of the parties, El Johnan, Inc., the landlord, had no duty to keep the parking lot free of snow and ice. We affirm.
+The lease was of land containing 248,700 square feet and improvements on it “erected for exclusive use and occupancy for postal purposes.” In the context of a lease for commercial purposes, a landlord has a duty to keep the premises in safe condition, with attendant liability if he does not, only if (1) he has undertaken so to do under the terms of the lease or (2) the location of the defect that caused injury was in a common or other area appurtenant to the leased premises “over which the [landlord] had some control.” Chausse v. Coz, 405 Mass. 264, 266 (1989). Camerlin v. Marshall, 411 Mass. 394, 397 (1991). If a tenant, as is the case here with the postal service, occupies the entire premises — i.e., there are no areas used in common with other tenants — then the tenant is responsible for keeping the premises safe, absent a contractual undertaking to the contrary by the landlord. Nunan v. Dudley Properties, Inc., 325 Mass. 551, 553 (1950). Schallinger v. Great Atl. & Pac. Tea Co., 334 Mass. 386, 390-391 (1956). The lease of an appurtenant parking area for the exclusive use of the tenant who occupies the entire building served by that area carries with it responsibility for keeping such an area safe, unless the lease directs otherwise. Leonardo v. Great Atl. & Pac. Tea Co., 340 Mass. 450, 453-455 (1960). Control over the area where the injury occurred is the traditional analytical tool for determining whether landlord or tenant is liable for the hurt, but the more fundamental question is: does the defendant owe a duty of care to the plaintiff who is claiming injury and damages? Hopkins v. F.W. Woolworth Co., 11 Mass. App. Ct. 703, 705 (1981). That duty may fall on both landlord and tenant in cases where the landlord and tenant are aware of the unsafe condition and in a position to do something about it. Ibid.
+Daniel B. Shapiro for the plaintiff.
+John H. Goewey for the defendant.
+Here the postal service was the sole occupant of the leased premises and, on the basis of the authorities cited, would be liable for injuries resulting from defects in them unless the governing lease placed responsibility for keeping the premises safe on the landlord. The lease of June 23, 1967, is not a masterpiece of clarity on that score. Section 7(a) of the lease places upon the landlord the obligation to “maintain the demised premises ... in good repair and tenantable condition .. ..” Section 7(c) of the lease, however, makes the tenant responsible for, among other things, “custodial services.” Under § 10 the tenant reserves the right to place the premises “in a satisfactory condition for the purposes leased to the satisfaction of the Government” if the landlord does not discharge its obligation to do so. The removal of snow and ice and the turning on of the parking lot lights are custodial in nature. See Morris v. Boyd, 1 Mass. App. Ct. 817, 818 (1973). In the circumstances .of the uncertain lease, the motion judge looked to the practices of the parties, as to which she had received uncontroverted description in the summary judgment materials. Throughout the entire period of the lease, the tenant had turned the parking lot lights on and off and had removed snow and ice, as well as performing routine daily maintenance. The judge rightly concluded that the landlord, which, indeed, was located in Brooklyn, New York, had not contracted to perform those chores and did not purport to control in any fashion the demised premises. There was no opportunity for the defendant to notice the hazard and to take steps to eliminate it. See Hopkins v. F. W. Woolworth Co., supra. Accordingly, the landlord owed no duty to the plaintiff.
+Judgment affirmed.
