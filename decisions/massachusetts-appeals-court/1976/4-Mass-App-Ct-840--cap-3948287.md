@@ -1,0 +1,21 @@
+---
+court: "Massachusetts Appeals Court"
+decided: "1976-10-05"
+citations: ["4 Mass. App. Ct. 840"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Joseph P. Carpinteri vs. Memorial Parkway Development, Inc. & another."]
+source_url: "https://static.case.law/mass-app-ct/4/cases/0840-02.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3948287
+cites_cases: ["222 Mass. 192", "3 Mass. App. Ct. 757", "3 Mass. App. Ct. 776", "320 Mass. 454", "331 Mass. 407", "343 Mass. 108", "343 Mass. 635", "367 Mass. 921"]
+---
+
+# Carpinteri v. Memorial Parkway Development, Inc.
+
+## Majority
+
+1. The challenges of the defendants to the trial judge’s rulings numbered 4, 4A and 5 are wide of the mark. Contrary to the defendants’ argument, the judge did not rule that the items listed in those rulings were beyond the scope of a certain clause in a mortgage of the premises held and foreclosed by Memorial Parkway Development, Inc. (Memorial). That clause extended the coverage of the mortgage to “all structures, fixtures and appliances now or hereafter” on the premises “insofar as the same are, or can by agreement of the parties be made, a part of the realty” (emphasis supplied). The judge’s ruling was that by operation of G. L. c. 106, § 9-313(2), Carpinteras security interest in those items took priority over any such interest conferred by that clause in Memorial’s mortgage. A ruling by the judge on the scope of that clause thus became unnecessary. Also wide of the mark are other contentions of the defendants with respect to those rulings including their attempt to show that the items listed in the rulings were on the premises before the security interest of Carpinteras assignor attached. The issue is whether the judge’s implied finding and ruling that the items had not become fixtures at that time were erroneous. Apart from a few conclusory references to some of the items as “fixtures,” the defendants’ brief fails to address itself to the question whether any of the items ever qualified as such by meeting the standards established under our cases (see Bay State York Co. v. Marvix, Inc. 331 Mass. 407, 411 [1954], and cases cited) and incorporated by reference in G. L. c. 106, § 9-313(1). Not having been argued within the meaning of Mass.R.A.P. 16(a)(4), as amended, 367 Mass. 921 (1975), the question need not be decided. See Slater v. Easter, 3 Mass. App. Ct. 757 (1975), and cases cited. We note in passing however that most of the items in controversy appear to be “articles which are manifestly furniture as distinguished from improvements.” Stone v. Livingston, 222 Mass. 192, 195 (1915), and cases cited. 2. Were we persuaded, and we are not, that there was merit in the defendants’ assertions of error in the judge’s finding and ruling concerning the $10,000 paid by Siegel to Carpinteri, we discern no prejudice to the defendants by that portion of the judgment which ordered that the amounts due Carpinteri be reduced by the amount of that payment with interest. Cf. Bates Block Associates, Inc. v. Milady’s Shop, Inc. 3 Mass. App. Ct. 776, 777 (1975). 3. Nor were the defendants prejudiced by that part of the judgment bearing on those items removed from the premises by Carpinteri in 1971 as the security interest of his assignor in those items took priority over that of Memorial. Although Carpinteri had no right to remove them at the time, he acquired that right when he took the assignment in 1972. See G. L. c. 106, §9-313(5). 4. The first of the defendants’ assertions in regard to evidentiary rulings is without merit. The question put to Siegel and excluded by the judge plainly called for a conclusion of law. S.D. Shaw & Sons, Inc. v. Joseph Rugo, Inc. 343 Mass. 635, 639 (1962), and cases cited. Since it was not contended that exhibit 17 was inadmissible for the limited purpose for which it was received in evidence, the defendants’ general objection and exception to its admission need not be considered. See Irving v. Goodimate Co. 320 Mass. 454, 460 (1946); Costonis v. Medford Housing Authy. 343 Mass. 108, 116 (1961).
+Morris Michelson for the defendants.
+Judgment affirmed.
