@@ -1,0 +1,24 @@
+---
+court: "Massachusetts Appeals Court"
+decided: "1973-01-15"
+citations: ["1 Mass. App. Ct. 35"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Massachusetts Casualty Insurance Company vs. Chester Landy."]
+source_url: "https://static.case.law/mass-app-ct/1/cases/0035-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3939966
+cites_cases: ["313 Mass. 722", "315 Mass. 176", "319 Mass. 560", "322 Mass. 36", "326 Mass. 621", "330 Mass. 368", "330 Mass. 710", "331 Mass. 244"]
+---
+
+# Massachusetts Casualty Insurance v. Landy
+
+## Majority (Hale, C.J.)
+
+Hale, C.J.
+The plaintiff, a company engaged in the business of writing health and accident insurance, brought this bill in equity on October 14,1971, to have two disability income policies issued by it to the defendant adjudged void and of no effect and, further, to have the court order the defendant to surrender and deliver up the policies for cancellation. The defendant filed an answer and counterclaim, in which he requested among other things that the insurance policies be declared valid and in force and that the plaintiff be ordered to pay the defendant all sums found due thereunder. After the defendant filed two notices to admit facts, both answered by the plaintiff, the defendant filed a “Motion for Partial Judgment on Undisputed Facts” moving that the first of the policies be declared valid and in force and that the plaintiff be ordered to pay all sums found due thereunder. This was accompanied by an affidavit alleging that no genuine issue of material fact existed with respect to that policy. The plaintiff filed a counter affidavit. The defendant’s motion was allowed by the Superior Court and, upon a further motion, a so-called “final decree” was entered declaring this particular policy to be valid and in force and ordering the plaintiff to pay all sums found due under it.
+The plaintiff seasonably appealed from this decree.
+The decree leaves undecided the question of the validity of the second policy of insurance as well as many of the questions raised by the defendant’s counterclaim including the amount, if any, due the defendant under the first policy. Clearly these questions are interrelated. A decree which leaves such matters open for decision cannot be considered a final decree. Vincent v. Plecker, 319 Mass. 560, 564. New England Factors, Inc. v. Genstil, 322 Mass. 36, 45. Enterprise, Inc. v. Cardinale, 331 Mass. 244, 246. A final decree is a definitive determination of the rights and liabilities of the parties with respect to the controversies presented by the pleadings. It exhausts the power of the court over the merits of the controversy. Lowell Bar Assn. v. Loeb, 315 Mass. 176, 188. We consider this decree to be interlocutory rather than final. An appeal from an interlocutory decree lies dormant until brought to this court with an appeal from the final decree and cannot be brought here by itself. Lowell Bar Association v. Loeb, 315 Mass. 176, 187-188. Vincent v. Plecker, 319 Mass. 560, 562-563. Lynde v. Vose, 326 Mass. 621, 622. Prior to final decree, this court may review an interlocutory decree only when it is reported by the trial judge under G. L. c. 214, § 30. Rines v. Justices of the Superior Court, 330 Mass. 368, 373. Beane v. Bergstrom, 330 Mass. 710. This appeal must, therefore, be dismissed as prematurely entered.
+Another question of practice should be resolved before this case is tried. That is as to whether the decree before us could properly have been entered as an interlocutory decree upon a motion filed pursuant to G. L. c. 231, § 59, as most recently amended by St. 1965, c. 491, § 1. Although this question is not before us, we feel it appropriate to state our views. Wellesley College v. Attorney General, 313 Mass. 722, 731. Prior to being amended in 1965, § 59 provided that in certain actions of contract a party who filed an affidavit that in his belief there was no genuine issue of material fact “but only questions of law in connection with all or some part of the action” (emphasis supplied) could move for an immediate entry of judgment against the other party which, if entered, could be followed by an assessment of damages. That practice still obtains on the law side of the court. Statute 1965 c. 491, § 1, amended § 59 by providing for the entry of a “final decree” on motion in certain equity matters involving rights under written contracts where no genuine issue of material fact exists. The amendment makes no provision for a decree which purports to determine one or more, but less than all, of the issues raised by the pleadings. As so amended § 59 makes provision only for a traditional final decree of the sort we have discussed above. It necessarily follows that the interlocutory decree entered in this case must be vacated.
+Appeal dismissed.
