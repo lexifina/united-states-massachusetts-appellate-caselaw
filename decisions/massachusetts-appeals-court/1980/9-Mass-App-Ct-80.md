@@ -1,0 +1,26 @@
+---
+court: "Massachusetts Appeals Court"
+decided: "1980-01-22"
+citations: ["9 Mass. App. Ct. 80"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Mary F. Chevalier vs. William J. Chevalier."]
+source_url: "https://static.case.law/mass-app-ct/9/cases/0080-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3962214
+cites_cases: ["1 Mass. App. Ct. 292", "1 Mass. App. Ct. 809", "296 Mass. 271", "319 Mass. 568", "324 Mass. 340", "331 Mass. 455", "348 Mass. 209", "359 Mass. 356", "360 Mass. 730", "404 U.S. 854", "8 Mass. App. Ct. 806"]
+---
+
+# Chevalier v. Chevalier
+
+## Majority (Hale, C.J.)
+
+Hale, C.J.
+The plaintiff appeals from a judgment dismissing her petition for an execution for sums claimed to be due under a decree for separate support, as amended on May 13, 1963. The evidence is reported, but a request for a report of material facts was untimely filed (Mass.R.Dom. Rel.P. 52[a] [1975]), and the judge did not make a report voluntarily. “ [T]he decision of the judge must be affirmed if it can be supported on any legal principle and was not, in our view of the evidence, [clearly erroneous]. ” Sletterink v. Rooney, 1 Mass. App. Ct. 809 (1973), quoting from Du-chesneau v. Jaskoviak, 360 Mass. 730, 732 (1972).
+The only defense to the petition was that the defendant had obtained a divorce decree in the State of Nevada on December 15, 1964. See Rosa v. Rosa, 296 Mass. 271, 272 (1936); Ingersoll v. Ingersoll, 348 Mass. 209, 210-211 (1964); Madden v. Madden, 359 Mass. 356, 365, cert, denied, 404 U.S. 854 (1971). The sole question before the judge was whether the defendant had acquired a domicil in the State of Nevada. As domicil is a question of fact, we summarize all of the evidence before the judge pertinent to this question.
+On June 3, 1964, the defendant filed a petition in the Norfolk County Probate Court seeking modification of the support order, as amended on May 13, 1963, identifying himself as “William J. Chevalier of (Brighton) Boston.” That petition was dismissed after a hearing on September 30, 1964. A certified copy of the docket of the Second Judicial District Court, in and for the county of Washoe, State of Nevada, shows that on November 18, 1964, the defendant filed a complaint for divorce from the plaintiff. A summons was issued on that day and was returned on November 30, 1964. Although the plaintiff was notified of the Nevada proceedings, she did not appear or otherwise participate in the case. The plaintiff was defaulted, and a decree purporting to grant the defendant a divorce was entered on December 15, 1964. In his answers to some of the interrogatories propounded to him the defendant stated that he had left Massachusetts in the latter part of September, 1964, had gone to Reno, and had there filed a complaint for divorce against the plaintiff. He rented a room where he resided during his entire stay in Reno. He could not remember the address. His memory was that he arrived in Reno on October 2, 1964. On December 14, 1964, one Barbara Greenough, whom the defendant had met in 1963 in Boston, arrived in Reno. She and the defendant left Reno on December 15, the very date of the decree of divorce. (It was stipulated that they were married in Carson City, Nevada, on December 15.) The defendant then went to Iraan, Texas, where he remained for seven weeks, after which he returned to Massachusetts. He lived in Framingham until August, 1965, when he moved to Florida. He has resided there since.
+The only evidence offered by the defendant and admitted by the judge was a part of an answer to an interrogatory which had not been read into the record by the plaintiff, and that answer showed why an attempt to find the specific address of the rooming house where the defendant had resided in Reno had failed. (His lawyer there had retired, and his records had been destroyed.) The defendant sought to introduce another of his answers, but only a part of it was admitted (“I left Nevada and went to Iraan, Texas . . .”).
+We are of the opinion that a finding that the defendant was domiciled in Nevada could not properly have been made under any view of this evidence, together with any reasonable inference that could be drawn from it. The judge’s implicit finding that the defendant had acquired a Nevada domicil was clearly erroneous. See Rubinstein v. Rubinstein, 319 Mass. 568, 570-575 (1946); Rubinstein v. Rubinstein, 324 Mass. 340, 341-343 (1949); Barnard v. Barnard, 331 Mass. 455, 456-457 (1954); Thomas v. Thomas, 1 Mass. App. Ct. 292, 294-295 (1973). Contrast Chiminiello v. Chiminiello, 8 Mass. App. Ct. 806, 807 (1979). The Nevada court lacked jurisdiction to grant the defendant a divorce, and the divorce is a nullity. See Rubinstein v. Rubinstein, 319 Mass, at 575; Thomas v. Thomas, 1 Mass. App. Ct. at 295. It was therefore error to dismiss the petition for an execution.
+The judgment is reversed, and the case is remanded to the Probate Court for the determination of the amount due under the support order, as amended on May 13, 1963, for the entry of judgment in that amount, and for the issuance of an execution for that amount.
+So ordered.
