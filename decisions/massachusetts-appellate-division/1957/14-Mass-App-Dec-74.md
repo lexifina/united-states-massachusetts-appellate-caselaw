@@ -1,0 +1,44 @@
+---
+court: "Massachusetts Appellate Division"
+docket: "5023"
+decided: "1957-07-02"
+citations: ["14 Mass. App. Dec. 74"]
+reporter: "mass-app-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Present: Gadsby, P. J., Brooks and Connelly, JJ."]
+parties: ["FLORENCE GILLIS v. ALDEN’S INC."]
+source_url: "https://static.case.law/mass-app-dec/14/cases/0074-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6063734
+cites_cases: ["197 Mass. 490", "275 Mass. 469", "280 Mass. 73", "286 Mass. 7", "293 Mass. 232", "294 Mass. 86", "295 Mass. 117", "328 Mass. 258", "332 Mass. 560"]
+---
+
+# Gillis v. Alden's Inc.
+
+## Majority (Connelly, /.)
+
+Connelly, /.
+The plaintiff in this action of tort-seeks to recover damages for personal injuries alleged to have been sustained when she was caused to fall upon the floor of premises maintained by the defendant by reason of the presence of foreign substances negligently suffered or allowed to accumulate upon the floor. The answer is a general denial and contributory negligence.
+There was evidence tending to show: "that the defendant was in control of the store premises located at 774 Dudley Street, Dorchester, on December 12, 1952, that the plaintiff was a business invitee of the defendant in said store on said date; that the floor of said store was covered with linoleum; that Dec. 12, 1952, was a very rainy day; that the store opened at 9:00 A. M.; that customers brought in mud and water on their feet and umbrellas during the morning; that by about 10:00 A. M. there was such mud and water on various places on the floor all over the store; that there were ten or twelve employees on duty in the store during the morning, one of whom was the store manager; that two former employees of the defendant, who were on duty that morning, had noticed no employees cleaning or mopping the floor between nine o’clock and noon that morning; that the plaintiff entered the store at about 11:00 A. M.; that at that time the floor was wet in front of the door extending for a distance of about five or six feet back from the door; that she was in the store about twenty minutes; that on her way toward the door she stopped to look at something on display racks; that as she did so, she went down quickly; that she slipped on something; that her ankle twisted; that when she was assisted to her feet, her coat was wet, and it was wet at the spot where she fell; that the spot was about ten or twelve feet from the entrance; that as the plaintiff was being assisted to her feet, the heel of one of her feet was in a puddle of water about four to six inches in diameter; and that the water was milky in color.”
+At the close of the trial and before the final arguments the plaintiff made the following requests for rulings:
+1. There is evidence to warrant a finding that the plaintiff was injured by the negligence of the defendant, its agents or servants while she was in the exercise of due care.
+2. There is evidence to warrant a finding that the plaintiff’s injuries were the result of a slippery substance on the floor of the defendant’s store on which she slipped and fell and which the defendant, its agents or servants had knowledge of for a sufficient period of time so that, in the exercise of due care, it should have been removed prior to the plaintiff’s fall.
+3. There is evidence to warrant a finding that the defendant, its agents or servants should have known about the existence of a foreign or slippery substance on the floor of its store and, in the exercise of due care, to remove it prior to the time the plaintiff was caused to slip and fall.
+5. There is evidence to warrant a finding that the injuries sustained by the plaintiff were the direct and proximate result of the defendant’s negligence.
+6. There is evidence to warrant a finding that at the time the plaintiff was injured she was a business invitee of the defendant.
+7. There is no evidence of contributory negligence.
+At the close of the trial and before the final arguments the defendant made the following requests for rulings:
+1. There is no evidence to warrant a finding that the plaintiff sustained her injuries as a direct and proximate consequence of negligence on the part of the defendant.
+2. There is no evidence to warrant a finding that the condition of the floor of the defendant’s store which caused the plaintiff to fall was brought about as a direct and proximate consequence of negligence on the part of the defendant.
+3. There is no evidence to warrant a finding that the condition of the floor of the defendant’s store which caused the plaintiff to fall had existed for a sufficient length of time prior to her fall that the defendant in the exercise of ordinary care should have discovered and remedied it.
+The Court allowed the plaintiff’s requests for rulings numbered 1, 2, 3, 5, 6 and 7 set forth above, and refused the defendant’s requests for rulings numbered 1, 2 and 3 set forth above and found for the plaintiff.
+The defendant, claiming to be aggrieved by the allowance of the plaintiff’s requests for rulings numbered 1, 2, 3, 5 and 7, and by the refusal of the defendant’s requests for rulings numbered 1, 2 and 3, the trial judge reported the same to the Appellate Division for determination.
+The trial judge made no special findings of fact and the question to be decided is whether the evidence reported justifies his rulings, having in mind that he could draw all rational inferences permissible on the evidence to support his finding. Povey v. Colonial Beacon Oil Co., 294 Mass. 86.
+To put it generally, the defendant in this case owed the customer-plaintiff the duty to use reasonable care to keep the premises in a safe condition for the plaintiff’s use and, if a dangerous condition arose, he could be found negligent in not discovering it in a reasonable time and removing it.
+From the evidence, it could have been found that the day of the accident was a very rainy day; that the store opened at 9:00 A. M. and customers brought in mud and water on their feet and umbrellas; that the floor of the store was covered by linoleum; that by about 10:00 A. M. there was mud and water on various places on the floor all over the store; that ten or twelve employees of the defendant, including the store manager, were on duty in the store during the morning; that no employees were observed cleaning or mopping the floor between 9:00 A. M. and noon; that the plaintiff entered the store at about 11:00 A. M. and at that time the floor was wet in front of the door extending back for five or six feet; that the plaintiff was in the store about twenty minutes and on her way to the door she stopped to look at something and as she did so she slipped on something, her ankle twisted and she went down quickly; that as she was assisted to her feet her coat was wet and it was wet at the spot where she fell; that the spot was about ten or twelve feet from the entrance and as she got to her feet the heel of one of her shoes was in a puddle of water about four to six inches in diameter and that the water was milky in color. These facts warranted the inference that a condition dangerous to customers was created and that it existed long enough to have been discovered and removed before the accident and the defendant was negligent in not doing so. The case at bar comes within the class of decisions in Foley v. F. W. Woolworth Co., 293 Mass. 232, and cases cited therein; MacLaren v. Boston El. Ry., 197 Mass. 490; Hudson v. F. W. Woolworth Co., 275 Mass. 469; White, Admr. v. Mugar, 280 Mass. 73, Fournier v. N. Y., N. H. & H. RR., 286 Mass. 7; Jennings v. First Nat. Stores, Inc., 295 Mass. 117, LaJeunesse v. Tichons Fish & Fillet Corp., 328 Mass. 258, Gallagher v. Stop & Shop, Inc., 332 Mass. 560.
+The evidence did not warrant a finding of contributory negligence.
+It should be noted that the case at bar may be distinguished from the case of Fortuna v. H. L. Green & Co., Inc., 9 Legalite 82 (1958), in which this Appellate Division recently filed its opinion and ordered judgment for the defendant. In the Porttina case there was no evidence directly bearing on defendant’s negligence or on the length of time the wet condition had existed, while in this case there was evidence that while there were ten or more employees on duty during the morning there was no effort made to mop up the moisture. Therefore, it was within the province of the Court to find the defendant negligent.
+John R. Riordan, for the Plaintiff.
+Brickley, Sears & Cole, for the Defendant.
+As there was no prejudicial error in the allowance of the plaintff’s requests for rulings numbered 1, 2, 3, 5 and 7, and the denial of defendant’s requests for rulings numbered x, 2 and 3, the Report is to be Dismissed.
