@@ -1,0 +1,35 @@
+---
+court: "Massachusetts Appeals Court"
+docket: "98-P-1433"
+decided: "1999-09-17"
+citations: ["47 Mass. App. Ct. 756"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ernest Benson’s (dependent’s) Case."]
+source_url: "https://static.case.law/mass-app-ct/47/cases/0756-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 480225
+cites_cases: ["219 Mass. 420", "318 Mass. 741", "424 Mass. 16", "425 Mass. 70"]
+---
+
+# Benson's Case
+
+## Majority (Smith, J.)
+
+Smith, J.
+On December 19, 1978, the employee, Ernest Benson, sustained an injury to his neck while acting within the course of his employment as a truck driver for Merrimack Valley Distribution. As a result of that injury, the employee underwent surgery for a herniated cervical disc in November, 1979. After the operation, he developed chest pains and was diagnosed as having suffered a heart attack. The insurer, American Mutual Liability; contested liability for any disability resulting from the heart attack.
+On June 18, 1985, after a hearing, an administrative judge ruled that the heart attack was related to the cervical surgery and therefore any disability resulting from the heart attack was compensable. The employee collected temporary total disability benefits under G. L. c. 152, § 34, until they were exhausted, and then began collecting permanent disability benefits pursuant to G. L. c. 152, § 34A. On February 27, 1995, the employee died as a result of another myocardial infarction.
+The employee’s widow, Elizabeth Benson (claimant), sought widow’s benefits pursuant to G. L. c. 152, § 31, claiming that the employee’s death was related to his December 19, 1978, industrial accident. At the conference concerning her claim held pursuant to G. L. c. 152, § 10A, the parties disagreed as to whether an impartial medical examiner should be appointed in the event that either party appealed from the conference order. The claimant maintained that 452 Code Mass. Regs. § 1.10(5) (1993) did not allow the appointment of an impartial medical examiner in death payment cases. The insurer disagreed and claimed that because the matter involved a dispute over a medical issue, the appointment of an impartial medical examiner was dictated by G. L. c. 152, § 11A.
+The administrative judge ordered the insurer to pay G. L. c. 152, § 31, benefits to the claimant and the insurer appealed. G. L. c. 152, § 10A(3). Subsequently, an impartial medical examiner was appointed to conduct a “record review,” pursuant to G. L. c. 152, § 11A(2).
+At the hearing held pursuant to G. L. c. 152, § 11, the administrative judge, over the claimant’s objections, admitted the record review of the impartial medical examiner, adopted the opinions in the report as prima facie evidence, and denied the claimant her widow’s benefits. He found that the employee’s fatal heart attack in February, 1995, was not causally related to the employee’s December 19, 1978, industrial accident. The claimant appealed to the reviewing board which summarily affirmed the administrative judge’s decision.
+The claimant has appealed. She contends that the administrative judge committed error in ordering an impartial medical examiner to make a review of the employee’s medical records. In view of our decision on this issue we do not reach the claimant’s additional arguments.
+In concluding that the appointment of an impartial medical examiner is required in widow’s claims under G. L. c. 152, § 31, the administrative judge ruled that 452 Code Mass. Regs. § 1.10(5) (supra at note 1) conflicted with G. L. c. 152, § 11A(2), and therefore the statute prevailed. Pinecrest Village, Inc. v. MacMillan, 425 Mass. 70, 73 (1997) (“to the extent that there is a conflict, the statute must prevail over the administrative regulation”). However, we disagree with the administrative judge’s interpretation of G. L. c. 152, § 11A(2), and hold that there is no conflict because the statute does not require the appointment of an independent medical examiner in matters similar to those at issue here.
+General Laws c. 152, § 11A(2), as inserted by St. 1991, c. 398, § 30, states in relevant part:
+“When any claim or complaint involving a dispute over medical issues is the subject of an appeal of a conference order pursuant to section ten A, the parties shall agree upon an impartial medical examiner from the roster to examine the employee and submit such choice to the administrative judge assigned to the case within ten calendar days of filing the appeal, or said administrative judge shall appoint such examiner from the roster. . . . The impartial medical examiner, so agreed upon or appointed, shall examine the employee and make a report at least one week prior to the beginning of the hearing, which shall be sent to each party.” (Emphasis supplied.)
+“[I]n construing a statute, its words must be given their plain and ordinary meaning according to the approved usage of language.” Johnson’s Case, 318 Mass. 741, 747 (1945). Here, the statute states that where an aggrieved party’s claim involves a disputed medical question, the impartial medical examiner’s role is to examine the employee in order to “evaluate [his] condition and set forth his or her findings in a report.” O’Brien’s Case, 424 Mass. 16, 21 (1996). The statute is silent as to the role of the impartial medical examiner where the employee is not available to be examined because of death. We cannot add words to a statute that the Legislature “did not see fit to put there.” King v. Viscoloid Co., 219 Mass. 420, 425 (1914).
+The administrative judge further ruled that even if 452 Code Mass. Regs. § 1.10(5) were read so that it did not conflict with G. L. c. 152, § 11A(2), he still had discretion to order an impartial medical examination in the form of a record review. We disagree with the administrative judge’s interpretation of the statute. General Laws c. 152, § 11A(2), speaks only of conducting an examination, and we hold that the administrative judge had no discretion to order a record review in these circumstances.
+Because the administrative judge had no authority to order the appointment of an impartial medical examiner, the impartial medical examiner’s report should be struck from the record. The decision of the reviewing board is reversed, and the matter is remanded to the Department of Industrial Accidents for a hearing de novo pursuant to G. L. c. 152, § 11, during which the parties should be allowed to introduce their own medical evidence in support of their respective claims.
+So ordered.
+Title 452 Code Mass. Regs. § 1.10(5) states in relevant part: “No impartial physician shall be required in disputed matters concerning [G. L. c. 152,] § 31 (death of employee).”
+The phrase “impartial medical examiner” appears in G. L. c. 152, § 11 A, while 452 Code Mass. Regs. § 1.10(5) (1993) employs the phrase “impartial physician.” The difference between “medical examiner” and “physician” is immaterial for purposes of this discussion.
