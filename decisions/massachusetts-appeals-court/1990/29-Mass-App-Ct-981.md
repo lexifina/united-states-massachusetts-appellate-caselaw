@@ -1,0 +1,29 @@
+---
+court: "Massachusetts Appeals Court"
+docket: "90-P-56"
+decided: "1990-11-08"
+citations: ["29 Mass. App. Ct. 981"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Custody of Quincy."]
+source_url: "https://static.case.law/mass-app-ct/29/cases/0981-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4002174
+cites_cases: ["233 Mass. 543", "328 Mass. 391", "396 Mass. 156", "406 Mass. 21"]
+---
+
+# Custody of Quincy
+
+## Majority
+
+This is a care and protection case which was previously dismissed with the consent of all parties. One of the parties, the father of the child, filed a motion to vacate the dismissal almost a year later on the ground that at the time of the dismissal he resided in New Hampshire, not Massachusetts, and that Massachusetts should have made a referral to New Hampshire through the Interstate Compact on the Placement of Children to arrange for services and follow-up prior to the dismissal. The District Court denied the motion and the father has appealed. We dismiss for mootness. The father’s interest in pursuing the case has been satisfied. The remedies and services he desired are now being provided by the Department of Social Services and, because an Interstate Compact referral is customary in care and protection cases such as this, the issue is not likely to arise again.
+The basic facts are not in dispute. The child was the subject of a care and protection petition based on the mother’s conduct and that of her boyfriend. The father was not charged with any misconduct and apparently has behaved appropriately at all times. The child was placed a substantial distance from both parents; however, his father visited him faithfully each week. Finally, in August of 1988, the child was placed in his father’s temporary custody. At that time, the father resided in New Hampshire. No one disputes, indeed the department now concedes, that an Interstate Compact referral should then have been made by Massachusetts to New Hampshire. There is a question as to whether this fact was known, or shared, with the parties. However, no Interstate Compact referral was made. None of the parties suggested or even mentioned it at the time. Three months later, in October, 1988, while the father was still living in New Hampshire, the case was dismissed by agreement and consent of all parties, with the informal understanding that services would continue to be provided and paid for by Massachusetts. In February, 1989, the father was told by service providers that his son needed to be in treatment; in September of 1989 the child set a fire in the family home and was injured; in October of 1989, the father moved in a District Court that the dismissal be vacated and a referral be made through the Interstate Compact; and finally, in December of 1989, after being told by the New Hampshire Department of Social Services that they could not provide services unless they had legal custody of the child, the father reluctantly left his son in a hospital in New Hampshire (leading to a charge of abandonment against the father) in order to give New Hampshire a legal basis to take custody of his son.
+The father’s motion to vacate the dismissal sought assistance in obtaining services for his son, specifically an immediate exchange of information and records relating to the treatment that had been given to his son in Massachusetts; information regarding another sibling who was also in State custody so that visitation between the siblings could be arranged, if appropriate; information about the father’s participation and behavior; communication between the therapists in Massachusetts and New Hampshire; a treatment plan which addresses visitation between the two siblings; and information on the mother. We have been informed by the parties that each item of service, save the last, has now been provided. The department has indicated that within thirty days it will seek a release from the mother or, if refused, it will file a motion in the District Court to release the information to New Hampshire.
+Thus, we dismiss the appeal for mootness. See Metros v. Secretary of the Commonwealth, 396 Mass. 156, 159-160 (1985), and Cobb v. Cobb, 406 Mass. 21 (1989). The case no longer presents a live issue for adjudication. Sullivan v. Secretary of the Commonwealth, 233 Mass. 543, 546 (1919). Monteiro v. Selectmen of Falmouth, 328 Mass. 391, 392-393 (1952).
+In doing so, however, we wish to reaffirm that 1) it is a child’s right and a State’s obligation to see that every child who is the subject of a care and protection petition receives services and treatment pursuant to G. L. c. 119; 2) when a child who is the subject of an ongoing care and protection case is placed with the agreement and participation of Massachusetts in another State, the Interstate Compact should be followed to insure that services and treatment continue until they are determined to be no longer necessary; and 3) an Interstate Compact referral is the proper way to secure coordination of services between the two States.
+A final point, and of particular regret, is that the father was obliged to engage in a fabrication with the New Hampshire authorities by leaving the child at a hospital in order to obtain services in New Hampshire for his son. Had there been verification of residency by the department and an initial referral through the Interstate Compact, this unfortunate pretense and the undeserved stigma of being a neglectful parent could have been avoided.
+Appeal dismissed.
+David L. McLellan for the father.
+Lisa A. Levy, Assistant Attorney General, for Department of Social Services.
+See the Interstate Compact on the Placement of Children, St, 1963, c. 452, § 1.
