@@ -1,0 +1,25 @@
+---
+court: "Massachusetts Appeals Court"
+docket: "98-P-0251"
+decided: "1998-11-06"
+citations: ["45 Mass. App. Ct. 927"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Commonwealth vs. Edward Rotolo."]
+source_url: "https://static.case.law/mass-app-ct/45/cases/0927-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1707101
+cites_cases: ["16 Mass. App. Ct. 230", "366 Mass. 790", "367 Mass. 798", "378 Mass. 871", "378 Mass. 873", "385 Mass. 122"]
+---
+
+# Commonwealth v. Rotolo
+
+## Majority
+
+From witness descriptions of the large man who robbed a Lawrence bank on a Saturday morning in October, 1994, coupled with enhanced photos copied from those produced by the bank’s surveillance cameras, two police officers on routine patrol tentatively identified the defendant as the robber and detained him and shortly thereafter arrested him on outstanding warrants. He did not answer questions about the robbery, but, on being allowed to place a phone call, was overheard by an officer asking his father to remove clothing and other items from his room before police officers arrived with a search warrant. In this situation, one officer was dispatched to guard the defendant’s apartment house/rooming house to prevent removal while another quickly swore out an affidavit to obtain a search warrant. The defendant’s father arrived at the building but was not allowed to enter. When other officers arrived with the warrant, they entered the defendant’s room and removed items that, from witnesses’ descriptions, they hoped to find — a Los Angeles Raiders hat, a dark turtleneck sweater with writing on the collar, and light colored chinos. Unexpectedly, they also found several practice bank robbery notes similar to the one the robber had given to the bank teller.
+The case is here on the defendant’s appeal from his conviction of armed robbery. One point only is argued: that the search warrant was issued in the absence of a contemporary supporting affidavit. The defendant’s evidence for this is that the search warrant states that it issued at 2:00 p.m., while the affidavit shows a time of 2:20 p.m., referring to the time it was subscribed and sworn before the assistant clerk. The judge made no findings regarding the time discrepancy, presumably because it was not included in the defendant’s motion as one of the grounds for suppression. (The discrepancy was alluded to only in trial counsel’s argument at the close of the motion hearing, after the evidentiary portion of the hearing was concluded.) The omission is probably fatal to the appeal. Rules 13(a)(1) and (2) of the Rules of Criminal Procedure, 378 Mass. 871 (1979), require that all pretrial motions must be in writing “and shall include in separately numbered paragraphs all reasons, defenses, or objections then available, which shall be set forth with particularity.” Motions to suppress, in particular, if not “filed within seven days after the date set for the filing of the pre-trial conference report,” will be entertained only in the discretion of the court. Superior Court Rule 61 (1980). Mass.R.Crim.P. 13(d)(2)(A), 378 Mass. 873 (1979). Had he addressed the apparent discrepancy, the motion judge might well have found it was only a clerical error, as the warrant specifically referred to the attached affidavit.
+Ruth Greenberg for the defendant.
+Catherine Langevin Semel for the Commonwealth.
+In any event, the issue is unimportant because the search warrant, although obtained, was not necessary to validate the search. Compare Commonwealth v. Amaral, 16 Mass. App. Ct. 230, 234-235 & n.l (1983). The judge’s findings that the police had probable cause to believe that the defendant was the robber and that evidence of his guilt — e.g., the distinctive hat and turtleneck sweater — would be found in his residence are not challenged in this appeal. The circumstances became exigent upon the defendant’s telling his father to remove the evidence. The police officers were not required to speculate as to how such removal might be accomplished or by whom. The exigency created by the potential, imminent disappearance of evidence, is “a well-established exception to the warrant requirement." Commonwealth v. Huffman, 385 Mass. 122, 125 (1982), citing Commonwealth v. Forde, 367 Mass. 798, 800 (1975), and Commonwealth v. Hall, 366 Mass. 790, 801-802 (1975). The police were not limited in their response to posting an officer in the lobby of the apartment house/rooming house — a course that would have left open the possibility that the father was already inside removing evidence or had called someone inside the building to remove the evidence. That the father was ultimately intercepted in the lobby did not alter the fact that the police were at liberty from the time of overhearing the phone call to search the premises without a warrant. Compare Commonwealth v. Hall, 366 Mass. at 802 (no exigent circumstances where the police knew that no one was in the third-floor apartment).
+Judgment affirmed.
