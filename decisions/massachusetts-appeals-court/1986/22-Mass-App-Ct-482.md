@@ -1,0 +1,29 @@
+---
+court: "Massachusetts Appeals Court"
+decided: "1986-07-07"
+citations: ["22 Mass. App. Ct. 482"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Gordon Wheeler & another vs. Rent Control Board of Cambridge."]
+source_url: "https://static.case.law/mass-app-ct/22/cases/0482-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3989873
+cites_cases: ["19 Mass. App. Ct. 745", "21 Mass. App. Ct. 598", "21 Mass. App. Ct. 606"]
+---
+
+# Wheeler v. Rent Control Board
+
+## Majority (Smith, J.)
+
+Smith, J.
+This is an appeal by the rent control board of Cambridge (board) from a judgment entered in the Superior Court which determined that the plaintiffs’ residence is an owner-occupied three-family house which is exempt from St. 1976, c. 36, the Cambridge Rent Control Act (Act). The board argues that the property is a five-family dwelling and therefore is not exempt from rent control.
+The facts are not in dispute. Since at least 1973 the property has been registered with the board as containing five residential units, four of which were rented to tenants and one of which was owner-occupied. After the owner moved out, that apartment also became a rental unit. The plaintiffs purchased the property in 1981, aware that it was listed with the board as a five-family house. They occupied three of the five rental units as their living quarters and rented out the other two units. Because the building was being used as a three-family, rather than five-family house, the plaintiffs filed an affidavit of owner occupancy with the board and listed the property as a three-family dwelling, thereby claiming exemption from rent control. A hearing examiner, after conducting a hearing and investigation, recommended that the board find that thé property was a five-family house subject to rent control. The board adopted the findings and recommendation of the examiner. The plaintiffs appealed in accordance with St. 1976, c. 36, § 10. Subsequently, both a District Court judge and a Superior Court judge ruled that the property was a three-family house which was exempt from rent control. The board has appealed. We conclude that the board’s decision was legally justified and supported by the record before the board (n.5).
+It has been held under the Act that the word “family” has essentially the same meaning as “unit” and that “the Act exempts from rent control only owner-occupied houses in which there are two or three actual dwelling units irrespective of how many families may be living in the property.” Martin v. Rent Control Bd. of Cambridge, 19 Mass. App. Ct. 745, 747 (1985). In the instant matter, the plaintiffs admit that, at the time they purchased it, the property at issue was subject to the Act and historically had been rented as five rental units. The examiner’s finding, adopted by the board, that the plaintiffs, without structurally reorganizing or physically combining the units, occupy three of the five units is supported by the evidence. “Where the owner merely occupies, a unit or units, the total number of units remains the same and that number determines the applicability of the Act.” Anastasi v. Rent Control Bd. of Cambridge, 21 Mass. App. Ct. 606, 608 (1986). In these circumstances, although the plaintiff owners occupy three of the five units, the number of rental units remains the same, and the property is still subject to rent control. Therefore, the board’s decision is legally correct.
+The judgment is reversed. A new judgment is to be entered adjudging that the property at 29 Chauncy Street, Cambridge, is a dwelling that, absent removal permits, is subject to rent control under the Act.
+So ordered.
+Under the Act a “rental unit or units in an owner-occupied two-family or three-family house” are exempt from rent control. St. 1976, c. 36, § 3(b)(6).
+The plaintiffs incorporated two of the upstairs bedrooms and baths into their family living space, thus using the three units as one apartment having rooms on all three floors. These units share a common staircase located off the plaintiffs’ living room. To accomplish their purpose, the plaintiffs did not have to reorganize the space structurally or physically combine the units. The findings of the hearing examiner, approved by the board without any remand for additional findings, do not include any explicit determination that the building was originally constructed and adapted structurally for use as a three-family house.
+The hearing examiner also recommended that the board rule that occupancy of more than one unit by an owner or the owner’s family requires a removal permit. The board rejected that recommendation. That action of the board is not in issue here.
+Both the District Court and the Superior Court judges provided a de novo review on the matter. After their decisions, this court held in Amari v. Rent Control Bd. of Cambridge, 21 Mass. App. Ct. 598, 602 (1986), that de novo review is not available on appeal and that the role of the reviewing court is limited to deciding if the board’s decision was factually and legally justified.
+In Martin v. Rent Control Bd. of Cambridge, supra at 749 n.4, the court stated that the only way that owners such as the plaintiffs can remove their properties from the scope of the Act is by a mechanism provided by the Act. One example given by the court is that “the units may be changed structurally (such as the physical combining of units) which might lawfully transform what was a four-unit [or five-unit] building into a three-unit building.” However, a removal permit from the board must still be obtained before the property can become exempt from the Act. See Anastasi v. Rent Control Bd. of Cambridge, 21 Mass. App. Ct. 606, 608 (1986).
