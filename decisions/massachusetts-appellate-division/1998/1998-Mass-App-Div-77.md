@@ -1,0 +1,32 @@
+---
+court: "Massachusetts Appellate Division"
+decided: "1998-04-15"
+citations: ["1998 Mass. App. Div. 77"]
+reporter: "mass-app-div-annual"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Present: Gelinas, Merrigan & LoConto, JJ."]
+parties: ["Christina Balicki, and others vs. Stop & Shop Supermarket Company"]
+source_url: "https://static.case.law/mass-app-div-annual/1998/cases/0077-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 11790876
+cites_cases: ["1 Mass. App. Ct. 224", "1996 Mass. App. Div. 8", "208 Mass. 273", "258 Mass. 178", "293 Mass 232", "296 Mass. 489", "307 Mass. 592", "317 Mass. 225", "319 Mass 729", "322 Mass. 309", "330 Mass. 563", "331 Mass. 217", "332 Mass. 560", "333 Mass. 302", "337 Mass. 768", "343 Mass. 263", "363 Mass. 165", "371 Mass. 621"]
+---
+
+# Balicki v. Stop & Shop Supermarket Co.
+
+## Majority (Gelinas, J.)
+
+Gelinas, J.
+Christine Balicki and Peter Balicki (plaintiffs) were in Stop and Shop’s Springfield, Massachusetts store on December 19,1992. Christine Balicki alleges that she fell and injured herself.
+Neither Christina Balicki nor Peter Balicki saw any foreign matter on the floor prior to her fall.
+Plaintiff Peter Balicki described an unknown substance, viewed after the fall, in a variety of ways including “blackish,” “dirty,” with a “skid mark.” He did not describe its size or consistency.
+The defendant was in the process of cleaning the floor overall and in the produce area generally at the tíme of the incident, but had not reached the particular aisle where the fall occurred. There is no evidence of any employee being in the area of the defendant prior to the fall.
+The mere happening of an accident is not evidence of negligence. Wardell v. George H. Taylor, Co., 333 Mass. 302, 305 (1955).
+While the defendant owes a duty to its customers to keep the premises reasonably safe for their use, it is not an insurer. Where, without action for which the storekeeper is responsible, a dangerous condition arises, the law allows the storekeeper a reasonable opportunity to become informed of the danger and to take measures to remedy it. Ventor v. Marianne, Inc., 1 Mass. App. Ct. 224, 226 (1973). If the evidence does not go beyond mere conjecture there is no question for the fact-finder. Mucha v. Northeastern Crushed Stone Co., Inc., 307 Mass. 592, 595 (1940).
+A plaintiff fails to maintain the burden of proof if on all the evidence the question of the defendants negligence is left to conjecture, surmise or speculation. Morris v. Weene, 258 Mass. 178, 180 (1927). In this case the court found that the defendant neither caused the substance to be on the floor nor that the defendant had actual knowledge of the substance. In order for a plaintiff to prevail on the inference that a foreign substance remained on the floor for such a sufficient length of time that the defendant should have known of it and removed it, the plaintiff must establish the essential time element Ventor v. Marianne, Inc., 1 Mass. App. 224, 227 (1973); Leary v. Jordan Marsh Co., 322 Mass. 309 (1948); Oliveri v. Massachusetts Bay Transportation Authority, 363 Mass. 165, 170 (1973). This inference may be established as a showing, inter alia, that defendant’s employees were present in the area and saw or could have seen the substance on the floor. Kelleher v. Dini’s Inc., 331 Mass. 217 (1954); Oliveri v. Massachusetts Bay Transportation Authority, 363 Mass. 165, 168-169 (1973); Deagle v. Great Atlantic & Pacific Tea Co., 343 Mass. 263, 265-266 (1961); Newell v. William Filene’s Sons Co., 296 Mass. 489 (1937); Whynaught v. S.S. Kresqe Co., 319 Mass 729 (1946); Mandigo v. Hamid Amusement Co. Inc., 317 Mass. 225 (1944).
+Additionally, it is not enough for the plaintiffs to show that the foreign substance was squashed, crushed, or trampled upon. Newell v. William Filene’s Sons Co., 296 Mass. 489 (1937); Uchman v. Polish Nat. Home, Inc., 330 Mass. 563 (1954); Kelleher v. Dini’s Inc., 331 Mass. 217 (1954); Mandigo v. Hamid Amusement Co. Inc., 317 Mass. 225 (1944); Rioux v. McClellan Stores Co., 337 Mass. 768 (1958).
+The record in the instant case is devoid of evidence that employees saw or could have seen the spot on the floor where the substance was claimed to have been, or even that there were employees in the aisle where the plaintiff Christine Balicki fell at all. The only people in the immediate area, the plaintiffs, did not see it. Compare Wallace v. Bldg. 19, Inc., 1996 Mass. App. Div. 8, “where from the evidence presented as to the location within the store of the plaintiffs fall, the description of the object, the proximity to the checkout counter and exit, and reasonable inferences concerning traffic in the checkout area ...” an inference was permitted that the substance, although in itself unknown as to identity, origin and duration in location, had been on the floor long enough to be seen and removed by store personnel.
+The judgment was contrary to the evidence, and erroneous as a matter of law. See Alholm v. Town of Wareham, 371 Mass. 621 (1976).
+Accordingly the judgement of the trial court is reversed and the case is returned to the Ware District Court with instruction that the Clerk enter judgement for the defendant The Stop and Shop Supermarket Company on all counts.
+Cf. Gallagher v. Stop & Shop, Inc., 332 Mass. 560, 563 (1955) (the evidence showed that “there were three cashiers close by who, when they turned around to get shopping bags, as they frequently did, had a clear view of the floor...”); Foley v. F.W. Woolworth Co., 293 Mass 232, 233-234 (1936) (“[tjhere was uncontradicted testimony from both sides that... [there were] ten or more counters and waitresses in attendance; that there was no obstruction between where the waitresses were at the counters and the stairs [where plaintiff fell] ... an employee stationed about three or four yards from the foot of the stairway saw the plaintiff fall... the stairway was plainly visible from other counters which were attended by other employees and it could be seen readily and easily from each of them”; Anjou v. Boston Elevated Railway, 208 Mass. 273 (1911) (plaintiff “inquired of one of defendant’s uniformed employees the direction of another car. He walked along a narrow platform, and [plaintiff], following a few feet behind [the emploveel toward the stairway he had indicated, was injured by slipping on a banana peel”).
