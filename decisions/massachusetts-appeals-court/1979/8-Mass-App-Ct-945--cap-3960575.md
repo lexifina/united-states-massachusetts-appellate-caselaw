@@ -1,0 +1,22 @@
+---
+court: "Massachusetts Appeals Court"
+decided: "1979-12-11"
+citations: ["8 Mass. App. Ct. 945"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Frederica M. Pensivy & another vs. American Metal Works, Inc."]
+source_url: "https://static.case.law/mass-app-ct/8/cases/0945-02.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3960575
+cites_cases: ["341 Mass. 690", "359 Mass. 565", "367 Mass. 776", "372 Mass. 171", "375 Mass. 620", "375 Mass. 633", "376 Mass. 874", "379 Mass. 34", "6 Mass. App. Ct. 684", "7 Mass. App. Ct. 889"]
+---
+
+# Pensivy v. American Metal Works, Inc.
+
+## Majority
+
+This is an action brought under G. L. c. 152, § 15, as most recently amended by St. 1971, c. 941, § 1. 1. It was error to exclude the stool which had been obtained from the female plaintiff’s work area some time subsequent to the accident. There was no evidence that the stool was the one involved in the accident (as the judge explicitly instructed in his charge), but there was evidence from which it could be found that the stool was of the same type as that involved in the accident, that it had been manufactured by the defendant American Metal Works, Inc. (defendant), in accordance with the design disclosed in its patent applications, and that there had been no change in the stool since the time of its manufacture which might have obscured its design in any respect. Accordingly, the stool should have been admitted in evidence on the question of negligent design (the only theory of liability enunciated in the plaintiffs opening statement), without regard to its custody since the time of manufacture. See Smith v. Ariens Co., 375 Mass. 620, 625-627 (1978). That the jury had before them the small photograph appearing in the defendant’s catalogue and the schematic drawings appearing in the patent applications did not neutralize the harm resulting from depriving the plaintiffs of their rights to have the jury (a) study for themselves the physical relationships between the wedge pins and the slots and holes in the telescoping leg assemblies of the stool (see doCanto v. Ametek, Inc., 367 Mass. 776, 782 [1975]; Hayes v. Hobart Corp., 7 Mass. App. Ct. 889 [1979]) and (b) evaluate the testimony of the plaintiffs’ expert to the effect that the alleged defect in the design of the stool could have been corrected at a manufacturing cost of approximately four cents a stool. See Smith v. Aliens Co., 375 Mass. at 625; Uloth v. City Tank Corp., 376 Mass. 874, 877-878, 882, 884 (1978); Hayes v. Hobart Corp., 7 Mass. App-Ct. 889 (1979). 2. The recitation signed by the female plaintiff’s then attorney which was appended to her lump sum settlement with the workmen’s compensation insurer (G. L. c. 152, § 48) should have been’excluded as irrelevant, if for no other reason. So far as can be ascertained from the portions of the trial transcript which have been reproduced in the plaintiffs’ record appendix (see Kunen v. First Agricultural Natl. Bank, 6 Mass. App. Ct. 684, 689 n.10 [1978]), nothing set out in that recitation was inconsistent with any of the evidence introduced by the plaintiffs during the trial of the present action. See and contrast Brown v. Metropolitan Transit Authy., 341 Mass. 690, 695 (1961); Kraus v. Webber, 359 Mass. 565, 567 (1971); Commonwealth v. Leo, 379 Mass. 34, 41 (1979). 3. The plaintiffs were entitled to the substance of their ninth request for an instruction (see doCanto v. Ametek, Inc., 367 Mass. at 782; Smith v. Ariens Co., 375 Mass, at 624; Back v. Wickes Corp., 375 Mass. 633, 641 [1978]; Uloth v. City Tank Corp., 376 Massffat 877-878, 880-881), but they were not entitled to their sixth request because no question of negligence in failing to warn of a possible danger involved in the use of the stool was open under either of the counts of the substitute complaint on which the case was submitted to the jury. See Schaeffer v. General Motors Corp., 372 Mass. 171, 173-174 (1977); Uloth v. City Tank Corp., 376 Mass. at 884-885. 4. Other questions which have been argued are not likely to arise in the same form at a further trial. The judgment on counts 1 and 2 of the substitute complaint is reversed, and the case is remanded for a new trial on those counts.
+John D. Lanoue for the plaintiffs.
+Anthony G. Massimiano for the- defendant.
+So ordered.
