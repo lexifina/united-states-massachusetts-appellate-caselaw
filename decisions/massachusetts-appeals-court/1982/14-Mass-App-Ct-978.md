@@ -1,0 +1,25 @@
+---
+court: "Massachusetts Appeals Court"
+decided: "1982-08-18"
+citations: ["14 Mass. App. Ct. 978"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Commonwealth vs. James M. O’Neil."]
+source_url: "https://static.case.law/mass-app-ct/14/cases/0978-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5736868
+cites_cases: ["10 Mass. App. Ct. 367", "354 Mass. 494", "361 Mass. 431", "366 Mass. 89", "378 Mass. 312", "378 Mass. 408", "393 U.S. 1034", "4 Mass. App. Ct. 54", "446 U.S. 955", "5 Mass. App. Ct. 665"]
+---
+
+# Commonwealth v. O'Neil
+
+## Majority
+
+When the assault on the victims — two boys — occurred, they were eleven and twelve years old. They had broken off from a group attending a Red Sox game and, shortly before midnight, found themselves lost and penniless in Charlestown. Two men came along and offered them a place to sleep for the night; the assaults followed shortly after in a laundry room of an apartment complex. The boys found an opportunity to run from the scene and, now naked (one had underwear shorts, the other was trying to cover up with newspaper), rang the nearest available doorbell. An astonished — and somewhat wary — householder found two naked and whimpering boys on her doorstep. Police were summoned. The victims gave descriptions of both assailants and described the defendant as follows: wearing a blue windbreaker, jeans, acne all over the front of his face, dirty blond hair, hazel or brown eyes, and a chipped tooth on the side.
+Information of the assault and descriptions given by the victims went out over police radio. An officer in a cruiser observed a person answering one of the descriptions coming out of a convenience store and followed him to a house which the suspect entered. This turned out to be the defendant’s home. Meanwhile, the victims were reviewing mug shots at police headquarters and found no pictures which fit their assailants. Alerted by the officer who had followed the defendant, two detectives and two patrolmen set out with the victims in a cruiser to the O’Neil home. When the defendant came down the stairs, one of the victims said, “That’s him.” The other victim recognized the defendant’s voice when he spoke. The defendant fit the description the boys had given: he had a chipped tooth, severe acne, dirty blond hair and brown eyes.
+The grounds which the defendant now urges for suppression are that the identification procedure was improperly suggestive. At the probable cause hearing defense counsel had moved to suppress the boys’ identification and the motion had been denied. Counsel did not renew the motion prior to the Superior Court trial. Applying the standards established in Commonwealth v. Saferian, 366 Mass. 89, 96 (1974), we do not consider defense counsel’s behavior to have fallen “measurably below that which might be expected from an ordinary fallible lawyer.” Ibid. See also Commonwealth v. Rondeau, 378 Mass. 408, 411-413 (1979). Defense counsel could reasonably have decided on the basis of his earlier effort to suppress and on the basis of the facts that renewing the motion would have done no good. Commonwealth v. McGrath, 361 Mass. 431, 438-439 (1972). Commonwealth v. Cross, 4 Mass. App. Ct. 54, 56-57 (1976). Commonwealth v. Schlieff, 5 Mass. App. Ct. 665, 668-669 (1977). He may also have thought that a full-blown suppression hearing in the Superior Court might only have fortified the youths’ recollections and thereby enhanced the credibility of their identification before the jury. In the circumstances we can reasonably infer a tactical judgment which should not be second guessed.
+What occurred here was a showup identification. Although lineups are preferable for identification purposes, and unnecessary one-on-one confrontations are widely condemned, courts have recognized the utility of showup confrontation in proper circumstances shortly after a crime has occurred. It is then when memories are fresh, innocent suspects may be eliminated, and the investigation advanced. Commonwealth v. Bumpus, 354 Mass. 494, 500-501 (1968), cert, denied, 393 U.S. 1034 (1969). Commonwealth v. Storey, 378 Mass. 312, 317 (1979), cert, denied, 446 U.S. 955 (1980). Commonwealth v. Coy, 10 Mass. App. Ct. 367, 371-373 (1980), and cases cited. The ample opportunity that the victims had to see and hear their assailants, the victims’ descriptions, the tell-tale chipped tooth, and the fact that the policemen said nothing leading or suggestive at the time of the identification (see Commonwealth v. Coy, supra at 373) persuade us that the pretrial identification was not improperly suggestive and that defense counsel’s tactical decision to concentrate on an alibi defense and to attack the victims’ credibility was justifiable. There being no taint in the pretrial identification there was, of course, nothing legally deficient with the in-court identification.
+Juliane Balliro for the defendant.
+Kathleen Coffey, Assistant District Attorney, for the Commonwealth.
+Judgments affirmed.
