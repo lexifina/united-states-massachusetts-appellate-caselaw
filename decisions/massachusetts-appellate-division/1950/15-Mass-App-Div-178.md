@@ -1,0 +1,32 @@
+---
+court: "Massachusetts Appellate Division"
+decided: "1950-09-08"
+citations: ["15 Mass. App. Div. 178"]
+reporter: "mass-app-div"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["FRED DE ANGELIS, d/b/a J. DE ANGELIS & SONS v. MOYE CHEVROLET CO., INC., NEWTON NATIONAL BANK TRUSTEE"]
+source_url: "https://static.case.law/mass-app-div/15/cases/0178-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 48
+cites_cases: ["210 Mass. 8", "244 Mass. 164", "310 Mass. 789"]
+---
+
+# De Angelis v. Moye Chevrolet Co.
+
+## Majority (Brooks, J.)
+
+Brooks, J.
+This is an action in contract and tort wherein plaintiff seeks to recover money paid by him to defendant under an agreement whereby defendant was to supply plaintiff with a chassis for his truck body, the agreement specifying that there were no warranties express or implied.
+The Trial Judge found that the statement made by defendant’s agent to plaintiff that the chassis would fit the body without alteration was a material misrepresentation, that the plaintiff was misled thereby and signed the order for the purchase thereof in reliance upon said misrepresentation. He ruled that the exculpatory clause was ineffective for the purpose of avoiding responsibility by the defendant for the material misrepresentation of its agent. He found for the plaintiff in the amount plaintiff had paid for the chassis plus interest.
+The Trial Judge took no action on defendant’s requests for rulings which included among others requests number 4 and 6. Bequest number 4 was as follows: “As a matter of law the contract signed by the plaintiff on June 21,1949, is binding .upon him unless he was induced to sign it by the actual fraud of the defendant, its servants and agents.” Bequest number 6 was as follows: “As a matter of law, except in the case of actual fraud, the defendant’s salesman, Mr. Bose, was not authorized and had no apparent authority to bind the defendant by any representation or warranty.”
+The decisive question at issue is whether the Trial Judge should have given the above requests. This in turn depends in part on whether the language of the Judge’s finding that defendant’s agent made a material misrepresentation necessarily imports fraud on the part of the agent and therefore on the principal.
+Bequests for rulings number 4 and 6 correctly stated the law and apply specifically to this case. John Hetherington & Sons, Ltd. v. William Firth, 210 Mass. 8.
+It is argued that the agent’s act was a fraud in law if not in fact in that he made the statement apparently of his own knowledge and that the statement was false and presumably intentionally so.
+The only evidence in the report as to familiarity with trucks on the part of the plaintiff or the defendant’s agent was the agent’s testimony that plaintiff told him that he, the plaintiff, knew all about trucks, and the agent’s testimony that he knew little about trucks as his past experience had been with passenger automobiles and that he so informed plaintiff. There was also evidence from plaintiff that he took certain measurements of the chassis but did not discover by his own examination that the truck would not fit the chassis. This discovery of the misfit was made by the concern which had the mechanical job of attaching the chassis to the truck.
+In our opinion fraud cannot be inferred from this state of facts, neither can we assume that the Judge’s finding of a material misrepresentation necessarily imports fraud. A misrepresentation according to Webster’s dictionary is “untrue, improper or unfaithful representation.” The definition of the verb misrepresent is “to give a false, erroneous, improper or imperfect representation of, either maliciously, ignorantly or carelessly.” .The Oxford dictionary definition of misrepresentation is “wrong or incorrect statement of facts.”
+In other words, it cannot be assumed from the language of the Judge’s finding, in the absence of his passing on the two requests in question, that he considered that defendant’s agent had acted other than carelessly or ignorantly. His failure to instruct himself by granting requests numbers 4 and 6 leaves a doubt as to whether he regarded fraud as an essential element that it is in such a case as this. For all that appears he may have considered that a finding for the plaintiff was justified if the representation of the agent was “ignorantly or carelessly made.” If so, the Trial Judge committed an error of law.
+At Page 18 in the case of John Hetherington & Sons, Ltd. v. William Firth, supra, the Court said “When a request is presented such as in a jury trial ought to have been given, an exception to a refusal to grant it by a Judge sitting without a jury must be sustained, unless the ground of refusal is distinctly stated or plainly appears in some way on the record and is such as to show that no harm has been done by the refusal, or unless it is obvious on the whole that no rights of parties have been endangered. Mere silent refusal to grant requests under these circumstances does not raise the presumption in favor of a trial court, which exists as to findings of fact made by it. ’ ’
+The test to be applied to determine whether the plaintiff is thereby relieved of a contract by reason of fraudulent misrepresentation is the same as that applied in actions of tort for deceit. Plumer v. Luce, 310 Mass. 789, 801, 802.
+The requirements for an action of deceit are set forth in Alpine v. Friend Bros., Inc., 244 Mass. 164 at 176. “To recover in an action of deceit the plaintiff must prove as to the misrepresentation that it was as to a matter of fact, which may include belief or an intention to induce another to act upon it; that it was made with knowledge of its untruth or was made of a fact susceptible of actual knowledge with recklessness as to its truth or falsehood, or was the utterance of a half truth which in effect is a lie, or was the failure to disclose known facts when there was a duty, original or supervening, to disclose; that it was intended that it should be acted upon, as it was, and that damage directly resulted therefrom.”
+Admittedly there was a misrepresentation of fact. It cannot be found, however, that other essentials of fraud were involved. There was, therefore, prejudicial error in the failure to grant defendant’s fourth and sixth requests. The finding for plaintiff is to be vacated and the case remanded for a new trial.
