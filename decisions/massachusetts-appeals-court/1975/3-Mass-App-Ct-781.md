@@ -1,0 +1,23 @@
+---
+court: "Massachusetts Appeals Court"
+decided: "1975-09-19"
+citations: ["3 Mass. App. Ct. 781"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Joseph V. Sztuba & others vs. Irene J. Sztuba, administratrix."]
+source_url: "https://static.case.law/mass-app-ct/3/cases/0781-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3948278
+cites_cases: ["228 Mass. 152", "283 Mass. 601", "317 Mass. 646", "330 Mass. 187", "355 Mass. 657"]
+---
+
+# Sztuba v. Sztuba
+
+## Majority
+
+1. As we interpret the report of material facts filed by the probate judge who heard the amended equity petition, paragraph one of the decree, ordering reformation of the deed whereby the plaintiff Anna Sztuba sold her one-third interest in the farm to her son Casimir (since deceased and represented in this proceeding by the defendant as administratrix of his estate), was based entirely on the finding that the omission from the deed of the name of her other son, the plaintiff Joseph V. Sztuba, as co-grantee “was a mistake” on her part in that it “did not reflect Anna’s wishes” (emphasis supplied). The absence of any finding that Casimir shared his mother’s wishes or was otherwise chargeable with the mistake requires reversal of that paragraph of the decree (see Eno v. Prime Mfg. Co. 317 Mass. 646, 650 [1945]; Scirpo v. McMillan, 355 Mass. 657, 660 [1969]), unless the evidence, which is reported, shows that reformation of the deed was nevertheless justified (Cohen v. Santoianni, 330 Mass. 187, 190 [1953]). While Joseph gave some rather sketchy testimony about one or two conversations in which Casimir invited Joseph to join in the contemplated purchase, a careful examination of the record discloses that those conversations occurred several months before the sale was consummated. There was no evidence of any such intention on Casimir’s part at any later date and considerable evidence to the contrary. We conclude that there was no such full, clear and decisive proof of mutual mistake as would warrant reformation. See Kidder v. Greenman, 283 Mass. 601, 613-614 (1933), and cases cited. 2. We need not consider the propriety of paragraph 2 of the decree whereby the plaintiffs were denied an accounting of the proceeds of the sale of certain lots, as they took no appeal. 3. The remaining paragraph of the decree, whereby the plaintiffs were declared entitled to share in the proceeds of the sale of certain personal property of the farm in 1970 after Casimir’s death, was erroneous. The plaintiffs’ claim was based on a bill of sale establishing a tenancy in common in sixty head of cattle and twenty-one items of farm equipment. The difficulties are that the bill of sale was executed in early 1953, some seventeen and a half years before the 1970 sale, and that the cattle and much of the equipment sold in 1970 were other than those acquired by the parties in 1953. As to the items sold in 1970 which were identified as subject to the original tenancy in common, the plaintiffs made no effort to indicate where those items appear (if they appear at all) on the rather illegible eight-page handwritten inventory and price list prepared by the auctioneer who conducted the 1970 sale, and we therefore find ourselves unable to determine what portion (if any) of the proceeds of that sale are attributable to the property claimed by the plaintiffs. As to the cattle and equipment disposed of before 1970, evidence of value is wholly lacking: there was undisputed evidence that many of the cattle had died of disease and, for all that appears, the remaining cattle had so aged and the equipment so depreciated as to have become completely worthless. Nor was there any showing that Casimir had wrongfully commingled the common property with property of his own in such a way as to relieve the plaintiffs of their burden of identifying the common property or tracing the proceeds (if any) of its sale or other disposition. See Brown, Personal Property, §§30-35 (2d ed. 1955). Contrast Peoples Natl. Bank v. Mulholland, 228 Mass. 152, 157-158 (1917). If the judge’s rather obscure finding about an agreement among the parties as to replacement of the personal property is to be interpreted as a finding that Casimir had agreed that the common ownership of the original property would attach to after-acquired property used on the farm, that finding is not supported by the evidence and must be disregarded as plainly wrong. Cohen v. Santoianni, 330 Mass, at 190-191.
+Robert V. Deiana for Irene J. Sztuba, administratrix.
+James G. Reardon for Joseph V. Sztuba & others, submitted a brief.
+Decree reversed.
+Judgment for the defendant.
