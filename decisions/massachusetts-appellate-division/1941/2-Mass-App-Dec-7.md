@@ -1,0 +1,31 @@
+---
+court: "Massachusetts Appellate Division"
+docket: "2998"
+decided: "1941-12-15"
+citations: ["2 Mass. App. Dec. 7"]
+reporter: "mass-app-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["RUGO v. BOND and THE EVERETT NAT’L BANK, TRS."]
+source_url: "https://static.case.law/mass-app-dec/2/cases/0007-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4032733
+cites_cases: ["158 Mass. 352", "194 Mass. 400", "196 Mass. 237", "276 Mass. 386", "285 Mass. 558", "301 Mass. 429", "303 Mass. 391", "7 Allen 417"]
+---
+
+# Rugo v. Bond
+
+## Majority (PETTINGELL, J. (Jones, P.J., & Sullivan, J.))
+
+PETTINGELL, J. (Jones, P.J., & Sullivan, J.)
+Action of contract in which the plaintiff, a purchaser of land seeks to recover from the defendant, the seller, an alleged overpayment of the purchase price at the time of the transfer of the deed. The plaintiff contends that, because of “misrepresentations, misunderstandings and mistake as to the price, taxes” and financial adjustment to be made by the parties, she paid more than she should have. Looby V. Looby, 303 Mass. 391.
+A summary of the material facts to be found in the trial judge’s findings is as follows:
+The plaintiff, an Italian woman, with a limited knowledge of English, purchased the property in question from the defendant through an agenti There was a conflict in the evidence as to what the purchase price agreed upon was. The plaintiff testified that she agreed to pay $3,200 and one half the taxes. The defendant maintains that the price was $3,300 and half the taxes. The trial judge finds that it was $3,300 and half the taxes. The defendant insisted that after all the adjustments had been made the balance due him for the land was $1,007.71. After some talk, a third party filled out a check in that amount and the plaintiff signed it, her husband saying that the defendant was an honest man and any error could be straightened out later. The trial judge found that there was a mutual mistake about the tax figures entering into the computation, and that neither of the parties understood the figures used. He found that because of the mutual mistake the defendant was overpaid in the matter of the taxes and that the plaintiff is entitled to recover $109.89.
+This finding must stand unless there was prejudicial error in the trial judge’s rulings of law which are contained in the report.
+The defendant’s general contention is that the plaintiff cannot recover if the contract was entered into by her in ignorance of material facts, there being no fraud or misrepresentation, and her ignorance or mistake was due entirely to her own negligence or lack of proper attention, or to her failure to use proper due care. In support of this contention he cites many cases of attempted relief from onerous contracts which, however, do not touch the real issue in this case.
+It has long been held that, where money is paid as a part of a transaction, and there is a mistake of fact which causes an over-payment, the over-payment can be recovered in an action at law. Gold Brand Confectionery, Inc. v. Dimick, 276 Mass. 386; Town of Brookline v. Crane Construction Co., 285 Mass. 558. The basis of recovery in these cases is an over-payment of money due to the existence of a mutual mistake of fact and the absence of negligence on the part of the defendant. In one case, Quimby v. Carr, 7 Allen 417, the plaintiff was allowed to recover despite negligence which the court considered immaterial. What contracts there were in the cited cases, had been executed. None of these cases had to do with the rights of a party in the further execution of a contract.
+The particular question arising in this case is not novel as it has arisen before on very nearly the same set of facts.
+In Cardinal v. Hadley, 158 Mass. 352, the purchaser of real estate brought an action for an over-payment. The agreement was that the purchaser should pay a stated price per foot of land. The seller stated the number of feet of land on the lot; the total price was computed on that basis, and the purchaser paid the amount thus figured, later he found that there was not that number of feet in the land. The trial judge ruled the acceptance of the deed was no bar to recovery and that the plaintiff could show by oral evidence how many feet of land there were. In allowing a recovery, the court said, at page 354 and 355, “Because the agreement here was not for an entire sum, and the quantity of land was an essential element-of the bargain, and fixed the price to be paid, the plaintiff did not waive his right to recover the money paid by mistake by accepting a deed which was silent as to the quantity of land, although the description was by monuments, and also by measurements stated to be more or less.’ ”
+Cardinal v. Hadley, supra, is cited with approval in several later cases. It is cited in Farquhar v. Farquhar, 194 Mass. 400, at 405, as establishing a rule that the consideration stated in a deed is not conclusive; the court found that that rule was not applicable in the case under consideration. In Way v. Greer, 196 Mass. 237, at 245, it was cited as authority for the admission of oral evidence to show the inducement for a written contract entered into by the parties and that there was no consideration. In City of Marlborough v. Snow, 301 Mass. 429, at 430, 431, a case in equity in which the consideration stated in deed was attacked as incorrect, the court held that it was proper in equity to reform that part of the instrument, paroi evidence having been admitted to show the actual consideration. That case cites Cardinal v. Hadley, as authority for the revision of the consideration. It is still good law and governs the present case.
+These cases earlier mentioned indicate that where there is a mistake of fact resulting in the payment of money, the one paying, being free from fault, may recover the over-payment. In the case at bar the trial judge found that there was “a mutual mistake concerning the tax figures used as a basis for the settlement,” and that neither party understood them and that an over-payment resulted. These facts found are conclusive of the plaintiff’s right to recover.
+No prejudicial error appearing the report is to be dismissed.
