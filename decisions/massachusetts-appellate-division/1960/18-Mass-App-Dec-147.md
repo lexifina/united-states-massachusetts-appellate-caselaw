@@ -1,0 +1,42 @@
+---
+court: "Massachusetts Appellate Division"
+docket: "480137"
+decided: "1960-01-18"
+citations: ["18 Mass. App. Dec. 147"]
+reporter: "mass-app-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["JOHN F. HAYES v. ARLETTE APARTMENTS, INC. AND COLISEUM RESTAURANT, INC."]
+source_url: "https://static.case.law/mass-app-dec/18/cases/0147-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4035241
+cites_cases: ["145 Mass. 38", "146 Mass. 596", "177 Mass. 91", "193 Mass. 448", "199 Mass. 411", "241 Mass. 569", "251 Mass. 437", "257 Fed. 778", "283 Mass. 556", "284 Mass. 587", "291 Mass. 100", "297 Mass. 188", "317 Mass. 630", "326 Mass. 142", "334 Mass. 624", "336 Mass. 484", "98 Mass. 211"]
+---
+
+# Hayes v. Arlette Apartments, Inc.
+
+## Majority (Shamon, J.)
+
+Shamon, J.
+This is an action of tort by the plaintiff in a six-.count declaration: Count one against the defendant Robert Marshall for negligently using or misusing a sidewalk elevator or lift; tfount two against the defendant George R. Clark for negligently using or misusing a sidewalk elevator or lift; count three against the defendant Coliseum Restaurant, Inc. for maintaining a sidewalk elevator or lift in a dangerous, negligent, unsafe and defective condition and for failure to protect the plaintiff from these conditions;;count four against the defendant Coliseum Restaurant, Inc. for maintaining a sidewalk elevator or lift in such a condition as to constitute a nuisance; c'ount five against the defendant Arlette Apartments, Inc. for maintaining a sidewalk elevator or lift in a dangerous, negligent, unsafe and defective condition and for failure to protect the plaintiff from these conditions; count six against the defendant Arlette Apartments, Inc. for maintaining a sidewalk elevator or lift in such a condition as to constitute a nuisance.
+The answer by Arlette Apartments, Inc. was a general denial and an allegation of contributory negligence, and the answer by Coliseum Restaurant, Inc. was a general denial and an allegation of contributory negligence and of assumption of the risk. The answer by the defendants Marshall and Clark was a general denial and contributory negligence.
+The plaintiff sustained his injuries on or about October 19, 1957, at or about 11:45 a.m., while walking in a northerly direction on Union Street in Boston, when, without any warning, an iron cover was manually elevated from below the sidewalk by the defendant Robert Marshall in such a manner that it caused both of the plaintiff’s legs to fall into an opening and thereby pinned him in a vice-like manner between two corrugated iron covers as will be further described.
+At the trial there was evidence tending to show:
+That some years prior to the date of the alleged accident, the defendant Arlette Apartments, Inc., owner of the premises, was the lessor of the second floor and basement of the building located at the intersection of Hanover and Union Streets in the City of Boston, the defendant Coliseum Restaurant, Inc. being lessee thereof by assignment, which lease included the right to use a sidewalk elevator on Union Street leading to the basement ;
+That the said sidewalk opening abuts the building owned by the defendant Arlette Apartments, Inc. and consists of two corrugated iron covers approximately 2^2 feet by 2% feet in size, together with two wooden doors approximately 2 feet high and 2y2 feet in length; that these two wooden doors aforesaid formed a part of the wall of the building and could be extended out from the building over the sidewalk to act as guard gates in the event that the corrugated iron covers were to be opened; however, either cover can be opened without first extending the guard gates and the said iron covers could be opened from above or below in an upward manner from the center;
+That the two wooden doors in addition to acting as barriers were also situated in such a manner that they would, when opened, increase the size of the open area, thus permitting larger objects to be delivered to the basement ;
+That just prior to the accident the defendant Robert Marshall entered the basement by means of the sidewalk opening aforesaid, proceeded through the basement to an indoor elevator and thence to the restaurant, and that it was while he was returning to the sidewalk that he opened one of the iron covers a second time causing the plaintiff to sustain his injuries.
+The court found for the plaintiff on count one against Robert Marshall and for the plaintiff on count two against George R. Clark. It found for the plaintiff on counts three and four against the defendant Coliseum Restaurant, Inc.; it also found for the plaintiff on .count six, against the defendant Arlette Apartments, Inc.
+This report is before the Appellate Division in consolidated form filed jointly by the Arlette Apartments, Inc., and by the Coliseum Restaurant, Inc. The individual defendants, Marshall and Clark, filed no report.
+The Arlette Apartments, Inc., claims the judge erred in denying its nine requests for rulings of law while the Coliseum Restaurant, Inc., also claims error in the court’s denial of its four requests for rulings of law.
+In finding for the plaintiff against the defendants Robert Marshall and George R. Clark, on counts one and two respectively, the court found that both acted negligently in the manner in which they used the hand operated elevator and that they acted in complete disregard of the safety of the plaintiff who was a pedestrian and whose presence should have been reasonably anticipated.
+As for counts three and four, the Coliseum Restaurant, Inc. cannot be charged with the consequences of the negligent handling of the hand elevator by Marshall and Clark since they were not agents of the Coliseum Restaurant, Inc., but were independent contractors. There is no evidence to warrant a finding against the Coliseum Restaurant, Inc. on the ground that the elevator over which it had control was a nuisance. From the consolidated report, it appears that the elevator was built in accordance with the rules and regulations and was in good working order and as it existed did not constitute a nuisance. McCarthy v. Waldorf System, 251 Mass. 437.
+As for counts five and six, the Arlette Apartments, Inc., as owner of the building, was not in control of the premises, it being in the Coliseum Restaurant, Inc., under the terms of its lease. In the absence of such control, it is not responsible for the manner in which the building is maintained or its facilities employed.
+The finding against the defendant Coliseum Restaurant, Inc., on counts three and four, is vacated and judgment is to be entered for it on these counts.
+The finding against the defendant Arlette Apartments, Inc. on count six is vacated and judgment is to be entered for it on count six.
+Edward R. Trafton of Boston, for the Plaintiff in support of his contention that the sidewalk elevator was a public nuisance which rendered liable both the owner-lessor and the lessee, cited: Whelan v. Shivak, 326 Mass. 142, 1955; Hill v. Hayes, 199 Mass. 411; Dalay v. Savage, 145 Mass. 38.
+Badger, Parrish, Sullivan Frederick, for the Defendant-Lessee, Coliseum Restaurant, Inc., in support of its contentions that the elevator was not a nuisance, nor was it negligent, cited: Doyle v. LaCroix, 336 Mass. 484, 487, 488; Todd v. Wernick, 334 Mass. 624, 626, 627; McCarthy v. Waldorf System, Inc., 251 Mass. 437, 439; Pickett v. Waldorf System, Inc., 241 Mass. 569, 570.
+S. Myron Klarfeld of Boston for the Defendant-Owner, Arlette Apartment, Inc., contended and cited the following:
+(1) This defendant did not cause nor in any manner contribute to the plaintiff’s injuries. Wainwright v. Jackson, 291 Mass. 100; Hathaway v. Huntley, 284 Mass. 587.
+(2) It was not shown that the mere existence of the sidewalk elevator was a proximate cause of the plaintiff’s injuries. Gregory v. Maine Cen. RR., 317 Mass. 630; Bratton v. Rudnick, 283 Mass. 556.
+(3) Plaintiff’s injuries were caused by independent conduct of third persons — the men delivering ice to the Lessee, Coliseum Restaurant, Inc., which this defendant was not bound to anticipate. N. E. Fuel & Trans. Co. v. Boston, 257 Fed. 778; Black v. NY, NH & H. RR., 193 Mass. 448; Newcomb v. Boston Protective Dept., 146 Mass. 596; Bellows v. Worcester Storage Co., 297 Mass. 188; Carter v. J. H. Lockey Piano Co., 177 Mass. 91; Tutein v. Hurley, 98 Mass. 211.
