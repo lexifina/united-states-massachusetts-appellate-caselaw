@@ -1,0 +1,44 @@
+---
+court: "Massachusetts Appellate Division"
+decided: "1985-09-03"
+citations: ["1985 Mass. App. Div. 163"]
+reporter: "mass-app-div-annual"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Present: Welsh, P.J., Staff & Shubow, JJ."]
+parties: ["Paul S. Carter vs. Robert J. Heavey"]
+source_url: "https://static.case.law/mass-app-div-annual/1985/cases/0163-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6815511
+cites_cases: ["127 Mass. 226", "234 Mass. 307", "364 Mass. 683", "365 Mass. 730", "380 Mass. 285", "67 S. Ct. 385"]
+---
+
+# Carter v. Heavey
+
+## Majority (Staff, J.)
+
+Staff, J.
+In this claim for fees for legal services, the defendant admitted that the legal services were performed for him by the plaintiff but questioned the extent and value of the services. A portion of his answer denoted “counterclaim” alleged that the parties entered into a contract for the payment of fees to the plaintiff thereby extinguishing any former agreements or understandings for payment.
+Plaintiff filed a motion for summary judgment which was allowed as to liability only.
+Plaintiff then filed motions for the dismissal of defendant’s counterclaim and for assessment of damages. At the hearing on plaintiff’s motions, the defendant opposed the motions and pressed his own motion to compel answers to interrogatories. Defendant requested the following rulings of law, all of which were denied:
+1. That the affidavit of the defendant sets forth facts as to the existence of an agreement between the parties relating to the fee payable by the defendant thereby establishing issues of material fact to be decided at trial.
+2. That the failure of the plaintiff to serve answers to the defendant’s interrogatories foreclosed the defendant’s right to discover the underlying factual basis of the plaintiffs claim for damages.
+3. That the failure of the plaintiff to serve answers to the defendant’s interrogatories warranted the continuance of the plaintiffs motion for assessment of damages until a reasonable time after such answers were served.
+The court further dismissed the counterclaim and assessed damages against the defendant.
+The report indicates that the defendant claimed to be aggrieved by the following rulings of the court:
+1. Failure of the Court to rule that the defendant’s counterclaim should not be dismissed.
+2. Failure of the Court to rule that the plaintiff was required to serve answers to interrogatories.
+3. Failure of the Court to rule that a hearing on assessment of damages be continued until a reasonable time after the service of answers to the defendant’s interrogatories.
+The facts alleged in defendant’s counterclaim are inextricably intertwined with plaintiffs claim. The counterclaim alleges that after the plaintiff was engaged to represent the defendant, the plaintiff agreed that he would look solely to a third party (the party opposing the defendant in the action in which the plaintiff represented the defendant) for payment of his fees including an amount which the defendant had earlier paid the plaintiff. The counterclaim thus alleges novation which is an affirmative defense and is in fact expressly pleaded by defendant in his answer under “Affirmative Defenses.”
+The allowance of plaintiffs motion for summaryjudgment as to liability only was in effect a ruling that there existed no genuine issue of material fact as to liability. Dist./Mun. Ct. R. Civ. P., Rule 56 (d) 365 Mass. 730 (1974). This ruling applied not only as to defendant’s affirmative defense of novation but also with equal force to the same facts alleged in defendant’s counterclaim.
+Although the facts found in the case of Wright Machine Corp. v. Seaman-Andwall Corp., 364 Mass. 683 (1974) are not precisely opposite, the logic is inescapable. In effect the summaryjudgment ruling must be given res judicata significance on the counterclaim. See Wright Machine Corp. v. Seaman-Andwall Corp., supra at page 693. We note parenthetically that the defendant does not claim to be aggrieved by the allowance of the motion for summary judgment as to liability only. Thus defendant’s counterclaim was properly dismissed.
+The defendant further claims to be aggrieved by the failure of the court to rule that the plaintiff was required to serve answers to interrogatories and that the hearing on the question of damages be continued until a reasonable time after the answers were served.
+A brief overview of present state civil practice seems in order. The rules in general, restrict pleadings to the task of general notice-giving and transfer to the discovery process the vital role of issue formulation and fact revelation which role under the earlier practice had been performed, but inadequately, by the pleadings. Hickman v. Taylor, 67 S. Ct. 385, 388, 329 U.S. 495, 500 (1947). The basic philosophy of the present civil procedure is prior to hearing, every party is entitled to all relevant information in the possession of any person, unless the information is privileged. See WRIGHT AND MILLER, FEDERAL PRACTICE AND PROCEDURE, Vol. 8, § 2001, which discusses the cognate Federal procedure.
+It has long been held, even before the new rules were promulgated, “that the party, if he seasonably files proper interrogatories, is entitled to be informed of such facts in advance, so as to assist him in preparing for trial. ...” Baker v. Carpenter, 127 Mass. 226, 228 (1879). Again under earlier practice in a case in which the trial judge declined to require a party to answer certain interrogatories, the Supreme Judicial Court in an opinion by Judge Rugg found error stating “Whenever, therefore, the rulings of the judge have resulted in a denial of the right to secure disclosure of facts having a substantial relation to the issues involved, there is good ground for exception unless it appears that the substantial rights of the excepting party have not been injuriously affected.” Carter v. Cooper, 234 Mass. 307, 315 (1920).
+We recognize that the trial court must exercise its discretion in dealing with discovery matters. In Bishop v. Klein, 380 Mass. 285, 288 (1980), a case in which the appellate court sustained the action of the trial court in denying a party’s discovery motion, the court pointed out that justification for the exercise of discretion appeared because the defendant waited four years to raise the issue and sought production of the records only after the case had been placed on the trial list. Judge Hennessey succinctly stated, “The Superior Court judges could well conclude that this four-year interval constituted undue delay, a wholly adequate basis for denying the defendant’s motions.”
+The case here was entered on May 16,1984; on August 13,1984 defendant filed interrogatories to be answered by the plaintiff; plaintiff’s motion for summary judgment as to liablity was allowed as to liability only on August 22, 1984; defendant’s motion for order compelling discovery was filed on September 25, 1984; and damages were assessed on October 16, 1984. It cannot very well be said here that the defendant was dilatory in any way in connection with case. On the contrary, it appears that he acted with reasonable dispatch.
+As this is a claim for legal services presumably performed in plaintiff’s office by plaintiff, the details as to what was done and when, where, and why are peculiarly within the knowledge of plaintiff and not capable of being ascertained by the defendant other than through the plaintiff.
+To be apprised as to plaintiffs claim is vital to defendant’s defense and the rules concerning discovery are empty and meaningless without the coercive sanctions of the court.
+Plaintiff argues that the defendant should have utilized the “guillotine” procedure found in Dist./Mun. Ct. R. Civ. P., Rule 33 (a). There is nothing in the rule to suggest that and we are satisfied that the defendant is not confined to utilization of the sanctions provided by this rule. In fact, Rule 37 (a) (2) specifically refers to the failure of a party to answer an interrogatory submitted under Rule 33.
+Accordingly, we order that judgment for the plaintiff be vacated and remand the case to the trial court for further proceedings in accordance with this decision.
+Although not necessary to the opinion in this case, we feel that some instructions are in order concerning appellate practice in the district court. Appended to the report are a mass of material that do not belong including copies of correspondence, checks, pleadings in the cáse in which plaintiff represented the defendant, and other material. These serve to confuse and complicate and should- not have been included. We urge counsel to reread Dist./Mun., Ct. R., Civ. P.,. Rule 64 and the suggested form No. 33.
