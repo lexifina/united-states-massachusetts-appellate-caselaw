@@ -1,0 +1,38 @@
+---
+court: "Massachusetts Appellate Division"
+decided: "1936-02-21"
+citations: ["1 Mass. App. Div. 75"]
+reporter: "mass-app-div"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["RAYMOND E. JACQUES vs. SILAS M. GOULD"]
+source_url: "https://static.case.law/mass-app-div/1/cases/0075-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3795425
+cites_cases: ["1 Metc. 459", "130 Mass. 240", "170 Mass. 543", "187 Mass. 468", "188 Mass. 558", "230 Mass. 397", "232 Mass. 275", "240 Mass. 22", "244 Mass. 279", "247 Mass. 124", "258 Mass. 93", "264 Mass. 414", "274 Mass. 169", "278 Mass. 261", "278 Mass. 429", "281 Mass. 303", "6 Gray 118", "7 Gray 283"]
+---
+
+# Jacques v. Gould
+
+## Majority (Pettingell, J.)
+
+Pettingell, J.
+The plaintiff, husband of the defendant’s daughter, seeks to recover in one count for board, and in the other for lodging, furnished the defendant. There was a finding for the defendant. The report contains all the evidence material to the issues reported.
+The plaintiff, who filed no requests for rulings, claims to. be aggrieved by the allowance of a motion, made by the defendant and the giving of five rulings requested by him.
+The motion was “that judgment may be entered for the defendant for that the.plaintiff has not proved any contract under which judgment may be entered for the plaintiff in any specified amount”.' The plaintiff contends that this was the equivalent of a motion for a directed verdict in a case tried to a jury.
+It is true that the motion is poorly expressed; judgment is not entered in any case until there has been a finding or verdict and to move for judgment during the trial is both anomalous and poor practice. Pleadings, however, are determined from their essentials, Davis v. National Life Ins. Co., 187 Mass. 468, at 469; Castano v. Leone, 278 Mass. 429, at 431; Universal Adj. Corp. v. Midland Bank, 281 Mass. 303, at 328; and it is apparent that the defendant’s motion, if it was anything at all, was nothing more than a motion for a finding for a specified reason.
+It raised no question of law because it was not predicated upon all the evidence but instead asked the judge to find that the plaintiff had not borne the burden of proof on a particular issue. "Whether or not a party has sustained such a burden has been held to be a question of fact. Holton v. Denaro, 278 Mass. 261, at 262; Hill v. Creditors National Clearing House Inc., Mass Adv. Sh. (1935) 463, at 467; Crowley v. Freeman, Mass Adv. Sh. (1935) 1409, at 1410. See also, Mercier v. Union Street Ry., 230 Mass. 397, at 404; Reardon v. Boston Elevated Ry., 247 Mass. 124, at 127; Gray v. Wells-Holmes Co., 258 Mass. 93, at 97; Lennon v. Cohen, 264 Mass. 414 at 426. We see no error in the granting of this motion.
+What has just been said applies also to the first ruling requested by the defendant, which was a request that the judge find that the plaintiff had not sustained the burden of proving an implied contract. This, too, involved a finding of fact.
+The second request was as follows:
+“2. The plaintiff cannot recover upon his declaration under an implied contract as the circumstances of this case are such that no implied promise to pay for board and lodging can be found.”
+The evidence contained in the report shows that after the defendant’s wife died, the defendant first went to stay with the plaintiff and his wife, the defendant’s daughter. What, the financial arrangement there was, if there was one, does not appear, but shortly afterwards, the three of them, the defendant, the defendant’s daughter, and the plaintiff went to live in the real estate which had belonged to the defendant’s wife. As she had died intestate, and the plaintiff’s wife was the only child, the defendant and the plaintiff’s wife were tenants in common of this real estate, although they did not know this fact when they went there to live.
+It is undisputed that when the parties moved in there was some kind of an agreement by which the plaintiff, or the plaintiff’s wife, was to pay the defendant a weekly amount as “rent”. The defendant’s testimony was that he was to get his board in addition to this weekly payment. The plaintiff testified that after the three had been in the house two or three weeks, he had a talk with the defendant about paying for board and that no agreement was reached.
+It is apparent from the plaintiff’s testimony that when the parties moved into the house there was no agreement that the defendant was to pay anything, while on the other "hand there was an understanding that the plaintiff, or the plaintiff’s wife, was to pay the defendant something, and actually did pay $5.00 a week for at least twenty weeks. The farthest the plaintiff’s testimony goes is that the arrangement between the parties, whatever it was, was not satisfactory to the plaintiff, and that he suggested a different arrangement to the defendant, who refused to consider it. When later the plaintiff rendered a bill to the defendant, the defendant • immediately stopped getting his meals at the plaintiff’s table and went elsewhere for them.
+We see nothing in the circumstances upon which the judge could have found a promise, express or implied, on the part of the defendant to pay for board. Taking the plaintiff’s testimony at its strongest, the judge would have had to find that the defendant was getting his board by virtue of some kind of an understanding which was not based upon an express promise to pay and would not warrant an implied one, and that at no time was this relation changed until the bill was rendered, and that the defendant received no board after that.
+This request was related to the third, to the effect that the defendant as a tenant in common was not chargeable with rent. The law is that such a tenant may in the absence of an express agreement otherwise, occupy the common estate with no liability for rent or use and occupation. Munroe v. Locke, 1 Metc. 459, at 463; Badger v. Holmes, 6 Gray 118; Peck v. Carpenter, 7 Gray 283; Kirchgasser v. Rodick, 170 Mass. 543, at 544, 545; Carroll v. Carroll, 188 Mass. 558, at 559; Mosely v. Mosely, 240 Mass. 22, at 26; Giuggio v. Paoli, 244 Mass. 279; Fiske v. Quint, 274 Mass. 169, at 173.
+We see no error in the giving of the second, and third rulings.
+The fourth request, that payment of rent by the plaintiff to the defendant is inconsistent with an implied promise, by the defendant to pay for room and board, is another request for a finding of fact. It is of course an inconsistent situation to find one, whom the plaintiff says is indebted to him for board and lodging, receiving payments of rent from the plaintiff. Even if the payments were for rent and had nothing to do with the defendant’s liability for board, the natural result would have been one of set-off'with the payments due on one account, being applied as credits on the other. The inconsistency of the situation is apparent. We see no error in the granting of the request.
+The fifth request was as follows:
+“5. The plaintiff must prove that the circumstances are such that the law will presume that he knew or ought to have known that he would be charged for board and lodging.”
+We assume that this means that it was the defendant who. “knew or ought to have known.” We think that this request correctly states the law as to the plaintiff’s burden in this case and see no error in the judge’s giving the ruling requested. Thurston v. Perry, 130 Mass. 240, at 241; Lyons v. Jackson, 232 Mass. 275.
+No prejudicial error appearing, the report is to be dismissed.
