@@ -1,0 +1,30 @@
+---
+court: "Massachusetts Appeals Court"
+docket: "95-P-1249"
+decided: "1996-09-23"
+citations: ["41 Mass. App. Ct. 917"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Brian O’Donovan vs. City of Somerville."]
+source_url: "https://static.case.law/mass-app-ct/41/cases/0917-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1038710
+cites_cases: ["34 Mass. App. Ct. 625", "354 Mass. 242", "366 Mass. 659", "396 Mass. 186", "406 Mass. 17", "416 Mass. 194", "8 Mass. App. Ct. 506"]
+---
+
+# O'Donovan v. City of Somerville
+
+## Majority
+
+When O’Donovan, a Somerville firefighter, was injured in the performance of his duty, the city refused to grant his request for leave without loss of pay under G. L. c. 41, § 11 IF. The basis for the refusal was that, as previously scheduled and advised, O’Donovan was laid off from work the day after he sustained his injury. O’Donovan then brought this action under G. L. c. 231 A, seeking a determination of his right to pay and benefits from the city. Concluding that the plaintiff was entitled to pay until such time as the doctor designated by the city determined he could return to light duty as well as his medical expenses but not his attorney’s fees, we remand the matter to the Superior Court for amendment of the judgment.
+1. Right to paid leave. There is no dispute that O’Donovan sustained a work-related injury on June 29, 1991. It is also undisputed that prior to that injury, O’Donovan had been notified that he was to be laid off from his firefighter position as of 12:01 a.m., June 30, 1991. On these undisputed facts, the city takes the position that O’Donovan’s previously scheduled layoff terminated any right to pay that he had under § 111F. We see nothing in the circumstances of this case to put it outside the holding of Paparo v. Provincetown, 34 Mass. App. Ct. 625, 628 (1993), and cases therein cited, that “absent some overriding disqualification such as waiver, forfeiture, pension, retirement, or termination of incapacity, rights to disability benefits, once accrued to the benefit of the disabled officer, cannot be cut off by the expiration of the period of employment.”
+2. Length of leave. We do not think, however, that O’Donovan was entitled to paid leave until November 19, 1991. Although O’Donovan’s layoff ended on September 15, 1991, he did not return to work on that date as ordered. Section 11 IF permits paid leave until “a physician designated by the board or officer authorized to appoint . . . fire fighters . . . determines that such incapacity no longer exists.” A physician appropriately designated by the city had determined, on September 26, 1991, that O’Donovan was capable of “sedentary, clerical work until [he] completed a six week physical therapy program.” O’Donovan did not return to work until November 19, 1991, when his physician determined that he was capable of resuming light duty.
+Although neither physician testified, it appears from the trial judge’s findings of fact that while both agreed that O’Donovan had been incapacitated, they disagreed as to the date when O’Donovan could perform light duty. O’Donovan argues that he was not required to return to work on September 26, because the designated physician had not made an express finding that his incapacity no longer existed as of that date. Such a finding is unnecessary. Since the designated physician found that O’Donovan was capable of performing some of the duties of a firefighter as of September 26, O’Donovan was required to return to work on that date and perform those duties determined to be within his capability. See Newton Branch of the Mass. Police Assn. v. Newton, 396 Mass. 186, 191-192 (1985). The period for which O’Donovan is entitled to § 11 IF pay must be reduced by fifty-four days, that is, the period between September 26, 1991, and November 19, 1991.
+3. Medical expenses. It is the city’s argument on appeal that the Superior Court lacked subject matter jurisdiction to award O’Donovan his medical expenses because the city had not made any determination that indemnification was appropriate, as required by G. L. c. 41, § 100. The argument lacks merit. Section 100 specifically provides for a petition to the Superior Court when an application for reimbursement is denied or ignored. The city makes no claim that the expenses were unnecessary or unreasonable. As found by the trial judge, O’Donovan forwarded his medical bills to the chief of the fire department as they were incurred. The chief, however, directed his staff to refuse the bills because O’Donovan had been laid off and was not an employee. We see no error in the award of medical expenses.
+4. Attorney’s fees. Although it is appropriate “to look to cases interpreting analogous provisions of the [Workers’] Compensation Act, G. L. c. 152, in deciding issues arising under G. L. c. 41, § 111F,” DiGloria v. Chief of Police of Methuen, 8 Mass. App. Ct. 506, 512 (1979), see also Wormstead v. Town Manager of Saugus, 366 Mass. 659, 663-664 n.5. (1975), there can be no analogy where § 11 IF contains no provision whatsoever on the topic. It was, therefore, error for the trial judge to engraft c. 152, § 13A (5), which allows for an award of attorney’s fees to a prevailing private employee, into the benefits provided public employees under either c. 41, § 100 or § 111F. Cf. Eyssi v. Lawrence, 416 Mass. 194, 200 (1993) (“We decline, however, to hold that [the worker’s compensation act and c. 41, § 100 and 11 IF] are so intricately related as to warrant the wholesale adoption of all amendments to one into the other”).
+Peter M. Brown for the defendant.
+Barbara A.H. Smith for the plaintiff.
+Further, we see nothing in the circumstances of this case which would permit the award of counsel fees as costs under G. L. c. 231A, § 7. See Chartrand v. Riley, 354 Mass. 242 (1968); Yorke Mgmt. v. Castro, 406 Mass. 17, 18-19 (1989).
+5. Conclusion. The matter is remanded to the Superior Court for amendment of the judgment consistent with this opinion.
+So ordered.
