@@ -1,0 +1,31 @@
+---
+court: "Massachusetts Appellate Division"
+decided: "1989-10-31"
+citations: ["1989 Mass. App. Div. 199"]
+reporter: "mass-app-div-annual"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Present: Black, P.J. & Hurley, J."]
+parties: ["Anna Cote vs. Maria J. Silva"]
+source_url: "https://static.case.law/mass-app-div-annual/1989/cases/0199-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6815180
+cites_cases: ["24 Mass. App. Ct. 106", "247 Mass. 358", "343 Mass. 747", "367 Mass. 622"]
+---
+
+# Cote v. Silva
+
+## Majority (Hurley, J.)
+
+Hurley, J.
+This is an action in contract seeking to recover a brokerage commission alleged to be due to the plaintiff from the defendant. The plaintiff also seeks compensation in the form of a listing fee and quantum meruit. After trial, the judge found for the defendant and the plaintiff appeals claiming error in the denial of several requests for rulings.
+The facts briefly are these: The plaintiff is a licensed real estate broker in the Fall River area. The defendant owned a multiple family dwelling which she listed, on an exclusive basis, with the plaintiff. An Exclusive Listing Agreement was executed by the parties. Within one week of listing the property for sale, the plaintiff produced a purchaser and a purchase and sale agreement was executed. The plaintiff was a party to that agreement. The defendant subsequently entered into a purchase and sale agreement to purchase property in Somerset. This purchase was contingent on the sale of the defendant’s multiple family dwelling. The plaintiff was a co-broker as to this second transaction. At the first closing it was disclosed that one of the apartments in the defendant’s multiple family dwelling was occupied pursuant to an unrecorded life interest. A “Closing Agreement” (Exhibit #8) was executed by the buyer and the defendant extending the time for performance. The unrecorded life interest was not terminated nor released. Neither transaction was completed. All deposits were refunded.
+The purchase and sale agreement for the multiple family dwelling contained the following provision added to the Greater Fall River Board of Realtors, Inc. form:
+“If the Seller shall be unable to give title to make conveyance, or to deliver possession of the premises, all as herein stipulated, then any payments made under this agreement shall be refunded and all other obligations of the parties hereto shall cease and this agreement shall be void and without recourse to the parties hereto, unless the Seller elects to use reasonable efforts to remove any defects in tide, as the case may be, in which event, the Seller shall give notice thereof to the Buyer at or before the time of performance hereunder, and thereupon the time for performance hereof shall be extended for a period of thirty (30) days.”
+The general principles established in Tristam’s Landing, Inc. v. Wait, 367 Mass. 622 (1975) govern whether a commission was due the plaintiff. According to the Supreme Judicial Court in Tristam’s Landing, “the broker earns his commission when (a) he produces a buyer ready, willing and able to buy on the terms fixed by the owner, (b) the purchaser enters into a binding contract with the owner to do so, and (c) the purchaser completes the transaction by closing the title in accordance with the provisions of the contract. If the contract is not consummated because of lack of financial ability of the buyer to perform or because of any other default of his... there is no right to commission against the seller. On the other hand, if the failure of completion of the contract results from the wrongful act or interference of the seller, the broker’s claim is valid and must be paid.” Tristam’s Landing at p. 629. In the instant case, the judge determined that the failure of the completion of the contract did not result from the wrongful act or interference of the seller. The defendant was not obligated by the agreement to remove the unrecorded life interest as an impediment to the sale. This contract of sale specifically provided that the defendant would be released from her obligations if she could not deliver title free of defects. The unrecorded lease from the defendant to the tenant was not referenced in the purchase and sale agreement. It was an encumbrance on the property. Downey v. Levenson, 247 Mass. 358 (1924). Since neither the lease nor a notice was recorded it was valid against the lessor, her devisees and persons having actual notice of it. All parties to the purchase and sale agreement were on notice of a tenancy and no inquiry was made.
+The purchaser would not accept the premises with the tenant for life in the first floor apartment. Thus, it was the purchaser who opted not to complete the transaction. We determine that the conduct of the defendant did not cause a commission to be due to the plaintiff. Furthermore, we are reminded that the purpose of the Tristam’s Landing rale is “to protect the reasonable expectation of the inexperienced home seller that the brokerage commission will be payable out of the purchase price on sale...” Currier v. Kosinski, 24 Mass. App. Ct. 106, 107 (1987). The trial judge’s rulings on this issue are correct.
+The Quantum Meruit Claim
+The plaintiff and defendant contracted for sendees and provided for the method of payment to be a commission from the sale of the subject premises. Pursuant to their agreement, the plaintiff is not entitled to recover for the fair value of her services. While the plaintiff extended herself to accommodate the defendant and insure that the premises conformed her compensation was determined by the purchase and sale agreement. Lattuca v. Cusolito, 343 Mass. 747 (1962).
+The Listing Agreement
+The plaintiff and defendant executed an Exclusive Listing Agreement which provided that a processing fee of 10% would be due to the plaintiff if the property was sold by anyone or if the property was removed from the market by the defendant prior to the expiration of the listing agreement. The only contract for sale occurred within the listing agreement. The defendant did not remove the property from the market by not being able to convey because of the unrecorded lease encumbrance.
+The report is dismissed.
