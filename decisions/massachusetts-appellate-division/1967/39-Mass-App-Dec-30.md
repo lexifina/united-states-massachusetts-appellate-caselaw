@@ -1,0 +1,67 @@
+---
+court: "Massachusetts Appellate Division"
+docket: "# 6567; #364"
+decided: "1967-11-20"
+citations: ["39 Mass. App. Dec. 30"]
+reporter: "mass-app-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["BURNS REALTY TRUST J. PETER FELOPOULOS, TRUSTEE v. NICHOLAS R. NASTASI"]
+source_url: "https://static.case.law/mass-app-dec/39/cases/0030-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4334626
+cites_cases: ["132 Mass. 367", "213 Mass. 182", "263 Mass. 302", "274 Mass. 444", "295 Mass. 201", "312 Mass. 375", "315 Mass. 350", "319 Mass. 158", "4 Cushing 14"]
+---
+
+# Burns Realty Trust J. Peter Felopoulos v. Nastasi
+
+## Majority (Brooks, P.J.)
+
+Brooks, P.J.
+This is an action of contract to recover two months rent, $175 per month for months of December, 1966 and January, 1967 of an apartment at 48 Beacon Street, Boston, Massachusetts under a written -lease. Defenses relied on by defendant are general denial, payment, eviction and recoupment.
+It was agreed that if there was recovery by plaintiff, the amount should be at the rate of $165 instead of $175.
+The following material facts appear in the report:
+“The premises rented consisted of an efficiency apartment with a main room used as a bedroom and sitting room, a closet, kitchen and bath on the first floor of 48 Beacon Street, Boston, Massachusetts.
+“On September 17,1966 at about 6 P.M. a water pipe in the apartment (over the apartment occupied by the defendant) on the tenth floor of the building burst, causing water to leak through the floors below and into the defendant’s apartment. It was necessary to shut off the water and electricity. This pipe was concealed in the structure of the building. The pipe was repaired the very isame evening by a plumber who had to break through a wall to get to the pipe, and the electricty was restored. The plaintiff repainted the stained and beamed ceiling of said apartment. The plaintiff agreed to pay and did pay the defendant for damages to furniture and cleaning of clothes. The defendant did not occupy his apartment for two nights.
+“On November 26,1966, at about 6 P.M. a concealed water pipe burst on the fourth floor in the apartment over the defendant’s apartment. The defendant moved Ms furmture from under the leak, wMch caused no damage to the defendant’s property. The pipe was repaired by a plumber that same evening, and the defendant 'saw fit not to sleep over in Ms apartment that evening.
+“On December 5, 1966, about 6 P.M. a concealed water pipe burst on the tMrd floor in the apartment over the defendant’s apartment. There was evidence that there was water in the middle of the floor of the main room to a depth of one to two and one half inches. Some of the defendant’s furniture and some of Ms clothes were damaged. TMs pipe was repaired the same evening. WMle the Superintendent was cleamng up the defendant’s apartment, ■the defendant went into the Superintendent’s apartment and had several beers with others. The defendant saw fit not to occupy his apartment that evening, but did return the following day.
+“There was evidence that all water pipes in the entire building were replaced with new pipes about a year previous to September 17,1966.
+“On December 6, 1966, the defendant notified the plaintiff by mail that he intended to vacate his apartment on January 1, 1967, and forwarded a check for $90.00 for the balance of December. The plaintiff refused to accept the check for $90.00 and informed the defendant it would hold him responsible under the lease. The defendant vacated the apartment on January 1,1967.”
+The lease dated May 25, 1966 was for the term of fifteen months payable in advance beginning June 1, 1966. The rent was $175 per month (reduced by agreement to $165 per month).
+The lease contained the usual covenants, including Number 15 which reads in pertinent part as follows:
+“All personal property in any part of the building within the control of the Lessee shall be at the sole risk of the Lessee. The Lessor shall not be liable for damage to or loss of property of any kind which may be lost or stolen, damaged or destroyed by fire, water, steam, defective refrigeration, elevators, or otherwise, while on the leased premises or in any storage space in the building.”
+Plaintiff offered requests for rulings which, with the court’s disposition, are as follows:
+1. TJpon all the law, the plaintiff is entitled to recover. Denied.
+2. Upon all the evidence, the plaintiff is entitled to recover. Denied.
+3. Upon all the evidence, the defendant, as a matter of law, has failed to prove that he was evicted from the premises. Denied (see findings supra)
+4. Upon all the evidence, the defendant, as a matter of law, has failed to prove that .them has been a constructive eviction. Denied, (see findings supra)
+5. Upon all the evidence, the defendant, as a matter of law, has failed to prove that he was excused from the performance of the terms under the lease. Denied. (see findings supra)
+6. Upon all the evidence, the defendant, as a matter of law, has failed to prove that the plaintiff has accepted a surrender of the lease. Granted. This request is however immaterial in view of court’s finding supra.
+7. As a matter of law, the plaintiff is not obligated to make any repairs. Granted.
+This request is immaterial in view of court’s finding supra.
+8. As a matter of law, the defendant is obligated to make Ms own repairs in accordance with the terms of the lease. Denied as immaterial. The defense is not based on plaintiff’s failure to repair, but is based upon plaintiff’s breach if its covenant of quiet enjoyment, causing 'defendant to be evicted.
+9. As a matter of law, the plaintiff is not liable for damage to the defendant’s property in accordance with the terms of the lease. Denied as immaterial. Defendant’s claim in recoupment is denied, (findings above)
+The court made findings of fact substantially as stated in the report, then proceeded as follows :
+“On these facts as found by the court supra, the Court finds that they constituted an action of permanent character caused by the plaintiff or Ms agents with the intention and effect of depriving the defendant of the enjoyment of the demised premises, and the court finds as a fact that the defendant yielded and abandoned possession witMn a reasonaMe time.
+“The court finds that the defendant was evicted and that as a fact Ms abandonment by the first of January was within a reasonable time, and that the defendant was constructively evicted.
+“The court finds for the defendant.
+‘ ‘ Since the court finds for the defendant, there is nothing against which the defendant may recoup and iso the court denies any claim for recoupment made by the defendant.”
+The report was stated to contain all the evidence material to the questions reported. Plaintiff claimed to be aggrieved by the court’s refusal to rule as requested and specifically as to plaintiff’s requests Nos. 1, 2, 3, 4, 5, 8, 9.
+ltx is to be noted that defendant vacated the premises by January 1, 1967 subsequent to notice dated December 6, 1966. This notice followed the third leak which occurred on the evening of the day before. Plaintiff refused to accept a check for $90 representing the balance of the December rent. Plaintiff’s claim was for rent due for December, 1966 and January, 1967.
+The court found that plaintiff was not entitled to recover except for December rent on the ground that the three leaks constituted a constructive eviction. The crux of the case is whether it can be found that there was an intention to deprive the tenant permanently of his enjoyment of the demised premises.
+A tenant is entitled to the quiet enjoyment of his tenement. Dexter v. Manley, 4 Cushing 14. H. W. Robinson Carpet Co. v. Fletcher, 315 Mass. 350, 353. Tinkham v. Wind, 319 Mass. 158.
+It would not seem unreasonable, a priori, for a court to conclude that three unpleasant experiences of the above kind in less than three months, which temporarily, at least, deprived plaintiff of the use of the tenement, would justify him in quitting the tenement. He was without fault. To be sure the landlord, too, was without fault, but by reason of his ownership, it could be thought to be his misfortune.
+It has been held in Tracy v. Long, 295 Mass. 201 at 203, 204:
+“Not every act done by a landlord which interrupts or interferes with the tenant’s use and enjoyment of his leasehold may at the election of the tenant produce the legal consequence of an actual physical eviction. In order to have that result the acts of the landlord must have some degree of substance and permanence of character. Conduct of a landlord which is slight or temporary in effect may give a tenant a right to some legal redress without permitting him at his election to treat that conduct as a constructive eviction.” (cases cited)
+Our Supreme Court has defined “constructive eviction” in these words:
+“Constructive eviction has been defined in our decisions relative to that subject matter as some act of a permanent character done by the landlord with the intention and effect of depriving the tenant tof the einjjoymenit of the demjsjed premises.” Westland Housing Corp. v. Scott, 312 Mass. 375, 381.
+The meaning of “intention” has been previously considered in Tracy v. Long, supra at pages 204,205:
+“When it is said that in order to constitute a constructive eviction there muist be an intent on the part of the landlord to deprive the tenant of the premises it is not meant that there must be such an actual intention in the mind of the landlord. It may be inferred from the character of his acts if their natural and probable consequence is such as to deprive the tenant of the use and enjoyment of the premises let. Skally v. Shute, 132 Mass. 367, 372. The bare fact that the defendant in this case was without hot water in her apartment for three or four days does not compel the conclusion that such was the natural and probable consequence of the plaintiff’s act. The circumstances surrounding the act must be considered. See also Lumiansky v. Tessier, 213 Mass. 182, 186 where the Court said: ‘While a landlord must be presumed to intend the natural consequences of his conduct, all the circumstances must be taken into account in determining whether there has been an actual expulsion of the tenant with the intent and effect of depriving him of the enjoyment of the demised premises or some substantial part of it. ’ ”
+We are unable to find evidence of intention directly or by inference on the part of the landlord in this case to bring about the condition which is the basis of defendant’s claim of eviction. It certainly was to the interest of the lessor to keep the premises in good repairs. It is difficult to see how he could have foreseen this ¡series of mishaps or what he could have done to prevent them. There is no evidence that his selection of the plumber was faulty. The accidents may have been the results of faulty material which the plumber himself had no reason to suspect.
+Furthermore, the damage was in no way “permanent”. On each occasion the landlord immediately attacked the problem and remedied plaintiff’s plight. In Goldberg v. Horan, 263 Mass. 302 there was far greater hardship on the tenant than in the case before use. In that case for a period of three or four months the roof and the gutter were out of repair causing a depth of water of four to five feet deep in the cellar. The court said:
+“The mere fact that the Lessor refused or neglected when requested to make repairs on the building which contained the premises leased by the defendant or to make repairs which, if made, would prevent the harm suffered by the defendant is not sufficient to constitute an eviction. . . even where the landlord is bound by express covenant to repair, and by his failure to do so, the premises become uninhabitable or unfit for the purpose for which they were leased.”
+Having in mind that the burden of proving constructive eviction is on defendant, —■ Rome v. Johnson, 274 Mass. 444, 450; Tracy v. Long, supra, there was error as a matter of law in the trial court’s finding constructive eviction. The denial of defendant’s request for ruling #4, “That upon all the evidence the defendant as a matter of law has failed to prove that there has been constructive eviction”, was prejudicial error.
+We are, however, not in a position to order a finding for plaintiff inasmuch as we have not sufficient data for isueh a finding. Recoupment, which the trial court properly held was not an issue on the original finding, is now revived by the reversal of that finding in favor of plaintiff. Furthermore, the reported evidence is confusing with regard to the amount due for the month of December. The declaration asks for rent for December and January which would be $330. The report on the other hand states that defendant “forwarded a check for $90 for the balance of December”. This suggests that some rent has already been paid for December.
+Samuel Miller for the Plaintiff.
+John A. Mizlus for the Defendant
+We therefore vacate the finding for defendant and order a finding to be entered for plaintiff after a new trial solely on the question of damages to consist of the amount of rent due for December and January less whatever amount is due on recoupment. Case remanded to trial court for that purpose.
