@@ -1,0 +1,36 @@
+---
+court: "Massachusetts Appellate Division"
+decided: "1940-01-16"
+citations: ["5 Mass. App. Div. 5"]
+reporter: "mass-app-div"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Present: Jones, P. J., Pettingell & Sullivan, JJ."]
+parties: ["GERALDINE ABRAHAMS, p. p. a. vs. ALICE S. RICE"]
+source_url: "https://static.case.law/mass-app-div/5/cases/0005-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3881713
+cites_cases: ["216 Mass. 36", "226 Mass. 438", "230 Mass. 392", "236 Mass. 130", "248 Mass. 89", "276 Mass. 372", "280 Mass. 447", "280 Mass. 496", "287 Mass. 229", "293 Mass. 280"]
+---
+
+# Abrahams v. Rice
+
+## Majority (Jones, P. J.)
+
+Jones, P. J.
+— This is an action of tort to recover damages for injuries sustained by the plaintiff, a minor about seven and one-half years of agej brought by her father as next friend. Defendant is charged with negligence in the operation of an automobile. The accident happened December 12,1938, at about six o’clock P. M.
+The defendant answers a general denial and contributory negligence.
+Just prior to the accident, the plaintiff was a passenger in a public school bus and was going to her father’s store just across High Street in Waltham. She alighted from the bus from its right hand door and before starting to cross the street in front of the bus she looked both ways and did not see the defendant’s car. She then started to run in front of the bus, but stopped running before she was hit. It appeared also that the defendant was operating his car at the rate of about five miles per hour and thought the right side of his car was about six feet from the left side of the bus, heading in the same direction as the bus; that the plaintiff was then about two feet from the front of the bus, as she was running out. There was also a witness who testified that he saw the plaintiff run in front of the bus; that the right side of the defendant’s ear was about three feet from the left side of the bus and that the rear of the defendant’s car, immediately after the accident, was about even with the front of the bus, with the plaintiff lying at the right front corner of the defendant’s ear. The right front headlight glass of the defendant’s car was broken by the contact with the plaintiff. This constituted all the evidence in the case.
+The defendant did not testify, but admitted that, he was the owner and operator of the car.
+The plaintiff in this ease argues that the defendant was negligent in not seeing the plaintiff in time to avoid hitting her, and cites two cases, DeFuria vs. Money, 280 Mass. 447, and Boni vs. Goldstein, 276 Mass. 372, as sustaining her position.
+The first one of these cases is, however, not a case like the one before us. It is a case with a street fifty feet in width, defendant’s automobile travelling in the middle of the street, with no other automobiles propelled or running in the street and no pedestrians there; nothing in the street to distract the defendant’s attention; and the defendant was familiar with the street, and knew that hundreds of children lived in the neighborhood and that the driver of an automobile must expect a child to dart out from any place. And the other case cited is much different in its facts from the case at bar and is clearly distinguishable therefrom.
+We do not think, on the facts stated, that the child exercised the care to be expected of a child of her age. She, it would appear, got off the bus and “started to run before coming in front of the bus, but stopped running before she was hit ’ ’. There is no evidence that she then came to a stop, but the fair inference from the record is that she kept on walking and finally walked into the bus. If she had looked carefully, she would undoubtedly have seen the defendant’s automobile and come to a stop. The defendant’s automobile was running at only five miles an hour. The plaintiff apparently ran right out across the front of the bus two feet from it. Defendant’s car stopped only about eight feet beyond the bus after striking the plaintiff. There is no proof of any negligence on the part of the defendant that we can perceive. There is no doubt of the proposition advanced by the plaintiff “that the general finding of a trial judge in an action at law based upon oral testimony must stand if warranted upon-any rational view of the evidence”. Herman vs. Sadolf, Mass. A. S. 1935, pp. 1067, 1068, but we are unable to see how upon any rational view of the evidence it can be said that the, plaintiff was free from negligence or the defendant guilty of negligence. The evidence shows that the plaintiff only looked both ways at the time she started to go in front of the bus. Naturally, she could not look through the bus. It, therefore, appears that she ran the whole distance across the front of the bus without taking any precautions for her own safety.
+There is no evidence that defendant’s speed was in excess of five miles an hour, whether or not it was “in a thickly settled or business district”. G. L. Ter. Ed. c. 90, §17; Conrad vs. Mazman, 287 Mass. 229, 234.
+It does not appear from the evidence whether or not defendant had made any stop before approaching the junction of the two streets or whether or not there was any requirement that such a- stop should be made, so that no inference is to be drawn against the defendant for this.
+Neither do we see how the defendant could be charged with negligence because he failed to observe the plaintiff who ran in front of a bus, concealed by the bus from defendant’s observation, as she must have been, until she stepped either in front of or against defendant’s car.
+We do not see how the defendant could be held to know that the plaintiff would get off the bus and dash right across the street and run into his automobile. Foley, Admr. vs. Osgood, 293 Mass. 280. A child who, without looking or listening, runs from behind an object in the street in front of another object which injures him, has been held guilty of contributory negligence as a matter of law. Doyle vs. Boston Elevated Railway, 248 Mass. 89, 91, 92.
+Where a child, hidden from view of travelers by some obstruction, runs into a highway in close proximity to an approaching motor vehicle, it is an act of carelessness. Sullivan vs. Chadwick, 236 Mass. 130, 136, 137.
+Ordinarily, a child stepping or running suddenly into a roadway without being attentive to traffic and other conditions, is not acting with due care and is guilty of contributory negligence when struck by a motor vehicle. Jackman vs. O’Hara, 280 Mass. 496.
+So it may be contributory negligence for a boy fifteen years of age engaged in playing in the street to run across the street as fast as he can, and make no effort to avoid an automobile which he could have, seen, or to save himself from harm; especially where there is nothing which would have prevented his seeing the machine, if he had looked, and he merely looked both ways before starting or running. Swetzoff vs. O’Brien, 226 Mass. 438. Mills vs. Powers, 216 Mass. 36.
+We think the case is like the case of Pigeon vs. Massachusetts Northeastern St. Ry. Co., 230 Mass. 392, at p. 395.
+We, therefore, must set aside the finding for plaintiff and. order judgment for the defendant.
