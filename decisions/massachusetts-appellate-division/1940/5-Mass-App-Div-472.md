@@ -1,0 +1,31 @@
+---
+court: "Massachusetts Appellate Division"
+decided: "1940-07-30"
+citations: ["5 Mass. App. Div. 472"]
+reporter: "mass-app-div"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Present: Putnam, C. J. Gillen & Kbnisto-n, JJ."]
+parties: ["CATHERINE WEISENBERGER vs. PATRICK F. SHEA."]
+source_url: "https://static.case.law/mass-app-div/5/cases/0472-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3881012
+cites_cases: ["262 Mass. 475", "290 Mass. 111"]
+---
+
+# Weisenberger v. Shea
+
+## Majority (Putnam, C. J.)
+
+Putnam, C. J.
+This is an action of tort in which the plaintiff seeks to recover for damage suffered by an automobile owned by her in an accident. The answer, among other matters, sets up the defence of contributory negligence on the part of the plaintiff.
+The report contains no evidence as to the circumstances surrounding the happening of the accident. There was a general finding for the plaintiff. The only question of law presented by the report is whether, on certain evidence which appears to be undisputed, the plaintiff’s motor vehide was, at the time of the accident, illegally registered and a trespasser upon the highway.
+The facts are simple. For twenty-three years prior to March, 1938, the plaintiff had what is several times stated in the report to have been a home in Maine. Eight or nine years before March, 1938, the plaintiff bought a house in Boston. For eight or nine winters she lived in that house, and for eight or nine springs, summers and falls she lived in her Maine home. In March, 1938, the plaintiff, in Boston, bought an automobile, intending to go to Maine and stay there on account of ill health and under the orders of a doctor. As soon as she bought this automobile she went by bus to Maine, registered the car there, got Maine registration plates for it, returned to Boston, put those plates on the car and drove it to her home in Maine. There she remained until two days before the accident of December 7, when she drove to Boston on a visit, had her accident on the 7th and a day or so later drove back to Maine and stayed there. At no time was her car registered in Massachusetts, and there was no evidence that she had any policy of liaability insurance or any permit from the Massachusetts registrar to operate in Massachusetts without registration.
+If the plaintiff was a resident of Massachusetts her car was not legally registered and was a trespasser upon the highway. Gen. Laws (Ter. Ed.) Ch. 90, sec. 9, as amended by St. 1934, Ch. 361. MacDonald v. Boston Elevated Railway Co., 262 Mass. 475. The general finding for the plaintiff imports a finding by the judge that the plaintiff was not a resident of Massachusetts.
+If the plaintiff was a non-resident of Massachusetts the question of the legality of the registration of her motor vehicle is governed by Gen. Laws, (Ter. Ed.) Ch. 90, sec. 3, as amended by St. 1933, Ch. 188. That statute, so far as material, provides that no motor vehicle owned by a nonresident, and duly registered in a state other than Massachusetts, shall be operated on the ways of Massachusetts “beyond a period of thirty days after either the date of entry of the vehicle in any one year or the acquisition by such non-resident of a regular place of abode or business within the commonwealth” unless the owner maintains a policy of liability insurance and has a permit issued by the registrar of motor vehicles authorizing operation in Massachusetts without Massachusetts registration.
+The trial judge was apparently of the opinion either that the coming of the car from Maine (doubtless by way of New Hampshire), into Massachusetts in December, 1938, constituted that day in December as the “date of entry of the vehicle”, or that the date of entry was in March and that the words “period of thirty days” meant an aggregate of thirty days of actual operation in Massachusetts. It is now settled that those words mean a single period of thirty consecutive days. VanDresser v. Firlings, Mass. Adv. Sh. (1940) 59. The question then is, what was the “date of entry” of this car ? If it was in December the decision was right. If it was in March the decision is erroneous.
+The purpose of the statute was to restrict the operation on Massachusetts highways of cars registered in other states without insurance and a permit. If the words “entry of the vehicle” were to be construed to mean “entry of the vehicle from some other state’’.there would be nothing to prevent a non-resident from operating, in Massachusetts, a car registered in another state, without insurance, for indefinite periods if he were to do just what this plaintiff did, — i. e. buy the car in Massachusetts and bring in plates from Maine. Having- in mind the plain purpose of this statute, and the evils at which it is aimed, we have no difficulty in construing the words “entry of the vehicle” to mean ‘‘entry of the vehicle upon the highways of Mas-saehusetts bearing foreign registration plates.” TMs car entered upon those highways from whatever garage or other place in which the plaintiff kept it when she started to drive from Boston to- Maine in March, 1938, and the thirty days began to run then. When she had her accident in December of that year they had elapsed. Her car was a trespasser on the highways of Massachusetts at that time, and the request by the defendant for a ruling to- that effect should have been granted.
+Although, the answer of the defendant does not allege that the automobile of the plaintiff was not legally registered, that fact could be shown under the allegation of contributory negligence. Maclnnis v. Morrissey, 1937 A. S. 1559; McDonald v. Boston Elevated Railway Co., 262 Mass. 475.
+Violation of the statute as to registration is a bar to recovery by the plaintiff on the ground of negligence, where no reckless or wanton misconduct on the part of the defendant has been shown. Ricker v. Boston Elevated Railway Co., 290 Mass. 111, 113.
+We do not deem it necessary to discuss the question of the bearing of the phrase “thirty days after — the acquisition by such non-resident of a regular place -of abode” upon this case.
+The order must be — Judgment for the defendant.
