@@ -1,0 +1,31 @@
+---
+court: "Massachusetts Appeals Court"
+docket: "94-P-101"
+decided: "1995-10-20"
+citations: ["39 Mass. App. Ct. 926"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Patricia J. Dinsdale & another vs. Commonwealth."]
+source_url: "https://static.case.law/mass-app-ct/39/cases/0926-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1040703
+cites_cases: ["20 Mass. App. Ct. 45", "363 Mass. 612", "365 Mass. 827", "365 Mass. 828", "367 Mass. 57", "368 Mass. 174", "378 Mass. 938", "386 Mass. 1005", "394 Mass. 619", "395 Mass. 1110", "411 Mass. 657", "419 Mass 316", "419 Mass. 220", "419 Mass. 377", "813 F.2d 1574", "888 F.2d 678", "903 F.2d 978"]
+---
+
+# Dinsdale v. Commonwealth
+
+## Majority
+
+The plaintiffs brought this action against the Commonwealth and a private contractor for damage to their property and for intentional infliction of emotional distress. A Superior Court judge submitted the case to the jury on several special questions. The jury found that the Commonwealth had committed a trespass and found damages in the amount of $60,000. They also awarded $15,000 for the plaintiffs’ emotional distress caused by the trespass. Judgment entered on November 23, 1990, and the Commonwealth filed a timely notice of appeal on January 29, 1991. The plaintiffs moved for the court to dismiss the appeal because the Commonwealth failed timely to submit a copy of the transcript. Mass.R.A.P. 10(c), as amended, 378 Mass. 938 (1979). The appeal was dismissed on November 25, 1991, and was not refiled.
+Over thirty months after the entry of judgment against the Commonwealth, an assistant attorney general moved under Mass.R.Civ.P. 60(a), 365 Mass. 828 (1974), to alter the judgment so as to eliminate prejudgment and postjudgment interest. See G. L. c. 258, § 2; Onofrio v. Department of Mental Health, 411 Mass. 657, 660 (1992). A Superior Court judge denied the motion and the Commonwealth appeals. We reverse.
+As the parties acknowledge, our consideration is limited to a review of the denial of the rule 60(a) motion because the Commonwealth allowed the appeal to be dismissed. See Mass.R.A.P. 4(a), as amended, 395 Mass. 1110-1111 (1985); Mass.R.Civ.P. 59(e), 365 Mass. 827 (1974).
+Prejudgment interest cannot be imposed against the Commonwealth in tort actions. G. L. c. 258, § 2. Postjudgment interest against the Commonwealth is similarly prohibited in this situation. Onofrio v. Department of Mental Health, 411 Mass, at 658. Thus, the only remaining issue in this case is whether the assistant clerk’s unauthorized addition of interest is a clerical error which is properly subject to relief under rule 60(a). The question whether errors in the granting, denial or calculation of interest qualify for relief under rule 60(a) has been addressed by several Massachusetts cases. See Trustees of the Boston & Me. Corp. v. Massachusetts Bay Transp. Authy., 367 Mass. 57, 62-63 (1975). The most recent case, O’Malley v. O’Malley, 419 Mass. 377 (1995), dealt with the clerk’s failure to include prejudgment interest which the plaintiff was entitled to as a matter of law. In that case, as here, there was no indication that the judge had considered the matter and made a ruling denying the interest, and therefore it was subject to correction under rule 60(a). O’Malley, 419 Mass, at 380.
+“We have generally viewed mistakes in the computation of interest as clerical.” Id. at 379-380, and cases cited. “The action of a clerk adding interest to a judgment is not a ruling of law, to which the time limits for appeal (Mass.R.A.P. 4[a] . . .) and amendments of judgment (Mass.R.Civ.P. 59[e] . . .) would apply.” Worsnop v. Texaco, Inc., 386 Mass. 1005, 1006 (1982). See Liquor Liab. Joint Underwriting Assn, of Mass. v. Hermitage Ins. Co., 419 Mass 316, 325 (1994); Shawmut Community Bank, N.A. v. Zagami, 419 Mass. 220, 222-223 (1994).
+In this case, we have no doubt that the clerk’s addition of interest to the judgment was an unintentional error. The judge’s memorandum of decision does not mention the point, and we are not persuaded that he made an implicit ruling of law on that issue. See O’Malley, 419 Mass, at 380; Worsnop, 386 Mass, at 1006.
+Michelle A. Kaczynski for the Commonwealth.
+Herbert F. Travers, III, for the plaintiffs.
+The motion judge’s denial of the Commonwealth’s rule 60(a) motion was an abuse of discretion as there were no facts indicating that the assessment of interest was anything but an oversight by the assistant clerk. Thus, G. L. c. 258 does not permit recovery of postjudgment interest, the error is not one of substantive law, and relief under rule 60(a) is appropriate. The Commonwealth’s motion was wrongly denied. The judgment of the Superior Court shall be modified in accordance with this opinion.
+So ordered.
+In an attempt to avoid this result, the plaintiffs assert that their claim was outside of the reach of the Massachusetts Tort Claims Act. They assert that their claim was based on a preexisting common law right to recover damages from the Commonwealth for private nuisance. See Morash & Sons v. Commonwealth, 363 Mass. 612 (1973). We need not decide whether this right of action survives the passage of the Massachusetts Tort Claims Act, see H. Sacks & Sons v. Metropolitan Dist. Commn., 20 Mass. App. Ct. 45, 48 (1985), because the jury clearly found that the Commonwealth committed a trespass, a tort for which the Commonwealth was not liable at common law.
+This is the applicable standard of review in the Federal courts under Fed.R.Civ.P. Rule 60(a). See Blanton v. Anzalone, 813 F.2d 1574, 1577 (9th Cir. 1987); McNickle v. Bankers Life & Cas. Co., 888 F.2d 678, 680 (10th Cir. 1989); Kelly v. Matlack, Inc., 903 F.2d 978, 981 (3d Cir. 1990). The Massachusetts Rules of Civil Procedure are construed in conformity with the Federal Rules of Civil Procedure absent compelling reasons to the contrary. Rollins Envtl. Servs., Inc. v. Superior Ct., 368 Mass. 174, 179-180 (1975). The Supreme Judicial Court has held that the language of rule 60(a) is identical to its Federal analogue, and that we should follow the Federal construction of the rule. Frank D. Wayne Assocs., Inc. v. Lussier, 394 Mass. 619, 622 (1985).
