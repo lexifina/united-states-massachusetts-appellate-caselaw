@@ -1,0 +1,30 @@
+---
+court: "Massachusetts Appeals Court"
+decided: "1975-07-02"
+citations: ["3 Mass. App. Ct. 377"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ralph Tisei, trustee, vs. Building Inspector of Marlborough & others."]
+source_url: "https://static.case.law/mass-app-ct/3/cases/0377-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3949423
+cites_cases: ["2 Mass. App. Ct. 892", "2 Mass. App. Ct. 893", "2 Mass. App. Ct. 894", "279 Mass. 81", "344 Mass. 481", "346 Mass. 333", "365 Mass. 853", "365 Mass. 859"]
+---
+
+# Tisei v. Building Inspector
+
+## Majority (Hale, C.J.)
+
+Hale, C.J.
+No abuse of discretion was committed by the single justice in denying the petitioner’s motions “To Extend Time to Docket Appeal” (Mass. R.A.P. 10 [a], 365 Mass. 853 [1974]) and “To Extend Time to Designate Contents of the Record” (see Mass. R.A.P. 14 [b], 365 Mass. 859 [1974]).
+The petitioner asserts that “fairness” required him to be heard on the motions before the single justice. No statute or rule requires the single justices of this court, who, in addition to sitting regularly with a panel of justices, bear an increasingly heavy burden of procedural matters pertaining to pending appeals to conduct hearings on such motions. To the contrary, Mass.R.A.P. 15 provides only for written support of motions and written responses thereto. The purpose of the Massachusetts Rules of Appellate Procedure is to simplify and expedite appellate procedure; counsel would not be warranted in expecting a hearing to be conducted on every procedural matter presented to a single justice.
+We consider this an appropriate occasion to direct attention to our requirements with respect to motions for procedural orders filed under Mass.R.A.P. 15. Counsel are expected to set forth the grounds upon which a motion is based, together with a statement of all of the facts and reasons in support thereof which the moving party wishes the single justice to consider, either on the face of the particular motion or in an affidavit or memorandum submitted with the motion. The motion or its supporting papers should also contain a brief summary of the facts and of the legal issues involved in the appeal. The content, extent, and breadth of the detail in the supporting papers will, of course, be determined by the nature and subject of the particular motion.
+In the case of motions for leave to file an appeal late (Mass.R.A.P. 14 [b] ) or to allow an appeal to be docketed out of time (Mass.R.A.P. 10 [a]), except where it appears that the failure to claim the appeal or to pay the docket fee entitling one to have his appeal docketed by the clerk was due to a failure to receive notice, a showing of a meritorious case is required. In our view neither Mass.R.A.P. 10 (a) nor Mass.R.A.P. 14 (b) was intended to dispense with the judicially “established practice not to grant applications for late entry [or late claim of appeal] ... unless it appears that the petitioning party has a case meritorious or substantial in the sense of presenting a question of law deserving judicial investigation and discussion.” St. Nicholas Russian Benefit Soc. Inc. v. Yaselko, 279 Mass. 81, 85 (1932). See General Motors Corp., petitioner, 344 Mass. 481 (1962); Fall River, petitioner, 346 Mass. 333, 334-336 (1963); Tucker, petitioner, 2 Mass. App. Ct. 892 (1974); McCoy, petitioner, 2 Mass. App. Ct. 893 (1974); Lebert, petitioner, 2 Mass. App. Ct. 894 (1974). See and compare G. L. c. 211, § 11, and G. L. c. 214, § 28 (both as in effect prior to the effective date of St. 1973, c. 1114) with Mass. R.A.P. 10 (a) and Mass. R.A.P. 14 (b). See also G. L. c. 215, § 15.
+Should counsel consider that, due to unusual or exceptional circumstances, a hearing is necessary or desirable for the proper presentation of his contentions, a request for a hearing should be filed with the motion, detailing the reasons why the written material submitted in support of the motion is deemed an insufficient basis upon which a single justice could make an informed determination of the motion. While such procedure will not assure the requesting party of a hearing, the likelihood of the granting of a hearing absent such a request and statement of reasons is extremely remote.
+What we have stated above applies with equal force to a party responding in opposition (Mass.R.A.P. 15 [a]), Parties are also cautioned that the court will not routinely allow motions merely because they have been assented to and should not consider that the presence of an assent will serve as a substitute for a statement of reasons.
+Although the provisions of Mass.R.A.P. 15 clearly indicate the need for specificity in stating in the supporting material the grounds for the relief sought, we appreciate that the appellant’s lack of awareness of our procedural requirements enunciated herein might well have accounted for the failure of his supporting affidavit to meet them. We affirm the decisions of the single justice but grant thé petitioner leave to file a further request for reconsideration by the single justice within thirty days of our rescript.
+So ordered.
+There were 200 single justice matters in May of 1975 and 235 in June; see also Annual Report of the State of the Judiciary to the Massachusetts Bar Association. 60 Mass. L. Q. 241, 253 (1975).
+For example, a motion for extension of time in which to file a brief (if filed within the time permitted for filing such brief) would ordinarily require only a concise statement of the need for such extension, while a motion to permit an appeal to be docketed out of time (Mass.R.A.P. 10 [a]) must include a showing of cause.
+A response in opposition may be filed within seven days after service of the motion, which time may be extended by three days if Mass.R.A.P. 14 (c) is applicable. If the allowance of a motion for a procedural order has not been assented to, the single justice will often await the receipt of a response (or the lapse of the time permitted for the filing of such) before acting on the motion.
