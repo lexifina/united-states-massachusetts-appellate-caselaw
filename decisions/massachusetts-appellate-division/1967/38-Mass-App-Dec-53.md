@@ -1,0 +1,74 @@
+---
+court: "Massachusetts Appellate Division"
+docket: "6322; No. 1988"
+decided: "1967-05-23"
+citations: ["38 Mass. App. Dec. 53"]
+reporter: "mass-app-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MALDEN DOOR AND WINDOW COMPANY v. NORMAN M. GOSS, et al, FORMERLY d/b/a PEARCE & GOSS"]
+source_url: "https://static.case.law/mass-app-dec/38/cases/0053-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4334724
+cites_cases: ["195 Mass. 178", "196 Mass. 327", "203 Mass. 534", "229 Mass. 95", "252 Mass. 84", "265 Mass. 322", "268 Mass. 55", "287 Mass. 477", "305 Mass. 349", "307 Mass. 205", "340 Mass. 570", "348 Mass. 768"]
+---
+
+# Malden Door & Window Co. v. Goss
+
+## Majority (Parker, J.)
+
+Parker, J.
+By this action of contract the plaintiff seeks to recover an alleged balance of $2,693.22 with interest from date of demand of the writ. The answer is a general denial and that the debt was contracted through Pearce & Goss, Inc., a Massachusetts corporation, and not through the defendant and Pearce, co-partners doing business under the style and name of Pearce & Goss. No Service was made on Pearce and it is stipulated that if there is a finding for the plaintiff, it is to be against Goss alone and that judgment is to enter against him only.
+It is agreed by the parties that the only issue is whether the defendant Goss is individually responsible for this obligation to the plaintiff,.
+The court found for the defendant. From the denials of certain of his requests and the court’s finding for the defendant, the plaintiff appeals.
+It appears that the defendant Goss was associated in a partnership with one Pearce doing business under the name of “Pearce & Goss Company” for some time previous to 3 December 1962. During this period, the plaintiff did business with the partnership. On 3 December 1962, a Massachusetts corporation was formed under the name of Pearce and Goss, Inc. The defendant Goss was president, and Pearce was Treasurer. The partnership was dissolved. The plaintiff continued to charge and bill “Pearce & Goss” and from 7 October 1963 to 3 April 1964. The entries in the plaintiff’s ledger and the invoices and delivery slips were in the name of “Pearce & Goss”. Monthly statements were mailed, addressed to “Pearce & Goss”, 73 Bockland Avenue, Malden, Mass., as to the balance of $2,693.22. The plaintiff’s ledger sheet showed that as of 4 October 1963, the account was paid in full, and that these unpaid charges arose after that date. A certificate was filed by the defendant and by Pearce in conformity with the provisions of G.L. c. 110, § 5, stating that the defendant and Pearce were conducting a business under the name of “Pearce and Goss Company” at 48 Highland Avenue, Malden, 48, Mass. The certificate is dated 29 January 1961 and was filed on the same day at the City Clerk’s Office in Malden. This certificate was never withdrawn.
+At the time of the incorporation of “Pearce and Goss Co. Inc.”, business cards were distributed to the trade bearing the corporate name. The listing in the telephone directory was changed to “Pearce and Goss Co., Inc., 73 Bockland Avenue, Malden”. The defendant Goss made pickups of materials covered in the plaintiff’s declaration in the truck owned by the corporation, on which appeared in clear large lettering “Pearce & Goss Co., Inc.” The manager of the plaintiff’s business said he saw the truck several times as pickups were made and saw lettering on it during the period involved in the suit, but did not pay much attention to it and it could be “corporation” on the truck. The defendant also testified that he told the plaintiff’s attorney of the incorporation, but there was no evidence that the plaintiff received the card notifying of the incorporation or that the attorney informed him of that fact. There were two payments made on the account by two checks dated 13 and 14 February 1964 respectively, each in the amount of $1,000.00. These checks were credited by the plaintiff to the “Pearce & Goss” account on its books. Both checks were clearly imprinted with the name of “Pearce and Goss., Inc.” and were signed by Goss on behalf of the corporation. From the time of the incorporation the defendant did no business as an individual or partner. The plaintiff’s manager testified he did not pay too much attention to names and always regarded Pearce and the defendant as partners.
+The court found the following facts:
+“I find that defendant Goss was associated in a partnership with Bernard P. Pearce some time prior to December 3, 1962, during which period they purchased goods from the plaintiff. This partnership was dissolved and on December 6, 1962 a corporation was formed as of December 3,1962 under the name of “Pearce and Goss Co., Inc.” with Norman M. Gloss, President and Treasurer.
+The corporation continued to do business with plaintiff. At the time of the incorporation they distributed to the trade business cards indicating that they were a corporation. They called at plaintiff’s place of business to receive delivery of equipment from time to time, the truck having clearly inscribed upon its side the name of the corporation. Bills received from plaintiff were paid by check with the corporate name clearly printed upon the top and bottom of the check which was signed by defendant Gloss for the corporation.
+Defendant Goss testified that in addition to the above he notified plaintiff’s attorney. In answering plaintiff’s interrogatory as to whom defendant notified of the change he stated, Plaintiff’s attorney.
+During the period of partnership defendant had filed a certificate at City Hall which was never withdrawn. After the incorporation plaintiff continued to mail statements to “Pearce & Goss”.
+There was no intention on the part of defendants Goss or Pearce to mislead plaintiff. Plaintiff should have been aware of the fact that after December 1962 it was doing business with a corporation rather than a partnership.
+Defendant Gross, during the purchases covering the articles sued on, did no business individually or as a partner with plaintiff.
+Defendant Gross is not liable. Since Pearce has disappeared and has never been served with process, the case against him should be dismissed or discontinued.”
+The plaintiff contends that the court was in error in its finding for the defendant and that the finding should have been for the plaintiff for the reason that the plaintiff, by its actions, dealt with the defendant as a partner and the defendant acquiesced in the plaintiff’s actions. This point is raised by his requests for rulings, 4, 6, and 13, which together with the rulings thereon are as follows:—
+4. The acceptance of a paper which purports to be a contract sufficiently indicates an assent to its terms whatever they may be.
+The Court denied this request as immaterial under the finding.
+6. The rendition of the account to the defendants by the plaintiff and its retention by the defendants without objections within a reasonable time, warrants an inference of the defendants’ admission of its correctness, and a finding for the plaintiff.
+The Court denied this request in view of findings.
+13. In the present case the defendants knew that for many months the plaintiff was charging materials to the defendants for which it expected payment and yet did nothing to deny liability. That was evidence that the defendants accepted responsibility for payment.
+The Court denied this request.
+The delivery slips, delivered with the materials, were made out to “Pearce & Goss” with no address of “Pearce & Goss” or further description. These words fail to show who “Pearce & Goss” are and fail to show the parties to the contract. The contract, if any, is ambiguous and therefore extrinsic evidence is admissible to show whether there was a contract and if so, its terms. Kennedy Bros. Inc. v. Bird, 287 Mass. 477. Coleman Bros. Corp. v. Commonwealth, 307 Mass. 205, 209-10.
+The sense of the word “Pearce & Goss” is a question of fact in view of all the circumstances. Way v. Greer, 196 Mass. 327, 246.
+The mere similarity of name -is not sufficient to warrant a finding of identity. Hinds v. Bowen, 268 Mass. 55, 58.
+The paroi evidence rule does not apply when the language used is ambiguous by reason of unexpressed terms. Here there is no expression as to what “Pearce & Goss” means and so extrinsic evidence is admissible to show the meaning of these words. Kennedy Bros. Inc. v. Bird, supra, p. 482. Welch v. Bombardieri, 252 Mass. 84, 87.
+II. The plaintiff argues that the defendants’ actions have not relieved him from liability as a partner. Bequests #7, 12, and 23 raise this point. These requests and the action of the court thereon are as follows:—
+“7. On the evidence presented to the court, the manner of payment or payments made on account in this cause have no evidentiary value.”
+This request was denied.
+Since the terms of the contract were ambiguous, evidence of how payments were made is of value in determining the terms of the contract and since payment was made by checks on which the corporate name was clearly printed, this evidence is to be ruled upon as a point of law by the court. Here the existence of extraneous circumstances is ascertained and the question of its construction is for the court. Arcade Malleable Iron Co. v. Jenks, 229 Mass. 95.
+The court in reaching its conclusion was entitled to use the evidence in its determination of the construction of the contract so as to determine whether there was a contract. There was no error in the denial of this request.
+“12. It is immaterial that the correct ■legal name of the defendant was not used if the defendant’s identity appears.
+The request was denied as too vague.
+The question before the court was the identity of the defendant as a partner. The words used to identify the defendant were “Pearce & Goss”. That name is ambiguous and extrinsic evidence has been introduced by both parties to determine whether or not the defendant is identified with “Pearce & Goss”. There was conflicting evidence and on this evidence the court found that there was no such identity, namely that an interpretation of the words “Pearce & Goss” did not mean the defendant as a partner. United States Hat Co., v. Koch, 195 Mass. 178; Jennings v. Puffer, 203 Mass. 534, 538.
+While we do not agree that the request is too vague, nevertheless, for the reason stated above, we are of the opinion that there was no error in the denial of the request. Scire v. Scire, 348 Mass. 768.
+“23. Constructive notice that a person held out as a partner is not a member is not sufficient to deprive the creditor of its right of action against him, but notice to the creditor must be actual.”
+This request was denied by the court in view of its findings.
+There was no error in the court’s action. On all the evidence, the court found that the plaintiff did no business with the defendant individually or as a partner; payments on the account were made by check of the corporation; the pick-up truck which went to the plaintiff’s place of business had the corporate name on it; notice to the trade was given at time of incorporation ; the corporation was in existence from 3 December 1962; and the plaintiff’s bill did not fall in arrears until October of 1963. There was no evidence that the plaintiff relied on the certificate filed with the City Clerk, and further, the evidence shows that the plaintiff’s ledger carried the address of “Pearce and Goss” as 73 Rockland Avenue, Malden, when the certificate gave the address of the partnership “Pearce and Goss Company” as 48 Highland Avenue, Malden, 48, Mass. The evidence warranted the finding of the court.
+IH. The plaintiff’s requests #20 and #21 raise the point that there was an ostensible partnership existing as to third persons and as to the plaintiff, and therefore the defendant is estopped to deny liability. These two requests are as follows:
+“20. An ostensible partnership existed as to third persons and the defendant, Norman M. Goss is estopped to deny liability.
+21. An ostensible partnership existed as to the plaintiff and the defendant, Norman M. Goss is estopped to deny liability.”
+The court denied these requests in view of its findings.
+To enable the plaintiff to recover on the grounds of estoppel, lie must prove by the preponderance of evidence that he had knowledge that the defendant held himself out as a partner and that he acted on the strength of such holding out. Standard Oil of N.Y. v. Henderson, 265 Mass. 322, 326.
+There was evidence that prior to the formation of the corporation, the partnership of which the defendant was a member, purchased goods from the plaintiff which were paid for and there was evidence that the defendant held himself out as a partner by the certificate filed with the City Clerk. There was no evidence that the plaintiff knew of this certificate or that it knew the defendant was a partner. The deliveries and charges were not made to the address given in the certificate. The testimony of the plaintiff’s manager was that he always regarded Pearce & Goss as partners. This testimony does not require a finding that the contract was with the partnership. There was evidence to show that it was not a contract with the partnership and on all the evidence produced, the court has failed to find that the plaintiff entered into a contract with the partnership. The trial justice who heard the evidence and saw the witnesses could ¡have found as he did. There was no error in the denial of the requests.
+IV. Bequests #17 and #18 are requests dealing with the question of novation. They become irrelevent because the court granted the plaintiff’s request #19 which was that the evidence was insufficient to warrant a finding of a novation.
+Maurice Goldstein for the Plaintiff
+Donald L. Conn for the Defendant
+Request #14 reads as follows:
+“If in fact the defendants in this case were acting as agents for an undisclosed principal, the plaintiff could still elect to hold the defendants liable.” The court denied this request as inapplicable.
+There was no evidence that the defendant was acting for an undisclosed principal. The request was properly denied.
+Request #3 was as follows:
+“The evidence is insufficient to warrant a finding for the defendant.” The Court denied the Request.
+The request was properly denied.
+The burden is on the plaintiff in an action for breach of contract to prove the contract in order to recover. The report discloses that it has not sustained this burden. Waldo Bros. Co. v. Platt Contracting Co. Inc., 305 Mass. 349 359. Lodge v. Congress Taxi Association, Inc., 340 Mass. 570. The court was warranted in finding for the defendant.
+The report will be dismissed.
+This opinion has been abridged.
