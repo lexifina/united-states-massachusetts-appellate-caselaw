@@ -1,0 +1,29 @@
+---
+court: "Massachusetts Appellate Division"
+decided: "1997-07-14"
+citations: ["1997 Mass. App. Div. 108"]
+reporter: "mass-app-div-annual"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Present: Aguiar, P.J., Welsh & Crimmins, JJ."]
+parties: ["Shepley Wood Products, Inc. vs. Larry D. Nickulas, and others"]
+source_url: "https://static.case.law/mass-app-div-annual/1997/cases/0108-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 11883979
+cites_cases: ["1994 Mass. App. Div. 209", "1994 Mass. App. Div. 82", "24 Mass. App. Ct. 296", "273 Mass. 388", "307 Mass. 601", "397 Mass. 789"]
+---
+
+# Shepley Wood Products, Inc. v. Nickulas
+
+## Majority (Crimmins, J.)
+
+Crimmins, J.
+This is an appeal by plaintiff, from a finding that defendants were not liable for the cost of building material supplied by plaintiff and used in the construction of three new homes. We determine there was no error and dismiss the appeal.
+The record indicates, and the trial judge so found, that plaintiff Shepley Wood Products, Inc. (“Shepley”) is a building material supply company that entered into an open credit agreement, in 1982, with Larry D. Nickulas to supply the latter with building materials for use by Nickulas d/b/a Nickulas Homes (“Nickulas Homes”) in home construction projects. In 1988, Nickulas entered into a partnership with Stuart A. Bornstein (“the Partnership”) for the purpose of property development and the Partnership hired Nickulas Homes to build homes for the Partnership.
+The trial judge also found that in 1989, Nickulas and Bornstein formed the Nick-ulas-Bornstein Trust (“the Trust”) which acquired property to be developed. The beneficiary of the Trust was the Partnership. Building materials supplied by Shep-ley were used in the construction of three houses, upon property owned by the Trust, that were built by Nickulas Homes for the Partnership.
+The trial judge found further that Shepley’s deliveries of building supplies to the three different new home construction projects were made for Nickulas Homes. The judge made a detailed finding that Shepley never expected to be paid for those building supplies from Bornstein in any individual capacity nor as a partner of the Partnership or in any fiduciary role as trustee of the Trust. In addition, the judge found that the Partnership and the Trust paid Nickulas Homes, by agreement, for all materials supplied to Nickulas Homes by Shepley and used in the construction of the three homes. The judge determined that an unjust enrichment had not occurred and found that an implied contract never existed. Finally, with respect to Bornstein in his individual capacity, the judge found that Bornstein was not an undisclosed principal, in any capacity, in connection with the materials supplied by Shepley to Nickulas Homes.
+Plaintiff assigns error to action taken on four of its requests for rulings of law. Two of plaintiffs requests sought a ruling that, as a matter of law, the evidence was insufficient to warrant a finding for either Bornstein, individually, or for the Trust. The “warrants” request addresses the sufficiency of the evidence in contrast to the factual findings to be inferred from the evidence presented. The denial of a “warrants” request (worded in the negative) does not imply that a finding for either defendant is mandated. Rather, the denial of these two requests was to determine that sufficient evidence had been presented to justify a finding for the two separate defendants on each of the alternative theories of recovery alleged by the plaintiff. The plaintiffs negative warrant requests were properly denied. Reid v. Doherty, 273 Mass. 388, 289 (1930); MARC G. PERLIN AND JOHN M. CONNORS, HANDBOOK OF CIVIL PROCEDURE IN THE MASS. DIST. CT., 2D ED., §12.5. One request for a ruling of law presented a mixed question of law and fact and was, therefore, properly denied, Rowe v. Middlesex Insurance Co., 1994 Mass. App. Div. 209, 211. No error is present in the action taken on the remaining request since the trial judge found contrary to the theory of recovery that was sought to be brought to the judge’s attention. That is, the trial judge did not find that Nickulas Homes was an agent for any of the defendants, Home Savings Bank v. Savransky, 307 Mass. 601, 603-604 (1940).
+The gravamen of the remaining issues allege error in the judge’s findings that Nickulas Homes was not, in any capacity, an agent for the defendants. A judge’s findings will not be reversed on appeal unless they are tainted by error of law or are clearly erroneous, Jensen v. Jordan, 1994 Mass. App. Div. 82, 83, and the standard upon which we review findings to determine if they are clearly erroneous is “when although there is evidence to support [them], the reviewing court on the entire evidence is left with the definite and firm conviction that a mistake has been committed.” J.A. Sullivan Corp. v. Commonwealth, 397 Mass. 789, 792 (1986). Our review of the Record Appendix reveals ample evidence to support the factual findings made by the judge. There was sufficient evidence for the trial judge to find that Larry D. Nickulas maintained a clear and separate distinction between his business, Nickulas Homes, and the relationships it had with the defendants, see Bumps v. Robbins, 24 Mass. App. Ct. 296, 315 (1987), and that Shepley did not expect payment to be made by the defendants. It was incumbent upon the trial judge to resolve conflicting factual issues presented by the evidence, and the judge correctly applied the law of agency.
+There was no error.
+So ordered.
+Plaintiff’s Notice of Appeal raised numerous issues. We shall address only those issues briefed and deem all others waived. Mass. RAD. A, Rule 16(a) (4).
