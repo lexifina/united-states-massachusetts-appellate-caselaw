@@ -1,0 +1,29 @@
+---
+court: "Massachusetts Appeals Court"
+docket: "92-P-1448"
+decided: "1994-03-03"
+citations: ["36 Mass. App. Ct. 926"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Arbella Mutual Insurance Company vs. Richard F. Hughes & another."]
+source_url: "https://static.case.law/mass-app-ct/36/cases/0926-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4017994
+cites_cases: ["32 Mass. App. Ct. 755"]
+---
+
+# Arbella Mutual Insurance v. Hughes
+
+## Majority
+
+This appeal arises out of a dispute between Arbella Mutual Insurance Company (Arbella), on the one hand, and Richard F. Hughes and Aetna Casualty and Surety Company (Aetna), on the other, as to Hughes’s right to underinsurance benefits as a result of injuries he received in an accident that occurred while he was driving his employer’s car on March 27, 1989. With the consent of both Aetna and Arbella, Hughes settled his claim against the operator at fault in the accident for $25,000, the coverage limit of that operator’s insurance.
+Two Massachusetts motor vehicle liability policies are involved in the dispute. An Aetna policy, effective from October 23, 1988, to October 23, 1989, covered Hughes for his personal automobile. The policy provided underinsurance benefits in the amount of $10,000, with the following proviso: “If someone covered under this Part is using an auto he or she does not own at the time of the accident, the owner’s . . . Underinsured Auto insurance must pay its limits before we pay. Then, we will pay, up to the limits shown on your Coverage Selections Page, for any damages not covered by that insurance.” An Arbella policy, effective from January 23, 1989, to January 23, 1990, covered Hughes’s employer with respect to the auto Hughes was driving at the time of the accident and provided underin-surance benefits up to $100,000 for persons injured while occupying the insured automobile “unless that person has a Massachusetts motor vehicle liability policy of his or her own providing similar coverage.” The Arbella policy also provided that underinsurance coverages could not be stacked.
+Arbella brought this action seeking a declaration that, because the Aetna policy provided Hughes with “similar coverage” to that provided by the Arbella policy, Hughes did not have the right to underinsurance benefits under the Arbella policy but only under the Aetna policy. On cross motions for summary judgment, a judge concluded that the Aetna policy did not provide “similar coverage” and ruled in favor of Hughes and Aetna and against Arbella. We reverse.
+The two policies are similar at least to the extent that they both provide the insured with underinsurance coverage. Hughes and Aetna concede that the fact that the two policies provide coverage in different amounts does not make them dissimilar for these purposes. See Plymouth Rock Assur. Corp. v. McAlpine, 32 Mass. App. Ct. 755, 758 (1992). They contend, instead, that the coverages are dissimilar because they are based upon different statutory schemes. With the enactment of St. 1988, c. 273, effective January 1, 1989, certain changes in the law with respect to underinsurance affected policies issued or renewed on or after that date. The Aetna policy took effect before the changes; the Arbella policy took effect after the changes. In accordance with the law in effect at the time the Aetna policy took effect, a claimant was required to seek underinsurance benefits under the policy covering the vehicle in which he was injured before recovering any excess losses under a policy covering his own vehicle. Thus, stacking was permitted. Under the 1988 amendment to G. L. c. 175, § 113L(5), stacking of benefits was prohibited, and automobile insurance policies had to provide that any claimant injured while occupying a nonówned vehicle who had underinsurance coverage under his own automobile insurance policy could recover underinsurance benefits only under his own policy. The provision in the Arbella policy to the effect that no underinsurance benefits would be available to a claimant who has “similar coverage” under a policy covering his own vehicle is consistent with the amended statute. Plymouth Rock Assur. Corp. v. McAlpine, 32 Mass. App. Ct. at 757-758. The various statutory changes in issue affect which policy pays a claim when an insured person is injured in a vehicle he does not own; they do not affect the essential nature of the coverage. Thus, notwithstanding the changes, from the point of view of the insured, the two policies provided “similar coverage,” and the clause in the Arbella policy excluding coverage in these circumstances applied.
+John D. Boyle for the plaintiff.
+Peter E. Heppner for Aetna Casualty and Surety Company.
+Thomas J. Canavan for Richard F. Hughes.
+Contrary to the contention of Hughes and Aetna, giving effect to the language in the Arbella policy does not have the effect of applying the 1988 statute retroactively. See Plymouth Rock Assur. Corp. v. McAlpine, 32 Mass. App. Ct. at 758-759. Under the Aetna policy, Hughes would be required to exhaust any underinsurance benefits available from Arbella before looking to Aetna. The Aetna policy, however, contemplates that an insured might suffer injuries for which other underinsurance coverage would not be available. Because of the express terms of the Arbella policy, no underinsurance benefits are available to Hughes. The language of the two policies may be read harmoniously without giving retroactive application to the 1988 amendment.
+Accordingly, the judgment is vacated, and a new judgment shall be entered declaring that the Aetna policy provides coverage similar to that of the Arbella policy and that the Aetna policy, therefore, is the only under-insurance coverage available to Hughes.
+So ordered.
