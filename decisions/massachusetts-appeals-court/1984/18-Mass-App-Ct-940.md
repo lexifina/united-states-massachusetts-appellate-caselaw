@@ -1,0 +1,25 @@
+---
+court: "Massachusetts Appeals Court"
+decided: "1984-08-03"
+citations: ["18 Mass. App. Ct. 940"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Lucienne Dodge vs. Douglas Sutherland Dodge."]
+source_url: "https://static.case.law/mass-app-ct/18/cases/0940-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3984640
+cites_cases: ["13 N.Y. 505", "16 A.D.2d 1013", "16 Misc.2d 896", "177 A.D. 296", "181 Misc. 428", "226 N.Y. 583", "249 U.S. 617", "280 N.Y. 50", "32 N.Y. 405", "33 Misc. 2d 653", "365 Mass. 750", "371 Mass. 849", "40 N.Y.2d 659"]
+---
+
+# Dodge v. Dodge
+
+## Majority
+
+Paragraph 10 of the separation agreement, entered into in New York by Lucienne Dodge and Douglas Dodge, provided that “[i]f by reason of monetary inflation or deflation the purchasing power of the dollar is impaired, the Husband’s payments to the Wife . . . [$800 per month] shall, commencing January 1, 1972, be increased in the same proportion as the rise of consumer prices as reflected in The Consumer Price Index of the United States Bureau of Labor Statistics.” The husband construes the quoted clause as requiring him to adjust the monthly payments to his former spouse only once — as of January 1,1972; the wife says he is to adjust it annually. That controversy the parties tried to a jury, which found in favor of the wife.
+1. Counsel for the husband ably argue that the New York rule of construction (the “New York rule”) as to which the trial judge instructed the jury should be qualified and applied only in certain contexts. That rule, as stated in M. O’Neil Supply Co. v. Petroleum Heat & Power Co., 280 N.Y. 50, 55 (1939), is: “If the contract may be construed in more senses than one, such construction should be adopted as will be more beneficial to and as understood by the promisee.” See also White v. Hoyt, 13 N.Y. 505, 511 (1878), in which a slightly varied articulation of the principle appears, viz., “If the words of the promise may have been used in an enlarged or restricted sense, they will, in the absence of circumstances calling for a different interpretation, be construed in the sense most beneficial to the promisee.” See for a recent statement of the New York rule, substantially as set forth in the O’Neil case, Posner v. United States Fid. & Guar. Co., 33 Misc. 2d 653, 657 (Sup. Ct.), aff’d, 16 A.D.2d 1013 (1962). Still more contemporaneously, the New York rule is restated by a commentator in 22 N.Y. Jur. 2d, Contracts § 227 (1982), as follows, “[W]here a contract may be construed in more than one sense, such construction should be adopted as was understood by the promisee and as will be more beneficial to him.” As stated in the later New York authorities, the principle is a corollary of the familiar general rule that a contract will be interpreted against the party which drew the document. (In the instant case there was evidence that the separation agreement was drawn by the husband’s lawyer.) It may be that the New York rule, if traced to its antecedents, should be limited to cases where the promisor had reason to suppose how the promisee would understand the agreement. See, e.g., Hoffman v. Aetna Fire Ins. Co., 32 N.Y. 405, 413 (1865). If that limitation is to be engrafted on the rule as the more recent New York authorities have stated it, the task is for the New York courts, not for us. We think the judge correctly stated the applicable New York law. Certainly, the husband has offered no authority for the only objection he made at trial to instructing the jury as to the New York rule, that it was not applicable to matrimonial agreements.
+Francis C. Lynch {H. Virginia McIntyre with him) for the defendant.
+John F. Rogers for the plaintiff.
+2. In view of the failure of the husband to plead waiver by the wife of the escalator provision and, indeed, the omission of any mention of her waiver in the husband’s opening or closing argument, the judge was not required to charge the jury on waiver. See Mass.R.Civ.P. 8(c), 365 Mass. 750 (1974); Middlesex & Boston St. Ry. v. Aldermen of Newton, 371 Mass. 849, 859 (1977). Parenthetically, the husband did not adduce evidence satisfying the New York standard that waiver must be clearly established and will not be inferred from equivocal acts, Carfi v. DeMartino, 181 Misc. 428, 430-431 (Sup. Ct. 1944), especially in view of the strongly worded anti-waiver provisions in §§ 18 and 19 of the separation agreement. See also Venner v. N.Y. Central & Hudson River R.R., 177 A.D. 296, 339 (1917), aff’d 226 N.Y. 583, cert. denied, 249 U.S. 617 (1919); New York v. State, 40 N.Y.2d 659, 669 (1976). Nothing in Magrill v. Magrill, 16 Misc.2d 896, 902-904 (Sup. Ct. 1959), is to the contrary.
+3. We have considered the husband’s objections to the closing argument by wife’s counsel and concur with the trial judge’s appraisal that the argument objected to was not improper.
+Judgment affirmed.
