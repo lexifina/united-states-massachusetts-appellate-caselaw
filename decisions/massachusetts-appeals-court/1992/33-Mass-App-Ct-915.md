@@ -1,0 +1,25 @@
+---
+court: "Massachusetts Appeals Court"
+docket: "91-P-238"
+decided: "1992-08-11"
+citations: ["33 Mass. App. Ct. 915"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Commonwealth vs. Patrick Walker."]
+source_url: "https://static.case.law/mass-app-ct/33/cases/0915-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4009922
+cites_cases: ["380 Mass. 220", "382 Mass. 448", "390 Mass. 729", "391 Mass. 853", "396 Mass. 702", "397 Mass. 489"]
+---
+
+# Commonwealth v. Walker
+
+## Majority
+
+The defendant appeals from his conviction of raping the victim. The evidence most favorable to the Commonwealth indicated that the two began dating in early 1987. The relationship cooled later that year when the defendant began to abuse the victim physically, but they continued to communicate and to see each other. The alleged rape occurred one morning in September, 1988. The victim had left her apartment to put her daughter on a school bus, then returned to find the defendant in her living room. Apparently upset by the fact that she had been out the previous night with another man, he proceeded to rape her, orally and vaginally, leaving with words to the effect of “who’s the sucker now?” The victim immediately telephoned friends, who brought her to a hospital. A rape kit showed the presence of semen in her vagina.
+1. The defendant argues that the judge erred in allowing the victim to testify concerning an incident that occurred nine months prior to the alleged rape. The victim had been given a long-stem rose at work to congratulate her on a promotion. She was carrying the rose when she went to pick up her daughter, whom she had left at the defendant’s parents’ home. The defendant, seeing the rose, flew into a rage, striking the victim in the face, breaking her lip and bruising her eye. There was no error. This and several other incidents were admissible in the discretion of the judge to show the defendant’s possessive attitude towards the victim and his propensity to be violent towards her. Compare Commonwealth v. Bryant, 390 Mass. 729, 744 (1984), with Commonwealth v. Jordan (No. 1), 397 Mass. 489, 491-493 (1986). “It was well for the jury to have a view of the entire relationship between the defendant and . . . the . . . victim [].” Commonwealth v. Young, 382 Mass. 448, 463 (1981).
+2. The defendant also objects to one of the portions of the judge’s instructions to the jury, in which the judge described the identification of the defendant as the perpetrator as “one of the most important issues in this case and in all criminal cases,” and followed with a description of factors appropriate for the jury to take into account in evaluating the reliability of an identification, including length of encounter, lighting conditions, “whether there was a prior relationship, [and] whether the witness had occasion to meet the person in the past.” The excursion into these factors was misdirected in a .case where there was no possibility that the victim was mistaken in identifying the defendant as the perpetrator, compare Commonwealth v. Murray, 396 Mass. 702, 705-709 (1986), and the real question was whether the victim was fabricating the entire incident. Considering the charge in its entirety, however, to assess the over-all impact on the jury, see Commonwealth v. Sellon, 380 Mass. 220, 231-232 (1980); Commonwealth v. Albert, 391 Mass. 853, 857-858 (1984); Commonwealth v. Murray, supra at 705, we are convinced that the instruction could not seriously have misled the jury. The defendant conceded no issue and did not testify. The Commonwealth, as the judge instructed, bore the burden of proving four separate elements: that the defendant was the perpetrator of the act complained of, that he committed an act of intercourse, that the intercourse was with the victim named in the indictment, and that it took place against her will. The judge’s elucidation of the first element was somewhat mechanistic but not erroneous. Some emphasis on the identity of the perpetrator was called for, because the evidence from the rape kit indicated objectively that intercourse had occurred and the fact finder could view the pivotal question as the identity of the partner. The recitation of the factors relevant to mistaken identification did not recur when the judge summarized clearly and succinctly the elements the jury must find in order to return a guilty verdict. The somewhat vague objection at the close of the instructions asked only that the judge instruct the jury that the jury “should be told you have to prove that [the defendant] was there then,” a point that had, if anything, been much emphasized by.the judge’s instructions. We do not think the jury could have been misled as to the issues or its role.
+Brownlow M. Speer, Committee for Public Counsel Services, for the defendant.
+Elisabeth J. Medvedow, Assistant District Attorney, for the Commonwealth.
+Judgment affirmed.
