@@ -1,0 +1,34 @@
+---
+court: "Massachusetts Appeals Court"
+docket: "93-P-126"
+decided: "1994-04-21"
+citations: ["36 Mass. App. Ct. 367"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["William Bastianelli vs. National Union Fire Insurance Company."]
+source_url: "https://static.case.law/mass-app-ct/36/cases/0367-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4017000
+cites_cases: ["122 F.2d 600", "14 Mass. App. Ct. 352", "18 Mass. App. Ct. 323", "22 Mass. App. Ct. 927", "365 Mass. 816", "369 Mass. 501", "414 Mass. 450", "921 F.2d 911"]
+---
+
+# Bastianelli v. National Union Fire Insurance
+
+## Majority (Brown, J.)
+
+Brown, J.
+The plaintiff seeks to recover for trucking services provided by him to a subcontractor on a public works project for which the defendant Modern Continental Construction Company (Modern) was the general contractor. The plaintiff advances alternate theories: first, he alleges that the services were rendered directly to Modern, and thus, Modern owed him for their fair value. Alternatively, he claims that he is entitled to recover under a payment bond issued by the defendant National Union Fire Insurance Company (National) to Modern with respect to the project.
+The sole issue on appeal is whether the trial judge erred in holding that the plaintiff sufficiently complied with the notice requirement of G. L. c. 149, § 29, the payment bond statute, to permit recovery on the bond. We think that in the particular circumstances presented here the judge properly could conclude the statutory notice and statement of claim requirements of G. L. c. 149, § 29, were satisfied.
+The relevant facts are taken from the trial judge’s findings of fact. The plaintiff was engaged in February, 1990, by J.S.L. Corporation (J.S.L.), a subcontractor to Modern on this project, to perform trucking and hauling services. Upon completion of his work, he submitted a bill to J.S.L. for $1,678.75. Shortly thereafter, he received a check from Modern, made payable jointly to J.S.L. and to him, for $1,580. When he received the check, J.S.L. had already endorsed it. The plaintiff deposited the check and then sought to obtain the difference he was owed by notifying both J.S.L. and Modern. The bookkeeper for Modern told him that the company paid for hauling services at the rate of $40 per hour, whereas he, Bastianelli, had billed at $42.50 per hour. The plaintiff persisted in his demand, and eventually Modern sent him a second check for the difference of $98.75. This second check initially was issued to the plaintiff and J.S.L. jointly, but when J.S.L. refused to endorse it, another check was issued to the plaintiff alone.
+In June, 1990, the plaintiff did some more work for J.S.L. on the same project. Upon completion, the plaintiff sent an invoice for his work to Modern, made out to J.S.L. in care of Modern. The daily time slips, which were forwarded with the invoice, were all addressed to J.S.L. Modern initially declined to pay the plaintiff, taking the position that it had paid J.S.L. what J.S.L. was due and that the plaintiff had to look to J.S.L. for payment. A later offer by Modern to pay a compromise amount was declined by the plaintiff.
+The judge correctly stated that G. L. c. 149, § 29, “does not prescribe the form of the required notice” and all that the claimant is required to do is state with substantial accuracy the amount claimed and the name of the party for whom the work was performed. Concluding that the invoice accompanied by the daily slips fulfilled this notice requirement, the judge ruled that the plaintiff was entitled to recover $1,955 from the surety company under its bond and to reasonable legal fees. National appeals from the ensuing judgment.
+National argues that the plaintiff did not comply with the notice requirement of the statute because the invoices sent by the plaintiff to Modern did not reasonably put it on notice that the plaintiff was seeking recovery from the general contractor under the payment bond statute. See Cinder Prod. Corp. v. Schena Constr. Co., 22 Mass. App. Ct. 927, 929 (1986). There was no reversible error.
+The defendant places principal reliance on Federal case law to support its argument that invoices are not sufficient to constitute notice. See United States ex rel American Radiator & Standard Corp. v. Northwestern Engr. Co., 122 F.2d 600, 602 (8th Cir. 1941). However, in that case, the claimant submitted the invoices only to the subcontractor who, in turn, “appeared” to have given them to the general contractor merely for use in arriving at estimated payments which the government was to make. A later Federal case, United States ex rel Blue Circle West, Inc. v. Tucson Mech. Contracting, 921 F.2d 911, 914 (9th Cir. 1990), is likewise inap-posite. Similarly, in a case cited by the defendant, Barboza v. Aetna Cas. & Sur. Co., 18 Mass. App. Ct. 323, 325, 327-328 (1984), the claimant’s written notice to the general contractor was not timely.
+In the circumstances of this case, where the general contractor had previously paid the claimant directly, had notice of the subcontractor’s lack of cooperation, received its own copy of the invoice (and daily time slips) from the claimant, and offered a compromise amount to the claimant, “[w]e cannot say the judge’s ultimate finding that the claim of notice met the requirements of the statute ‘is either clearly erroneous or inconsistent with the relevant legal standards.’ ” Worcester Air Conditioning Co. v. Commercial Union Ins. Co., 14 Mass. App. Ct. 352, 357 (1982), quoting from Marlow v. New Bedford, 369 Mass. 501, 508 (1976).
+We make one final comment. Given the amount of money at stake ($1,955) and the fact of actual knowledge by the general contractor, we ordinarily would consider imposing sanctions on the appellant’s attorney (see Avery v. Steele, 414 Mass. 450, 457 [1993]), but for his claim that the matter at issue here is of great importance and genuine concern to the construction bar.
+Judgment affirmed.
+At the jury-waived trial, the judge ruled in favor of Modern on all counts.
+It has not been made to appear, nor has it been argued, that the judge’s findings are “clearly erroneous.” Mass.R.Civ.P. 52(a), 365 Mass. 816 (1974).
+The judge stated that Modern “does not dispute that it received the invoice and backup material within the time period prescribed in the statute.” That statement is challenged on appeal, but see note 2, supra.
+As to a claim that the plaintiff failed to send notice by registered or certified mail, it is sufficient to say that “[i]f actual timely notice is proved . . . , failure to comply with [such] requirement is not a fatal deviation from statutory procedures.” Cinder Prod. Corp. v. Schena Constr. Co., 22 Mass. App. Ct. at 929, and cases cited therein.
