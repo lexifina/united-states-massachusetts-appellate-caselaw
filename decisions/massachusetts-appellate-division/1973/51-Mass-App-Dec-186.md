@@ -1,0 +1,60 @@
+---
+court: "Massachusetts Appellate Division"
+docket: "52; No. 5188"
+decided: "1973-06-11"
+citations: ["51 Mass. App. Dec. 186"]
+reporter: "mass-app-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["N. B. LUMBER CORP. v. LEO BOISVERT"]
+source_url: "https://static.case.law/mass-app-dec/51/cases/0186-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4336609
+cites_cases: ["278 Mass. 429", "292 Mass. 213", "292 Mass. 293", "295 Mass. 527", "299 Mass. 455", "303 Mass. 553", "311 Mass. 477", "312 Mass. 570", "323 Mass, 106", "328 Mass. 524", "332 Mass. 383", "333 Mass. 746", "339 Mass. 4", "355 Mass. 580", "39 Mass. App. Dec. 55"]
+---
+
+# N. B. Lumber Corp. v. Boisvert
+
+## Majority (Rider, J.)
+
+Rider, J.
+This is an action in contract on the common count of goods sold and delivered. The defendant’s answer consists of a general denial, Statute of Frauds, Statute of Limitations, payment and accord and satisfaction.
+The court found for the plaintiff in the sum of $552.66 with interest of $36.00 to the date of the writ, and costs.
+All pleadings and all exhibits introduced at the hearing are incorporated by reference in the report. The exhibits are transferred to the Appellate Division without reproduction.
+At the trial there was evidence tending to show that:
+The defendant had been in the construction business since the late 1950’s and in August, 1968 he formed a corporation known as Pilgrim Remodeling & Building, Inc., of which he was president, treasurer and one of the three directors. The clerk and a director was Pauline L. Boisvert, of 271 Tarklin Hill Road, New Bedford, which was also the residential address of the defendant. The defendant personally appeared at the plaintiff’s place of business in October, 1968 and asked for a personal line of credit. There was no conversation or mention of Pilgrim Remodeling or Pilgrim Remodeling & Building, Inc. The defendant denied that this conversation took place. According to the exhibits, the plaintiff sold merchandise on October 22, 1968 in the amount of $144.20, on November 13, 1968 in the amount of $120.39, and on November 15, 1968 in the amount of $288.07. All invoices bore the statement “Sold to Pilgrim Remodeling, Nauset St. (or 128 Nauset St.) N. B.” Until after January 17, 1969, all statements were sent by the plaintiff to “Pilgrim Remodeling, Nauset Street, New Bedford, Mass.” On that date, the defendant as president of Pilgrim Remodeling & Building, Inc., 128 Nauset Street, New Bedford, Mass, wrote to the plaintiff concerning the financial reverses of the corporation and requested that any correspondence be addressed to “Pilgrim Remodeling & Building, Inc., P. O. Box No. N1156, New Bedford, Mass.” Thereafter all billing went to Pilgrim Bemodeling & Building, Inc. until September, 1969 when the account was turned over to plaintiff’s attorneys for collection. Prior to commencement of this action, no bills were ever sent to Leo Boisvert individually. There were no delivery instructions on the invoice of October 22, 1968. The invoice of November 13, 1968 bore the instruction “Del. to 1028 Pleasant St.” The invoice of November 15, 1968 bore the instruction “Del. to 215 Walnut St., N.B.” There was no evidence as to who actually ordered the merchandise nor as to who extended credit to Pilgrim Bemodeling.
+- At the close of trial and before the final arguments, the plaintiff filed the following requests for rulings, which were allowed by the court:
+1. The evidence warrants a finding that the plaintiff had no knowledge that it was doing business with a corporation when purchases were made by Leo Boisvert, the defendant.
+2. The evidence warrants a finding that the goods were sold and the line of credit offered to Leo Boisvert and not Pilgrim Bemodeling & Building, Inc.
+At the close of trial and before the final arguments, the defendant filed the following requests for rulings:
+1. The evidence does not warrant a finding that the defendant individually contracted with the plaintiff.
+2. The evidence does not warrant a finding that the defendant purchased the goods in question.
+3. This action is barred by the provisions of General Laws chapter 106, section 2-201.
+4. As a matter of law, this is [an action] to enforce a contract for the sale of goods for a price of five hundred dollars or more.
+5. The evidence warrants a finding that if any debt is owed the plaintiff the same is owed by the corporation Pilgrim Eemodeling & Building, Inc.
+6. The evidence does not warrant a finding that the. defendant is indebted to the plaintiff.
+The court took the following action on the defendant’s requests for rulings:
+1. Allowed, there was evidence by the defendant which if believed would warrant a finding that the defedant did not individually contract with the plaintiff, but I do not believe it.
+2. Allowed, (see 1).
+3. Denied, these were three separate transactions on three separate occasions and each less than $500.
+4. Denied, (see 3).
+5. Allowed, (see 1 and 2).
+6. Allowed, (seeland2).
+The court filed the following Memorandum of Findings of Fact:
+“This is an action of contract in the amount of $600, commenced by writ dated January 8, 1970. The declaration seeks in one count on an account aimed (sic) for $552.66 and interest. The defendant alleges a general denial, Statute of Limitations, Statute of Frauds, Payment and Accord and Satisfaction.
+I find that on October 22, 1968, the defendant saw one LeBlanc, the general manager of the plaintiff corporation, and asked him if his corporation could supply him (Boisvert, the defendant) with materials. The defendant was a contractor. I find that there was no mention by the defendant that he represented a corporation, and that LeBlanc cleared the defendant for credit on his character and his former acquaintance with him. I find that LeBlanc called the lumberyard and told someone to extend the defendant credit. I find that the bookkeeper, one Andrade, billed the goods to “Pilgrim Remodeling” and no mention was made to her of a corporation.
+I find that the defendant purchased goods on November 13, 1968, for $120.39; November 15, 1968, for $288.07, and November 22, 1968, for $144.20. They were all separate purchases and each less than $500.00.
+I find that the plaintiff corporation, through Andrade, billed the defendant several times at “Pilgrim Remodeling” and on January 17, 1969, first received a letter from, the defendant indicating that his firm was a corporation and that they could not pay at that time. I find that this was the first notice of the plaintiff of the fact that the defendant was a corporation and that credit originally was not extended to the defendant’s corporation but to the defendant personally.
+I find $552.66 to be a fair and reasonable bill.”
+The defendant claiming to be aggrieved by the allowance of the plaintiff’s requests for rulings and the allowance of the defendant’s requests for rulings numbered 1, 2, 5 and 6, but with special findings and references, and the denial of defendant’s requests for rulings, numbered 3 and 4, with special findings and references, and by the court’s Memorandum of Findings of Fact as not being warranted by the evidence, claims a report to the Appellate Division for determination.
+We consider first the defendant’s claim that he is aggrieved by the findings of fact made by the trial judge. There is no merit to such a contention. A party may claim a report to the Appellate Division only with respect to rulings of law and not to findings of fact. G.L. c. 231, § 198, as amended. Castano v. Leone, 278 Mass. 429, 430. Butler v. Cromartie, 339 Mass. 4, 6. Huikari v. Eastman, 1972 Mass. Adv. Shs. 1339.
+With respect to the allowance of plaintiff’s requests for rulings there was no error. If there was evidence which would support such findings, the plaintiff “was entitled to that ruling or to a statement of findings of fact showing that the requested ruling had become irrelevant.” Bresnick v. Heath, 292 Mass. 293, 298: Marquis v. Messier, 303 Mass. 553, 555, 556. Hurley v. Ornsteen, 311 Mass. 477, 480. The judge made specific findings of fact relating to these requests, and we cannot say that he was plainly wrong. Codman v. Beane, 312 Mass. 570, 573. O’Toole v. Magoon, 295 Mass. 527, 529-530. McKenna v. Andreassi, 292 Mass. 213, 215.
+Defendant’s requests for rulings Nos. 1, 2 and 6 called upon the court to rule that the evidence would not, in the light most favorable to the plaintiff, sustain a finding that the defendant contracted with the plaintiff, purchased the goods in question or is indebted to the plaintiff. The judge was not obliged to believe the defendant’s testimony denying that a conversation took place between the defendant and LeBlanc on October 22, 1968. It may be of some significance that from exhibits introduced in evidence, the first purchase was made on the same date. (In the report and in the judge’s findings of fact the date of this sale appears as November 22, 1968, but plaintiff’s invoice, statement and Ledger entry bear the date of October 22, 1968). The trial judge found that the defendant purchased the goods in question in three separate purchases. Under the circumstances, the inferences would be permissible that the defendant gave instructions as to where and to whom the billing should be directed. Although the trial judge allowed these requests, he qualified his allowance thereof by the statement that he did not believe defendant’s evidence upon which these requests were based. In view of the findings of fact made by the judge, these three requests should have been denied in order to avoid any appearance of inconsistency.
+However, “where there is an inconsistency between a ruling and a finding, the remedy is either a motion to correct the inconsistency or a motion for a new trial.” Raytheon Manufacturing Company v. Indemnity Insurance Company of North America, 333 Mass. 746, 749. Biggs v. Densmore, 323 Mass, 106, 108-109. E. A. Strout Realty Agency, Inc. v. John Gargan, 328 Mass. 524, 528. Since the defendant pursued neither course, the question of inconsistency is not presented.
+The defendant was not aggrieved by the allowance of his request Ho. 5. By reference to his statement in connection with the defendant’s first two requests, the judge was in essence stating that although he allowed request Ho. 5 he did not so find. A trial court not infrequently grants requests for rulings, then finds against the same party. That is not necessarily inconsistent. Strong v. Haverhill Electric Company, 299 Mass. 455. Mastercraft Wayside Furniture Co. v. Sightmaster Corp., 332 Mass. 383, 388. Berger v. Stoner, 39 Mass. App. Dec. 55, 60.
+John A. Markey, Joseph P. Harrington for Plaintiff
+Desmarais, Carey, Burke & Fishing for Defendant
+Moreover, the judge found that the defendant personally was the one to whom credit was extended, “that is, the one who was expected to pay and who in fact expected to pay or as a reasonable man should have expected to pay.” LiDonni, Inc. v. Hart, 355 Mass. 580.
+There was no error in the denial by the trial judge of defendant’s requests for rulings Nos. 3 and 4. The judge found that there “were three separate transactions on three separate transactions on three separate occasions and each less than $500,” thereby removing each contract of sale from the Statute of Frauds. G.L. c. 106, § 2-201 (1). This funding will not be disturbed unless clearly wrong. Codman v. Beane, O’Toole v. Magoon, and McKenna v. Andreassi (supra).
+An order should be entered dismissing the report.
+The Report “incorporates by reference all exhibits introduced at the hearing which are to be transferred to the Appellate Division without reproduction and may be referred to in arguments and briefs.” In several instances there are discrepancies between the facts as stated in the report and as they appear in the exhibits. In each instance we have followed the documentary evidence of the exhibits in the preparation of this opinion.
