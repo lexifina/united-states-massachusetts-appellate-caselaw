@@ -1,0 +1,37 @@
+---
+court: "Massachusetts Appellate Division"
+decided: "1938-03-21"
+citations: ["3 Mass. App. Div. 82"]
+reporter: "mass-app-div"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["EVELYN KORELITZ, Assignee vs. DAVID GILLESPIE"]
+source_url: "https://static.case.law/mass-app-div/3/cases/0082-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3880815
+cites_cases: ["100 Mass. 249", "118 Mass. 482", "12 Gray, 341", "172 Mass. 460", "178 Mass. 130", "178 N. Y. 562", "238 N. Y. 362", "275 Mass. 291", "281 Mass. 297", "81 App. Div. 3642"]
+---
+
+# Korelitz v. Gillespie
+
+## Majority (Jones, P. J.)
+
+Jones, P. J.
+This is an action of contract to recover the sum of $262.44, the balance alleged, to be due with interest for goods sold and delivered by the plaintiff’s assignor. The answer is a general denial and a special defense that the defendant gave to the plaintiff six promissory notes totalling $150 in full satisfaction of plaintiff’s claim and that the same have been- paid in full.
+It could be found on the evidence,, and it was found that the defendant purchased goods of plaintiff’s assignor between July 14, 1924, and January 14, 1927 to the amount of $880.51; that between the first mentioned date and November 10, 1936, defendant paid plaintiff $805.79, leaving a balance of $74.72 due on the latter date; that no agreement was made between the parties as to interest; that on or about November 10, 1936 a demand was made for payment of the balance due of $74.72 so' that interest became due thereon from the latter date, if anything was then due; that on or about that date plaintiff and defendant discussed the balance due. In the discussion the plaintiff asserted the balance due as $224.72 and the defendant admitted to be due the sum of $214. As a result of this conversation the plaintiff through her attorney agreed to accept, in full payment of the account, six promissory notes signed by the defendant, aggregating $150. Such notes were executed by the defendant, given to the plaintiff, and ultimately paid.
+Upon these facts the trial judge made a finding for the difference between the amount claimed by the plaintiff to be due November 10, 1936 and the amount of the notes given for $150, equalling $64.72, in which amount the trial judge found for the plaintiff with interest from the latter date. He made a special ruling upon the facts:
+“I rule that there was no accord and satisfaction, and that payment by notes of a sum less than the amount of the debt due, entering into an agreement that such payments shall extinguish the entire debt, does not constitute payment thereof unless under seal, even though such agreement was entered into in good faith hy the parties and payment of such smaller sum was made in reliance upon such agreement.”
+Defendant’s motion for a directed verdict was denied and his requests for rulings and action thereon by the court were as follows:
+1. The evidence, in this case, is insufficient to warrant or support a finding for the plaintiff. Denied, taking all the evidence as a whole.
+2. The evidence in this case is sufficient to warrant or support a finding for the defendant. Denied.
+3. Where the plaintiff’s claim is unliquidated or in dispute, the execution and payment by the defendant to the plaintiff of a note or a series of notes, in a lesser amount than the unliquidated claim is, as a matter of law, accord and satisfaction. Granted as to an unliquidated claim but denied as a claim in dispute where the defendant admits owing a sum larger than the sum total of the series of notes given in payment therefor.
+5. An accord and satisfaction is an absolute and complete defense to any action on the. original claim or demand, and it precludes the raising of any defense on the merits to items which were originally in dispute.
+4. An accord and satisfaction is binding and controlling ; it extinguishes, discharges and supersedes the original demand and bars any action or proceeding thereon on the recovery of any alleged balance thereof. Requests 4 and 5 were granted in the following language, — “I find, however, that the facts of this case do not constitute an accord and satisfaction.”
+The correct rule for the basis of such a ease as this is laid down in The First National Bank of Boston v. Peter Cartoni, Mass. Adv. Shts. (1936) p. 1479, at page 1482, where it is said, — “It is settled in this Commonwealth that the payment of a lesser sum in satisfaction of a larger overdue liquidated sum does not discharge the whole debt, nor bar an action to recover the rest”; citing Harriman v. Harriman, 12 Gray, 341. The burden of proving a discharge of liability is upon the defendant. Rosenblatt v. Holstein Rubber Co., 281 Mass. 297, 300.
+There was a dispute between the parties in. this case of the amount claimed due. The defendant admitted that there was due the sum of $214 and therefore the payment of any sum less than this, even though the agreement was that it should be in full satisfaction of .the debt could not on the authority of the above cases effect a discharge of the amount due. Neither does the fact that the payment was made by a note take this case out of the rule. Perkins v. Lockwood, 100 Mass. 249, Curran v. Rummell, 118 Mass. 482. Emerson v. Gerber, 178 Mass. 130, 133. The trial judge could not rule any differently than he did. Harriman v. Harriman, 12 Gray 341; Specialty Glass Co. v. Daley, 172 Mass. 460.
+There was no error therefore in the treatment of defendant’s requests for rulings. This rule is not changed any because the amount that was paid by the defendant was in the form of notes and not cash. And according" to the weight of authority, the acceptance of defendant’s unsecured negotiable note for a sum less than the defendant claimed to be due cannot operate as an accord and satisfaction, although accepted as such by the plaintiff, because no consideration for the same passed between the parties. See “Accord and Satisfaction” 1st C. J. pages 549, 658, and cases in note 80.
+The acceptance of a check for an undisputed part of a disputed claim does not operate as a release of the balance of the claim, even though the checks purport to be in settlement of the total amount due. Shumaker v. Lucerne-in-Maine Commumty Association, 275 Mass. 291. In Schmell et al. v. Pearlman, 238 N. Y. 362, the rule applicable has been stated as follows: “The general rule is that a liquidated claim, that is, a claim which is not disputed but admitted to be due, cannot be discharged by any payment of a lesser amount.” In this case the sum admitted by defendant to be due was $214, while the sum he paid was only $150. In Jackson v. Volkening, 81 App. Div. 3642, affirmed in 178 N. Y. 562, the following language was used,—
+“The rule of law is well established, undoubtedly, that where a liquidated sum is due, the payment of part only, although accepted in satisfaction is not, for want of consideration, a discharge of the entire indebtedness.”
+Plaintiff’s claim that the amount filed by the trial judge is not correct cannot be taken care of in this case because he has no- objection before us in the record with relation to this matter. The judge made the finding of the amount due and there is some evidence that this is the correct amount.
+There was no prejudicial error therefore in the treatment of the defendant’s requests for rulings.
+Report dismissed.
