@@ -1,0 +1,36 @@
+---
+court: "Massachusetts Appeals Court"
+docket: "98-P-2110"
+decided: "2000-06-14"
+citations: ["49 Mass. App. Ct. 397"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Commonwealth vs. Aurelio Pinero."]
+source_url: "https://static.case.law/mass-app-ct/49/cases/0397-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 95001
+cites_cases: ["108 Mass. 433", "121 F.3d 1187", "363 Mass. 220", "382 Mass. 387", "384 Mass. 353", "400 Mass. 676", "405 Mass. 369", "421 Mass. 415", "427 Mass. 541", "43 Mass. App. Ct. 583", "45 Mass. App. Ct. 271", "46 Mass. App. Ct. 191", "468 U.S. 317", "91 Md. App. 456"]
+---
+
+# Commonwealth v. Pinero
+
+## Majority (Gillerman, J.)
+
+Gillerman, J.
+The defendant was convicted by a Superior Court jury of assault and battery, G. L. c. 265, § 13A. The same jury failed to reach a verdict on a second indictment charging assault with intent to rape, G. L. c. 265, § 24. Sentencing on the conviction was postponed until after the second indictment was retried. At the retrial, a second jury convicted the defendant on that second indictment. The defendant was then sentenced on both convictions, and he appealed.
+We state the material facts briefly. According to the victim, the defendant approached the victim in her driveway, threatened her, and stated, in so many words, that he intended to rape her. As the victim attempted to flee, the defendant grabbed her around the neck and choked her. The victim managed to sound her car horn, and the defendant fled. He was subsequently arrested based on the victim’s identification.
+The defendant’s version of the incident acknowledged an encounter with the victim but disavowed any acts that could be construed as an intent to rape. After receiving Miranda warnings, however, the defendant did sign a statement that he had a brief physical struggle with the victim.
+The defendant’s appeal rests on the claim that his conviction at the second trial on the charge for assault with intent to rape violated the protection provided by double jeopardy principles, because he previously had been convicted of assault and battery in connection with the same incident.
+Discussion. The Fifth Amendment to the United States Constitution, applicable to the States through the Fourteenth Amendment, as well as the statutory and common law of the Commonwealth, recognize the prohibition against double jeopardy. See Luk v. Commonwealth, 421 Mass. 415, 416 nn.3-4 (1995). The clause protects against three abuses: “a second prosecution for the same offense after acquittal; a second prosecution for the same offense after conviction; and multiple punishments for the same offense.” Id. at 419.
+Whether a defendant may be punished in a single proceeding for the violation of two statutory offenses arising from the same act or series of acts turns on “whether each crime requires proof of an additional fact that the other does not.” Commonwealth v. Crocker, 384 Mass. 353, 357 (1981), quoting from Commonwealth v. Jones, 382 Mass. 387, 393 (1981). See Morey v. Commonwealth, 108 Mass. 433, 434 (1871). “If so, neither crime is a lesser-included offense of the other, and convictions on both are deemed to have been authorized by the Legislature and hence not duplicitious.” Commonwealth v. Crocker, supra, quoting from Commonwealth v. Jones, supra.
+Ordinarily, assault and battery is not a lesser included offense of assault with intent to rape. Compare Commonwealth v. McKay, 363 Mass. 220, 228 (1973) (simple assault is a lesser included offense within the crime of assault with intent to rape). The touching required for the battery charge, see Commonwealth v. Garofalo, 46 Mass. App. Ct. 191, 192-193 (1999), is not an element of assault with intent to rape, and convictions on both charges would not be prohibited as duplicative. Contrast Commonwealth v. Sanchez, 405 Mass. 369, 381 (1989) (conviction for indecent assault and battery duplicative of the conviction for rape of a child by force).
+In this case and at both trials, the judge erroneously instructed the jury that touching was an element of the assault with intent to rape. This instruction became the law of the case, Commonwealth v. Thomas, 400 Mass. 676, 681-682 (1987); Commonwealth v. Sanchez, 405 Mass. at 382, and had the effect of making assault and battery, for purposes of this case only, a lesser included offense of the charge of assault with intent to rape.
+From this the defendant argues — since a “touching” was acknowledged by him at both the first and second trials — that his conviction of the lesser offense, assault and battery, followed at the second trial by his conviction of the greater offense, assault with intent to rape, was proscribed by the double jeopardy clause.
+The argument overlooks the principle that, with respect to the indictment on which the jury were hung, the defendant was not placed twice in jeopardy. When a trial terminates because of the inability of the jury to reach a verdict, jeopardy is continuing, and the defendant may be retried on the same charge. See Richardson v. United States, 468 U.S. 317 (1984).
+For this reason the Commonwealth’s waiver argument, see Commonwealth v. Spear, 43 Mass. App. Ct. 583, 587 (1997) (“the defense of double jeopardy is indeed waived if not raised by a defendant prior to a second trial”), has no merit. Since the defendant had no potential double jeopardy claim at the beginning of the second trial — original jeopardy then still continuing — the defendant cannot be held to have waived his rights by failing to object at the commencement of the second trial.
+We conclude that, as a result of the judge’s instructions, the sentences imposed on the charge of assault and battery and the charge of assault with intent to rape are duplicative. The sentence imposed on the assault with the intent to rape is valid, and the judgment is affirmed. We vacate the judgment of conviction of assault and battery and the sentence imposed thereon. See Commonwealth v. Thomas, 400 Mass. at 682. See also LaFave, Israel & King, Criminal Procedure § 25.4(d), at 686-687 (2d. ed. 1999) (“no acquittal of a greater offense is suggested by conviction of a lesser offense when the jury is unable to reach agreement on the higher offense, and this ‘disagreement’ is formally entered on the record”), citing, at n.44, United States v. Bordeaux, 121 F.3d 1187 (8th Cir. 1997), and Mauk v. State, 91 Md. App. 456 (1992) (“characterizing a retrial on the greater offense as one of continuing jeopardy when it was clear that jury convicted of the lesser included offense but was ‘hung’ as to the greater offense”).
+So ordered.
+The defendant correctly makes no claim that our common law provides greater protection than Federal principles of double jeopardy. See Luk v. Commonwealth, 421 Mass. at 416 n.3.
+Neither party argues that the episode involved separate acts.
+Jeopardy may be terminated by a mistrial if prosecutorial misconduct, or judicial misconduct, is intended to provoke the defendant to move for a mistrial. See Commonwealth v. Nolan, 427 Mass. 541, 542 (1998); Commonwealth v. Cobb, 45 Mass. App. Ct. 271, 274 (1998).
