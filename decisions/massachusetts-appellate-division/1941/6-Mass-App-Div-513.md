@@ -1,0 +1,36 @@
+---
+court: "Massachusetts Appellate Division"
+decided: "1941-12-13"
+citations: ["6 Mass. App. Div. 513"]
+reporter: "mass-app-div"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Present: Hibbard, P. J., Robbins & Parker., JJ."]
+parties: ["ALICE G. MILLET ET ALS. vs. REID BROTHERS EXPRESS, INC."]
+source_url: "https://static.case.law/mass-app-div/6/cases/0513-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3883072
+cites_cases: ["218 Mass. 258", "225 Mass. 170", "230 Mass. 193", "232 Mass. 129", "241 Mass. 217", "243 Mass. 398", "252 Mass. 47"]
+---
+
+# Millet v. Reid Bros. Express, Inc.
+
+## Majority (Robbins, J.)
+
+Robbins, J.
+These six cases for personal injuries and property damage all grow out of a collision between a car and a truck. The car was owned by one plaintiff and the other five plaintiffs were riding in it when it was struck by a truck alleged to have been negligently operated by an agent or servant of the defendant. The defence was that the truck was not being operated by a person under the control of and for whose conduct the defendant was responsible, and that the operator of the truck at the time and place of the accident was not the servant or agent of the defendant, and not in the business or service of the defendant.
+At the trial it was agreed that the facts relating to liability in each of the cases were identical and that if the evidence warranted a finding of liability on the part of the defendant, a finding should be entered for each plaintiff in a certain amount, but if the evidence did not warrant such a finding, judgment should be entered for the defendant in each case.
+The evidence showed that at about 9:45 P. M. on August 14,1939, the car owned or used by the plaintiffs was stopped on the ramp between the Worcester Turnpike and the Hartford Pike, waiting to make a right turn into the Hartford Pike; that while the vehicle was so stopped it was struck in the rear by a tractor trailer outfit; that the plaintiff, Alice Gr. Millet, got out of the car as soon as she could; that she went around to the front and went between the cars; that she thought the trailer was loaded; that an occupant of the tractor trailer was coming around from his driver’s seat; that she had some talk with this party who asked her if anyone was hurt and she said she did not know; that he asked her about the damage to the car and she said there was quite a little; that he came over and cut off the tail light and threw it in the trunk of plaintiff’s car; that she gave him a paper and asked him to write out the name of the company and all; that she took it for granted that he would put his own name and license on it; that she supplied the paper and that he wrote on the paper “Beid Brothers Express, 1022 Nbrth Main Street, Akron, Ohio.” This paper was introduced in evidence.
+The plaintiff further testified that she saw a name on the cab of the tractor trailer “Beid Brothers, Akron, Ohio”; that she saw a plate, maroon with white letters with the number 1250; that she did not know what the plate was; that the spelling of the words on the cab part of the truck corresponded with the spelling of the words as written by the party who wrote out the name on the piece of paper; that there was no street address on the cab, just “Beid Brothers Express, Akron, Ohio”, and that there were two people in the tractor trailer dressed in working clothes.
+The defendant offered no evidence.
+The defendant seasonably made the following requests for rulings in each case:
+1. The evidence does not warrant a finding of negligence on the part of the defendant.
+2. The evidence does not warrant a finding that the operator of the vehicle alleged to have caused the plaintiff’s injuries was one for whose conduct the defendant is liable.
+The only question presented and argued is whether or not there was sufficient evidence to warrant a finding that the driver of the truck at the time of the collision was a person for whose negligence the defendant was responsible.
+We are of the opinion that such a finding was not warranted.
+The plaintiffs rely upon the case of Breen v. Dedham Water Company, 241 Mass. 217. In that case the plaintiff sought recovery for injuries caused by the negligent operation of a truck. On the truck appeared the name “Dedham Water Company” and it was driven by one Dervan at the time of the accident, which was about 8 A. M. The plaintiff had seen the truck many times, knew the driver, and had seen him driving it about a dozen times before the accident. The driver was alone in the truck and it contained picks and shovels suitable to the defendant’s use. A majority of the court held that the jury were warranted in finding that the truck was owned or controlled by the defendant, and that on the evidence, and the rational inferences to be drawn therefrom, it could have been found that the driver at the time of the accident was employed by the defendant and was engaged in its business. This Breen case goes further than any other case in extending liability under similar circumstances.
+The case at bar is distinguishable from the Breen case. There is here no evidence of the name or identity of the driver and neither the truck nor its driver had ever been seen previously by any witness. The truck was loaded but we do not know of what the load consisted. We believe the Breen case is not a precedent for the case at bar.
+Even if we assumed that there was sufficient evidence to warrant a finding that the defendant owned the truck and that the driver was generally the defendant’s servant, yet there was no evidence to show that the driver was then acting within the scope of his employment.
+In the case of Washburn v. R. F. Owens Co., 252 Mass. 47, at 53 the Court said “The law of Massachusetts is well settled that proof that the driver of a motor vehicle was in the general employ of the defendant at the moment of the accident, and that the defendant was the owner of the vehicle, is not enough to prove that the driver was then acting within the scope of his employment. Porcino v. DeStephano, 243 Mass. 398, Gardner v. Farnum, 230 Mass. 193. Marsal v. Hickey, 225 Mass. 170. Hartnett v. Gryszmish, 218 Mass. 258." The case from which this quotation is taken was where a truck ran into the rear of another vehicle with many of its circumstances similar to the case at bar. The court there refused to draw any inference that the truck was being used in the defendant’s business because it was loaded with unknown articles of unknown ownership, and said that there was no burden of explanation on the defendant.
+Another case supporting the proposition that proof of the defendant’s ownership of an automobile and that the driver was in his general employ are not enough to warrant a finding that the driver was acting within the scope of his employment, is O’Rourke v. A-G Co., Inc., 232 Mass. 129, 131.
+Since there was not sufficient evidence to warrant a finding that the driver of the truck was acting within the scope of his employment by the defendant, the two rulings requested by the defendant should have been given, and as such rulings bar recovery, judgment must be entered for the defendant in all six cases.
