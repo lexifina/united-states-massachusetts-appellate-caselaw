@@ -1,0 +1,23 @@
+---
+court: "Massachusetts Appeals Court"
+decided: "1986-12-16"
+citations: ["23 Mass. App. Ct. 936"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["City of Cambridge vs. Civil Service Commission & another."]
+source_url: "https://static.case.law/mass-app-ct/23/cases/0936-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3992975
+cites_cases: ["13 Mass. App. Ct. 20", "14 Mass. App. Ct. 985", "16 Mass. App. Ct. 331", "21 Mass. App. Ct. 904", "22 Mass. App. Ct. 364", "338 Mass. 10", "365 Mass. 368", "367 Mass. 921", "389 Mass. 508"]
+---
+
+# City of Cambridge v. Civil Service Commission
+
+## Majority
+
+This is an action in the nature of certiorari (G. L. c. 249, § 4, as appearing in St. 1973, c. 1114, § 289) in which the city has appealed from a judgment of the Superior Court which, in effect, affirmed a decision of the commission by which it modified the penalty of discharge which the local appointing authority had meted out to a police officer who had admitted at the hearing before the authority that he was guilty of and deserved to be disciplined on the two (out of five) charges against him which were ultimately sustained. G. L. c. 31, § 43, second par., as appearing in St. 1981, c. 767, § 20. It is agreed that the officer should have been disciplined in some fashion. 1. Neither of the charges arose out of the officer’s performance of his assigned duties or his relations with the public. The charge of insubordination was not based on disobedience. The other charge involved violations of departmental policy which smacked of dishonesty but were not found to constitute offences under the criminal law. The commission was careful to articulate its reasons for modifying the penalty to one of suspension for eighteen plus months. Compare Dedham v. Civil Serv. Commn., 21 Mass. App. Ct. 904, 907 (1985). Contrast Commissioner of the Metropolitan Dist. Commn. v. Civil Serv. Commn., 13 Mass. App. Ct. 20, 22-23 (1982); Faria v. Third Bristol Div. of the Dist. Court Dept., 14 Mass. App. Ct. 985, 986-987 (1982). We have carefully reviewed such portions of the record before the commission as have been properly reproduced in the city’s record appendix and cannot conclude that the modification of penalty was “based upon such a profound misunderstanding of the role of a police officer that it either rises to the level of a substantial error of law or is capricious to such a degree that it must, in the public interest, be reversed.” Police Commr. of Boston v. Civil Serv. Commn., 22 Mass. App. Ct. 364, 370-371 (1986). Some of the city’s arguments are grounded on nothing firmer than a stubborn refusal to acknowledge, as explained in Dedham v. Civil Serv. Commn., 21 Mass. App. Ct. at 906, that no question of modification of penalty was involved in Watertown v. Arria, 16 Mass. App. Ct. 331 (1983). Other arguments are based on failure to comprehend that the officer has never been charged with being unfit to perform the duties which have been or might be assigned to him. There is nothing in the amended decision of the commission which would prevent the city from proceeding against the officer on that ground if it can muster evidence which will meet the standard of proof set out in the second paragraph of G. L. c. 31, § 43. See Fire Commr. of Boston v. Joseph, ante 76, 81-83 (1986). 2. We do not consider any question whether the commission improperly delegated a portion of its authority to the pyschiatrist whose favorable report was made a condition of the officer’s returning to duty because no such question appears to have been raised before the commission, either in the city’s motion for reconsideration or otherwise. Murray v. Second Dist. Court of E. Middlesex, 389 Mass. 508, 515 (1983). 3. We do not consider whether there may have been error in the commission’s selection of the psychiatrist. The selection was made after the commencement of the action in the Superior Court, and the court was never requested to consider the point (if there was one). Milton v. Civil Serv. Commn., 365 Mass. 368, 379 (1974). 4. There is no merit to any of the other questions which have been “argued” within the meaning of Mass.R.A.P. 16(a)(4), as amended, 367 Mass. 921 (1975). See Lolos v. Berlin, 338 Mass. 10, 13-14 (1958). We do not see that the Superior Court committed any “error [] . . . which [has] adversely affected the real interests of the general public.” Murray v. Second Dist. Court of E. Middlesex, 389 Mass. at 511.
+Kenneth A. Behar for the plaintiff.
+Mark D. Stern for James Hite.
+Leonard G. Learner, Assistant Attorney General, for Civil Service Commission.
+Judgment affirmed.
