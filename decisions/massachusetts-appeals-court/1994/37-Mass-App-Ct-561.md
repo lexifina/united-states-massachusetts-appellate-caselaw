@@ -1,0 +1,28 @@
+---
+court: "Massachusetts Appeals Court"
+docket: "92-P-929"
+decided: "1994-10-26"
+citations: ["37 Mass. App. Ct. 561"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Walter T. Gangl & another vs. Ford Motor Credit Company."]
+source_url: "https://static.case.law/mass-app-ct/37/cases/0561-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4020495
+cites_cases: ["30 Mass. App. Ct. 346", "365 Mass. 823", "368 Mass. 174", "390 Mass. 1", "410 Mass. 479", "535 F.2d 742", "617 F.2d 1248", "797 F.2d 151", "82 U.S. 552"]
+---
+
+# Gangl v. Ford Motor Credit Co.
+
+## Majority (Armstrong, J.)
+
+Armstrong, J.
+Walter T. Gangl sued for injuries suffered when a vehicle struck his bicycle. The vehicle, a leased truck driven by Anthony Silva, was registered to Ford Motor Credit Company (Ford Credit). Ford Credit was defaulted for its failure to file an answer. The case went to trial against Silva, whom the jury found not to have been negligent. The judge, over objection, had the jury then determine damages to be assessed against Ford Credit, and the jury found damages in the amount of $254,000 for Gangl and $20,000 for his wife. Judgment was entered accordingly, and Ford Credit appealed.
+Ford Credit had filed a motion for removal of the default, which was denied in June, 1990, more than a year before trial against Silva was had and before discovery was completed. Its objection to the submission to the jury for assessment of damages, and to entry of the judgment thereon, was, in effect, a renewed motion under Mass.R.Civ.P. 55(c), 365 Mass. 823 (1974), for removal of the default. This rule is identical to the corresponding Federal rule (Fed.R.Civ.P. 55 [c]), and our practice under it is to be guided by that of the Federal courts. There the principle uniformly applied, deriving from the pre-rules decision in Frow v. De La Vega, 82 U.S. 552 (1872), is that “a default judgment may not be entered against one of [two] defendants (1) where the theory of recovery is one of true joint liability, such that, as a matter of law, [neither] defendant may be liable unless [both] are liable, or (2) where the nature of the relief demanded is such that, in order to be effective, it must be granted against each . . . defendant.” 6 Moore’s Federal Practice par. 55.06, at 55-49 (2d ed. 1994). “Frow stands for the proposition that if at trial facts are proved that exonerate certain defendants and that as a matter of logic preclude the liability of another defendant, the plaintiff should be collaterally es-topped from obtaining a judgment against the latter defendant, even though it failed to participate in the proceeding in which the exculpatory facts were proved.” Farzetta v. Turner & Newell, Ltd., 797 F.2d 151, 154 (3d Cir. 1986). The result is different in cases involving joint and several liability, because, “when different results as to different parties are not logically inconsistent or contradictory, the rationale for the Frow rule is lacking.” In re Uranium Antitrust Litigation, 617 F.2d 1248, 1257-1258 (7th Cir. 1980). But “Frow controls in situations where the liability of one defendant necessarily depends upon the liability of the others.” International Controls Corp. v. Vesco, 535 F.2d 742, 746-747 n.4 (2d Cir. 1976).
+This case is of the last type. No allegation of the complaint, and nothing in the record, suggests any basis for finding Ford Credit responsible for the plaintiffs’ damages other than that it was the registered owner of the truck and is thus, under G. L. c. 231, § 8 5A, deemed prima facie responsible for Silva’s operation. Like the responsibility of a principal for the negligence of his agent, or a master for that of his servant, the liability of the registered owner is not joint and several, but derivative. See Elias v. Unisys Corp., 410 Mass. 479, 481-482 (1991). A finding that the agent or servant is not negligent compels a similar finding, as matter of law, for the principal or master. Id. at 481. Contrast Taplin v. Chatham, 390 Mass. 1, 3 (1983) (agent’s statutory immunity does not extend to principal against whom liability is sought under the doctrine of respondeat superior). The jury’s finding that Silva was not negligent vitiated any basis for judgment against Ford Credit.
+A judgment holding Silva not negligent and imputing his negligence to Ford Credit obviously would be internally inconsistent. We are aware of only one instance in which our law countenances the entry of inconsistent judgments in the same case, that being in practice under G. L. c. 93A. See Chamberlayne Sch. v. Banker, 30 Mass. App. Ct. 346, 354-355 (1991). That exception is predicated on a statutory scheme that authorizes two independent fact finders, the jury and the judge, to act on different claims (the common law claims and the c. 93A claims) in the same case. No statute or rule compels inconsistent judgments in this case, and no relevant precedent that we have found justifies it. It was error to assess damages against Ford Credit after the jury found Silva not negligent. The judgment is reversed, and a new judgment is to be entered for the defendant.
+So ordered.
+The truck was leased for four years to Edward Silva, Anthony’s father, and Ford Motor Credit Co. became the assignee of the lease. The second amended complaint (see note 3) named Edward Silva as a defendant, but the claim against him was later dismissed voluntarily.
+It had also used the occasion of the plaintiffs’ filing a second amended complaint to file a timely answer, but this was struck on motion of the plaintiffs.
+Rollins Envtl. Servs., Inc. v. Superior Court, 368 Mass. 174, 179-180 (1975).
