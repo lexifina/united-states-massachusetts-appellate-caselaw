@@ -1,0 +1,26 @@
+---
+court: "Massachusetts Appeals Court"
+decided: "1983-11-09"
+citations: ["17 Mass. App. Ct. 913"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Commonwealth vs. Mark Collett."]
+source_url: "https://static.case.law/mass-app-ct/17/cases/0913-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3980006
+cites_cases: ["15 Mass. App. Ct. 400", "374 Mass. 765", "381 Mass. 246", "385 Mass. 551", "387 Mass. 424", "7 Gray 585"]
+---
+
+# Commonwealth v. Collett
+
+## Majority
+
+There was evidence that blows inflicted by the defendant caused Stacey Whitaker, a seven-month-old baby, to suffer brain damage (subdural hematoma) which resulted in her death. A jury returned a verdict against the defendant of second degree murder.
+1. It was competent .for Betsy John, a social worker, to testify (see Commonwealth v. Collett, 387 Mass. 424 [1982]) that after the defendant said he hit the child and showed her how he hit the child she responded, “That that kind of force could not have created the injuries that Stacey had.” Miss John was asked to report her conversation with the defendant, not to render an expert opinion on what kind of blow could have caused the baby’s death. As to the latter, the Commonwealth offered the testimony of two physicians, one the director of the pediatric intensive care unit at Massachusetts General Hospital, who treated the baby, and the other the associate medical examiner of Suffolk County. Both testified that the severity of the cerebral injuries was not consistent with the defendant’s explanations of how the baby was hurt. Thus, even were one to posit that Miss John’s testimony, by indirection, could have been understood by the jury as an expression of her view that something other than a fall caused the baby’s injuries, the jury heard more direct and more expert evidence on that score.
+2. After Miss John testified that she had said to the defendant, “That kind of force could not have created the injuries that Stacey had,” the prosecutor asked: “Did he respond to that?” Over objection, Miss John was allowed to answer: “I don’t believe he responded to that.” The defendant argues that the question solicited an answer similar to a denial of wrongdoing or a false statement implying consciousness of guilt, which the opinion in Commonwealth v. Collett, 387 Mass. at 435, suggested came under the social worker’s privilege conferred by G. L. c. 112, § 135. While there are circumstances when silence may be regarded as a tacit admission (see Commonwealth v. United Food Corp., 374 Mass. 765, 772 [1978]), and Liacos, Handbook of Massachusetts Evidence 287-288 [5th ed. 1981]), it stretches Miss John’s equivocal testimony in this case rather far to give it that effect. The prosecutor, in argument, did not ask the jury to infer an admission or consciousness of guilt from the defendant’s silence in the face of Miss John’s comment, nor did the judge charge the jury on adoptive admissions or consciousness of guilt by silence. We think no reversible error attended the question or the answer.
+Arnold R. Rosenfeld for the defendant.
+David B. Mark, Assistant District Attorney, for the Commonwealth.
+3. Fairly read in its entirety, the judge’s charge adequately instructed the jury on the drawing of inferences about the defendant’s intent to harm the child and did not establish a conclusive presumption or necessary inference. Compare DeJoinville v. Commonwealth, 381 Mass. 246, 252 (1980). The defendant’s particular quarrel is with the judge’s having read verbatim from Commonwealth v. Fratus, 385 Mass. 551, 554 (1982), notably a passage originally appearing in Commonwealth v. Fox, 7 Gray 585, 588 (1856): “[A] slight blow on the head of a new-born infant, which, if inflicted on an adult, would be harmless, but which necessarily would endanger the life and actually caused the death of the child, is proof upon which a jury might well find a party guilty of murder.” The issue in Commonwealth v. Fratus, supra, was the sufficiency of the evidence, not how the jury ought to be instructed. In a case in which the defendant has been charged with beating a child to death, it would be wiser to use material less suggestive than that quoted from the Fratus case to illustrate the distinction between second degree murder and manslaughter. We are satisfied, however, taking into account all aspects of the judge’s charge, that this aspect of the instructions did not effect a shift in the Commonwealth’s burden of proof.
+4. The prosecutor ought not, on cross-examination, to have tested a contradiction of Miss John’s testimony that he drew from the defendant with the challenge, “are you telling this jury that Betsy John . . . was lying,” and three variations on that theme. Commonwealth v. Ward, 15 Mass. App. Ct. 400, 401-402 (1983). As in Commonwealth v. Ward, however, the improper questions — the first of which was objected to — worked no prejudice. The defendant explained that he was not pitting his credibility against that of Miss John, but that “she must have misunderstood what I was talking about.”
+Judgment affirmed.
