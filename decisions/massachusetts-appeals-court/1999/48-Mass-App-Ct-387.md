@@ -1,0 +1,33 @@
+---
+court: "Massachusetts Appeals Court"
+docket: "98-P-209"
+decided: "1999-12-29"
+citations: ["48 Mass. App. Ct. 387"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Karl C. Kuban vs. Valerie H. Kuban."]
+source_url: "https://static.case.law/mass-app-ct/48/cases/0387-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1152915
+cites_cases: ["16 Suffolk U. L. Rev. 907", "19 Mass. App. Ct. 364", "27 Mass. App. Ct. 1144", "33 Mass. App. Ct. 1104", "367 Mass. 921", "40 Mass. App. Ct. 1125", "409 Mass. 292", "409 Mass. 821", "413 Mass. 1007", "413 Mass. 720", "414 Mass. 685", "98 Stat. 1433"]
+---
+
+# Kuban v. Kuban
+
+## Majority (Gillerman, J.)
+
+Gillerman, J.
+The narrow, and only, issue before us is whether the plaintiff (wife) has a cognizable claim to a division of those contributions to the defendant husband’s TIAA/CREF retirement annuities (fund), which were made solely by the husband’s employer after the effective dissolution of the marriage on October 1, 1989, and before there has been an assignment to the wife of her share of the husband’s pension benefits by a qualified domestic relations order (QDRO). The judgment nisi as amended, see note 3, infra, ordered the marital property to be divided equally, but succeeding appeals and remand orders (this is the third appeal) have substantially delayed final disposition of the case. That delay generated the claim before us.
+The amended 1996 judgment, see note 3, supra, which is the judgment under review, awarded the wife fifty percent of the husband’s pension fund as of October 1, 1989 (then valued at $31,402.70), see note 2, supra, plus “passive appreciation and investment experience” through June 1, 1996, a total of $61,321.14, “plus any further appreciation on that sum until the division is accomplished pursuant to a qualified domestic relations order which shall be prepared by the Husband’s counsel. The remaining balance . . . shall belong solely to the Husband.”
+The wife claims she is entitled to share in the value of the fund as augmented by contributions to the fund made by the husband’s employer after October 1, 1989, and prior to June 8, 1993. Her rationale is that all post-October 1 contributions by the employer represented “passive” appreciation, and occurred while she was engaged in the “joint enterprise” of raising the parties’ children.
+The judge provided no explanation for his amended judgment. However, the issue is one of law, all the material facts, which are undisputed, are before us, and we agree with the result reached by the judge. See Gabbidon v. King, 414 Mass. 685, 686 (1993) (“[Ojn appeal, we may consider any ground apparent on the record that supports the result reached in the lower court”).
+The judge acted within his discretion in concluding that the first trial date in 1989 was the effective date of the dissolution of the marriage. See Davidson v. Davidson, 19 Mass. App. Ct. 364, 370 n.9 (1985). See also note 2, supra. Since the contributions by the husband’s employer were made after the effective dissolution of the marriage which occurred on or about October 1, 1989, see note 2, supra, those contributions, and the resulting appreciation in the value of the fund attributable to those contributions, are most closely akin to “property interests acquired after the dissolution of the marital partnership.” Id. at 370. “The right to equitable division of property is fundamentally based on a partnership model.” Inker & Glower, Towards a New Justice in Marital Dissolution: The Massachusetts Statutory Scheme and Due Process Analysis, 16 Suffolk U. L. Rev. 907, 931 (1982). Further, the employer’s contributions to the fund after October 1, 1989, are attributable to the husband alone (i.e., his continued employment). We conclude that in the special circumstances of this case the judge did not err in excluding the contributions to the fund made by the husband’s employer after October 1, 1989. See Davidson, supra at 370; Willis v. Willis, 27 Mass. App. Ct. 1144, 1145 (1989). Compare Pare v. Pare, 409 Mass. 292, 296 n.4 (1991); Dalessio v. Dalessio, 409 Mass. 821, 829 (1991), S.C., 413 Mass. 1007 (1992).
+To sum up: it is undisputed that the wife is entitled to fifty percent of the fund as of October 1, 1989. The QDRO, however, has not yet been signed by the judge, and there has not yet been an effective assignment to the wife of her share of the husband’s pension benefits. Thus, the wife is entitled to appreciation on her undivided share of the fund — exclusive of any appreciation attributable to contributions made by the husband’s employer after October 1, 1989 — from October 1, 1989, until the effective date of the QDRO. The wife’s entitlements after the QDRO becomes effective are not before us and require no comment.
+Judgment affirmed.
+Teachers Insurance and Annuity Association/College Retirement Equities Fund.
+October 1, 1989, corresponds roughly with the first trial of this case. The judge at the second trial, see note 3, infra, implicitly found that on October 1 the marriage was effectively dissolved.
+The judgment of divorce nisi was first entered on March 9, 1990, dividing the husband’s pension sixty-five percent to the husband and thirty-five percent to the wife. An amended judgment of divorce nisi, after a second trial of the case, was entered on June 8, 1993, dividing the husband’s pension in equal shares between the husband and the wife. A third “amended judgment,” entered after an order of remand, was entered November 4, 1996, and is described in the text.
+The June 1, 1996, date represents the last date for which information was presented to the court concerning the husband’s pension and retirement benefits.
+The wife’s brief also states that her former husband “enjoyed the benefits of division of all other assets as of the 1993 hearing.” There is no record reference in support of this assertion, and the statement, not being in compliance with Mass.R.A.P. 16(a)(4), 367 Mass. 921 (1975), carries no weight.
+In Early v. Early, 413 Mass. 720, 722 n.3 (1992), the court observed that the governing statute, the Retirement Equity Act of 1984, Pub. L. No. 98-397, § 104, 98 Stat. 1433 (1984), authorizes State courts to assign pension interests by means of a QDRO when entering a judgment or order relating to marital property rights, alimony, or child support. Thus the “Act provides an exception to the anti-assignment and anti-alienation provisions of [the Employee Retirement Income Security Act] and the Internal Revenue Code.” Ibid.
