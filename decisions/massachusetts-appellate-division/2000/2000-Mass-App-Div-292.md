@@ -1,0 +1,26 @@
+---
+court: "Massachusetts Appellate Division"
+decided: "2000-10-24"
+citations: ["2000 Mass. App. Div. 292"]
+reporter: "mass-app-div-annual"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Present: Wheatley, P.J., Crimmins & Sabra, JJ."]
+parties: ["Marie Antoine vs. Enorce Etienne"]
+source_url: "https://static.case.law/mass-app-div-annual/2000/cases/0292-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 11141924
+cites_cases: ["269 Mass. 130", "298 Mass. 130", "318 Mass. 762", "349 Mass. 537", "357 Mass. 784", "360 Mass. 507"]
+---
+
+# Antoine v. Etienne
+
+## Majority (Sabra, J.)
+
+Sabra, J.
+This action stems from a motor vehicle accident in which a minor child was injured in the rear passenger seat when the driver lost control on the highway and struck the jersey barrier and guardrail on each side of the road. The issue presented on appeal is whether there was sufficient evidence of negligence on the driver’s part to sustain a judgment for the plaintiff. A review of the record leads us to conclude that the plaintiff sustained his burden by producing sufficient evidence, and that the judgment should be affirmed.
+On October 28,1996, Marc Antoine (hereinafter “plaintiff’), then four years old, was a passenger in a motor vehicle driven by Enorce Etienne (hereinafter “defendant”). While on Route 24 in Avon, Massachusetts, the defendant lost control of the vehicle and struck the barrier which divides the highway, and then veered right across the three lanes of travel striking the guardrail on the far right side of the highway. The plaintiff was injured as a result of the collision. The defendant, who did not appear at the trial or testify, claimed by way of admission in his answers to interrogatories, that the right rear tire of his car blew out causing the car to go out of control. There was additional testimony that after the collision the defendant told the minor plaintiff not to tell his mother about the accident. In addition, when the minor plaintiffs mother did find out about the accident and tried to contact the defendánt about it, the defendant hung up the phone on her and later pushed her out of his house refusing to talk with her about it. She then filed the instant action on behalf of her son after seeking medical treatment for his injuries. This was the sum total of the evidence presented.
+At trial, the defendant moved to dismiss at the close of the evidence claiming that the plaintiff did not meet his burden of proving negligence by a preponderance of the credible evidence. The trial judge was correct to deny the motion. Our review is limited to whether the finding in the plaintiffs favor can be sustained by any reasonable view of the evidence. Heil v. McCann, 360 Mass. 507, 511 (1971). Although there was no direct evidence of negligence, there were facts from which the trier of fact could infer that the defendant’s speed and ability to control the vehicle were not in accordance with reasonable due care standards and that the accident was more likely than not caused by the negligence of the defendant. Noon v. Bedford, 349 Mass. 537, 543-544 (1965). While it is true that the mere happening of an accident is not evidence of negligence, Conley v. Town Taxi, Inc., 298 Mass. 130, 132 (1937), the facts surrounding the occurrence of the accident can, in some circumstances, lead to reasonable inferences of negligence on the part of the defendant. Skerry v. Marzec, 357 Mass. 784 (1970) (negligence inferred from fact that vehicle crossed median on the Massachusetts Turnpike, rolled over and collided with oncoming car); Gangi v. Adley Express Co., 318 Mass. 762 (1945) (circumstances of collision between a truck and a house 60 feet off the road warranted conclusion that speed was excessive, brakes were defective or driver was inattentive); Byrne v. Great Atlantic & Pacific Tea Co., 269 Mass. 130 (1929).
+This is such a case. The evidence admitted in this case would support a finding that the defendant was negligent either because of excessive speed or inattention and failure to maintain control of the motor vehicle. These findings would have been warranted whether or not the trial judge believed the defendant’s tire blew out suddenly causing him to lose control of the car. The trial judge could reasonably have found that the defendant’s speed was excessive due to the, way the car was described as bouncing hard off the center barriers and veering across several lanes of travel and the breakdown lane into the guardrail on the right side of the highway. Under normal circumstances, a reasonably prudent driver who experienced a blow out would not have lost total control of the vehicle absent excessive speed but would have maintained control until it could be safely stopped. Even if the judge did not believe that the tire had blown out, the same inferences of excessive speed, lack of control, or inattention could be drawn from the nature of the impacts on both sides of the highway and the path taken by the car. Thus, the plaintiff established that the accident was more likely than not to have been caused by the defendant’ negligence.
+Accordingly, the judgment is affirmed.
+So ordered.
