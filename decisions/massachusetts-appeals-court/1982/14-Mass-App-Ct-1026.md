@@ -1,0 +1,28 @@
+---
+court: "Massachusetts Appeals Court"
+decided: "1982-11-18"
+citations: ["14 Mass. App. Ct. 1026"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Veronica A. Leone vs. Security Insurance Company of Hartford & others."]
+source_url: "https://static.case.law/mass-app-ct/14/cases/1026-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5738904
+cites_cases: ["1 Mass. App. Ct. 678", "363 Mass. 1", "363 Mass. 886", "365 Mass. 755", "367 Mass. 921", "369 Mass. 956", "378 Mass. 85", "385 Mass. 482"]
+---
+
+# Leone v. Security Insurance
+
+## Majority
+
+Following a trial which resulted in verdicts for the plaintiff in the amount of $650,000 against three defendants Patrick J. McDonough, Richard A. Doran and John F. Ridge, the defendants appealed. In Leone v. Doran, 363 Mass. 1 (1973), and Leone v. Doran, 363 Mass. 886 (1973), the Supreme Judicial Court sustained the exceptions of the defendants and ordered a new trial as to Doran and Ridge. The background facts of this case are set out in the first of those cases and need not be repeated here. The court also ordered that the plaintiff was to have a new trial against McDonough, but only if she filed a motion to amend her declaration “for the purpose of asserting in one or more counts, the negligence of McDonough as related to G. L. c. 90, § 12, or the common law, or both.” She was allowed ninety days after the date of the rescript to accomplish this. 363 Mass, at 19. That motion was filed late, and in denying it the judge ruled that the action against McDonough had gone to judgment as matter of law. That ruling was affirmed in Leone v. Doran, 369 Mass. 956 (1975). The case against Doran and Ridge was retried. The jury returned a verdict in the amount of $650,000 against Doran but found in favor of Ridge. Shortly after those verdicts were returned, Doran assigned his “rights” against his insurer, its employees and the various attorneys for the defendants in the original action to Leone. The general terms of that assignment included Doran’s “rights” against the present defendants for the negligent failure of the companies to investigate and to provide him a proper defense at the first trial; for the negligent failure of his attorneys to properly represent him during and after the trial, and for the negligent and improper acts of all the attorneys for the defendants at that trial. In the present action Leone asserts her personal claims for negligence as well as claims as assignee of the defendant.
+The defendants moved for dismissal of the complaint pursuant to Mass.R.Civ.P. 12(b)(6), 365 Mass. 755 (1974). Their motions were allowed, and judgment was entered dismissing the complaint. We affirm.
+In ruling on motions to dismiss pursuant to Mass.R.Civ.P. 12(b)(6), “the allegations of the complaint [and annexed exhibits], as well as such inferences that may be drawn therefrom in the plaintiff’s favor, are to be taken as true.” Whitinsville Plaza, Inc. v. Kotseas, 378 Mass. 85, 87 (1979). In undertaking our review “[w]e can and do take judicial notice of the opinionfs] of the Supreme Judicial Court and of the original papers comprising the record in the earlier case[s].” Flynn v. Brassard, 1 Mass. App. Ct. 678, 681 (1974).
+Gerald F. Williamson for the plaintiff.
+Charles F. Choate (Max W. Beck with him) for Security Insurance Company of Hartford & others.
+Jared H. Adams for Timothy Donohue.
+Jacob J. Locke for Eli Fleishman & others.
+The plaintiff’s complaint alleges in nine counts the negligence of the several defendants. At oral argument she waived any claimed error in the dismissal of counts 1, 2 and 9. As the plaintiff has not briefed or argued any claim of error in the dismissal of count 8 which seeks recovery for the loss of Ridge as a defendant (who was, apparently, judgment proof), the appeal is deemed to have been waived as to that count. Mass.R.A.P. 16(a) (4), as amended, 367 Mass. 921 (1975). Petition of the New Bedford Child & Family Serv. to Dispense with Consent to Adoption, 385 Mass. 482, 485 n.l (1982). Thus, we consider only whether there was error in the dismissal of counts 3 through 7. In those counts the plaintiff claims that the negligent acts of the several defendants caused the loss to her of McDonough as a defendant and that because he was the only defendant capable of paying all or a substantial part of the $650,000 verdict, plus interest and costs, she claims she has been damaged to that extent.
+It is clear that the loss of McDonough as a defendant, which is the only damage claimed, was due to the failure of the plaintiff’s then attorney (not present counsel and not a party to this action) to timely file a motion to amend the complaint. See Leone v. Doran, 369 Mass. 956 (1975). All of the acts of negligence alleged against persons and corporations that are parties to this action occurred (if at all) during the course of the first trial or in the course of prosecuting the appeals from the judgments therein. Accordingly, we hold, as matter of law, that the effect of any such negligence was nullified by the granting of or the providing for a new trial as to all defendants in the cases first above mentioned. There was no error in the allowance of the motion to dismiss. Deciding as we do, we need not pass upon the validity of the assignment from Doran to Leone and the effect on it of his death shortly after making the assignment, nor need we evaluate the other reasons given by the Superior Court judge for allowing the motions to dismiss.
+Judgment affirmed.
