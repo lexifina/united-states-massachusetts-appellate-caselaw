@@ -1,0 +1,31 @@
+---
+court: "Massachusetts Appellate Division"
+decided: "1939-01-30"
+citations: ["4 Mass. App. Div. 27"]
+reporter: "mass-app-div"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ISABELLA GIARDINO vs. ISRAEL YANOFSKY."]
+source_url: "https://static.case.law/mass-app-div/4/cases/0027-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3795995
+cites_cases: ["106 Mass. 286", "207 Mass. 335", "208 Mass. 121", "212 Mass. 257", "216 Mass. 519", "239 Mass. 334", "249 Mass. 362", "266 Mass. 315", "268 Mass. 345", "279 Mass. 546", "290 Mass. 350"]
+---
+
+# Giardino v. Yanofsky
+
+## Majority (Pettingell, J.)
+
+Pettingell, J.
+Action of tort for conversion. The property alleged to have been converted is an automobile owned by the plaintiff which was stolen, partially stripped, and then abandoned on a public highway. It was there found by the police who for the protection of traffic, ordered the defendant to tow it to his garage. Because the thieves had obliterated the identifying numbers of the automobile, neither the police nor the defendant knew who the owner was; neither did the plaintiff know what had become of it.
+After a period of storage, the defendant brought a petition in this court to establish a garageman’s lien under G. L. (Ter. Ed.) C. 255, §§26 to 29 inclusive. The plaintiff had no knowledge of the proceedings and did not appear. The car was ordered sold in accordance with section 29 and was purchased at the sale by the defendant.
+The defendant then repaired the car and began proceedings to register it. This resulted in an investigation by the Underwriters Detective Bureau, one of whose operators discovered on the car a hidden identifying number which had not been erased. Through that number the ownership of the car was traced and the plaintiff, having been notified that it was in the possession of the defendant, made a demand upon the defendant for it which was refused.
+The plaintiff ultimately filed a petition for a writ of review to reopen the proceedings on the defendant’s petition to establish a lien. The petition was granted and a writ of review issued. After a hearing on the writ of review, a finding was made for the plaintiff in review that the defendant in review had no lien upon the automobile; the court ordered the automobile returned to the plaintiff in review. Judgment was entered for the plaintiff in review and “Immediately thereafter” this defendant returned the automoile to the plaintiff.
+The defendant’s sole defense to this action, as represented by his answer, his requests for rulings and his brief, is that of a lien under Gr. L. (Ter. Ed.) C. 255, §26. Whether or not he had such a lien, and whether or not such a lien would be, in the first stages of the case, a good defense if the plaintiff had brought this action before the writ of review was decided, is not now open for our consideration and' decision because the decision on the writ of review, unchallenged and unappealed from, has become the law of the case, and we are bound by the finding then made that the defendant had no lien.
+Whenever a cause has been fully heard and a final decision rendered, and the losing party takes no appeal to the tribunal empowered to review, the decision thus made becomes final and binding upon the parties in all future litigation involving the same issues, United Drug Co. v. Cordley & Hayes, 239 Mass. 334, at 337; Daniels v. Cohen, 249 Mass. 362, at 363, 364; Lunn & Sweet Co. v. Wolfram, 268 Mass. 345, at 349; Hanley Co. Inc., v. Whitney, 279 Mass. 546, at 556; Bucholz v. Green Bros. Co., 290 Mass. 350, at 355. See also, Boyd v. Taylor, 207 Mass. 335, at 336; Beach & Claridge Co. v. American & Mfg. Co., 208 Mass. 121, at 132; Hetherington & Sons v. William Firth Co., 212 Mass. 257, at 260; Bacon v. George, 216 Mass. 519.
+The same result is reached if the decision on the writ of review be treated as a finding of fact and not as a ruling of law; Barringer v. Northridge, 266 Mass. 315, at 319.
+An examination of the rulings requested by the defendant and denied, discloses that they are either requests for findings of fact, or requests for rulings of law based upon the theory that the defendant had a lien, or that the plaintiff had not sufficient title or property in the automobile to serve as a basis for an action of conversion. There was no error in the denials.
+The defendant contends, also, that because the defendant gave up possession of the automobile immediately upon the decision of the writ of review, there can be no finding of conversion in this action, on the theory, apparently, that one claiming to have a lien can hold the property safely and without risk until there has been an adjudication by some court. Such is not the law.
+The decision of the court on the writ of review that the defendant had no lien, and for the plaintiff in review, was an adjudication that at the time the defendant brought his petition to establish a lien, he had no lien and that the plaintiff was at that time entitled to immediate possession of the automobile. In other words, the defendant was then holding the car without right. There is no provision of law that the liability of one wrongfully claiming a lien begins only with an adverse decision.
+We do not decide whether or not the defendant has a cause of action against the plaintiff on the theory of Chase v. Corcoran, 106 Mass. 286. That case involves certain phases of marine law which may not apply to automobiles. The defendant here was not a finder in the sense that the plaintiff in that ease was; he was more like one who inter-meddles with the property of another; there is also, the broad question whether his intermeddling was justified because ordered by the police. The finding of no lien takes away from this case, as a defense, the particular line of reasoning set forth in that case. We are not called upon to decide whether the defendant, having no lien, still has a claim for compensation on the theory of an implied promise to pay “the reasonable expenses of keeping and repairing” the automobile.
+No prejudicial error . appearing, the report is to be dismissed.
