@@ -1,0 +1,52 @@
+---
+court: "Massachusetts Appellate Division"
+docket: "281"
+decided: "1981-08-19"
+citations: ["2 Mass. Supp. 785"]
+reporter: "mass-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Daniel H. Rider, J.", "Robert A. Welsh, Ir., I.", "Charles E. Black, I.", "Daniel H. Rider, J.", "Robert A. Welsh, Ir., J.", "Charles E. Black, I."]
+parties: ["Antone LOPES vs. A. PONTES & SONS CONSTRUCTION INC., ET AL"]
+source_url: "https://static.case.law/mass-supp/2/cases/0785-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5606132
+cites_cases: ["1 Mass. Supp. 647", "197 Mass. 314", "1979 Mass. App. Div. Adv, Sh. 246", "204 Mass. 95", "256 Mass 535", "273 Mass. 388", "277 Mass. 260", "279 Mass. 495", "289 Mass. 431", "293 Mass. 190", "295 Mass. 94", "297 Mass. 479", "314 Mass. 167", "317 Mass. 35", "324 Mass. 70", "325 Mass. 23", "335 Mass. 152", "351 Mass. 708", "370 Mass. 255", "373 Mass. 857", "39 Mass. App. Dec. 222", "58 Mass. App. Dec. 137"]
+---
+
+# Lopes v. A. Pontes & Sons Construction Inc.
+
+## Majority (WELSH, J.)
+
+DECISION AND ORDER
+This cause came on to and was heard in the Appellate Division for the Southern District sitting at Attleboro upon Petition from the District Court Department, New Bedford Division and it is found and decided that plaintiff failed to comply with the rules. Rule 64 Dist./Mun. Cts. R. Civ. P.
+It is hereby
+ORDERED: That the Clerk of the District Court Department, New Bedford Division make the following entry in said case on the docket of said Court, namely: PETITION DENIED.
+Date: August 19, 1981
+Opinion filed herewith.
+Daniel H. Rider, J.
+Robert A. Welsh, Ir., I.
+Charles E. Black, I.
+OPINION
+WELSH, J.
+This is a petition to establish a report. The draft report discloses that this was an action in contract based upon a written agreement. Neither the petition to establish report nor the draft report discloses the exact nature or particulars of the contract. The written agreement was not included in the draft report. The draft report asserts that the defendants failed to comply with the agreement by not clearing all of the land that was required to be cleared by the contract. Plaintiff claims to have paid defendant the sum of $4500.00 and avers that the defendant refused to complete the contract, with the result that plaintiff had to pay others to complete the work and incurred other damages by way of rental of other land for the purchase of feed for cattle. The draft report fails to contain a summary of the defendant’s answer or other responsive pleading. Nor is there any indication of the defendant’s evidence at trial.
+After a trial on the merits there was a finding for the defendants. The petitioner asks that the verdict (sic) be set aside as being against the weight of the evidence. A motion for new trial was denied by the trial judge.
+The petition to establish report must be dismissed for the following reasons:
+1.The. petition to establish draft report was not seasonably filed. The docket shows the plaintiffs draft report was disallowed on October 1, 1980. At the oral argument on this petition, plaintiff’s attorney concedes he actually received notice of disallowance of the draft report on October 3, 1980. Rule 64(e), Dist./Mun. Cts. R. Civ. P. provides, in part, that the party seeking to establish a report must file his petition to do so in the trial court within five days after notice of disallowance. Notice in this context means receipt of actual notice. See, Sweeney v. Morey & Co. Inc., 279 Mass. 495, 502,503 (1932). The petition, together with five copies of the draft report disallowed, verified by the affidavit of the party or his attorney, must set forth fully the request for report and all the facts material thereto. The party seeking the report is also required to serve notice on the adverse party .by delivering or by mailing a copy of such petition and affidavit. Rule 6(a) of Dist./Mun. Cts. R. Civ P. provides that when the time prescribed for taking some action permitted or required by the rules is less than seven days, intermediate Saturdays, Sundays and legal holidays are excluded. Applying the calculation prescribed, petitioner had until the close of business on Friday, October 10, 1980 to effect a timely filing of his petition to establish report. The docket shows that the petition was not filed until October 14, 1980. Petitions to establish reports are strictissimi juris. Lasell v. Director of the Division of Employment Security, 325 Mass. 23, 25 (1949). Failure to comply with the prescribed time limits mandates dismissal of the petition. Massachusetts Drug Co. v. Bencks, 256 Mass 535, 536 (1926). Provisions of statutes and rules of court regulating appellate procedure are strictly construed. Famigletti v. Neviackas, 324 Mass. 70, 72 (1949); Murphy v. William C. Barry, Inc., 295 Mass. 94, 97 (1936).
+2. The petition fails for want of verification that the draft report conforms to the truth. Stevens v. United Artists Corp. 373 Mass. 857 (1977), and cases cited, The only recital in the report is that the verdict (sic) was against the weight of the evidence. Failure to include in the petition a statement that the draft report conforms to the truth, verified by affidavit or equivalent statement requires dismissal. Cook v. Kozlowskl, 351 Mass. 708 (1967); Sperberg v. Allstate Ins. Co., 58 Mass. App. Dec. 137, 140, (1976),
+3. The docket entries and the other documents transmitted to the Appellate Division show that petitioner filed no requests for rulings of law either at the trial or at the hearing on the motion for new trial. Such failure forecloses the right of the petitioner to obtain appellate review on the sufficiency of evidence or other matters of law that might have been saved for review at the time. Reid v. Doherty, 273 Mass. 388, 389-390 (1930); LaCaisse Populaire Credit Union v. Cross, 293 Mass. 190, 191 (1936). Generally, in the absence of requests for rulings of law, error of law can rarely be demonstrated in the denial of a motion for new trial. Bartley v. Phillips, 317 Mass. 35, 41-43 (1944). The plaintiff had
+, the burden of establishing his entitlement to relief. Where, as here, the determination of the case depends upon oral testimony, credibility is a matter solely for the judge as finder of fact. Dolham v. Peterson, 297 Mass. 479, 481 (1937). Rarely may it be ruled that the party having the burden of proof has sustained that burden as a matter of law. Whitten v. Haverhill, 204 Mass. 95, 103 (1910). The . judge as. finder of fact, is free to ' disbelieve oral testimony even if it is uncontradicted. Lindenbaum v. New York, N.H. & H.R.R., 197 Mass. 314, 323 (1908). Since a petition to establish report may properly be disallowed where the party fails to show that prejudicial error was involved in its disallowance, Patterson v. Ciborowski, 277 Mass. 260, 266 (1931) and since plaintiff has failed to show himself entitled to a report, see Haines Corp. v. Winthrop Square Cafe, Inc., 335 Mass. 152, 153 (1956), the instant petition presents no question of law for review.
+4.The draft report attempts to incorporate by reference and not by actual annexation certain documents that were part of the pleadings in the trial court touching upon the issues sought to be raised in this appeal. The draft report refers to a contract which was supposed to be attached as an exhibit, but no such attachment is before this court. Also, reference was made to a transcript of evidence in the trial below. The transcript is not before us; we have expressly disapproved of this practice and continue to do so. State of Rhode Island v. Montijo, 1 Mass. Supp. 647, 649-651 (1980) Neither the transcript nor the contract may be incorporated by reference without express leave to do so by the Appellate Division. Rule 64(1)(2), Dist./Mun. Cts. R. Civ. P. The prohibition against incorporation by reference encompasses at least two salutary aims: first, to prevent encumbering the record on appeal by reference to matters outside of the record on appeal and second, to place the burden of assembling these materials pertinent to the review squarely where it belongs — upon the party seeking the review.
+5. The record discloses a number of other procedural infirmities. Among these are failure to adhere to the format established in the draft report model, which is expressly mandated by Rule 64(C)(2); failure to summarize in the draft report the answer or other responsive pleading; failure to prepare the report so that the trial judge cobid sign it if he were so inclined. The draft report contains the signature block of the attorney for the petitioner rather than the trial judge. It is hdrnbook law that the report is that of the judge and not of the party seeking to appeal. Perry V. Hanover, 314 Mass. 167, 168 (1943); Carr v. McDonough, 1979 Mass. App. Div. Adv, Sh. 246, 250. While possibly not so egregious as to demand dismissal, we note that the draft report contains argument, rather than concise recitals of so much of the evidence adduced at trial bearing upon the questions for which review is sought. Sullivan v. Aussebel, 39 Mass. App. Dec. 222, 226, (1968).
+6. The draft report fails to contain the required statement that it contains all of the evidence material to the question reported. Comfort Air Systems, Inc. v. Cacopardo, 370 Mass. 255, 259 (1976).
+The materials submitted by petitioner, whether taken individually or as a whole, afford virtually no basis for a meaningful review of the issues of law sought to be raised. The total inadequacy of the substance of the record is exacerbated by a myriad of procedural flaws, many of which in themselves have been determined to be so inimical to the orderly scheme of appellate review as to require dismissal.
+The petition to establish report is denied.
+SO ORDERED
+Daniel H. Rider, J.
+Robert A. Welsh, Ir., J.
+Charles E. Black, I.
+This certifies that this is the opinion of the Appellate Division hi this cause.
+Patricia D. Miller
+Clerk
+The trial judge failed to file a statement of reasons for disallowance. Rule 64(c)(5) Dist./Mun. Cts. R. Civ. P; Patterson v. Ciborowski, 277 Mass. 260, 265 (1931).
+The meager record fails to disclose testimony by which ^he defendants were bound in such a way as to bring this case within the exception to the general rule. See, Salem Trust Co. v. Deery, 289 Mass. 431, 433 (1935).
