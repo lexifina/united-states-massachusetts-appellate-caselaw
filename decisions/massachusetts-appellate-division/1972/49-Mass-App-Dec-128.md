@@ -1,0 +1,34 @@
+---
+court: "Massachusetts Appellate Division"
+docket: "7643; No. 8143-A"
+decided: "1972-08-31"
+citations: ["49 Mass. App. Dec. 128"]
+reporter: "mass-app-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["CHECKER TAXI COMPANY v. RALPH A. SCOPA"]
+source_url: "https://static.case.law/mass-app-dec/49/cases/0128-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4335791
+---
+
+# Checker Taxi Co. v. Scopa
+
+## Majority (Durkin, J.)
+
+Durkin, J.
+This is an action of tort commenced in the Boston Municipal Court, with an ad damnum of $500.00. This case was consolidated for trial with a cross action, Ralph A. Scopa v. Checker Taxi Company, et al, (Docket No. 8143) commenced by writ, with an ad damnum of $2,000.00, in the East Boston District Court. The consolidated cases were tried in the East Boston District Court where there was a finding for the defendant in this action and for the plaintiff in the cross action.
+Upon receiving notice of the finding, the defense counsel in the latter action filed a removal bond and entry fee and removed said case (Docket No. 8143) to the Superior Court for trial by jury under G.L. c. 231, § 104. The plaintiff, Checker Taxi Company, seasonably requested that this action also be transferred to the Superior Court in accordance with the provisions of Gr.L. c. 231, § 102C, because the case (Docket No. 8143) had been transferred. This request was returned by the clerk’s office with the notation, “the enclosed is not in order. This is not a remand case. It is a consolidated action from the Boston Municipal Court. ’ ’
+The request was filed again, seasonably with the notation, “Enclosed please find retransfer in regard to the above matter. Please be advised that the above action was consolidated with the case of Ralph A. Scopa v. Checker Taxi Company (Docket No. 8143) for the purposes of trial. Said case is governed by Mass. General Laws, Chapter 231, § 104. This has the same effect as a request for transfer under section 102C and, therefore, the case of Checker Taxi Company v. Ralph A. Scopa should be governed by the provisions of said section, 1020.”
+■ Counsel for the plaintiff, Checker Taxi Company, then received the following, referred to in the report as a ruling, from the court, “plaintiff’s request for transfer to the superior court disallowed. Court orders that entry of judgment be continued until further notice.”
+Counsel for the plaintiff, Checker Taxi Company, duly filed his claim of report to the Appellate Division, setting forth that he is aggrieved by the disallowance by the court of request for transfer of the case to the Superior Court. The propriety of this “ruling”, the failure to effect transfer to the Superior Court, is the only question raised by the report. The cases were properly consolidated under the provisions of G.L. c. 223, § 2A.
+The third paragraph of G.L. c. 231, § 104 provides: “If the ad damnum in the writ does not exceed two thousand dollars, the case shall be tried in the district court and the defendant shall, if he desires trial in the superior court, file said entry fee and bond within ten days after notice of the decision or finding. Such filing shall have the same effect as a request for retransfer under one hundred and two c, and the decision shall be transmitted to and the case' tried in the superior court subject to the provisions of said section one hundred and two c applicable" to retransferred cases. ’ ’
+The plaintiff, Checker Taxi Company, in bringing its action for property damage with an ad damnum of $500.00 was obligated to start his action in the district court; to have set forth an ad damnum in excess of $2,000.00, in order to commence the action in the Superior Court, might be considered to amount to a malicious abuse of process.
+By G.L. c. 231, § 102C, the remand statute, where there is a request for retransfer to the Superior Court following a trial in a District Court, another action consolidated for trial therewith shall, upon request, also be forthwith submitted to the clerk of the Superior Court from which the transferred case was referred. Under § 104 of Chapter 231, when a defendant in an action brought in a District Court with an ad damnum not exceeding $2,000.00 files, after notice of the decision or finding of the judge of the District Court, an entry fee and bond and thus effects a remand to the Superior Court, it is provided that such filing shall have the same effect as a request for retransfer under section 102C, and that the decision shall be transmitted to and the case tried in the Superior Court subject to the provisions of said § 102C applicable to retransferred cases.
+We are of the opinion that the proper construction of the interaction of §§ 104 and 102 C should preserve consolidated cases, where one of such cases has a right of removal under § 104, the same right of retransfer is to be given to a case with the ad damnum under $2,000.00 consolidated therewith as is given in § 102C. Because the consolidated cross-action of Ralph A. Scopa v. Checker Taxi (Docket No. 8143) has been removed to the Superior Court under § 104, we believe that upon reasonable and timely request therefor the decision in the instant case should have been ordered transmitted to the Superior Court to be thereafter tried there subject to the provisions of § 102C.
+Additionally, it appears that the effect of a contrary decision here would be to subject the plaintiff in the cross-action now removed to the Superior Court to a defense of res judicata by which he would be effectively deprived of the retrial there to which he is entitled by virtue of the provisions of G.L. c. 231, § 104.
+By the precise wording of G.L. c. 223, § 2A, there is a right to transfer this action because consolidation had been sought by at least one of the parties and ordered by the Appellate Division of the Municipal Court of the City of Boston.
+The words in the transfer statute (§ 102C) make the intention clear. “Such action (the cross-action) while pending in the district court may be consolidated for trial with cross-actions as provided in section two A of chapter two hundred and twenty-three.” Section 2A of G.L. c. 223 permits consolidation by order of the Appellate Division of the District Court. We perceive in this language the legislative intent to extend the scope of § 104 of G.L. Chapter 231 with the aid of § 2A of G.L. Chapter 223. The case is to be transferred to the Superior Court as the provisions of the third paragraph of § 104 of G.L. Chapter 231 are applicable.
+The order of the District Court is to be vacated and the consolidated case transferred to the Superior Court.
+Hugh L. O’Brien of Boston for the Plaintiff
+John W. Bunker of Boston for the Defendant
