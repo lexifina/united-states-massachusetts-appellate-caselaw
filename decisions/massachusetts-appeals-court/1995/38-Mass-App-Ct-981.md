@@ -1,0 +1,28 @@
+---
+court: "Massachusetts Appeals Court"
+docket: "93-P-1219"
+decided: "1995-07-13"
+citations: ["38 Mass. App. Ct. 981"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Edward L. Howe & another vs. Marshall Contractors, Inc.; Bay State Blades & Cutting, Inc., third-party defendant."]
+source_url: "https://static.case.law/mass-app-ct/38/cases/0981-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4022537
+cites_cases: ["33 Mass. App. Ct. 516", "396 Mass. 1", "412 Mass. 646"]
+---
+
+# Howe v. Marshall Contractors, Inc.
+
+## Majority
+
+The general contractor (Marshall) appeals from a judgment in favor of an injured employee (Howe) of a subcontractor (Bay State) and Howe’s spouse (for loss of consortium). Howe was injured when he fell from a scaffolding, damaging his knees on a concrete floor. The scaffolding support was six or seven feet wide, topped with sixteen-foot planks, leaving a considerable overhang, and the planks see-sawed when the plaintiff stepped out too far beyond the scaffolding support. Howe, who received workers’ compensation from Bay State, sued Marshall for negligence, and Marshall brought a third-party complaint against Bay State alleging negligence on its part. Howe’s evidence against Marshall had two themes: that Marshall’s employer had erected the dangerous scaffolding, and that Marshall’s safety supervisor on the project had no training as such and did not understand the applicable standards and regulations concerning safety in the workplace. Marshall denied that its employees had erected the scaffolding, attributing its construction to Bay State’s employees. It also sought to show that its safety supervisor had observed the scaffolding for the first time only seconds before Howe’s fall and had been in the process of bringing the danger to attention. Finally, Marshall attempted to show that Howe’s injuries were not of the magnitude he professed. In the Howes’ action, the jury found him not negligent and returned verdicts of $925,000 for Howe and $100,000 for his spouse. In Marshall’s action against Bay State, the jury assessed responsibility ninety percent to Marshall and ten perc snt to Bay State. The judge denied motions for judgment notwithstanding the verdict, for a new trial, and for a remittitur. Marshall’s appeal raises three points.
+1. The point that has given us the greatest pause is the judge’s refusal to instruct the jury on the question of control of the work as between Marshall and Bay State and its relation to liability to injured third parties and injured employees. See Corsetti v. Stone Co., 396 Mass. 1, 9-11 (1985); Restatement (Second) of Torts § 414 (1965). The judge, in denying the requested instructions, said that “the case was not tried as a control case.” By this he meant, that, rather than arguing that Bay State had exclusive control over the work, Marshall in effect acknowledged the proposition, supported by the contract and by Federal and State regulations, that it retained a general supervisory control over the safety of the workplace. The judge correctly did not suggest that Marshall could be found negligent vicariously, and the instructions concerning general negligence principles would naturally have been understood by the jury to refer to the evidence that Marshall’s employees, rather than Bay State’s, had negligently erected the scaffolding, and that Marshall’s safety supervisor was not doing his job. While the judge might well have given the instructions, in the circumstances no harm was done by their omission.
+Carol A. Griffin for Marshall Contractors, Inc.
+David J. McMorris for the plaintiffs.
+2. The judge did not err in allowing a vocational expert to testify that, in his opinion, Howe was permanently disabled from doing construction work and was, in practical effect, unemployable. The expert did not purport to offer an opinion concerning the permanence of Howe’s medical symptomatology. Unlike the vocational counselor in Timmons v. Massachusetts Bay Transp. Authy., 412 Mass. 646, 648-649 (1992), his opinion was predicated on ample testimony from physicians concerning the small likelihood that Howe’s knee problems would abate.
+3. When the plaintiffs brought out that they were forced after the accident to move to Maine because they were unable to pay the bills at their Manomet residence, Marshall sought to cross-examine extensively as to the collateral source income they received after the accident. The judge limited Marshall to bringing out the fact that, during part of the time between the accident and trial, the plaintiffs were receiving welfare assistance, and then, after a period of dispute, they received workers’ compensation. Compare Corsetti v. Stone Co., 396 Mass. at 16-21; Rolanti v. Boston Edison Corp., 33 Mass. App. Ct. 516, 525 (1992). This represented an appropriately moderated response to an appeal to sympathy less pronounced than that in Corsetti, which also involved substantial evidence of malingering. Here there was no suggestion, as there was in Corsetti, that the injured workman’s collateral source income exceeded his wages while working.
+4. We discern no error in the denial of Marshall’s posttrial motions.
+Judgment affirmed.
+“One who entrusts work to an independent contractor, but who retains the control of any part of the work, is subject to liability for physical harm to others for whose safety the employer owes a duty to exercise reasonable care, which is caused by his failure to exercise his control with reasonable care.”
