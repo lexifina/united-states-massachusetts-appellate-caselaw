@@ -1,0 +1,29 @@
+---
+court: "Massachusetts Appeals Court"
+docket: "02-P-266 & 02-P-267"
+decided: "2003-09-11"
+citations: ["59 Mass. App. Ct. 270"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Boston Safe Deposit and Trust Company, trustee, vs. Charlotte Ober Goodwin & others (and a companion case)."]
+source_url: "https://static.case.law/mass-app-ct/59/cases/0270-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1508521
+cites_cases: ["19 Mass. App. Ct. 686", "258 Mass. 427", "318 Mass. 117"]
+---
+
+# Boston Safe Deposit & Trust Co. v. Goodwin
+
+## Majority (Cypher, J.)
+
+Cypher, J.
+The trustees in these combined appeals brought a complaint in the Probate and Family Court for instruction as to the proper distribution of the principal of the three trusts upon termination. The complaint sought a determination of how the principal of the trusts should be distributed among the issue of the three deceased children of Frederick S. Moseley (the settlor): using the deceased children as the stocks or stirpes; or, alternatively, using the settlor’s nine grandchildren (five of whom are deceased) as the stocks (stirpes). The former scheme would divide the trust principal into thirds, with distribution to the grandchildren and great grandchildren by right of representation according to the deceased child’s one-third share. The latter scheme, favored by the appellants, would result essentially in a per capita, one-ninth distribution of the trust assets to each grandchild, with the issue of the five deceased grandchildren taking that grandchild’s one-ninth share by right of representation.
+The Probate and Family Court, relying principally on Bank of New England, N.A. v. McKennan, 19 Mass. App. Ct. 686 (1985), determined that the principal of the trusts should be distributed using the deceased children rather than the grandchildren as the stocks. The defendants, Oliver Ames, Judith Moseley, and Alice Moseley Granlund, great-grandchildren of the settlor, have appealed. We affirm.
+1. Facts. The settlor established a trust under Article X of his will, dated January 24, 1936, and codicil dated June 15, 1936. In addition, he was the settlor and an original trustee under a trust dated March 29, 1918. Both instruments were administered by Frederick S. Moseley, HI, and First National Bank of Boston (of which the current plaintiff, Fleet National Bank, is the successor by operation of merger) as the two trustees. Frederick S. Moseley and his spouse, Helen, were also the settlors and original trustees under a trust dated December 1, 1933, of which Boston Safe Deposit Trust Company is the successor trustee. The settlor died on June 3, 1938.
+As provided in all three trusts, the trust terminated on December 30, 2000, twenty years after the death of the settlor’s last surviving child. Upon termination, the trusts are to be divided “among the then living issue of the children of said Frederick S. Moseley, such issue taking by right of representation . . . [i.e., by the stocks or per stirpes]..” If no issue of children were then living, one half of the trust corpus was to pass as if the settlor had died intestate and the other half was to be applied for charitable purposes.
+2. Discussion. The determinative factor in construing the provisions of a testamentary document is the creator’s intention. Cammann v. Abbe, 258 Mass. 427, 429 (1927); Bradlee v. Converse, 318 Mass. 117, 120 (1945); Bank of New England, N.A. v. McKennan, 19 Mass. App. Ct. at 689. The intent is to be ascertained from a study of the instrument as a whole in light of the circumstances attending its execution. Ibid. All of the language of a settlor must be given effect if at all possible.
+Here, as correctly noted by the judge, the settlor’s children would have to be the stocks (the stirpes) to enable the grandchildren to take by right of representation (otherwise, the grandchildren would take per capita in one-ninth shares). Looking at the two trust instruments and the trust under the will separately, each in its entirety, the settlor provided for distribution to his children specifically and for distribution among other issue, including grandchildren, in a more general manner. See Bank of New England, N.A. v. McKennan, 19 Mass. App. Ct. at 690. To use the grandchildren as the stocks would result in tracking the intestacy statute, G. L. c. 190, §§ 2 and 3, and to that degree would conflict with the settlor’s design to make recourse to distribution in accordance with the intestacy statute only if, at the time of the termination of the trusts, there were no issue of the settlor’s children living.
+We are unpersuaded by the effort of the three great-grandchildren who have appealed from the judgment of the Probate Court to read Sidey v. Perpetual Trustees, Estate & Agency Co. of New Zealand, Ltd., 1944 N.Z. L. R. 891 (J.C. 1944) (Sidey), as supporting a different stirpital division here. In Bradlee v. Converse, 318 Mass. at 119-120, the court referred to Sidey, the case from New Zealand. As the court wrote there, all depends upon intent. Id. at 120. The settlor provided for distribution “among the then living issue of my children, such issue taking by right of representation” (emphasis supplied). The Probate judge correctly read this as a direction to refer to the settlor’s children as the stocks or stirpes (the same result, incidentally, as in Sidey).
+Judgments affirmed.
+Indeed, the Sidey court stated that no rule of construction favors a stirpital division at one generation rather than another; the particular method of division depends upon the settlor’s intent evidenced through the language used and the context. Sidey, supra at 894. We read Bradlee v. Converse as saying the same.
