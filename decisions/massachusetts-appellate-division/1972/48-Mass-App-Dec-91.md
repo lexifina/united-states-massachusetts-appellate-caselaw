@@ -1,0 +1,34 @@
+---
+court: "Massachusetts Appellate Division"
+docket: "T-26608"
+decided: "1972-05-23"
+citations: ["48 Mass. App. Dec. 91"]
+reporter: "mass-app-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["DONALD F. SEWALL v. FITZ-INN AUTO PARKS, INC."]
+source_url: "https://static.case.law/mass-app-dec/48/cases/0091-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4335981
+cites_cases: ["12 Mass. App. Div. 43", "284 Mass. 341", "307 Mass. 470", "36 Mass. App. Dec. 70", "40 Mass. App. Dec. 49", "6 Mass. App. Dec. 1"]
+---
+
+# Sewall v. Fitz-Inn Auto Parks, Inc.
+
+## Majority (Adlow, C.J.)
+
+Adlow, C.J.
+Action against a parking lot operator for the loss by theft of an automobile.
+There was evidence that the defendant operated a public parking lot on Ocean Street in Severe. The lot was 200 feet by 100 feet in dimension. The front of the lot borders on Ocean Street and is open. The rear of the lot which borders on the street car area is marked by a fence.
+On April 15, 1970, the plaintiff entered the defendant’s parking lot at the entrance from Ocean Street, paid his parking fee of twenty-five cents, and received a ticket. He placed the car at a spot indicated to him by the attendant, locked the car and retained the keys. There was evidence from the plaintiff that he never read any of the matter printed on the back of the ticket given to him. To the extent that it may be material, this statement provided that the management was “Not Responsible for Fire, Theft or Collision — Cars Driven at Owner’s Bisk.” The plaintiff further testified that he was of the opinion that the lot was attended until 5:00 p.m. each day. However, he testified that he did not remember observing an attendant in the lot in the evening when he usually picked up his car.
+On behalf of the defendant there was evidence that there was an attendant on duty on the lot only from 6:00 A.M. to 10:00 A.M. daily and that at 10:00 A.M. the attendant left regardless of the number of cars on the lot. There were no signs on the lot stating the hours when the attendant was present. There was evidence that the plaintiff had parked his car on this lot on many previous occasions; that there was no formal check out proceeding; that a patron was free to come and go as he pleased, and that the fee was not contingent on the length of time a motor vehicle was parked on the lot. It was agreed that the plaintiff’s damage amounted to $3,610.00.
+At the close of the evidence the plaintiff filed numerous requests for rulings, all of which alleged that the evidence warranted a finding for the plaintiff. The court ruled uniformly on all these requests, “Warranted, but not required”, and found for the defendant. Being aggrieved the plaintiff brings this report.
+There was no error. The question posed by this report involves an issue of fact. It was for the court to determine on the facts whether the defendant violated any duty of care which he owed to the plaintiff. Wright v. Heil Equipment Company, 1970 Advance Sheets 301. As a general proposition, one who merely lets an automobile parking privilege is not a bailee of the parked car, and is under no duty to guard against theft or fire. Williston on Contracts, Bev. Ed. Yol. 4, § 1065A. If there is to be a contract or arrangement giving rise to liability on the defendant’s part, there must have been some delivery to the defendant of the possession or custody of the vehicle. Tinsley v. Dudley, (1951), 1 Term. Law Beports (Eng.) 315. Where there is no custody or control the arrangement is treated as a license rather than a bailment. Chafetz v. American Locker Co., Inc., 12 Mass. App. Div. 43. Hall v. Lyndon, 6 Mass. App. Dec. 1.
+Each case rests on its own peculiar circumstances. Where garage owners have insisted that car owners leave the keys in the cars, it has been ruled that the control of the vehicle vests in the garage owner and the transaction constitutes a bailment. Doherty v. Ernst, 284 Mass. 341, 346. Sandler v. Commonwealth Station Co., 307 Mass. 470. But the fact of retention of keys by the owner is not conclusive. It has been held that, though the owner retains control of the keys to the car, other circumstances may impose on the garage owner duties with respect to the vehicle. One of these circumstances is the nature of the parking area.
+There is a difference between an open air parking area and a garage. A garage assumes at least the presence of attendants, and limited means of ingress and egress. Hale v. Mass. Park. Authority, 358 Mass. -, -. Richard v. Mass. Port Authority, 22 LEGALITE 329. On the other hand, one who leaves his car in an open air car park gives one occasion to consider that custody or control over the car has passed to the owner of the lot. Tinsley v. Dudley, supra. Gibson v. Hotel Corp. of America, 36 Mass. App. Dec. 70. Miller v. Comm. Motor Hotel Inc., 40 Mass. App. Dec. 49.
+Such being the law, what do we find in the cause under review? Except for the fence in the rear of the defendant’s lot, we have an unenclosed parking area. The defendant’s method of operating the lot was well known to thé plaintiff. While the plaintiff testified that' he believed an attendant was there all day, he had never seen one there at 5:00 P.M., which was his usual time for getting his car. According to the defendant there was only one attendant at the lot and he worked between 6:00 A.M. and 10:00 A.M., when he left.
+Aside from moving onto the lot, paying a 25 cent fee and receiving a receipt for it, there is nothing that suggests, either expressly or by implication, the elements of a bailment. If there is any relationship between the plaintiff and the defendant it is that of licensor and licensee. The 25 cents paid for parking bought the plaintiff nothing more than a privilege of having his car on an unguarded lot — it was a modest form of ground rent. Nor is the privilege purchased by the plaintiff enlarged by the exemption of liability printed on the ticket. The fact that the defendant exempts himself from liability does not mean that there is liability in the situation. Ashby v. Tolhurst, 2 K.B. (Eng.) (1937) 242, 249.
+In the absence of an express undertaking by the defendant to guard the plaintiff’s car, we cannot assume in these circumstances that the plaintiff became entitled to anything more for his twenty-five cent payment than the bare privilege of remaining on the defendant’s lot. The possession and control of the car remained in him. Ashby v. Tolhurst, (1937) 2 K.B.(Eng.) 242. Tinsley v. Dudley, (1951) 1 TLR (Eng.) 315. Gibson v. Hotel Corp. of America, 36 Mass. App. Dec. 70.
+Edward M. Perry for the Plaintiff
+John P. Bourgeois of Boston for the Defendant
+There was no error. Report dismissed.
