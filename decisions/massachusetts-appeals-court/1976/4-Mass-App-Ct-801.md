@@ -1,0 +1,21 @@
+---
+court: "Massachusetts Appeals Court"
+decided: "1976-04-26"
+citations: ["4 Mass. App. Ct. 801"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Joseph Freitas vs. Olson & Appleby, Inc."]
+source_url: "https://static.case.law/mass-app-ct/4/cases/0801-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3949655
+cites_cases: ["295 Mass. 358", "301 Mass. 564", "304 Mass. 535", "305 Mass. 274", "310 Mass. 153", "321 Mass. 240", "322 Mass. 596", "338 Mass. 10", "338 Mass. 421", "342 Mass. 649", "345 Mass. 55", "359 Mass. 569", "367 Mass. 46", "367 Mass. 921"]
+---
+
+# Freitas v. Olson & Appleby, Inc.
+
+## Majority
+
+1. The defendant has waived any right it might have had to complain about three findings in the auditor’s report which the defendant contends should have been struck: (a) the finding referred to in the tenth unnumbered paragraph of the motion to strike because only a fragment of that finding could be regarded as objectionable on the ground stated and the motion was addressed to the finding in its entirety (compare Petitti v. Perriello, 305 Mass. 274, 275 [1940]; contrast Badoloto v. New York, N.H. & H. R.R. 338 Mass. 421, 424-426, 428 [1959]); (b) the finding challenged in the eleventh unnumbered paragraph of the motion because the defendant has failed to argue the point in its brief in the manner contemplated by Mass.R.A.P. 16(a)(4), as amended, 367 Mass. 921 (1975), (see Lolos v. Berlin, 338 Mass. 10, 13-14 [1958]); (c) the general finding of negligence because the motion contained no reference to that finding (see Sadak v. Tucker, 310 Mass. 153, 157 [1941]; contrast Badoloto v. New York, N.H. & H. R.R., supra, at 428) and because the prayer that the entire auditor’s report be struck did not cure that omission (see Hill v. Associated Transp. Inc. 345 Mass. 55, 57-58 [1962]). 2. The auditor’s report as introduced in evidence at the jury trial required the denial of the defendant’s motion for a directed verdict. See Cook v. Farm Serv. Stores, Inc. 301 Mass. 564, 566-567 (1938). 3. There is no merit in the contention that the trial judge abused his discretion when he interrupted the defendant’s closing argument to prevent further comment based on matters not in evidence (see National Shawmut Bank v. Hallett, 322 Mass. 596, 600-601 [1948]; compare Commonwealth v. Montecalvo, 367 Mass. 46, 56-57 [1975]) or when he denied the defendant’s motion for a mistrial following the interruption. See Hess v. Boston Elev. Ry. 304 Mass. 535, 540-541 (1939). 4. The defendant’s requests for instructions numbered three, four, five, twelve and thirteen were properly denied as attempts to have the judge comment on portions of the evidence. See Sullivan v. John Hancock Mut. Life Ins. Co. 342 Mass. 649, 657 (1961). The judge, having adequately charged the jury on the issue of contributory negligence, was not required to cover the same ground again in the language proposed in requests numbered fifteen, sixteen and seventeen. See Fialkow v. Devoe Motors, Inc. 359 Mass. 569, 575 (1971). Requests numbered twenty-two and twenty-four amounted to belated motions to have the evidentiary effect of certain of the auditor’s findings struck from the case and were correctly refused for that reason. See Solomon v. Dabrowski, 295 Mass. 358, 359-360 (1936). 5. There was error, however, in the denial of the defendant’s request for instruction numbered six (or for an equivalent instruction), as the rents actually received from the tenants of the plaintiff’s building were competent evidence of the fair rental value of the premises. See Amory v. Commonwealth, 321 Mass. 240, 258 (1947). That error compounded the judge’s earlier, equally erroneous, ruling that the amount of those rents (which was in evidence) could not be considered on the issue of such value. That ruling and the refusal to correct it by an appropriate instruction were misleading. 6. The verdict is set aside, and the case is remanded to the Superior Court for a new trial limited to the issue of the amount of the damages to which the plaintiff is entitled. Neither party is to have the costs of appeal.
+David M. Lipton for the defendant.
+So ordered.
