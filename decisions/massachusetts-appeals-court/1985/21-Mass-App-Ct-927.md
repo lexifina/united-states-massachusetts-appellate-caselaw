@@ -1,0 +1,27 @@
+---
+court: "Massachusetts Appeals Court"
+decided: "1985-11-19"
+citations: ["21 Mass. App. Ct. 927"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["June Zolner & others vs. THN Investments, Inc., & others."]
+source_url: "https://static.case.law/mass-app-ct/21/cases/0927-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3987505
+cites_cases: ["10 Mass. App. Ct. 70", "17 Mass. App. Ct. 262", "327 Mass. 429", "344 Mass. 739", "350 Mass. 765", "358 Mass. 736", "359 Mass. 327", "362 Mass. 751", "395 Mass. 659", "7 Mass. App. Ct. 336", "95 N.H. 409"]
+---
+
+# Zolner v. THN Investments, Inc.
+
+## Majority
+
+When Joseph and June Zolner entered into an agreement in October, 1980, to sell a twelve-story apartment building in Quincy to the predecessors in interest of the defendants, they negotiated for, and received, an option to purchase the apartment (# 512) in which they lived. The option provided that should the building be converted into a condominium, as the buyers intended, the Zolners could buy apartment (or unit) 512 for half price, and otherwise on the same terms and conditions applicable to comparable units. The governing facts are undisputed and were developed through the pleadings, responses to interrogatories, and affidavits submitted in support of cross motions for summary judgment. In summarizing those facts we rely heavily on, and adopt verbatim much of the language of, the memorandum and order filed by the Superior Court judge.
+In April, 1981, apartment 512 became available for purchase as a condominium unit, and the following July the Zolners exercised their option, or so they thought, by making a down payment and signing a purchase and sale agreement to buy the unit. That agreement provided, however, that the deal would be off if the defendants failed to sell fifty-three other units by January 3, 1982. In June, 1982, the defendants wrote the Zolners that they had failed to sell fifty-three other units, returned their deposit, and declared cancelled the agreement to buy the unit. In prompt written response, the Zolners, through counsel, reiterated their intention to buy unit 512, should sales resume. The defendants took the position that the original option had been superseded by the later, self-extinguishing purchase and sale agreement. In October, 1982, and again in December, 1982, the Zolners reasserted their claim to unit 512. The defendants insisted that the option had been subsumed in the July, 1981, purchase and sale agreement. This action followed. Judgment entered awarding damages to the plaintiffs, and the defendants appealed.
+The option for which the Zolners bargained was an option to purchase; it was not an option to enter into a purchase and sale agreement which the sellers could unilaterally terminate. An option is not superseded by a purchase and sale agreement; the option, upon its exercise, ripens into a bilateral agreement. See C. & W. Dyeing & Cleaning Co. v. DeQuattro, 344 Mass. 739, 741 (1962); Roberts-Neustadter Furs, Inc. v. Simon, 17 Mass. App. Ct. 262, 269 (1983). In such circumstances, the new contract is consistent with continuance of the former one. See Langlois v. Mahoney, 95 N.H. 409, 415 (1949). Here the new document was a form contract devised by the purchasers of the building from the Zolners to promote the condominium conversion which they had undertaken. The underlying option expired on a date certain. In view of those circumstances (see Robert Indus., Inc. v. Spence, 362 Mass. 751, 755 [1973]; Fay, Spofford & Thorndike, Inc. v. Massachusetts Port Authy., 7 Mass. App. Ct. 336, 342 [1979]), we do not think that the option contemplated a right by the new owners of the building to cancel it unilaterally so long as units were being offered for sale during the option period. Compare A.B.C. Auto Parts, Inc. v. Moran, 359 Mass. 327, 328-329, 331 (1971). Cf. Westinghouse Bdcst. Co. v. New England Patriots Football Club, Inc., 10 Mass. App. Ct. 70, 73 (1980).
+Allen N. David for the defendants.
+Richard J. Fallon for the plaintiffs.
+In view of the repudiation of the option by the defendant Federal Deposit Insurance Corporation (FDIC), there was no need for the Zolners to tender the purchase price. Hurd v. Cormier, 358 Mass. 736, 739 (1971). We need not reach the defendants’ contention that the terms of the option, particularly as to price, were too vague to be enforceable, because the defendants failed to raise that issue in the trial court. Kelley v. Rossi, 395 Mass. 659, 665 n.6 (1985), and cases cited. We do not intimate, however, that there is any mystery about the price terms of the option agreement.
+The claims of the defendants that there was no evidence that unit 512 was ever offered for sale before the expiration of the option and that the Zolners failed to exercise their option misstate the record.
+There was no error in the assessment of damages, which was based on the usual method of measuring damages in such a case. That method is to calculate the difference between the value of the property on the date the buyers are to have conveyance (the value established in this case by the prices for which units in the building were offered for sale to the public) and the half-price which the Zolners were to pay. Widebeck v. Sullivan, 327 Mass. 429, 434 (1951). Capaldi v. Burlwood Realty Corp., 350 Mass. 765 (1966).
+Judgment affirmed.
