@@ -1,0 +1,38 @@
+---
+court: "Massachusetts Appellate Division"
+decided: "1996-01-18"
+citations: ["1996 Mass. App. Div. 8"]
+reporter: "mass-app-div-annual"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Present: Brennan, Gelinas & Teahan, JJ."]
+parties: ["Anita L. Wallace vs. Building 19, Inc. vs. Philip Cochis"]
+source_url: "https://static.case.law/mass-app-div-annual/1996/cases/0008-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6810766
+cites_cases: ["208 Mass. 273", "25 Mass. App. Ct. 953", "292 Mass. 293", "302 Mass. 544", "332 Mass. 560", "369 Mass. 99"]
+---
+
+# Wallace v. Building 19, Inc.
+
+## Majority (Teahan, J.)
+
+Teahan, J.
+This matter comes before us under Rule 8C of the Dist./Mun. Cts. RAD.A. seeking review of the denial of three rulings of law filed by the defendant.
+The plaintiff brought a single-count complaint in negligence against the defendant arising out of a fall on defendant’s premises on May 1,1991.
+At trial, requests for rulings of law were filed by the defendant. The Court’s findings on rulings 10,11 and 12 are the focus of this appeal.
+At trial there was evidence presented showing that the plaintiff went to the defendant store on May 1, 1991 to shop and after forty-five minutes or so went through the checkout counter accompanied by her four year old daughter, her fiance and his mother. Completing the checkout process, she was in the process of putting money in her purse at the end of the checkout counter when she observed her daughter walking toward a fruit stand located a few steps from the end of the counter adjacent to the exit. As she approached her daughter, her right foot went out from underneath her and she landed on the floor on her back. Looking at the sneaker on her right foot, she observed a “brownish-green mushy stuff’ the size of a quarter in the area of the bottom of the shoe between the arch and heel. She had taken a few steps in the direction of the fruit stand before she fell. [Appendix, Transcript, p. 24 et seq.]
+The three defendant’s requests and rulings before us on appeal include:
+10. Upon all the evidence a finding for the plaintiff is not warranted because there is insufficient evidence from which a finding could be made that the defendant or its servant caused the alleged foreign substance to be present.
+11. Upon all the evidence a finding for the plaintiff is not warranted because there is insufficient evidence from which a finding could be made that the defendant or its servants had actual knowledge of the presence of the alleged foreign substance.
+12. Upon all the evidence a finding for the plaintiff is not warranted because there is insufficient evidence from which a finding could be made that the alleged foreign substance had been present for a period of time sufficient for the defendant to learn of it and remove it.
+Following trial the Court found for the plaintiff in the amount of $24,068.00 with interest and costs. The three requests were marked “allowed.” The three were subsequently revised to read “denied.” It is from those amended rulings that this appeal is based. The Court made findings connected with each of the three requests as follows:
+10. Denied. Although there is some evidence to warrant a finding for the defendant. Court finds plaintiff slipped on brown mushy substance within three to five steps of defendant’s Building #19’s check-out counter. Accident was caused by this foreign object which would have been readily apparent to defendant’s cleaning staff or check-out personnel. Area was a high traffic area which defendant had duty to maintain.
+11. Denied. Although there is some evidence to support defendant’s contention based on all credible evidence court finds brown mushy object was close to checkout station and easily seen from that distance on tile floor.
+12. Denied. Although there is some evidence to support defendant’s contention based on preponderance of credible evidence court finds that allowing this substance to remain on floor for even a short period of time without taking steps to remove it from this high traffic area would be negligence by the defendant or their agents. Court infers that brown mushy substance had degenerated or turned brown while lying on tile floor.
+Each of the three requests at issue was a “warrants” request albeit expressed in the negative. The defendant sought through each of these three requests a ruling that there was insufficient evidence on the particular theory of liability set forth to justify a finding for the plaintiff. In denying the requests as worded the Court ruled as a matter of law that the evidence was sufficient on that theory to warrant recovery by the plaintiff. Digesse v. Colombia Pontiac Co., Inc., 369 Mass. 99, 102 (1975). Bresnick v. Heath, 292 Mass. 293, 296 (1935). MARC G. PERLIN & JOHN M. CONNORS, HANDBOOK OF CIVIL PROCEDURE IN THE MASS. DIST. CT., 2d ED., §12.5. The “warrants” request addresses evidentiary sufficiency as opposed to the factual findings from the evidence presented. Allowance of a “warrants” request (worded in the affirmative) does not imply a finding for the plaintiff is mandated.
+In Massachusetts a store owner is liable in negligence to a customer who falls on a foreign object on the store owner’s premises if it can be shown that the owner or party in control caused or created the defect, was informed of it or had a reasonable opportunity to learn of it and remove it or warn customers of its presence. Gallagher v. Stop & Shop, Inc., 332 Mass. 560, 562-63 (1955). Oliveri v. Massachusetts Bay Transp. Authority, 363. Mass. 165, 169-170 (1973). Sahagan v. Commonwealth, 25 Mass. App. Ct. 953 (1988). The requests for rulings of law at issue here track these three alternative theories of liability.
+The practical effect of denial of each request was to determine that sufficient evidence had been presented to justify a finding for the plaintiff on each of the three alternative theories of recovery in tort.
+From the record it is clear that insufficient evidence existed to deny requests #10 and #11 as worded. There was neither sufficient evidence that the defendant, or its employees, either caused or created the foreign object to be on the floor nor was the evidence sufficient to establish actual knowledge of the object which caused plaintiffs fall. Requests #10 and #11 should have been allowed. As to request #12, from the evidence presented as to the location within the store of the plaintiffs fall, the description of the object, the proximity to the checkout counter and exit, and reasonable inferences concerning traffic in the checkout area, we conclude the denial of this request as worded was appropriate and that the circumstantial evidence permitted the denial of this request. Error in denial of requests #10 and #11 was harmless in light of the finding on request #12.
+The appeal is dismissed.
+We are mindful that the general description of the object causing plaintiffs fall (“brownish-green mushy stuff’) is insufficient by itself to allow denial of request #12. Contrast Anjou v. Boston Elev. Ry. Co., 208 Mass. 273 (1911). Where the nature of this substance was unknown and no unique markings allow for a conclusion as to its length of time at its location, additional evidence, as presented here, must exist to give rise to a reasonable inference that it had been on the floor long enough to be observed and cleaned up. Beach v. S.S. Kresge, 302 Mass. 544 (1939). The combined description of the object and its particular location proximate to the checkout counter, exit and a fruit stand justify the denial of request #12. Gallagher v. Stop & Shop, supra, 563.
