@@ -1,0 +1,35 @@
+---
+court: "Massachusetts Appeals Court"
+docket: "91-P-623"
+decided: "1994-09-22"
+citations: ["37 Mass. App. Ct. 925"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Marguerita Chisholm & another vs. Commonwealth Mortgage Company, Inc., & another."]
+source_url: "https://static.case.law/mass-app-ct/37/cases/0925-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4018909
+cites_cases: ["365 Mass. 821", "392 Mass. 537", "406 Mass. 288"]
+---
+
+# Chisholm v. Commonwealth Mortgage Co.
+
+## Majority
+
+When a fire on March 5, 1987, damaged premises belonging to Marguerita and Caroline Chisholm at 808 Morton Street, in the Mattapan section of Boston, their fire insurance policy had expired because they had failed to renew it. The date of expiration was January 23, 1987. In proceedings in the Superior Court, Commmonwealth Mortgage Company (Commonwealth), as mortgagee of the property, sought to recover damages against Massachusetts Property Insurance Underwriting Association (MPIUA) by reason of its failure to have notified Commonwealth that the insurance policy on 808 Morton Street had been allowed to lapse. A motion for summary judgment against Commonwealth was allowed and judgment for MPIUA was entered against Commonwealth accordingly. From that judgment Commonwealth has appealed.
+On the basis of the summary judgment papers (responses to interrogatories, depositions, and affidavits), the material facts are these. On November 24, 1986, sixty days before the expiration date of the policy issued by MPIUA on 808 Morton Street, it sent to the Chisholms an application for renewal of the policy. The Chisholms were escrowing monthly premium payments for property insurance with Commonwealth. As a result of a physical inspection of the property, MPIUA on December 3, 1986, mailed to the Chisholms a “Declination to Continue Coverage.” On affidavit, that document was neither a cancellation of insurance coverage nor a notice of refusal to renew, but, rather a notice that there are substandard conditions on the property to be corrected. Again on affidavit, MPIUA at no time had decided not to renew the insurance policy. Those assertions on affidavit by MPIUA are not contravened and the document, i.e., the “Declination to Continue Coverage,” does not appear in the record. After the fire on March 5, 1987, the Chisholms submitted a renewal application for insurance (with premium payment) to MPIUA at its office. A policy issued effective March 12, 1987, but that, of course, did the Chisholms and Commonwealth no good so far as the fire loss on March 5 was concerned. On the same day that the Chisholms hustled a renewal application to MPIUA, a representative of the mortgagee, Commonwealth, telephoned the claims department of MPIUA to give notice of the loss on March 5.
+Commonwealth asserts a right to have been notified by the insurer that coverage had not been renewed. That claim is not based on a statute; rather, it is based on language in the policy:
+“If the policy is cancelled or not renewed by us, the mortgagee will be notified at least 10 days before the date cancellation or nonrenewal takes effect.”
+Commonwealth asks us to read the words “by us” as surplusage, and that the insurer is obliged to inform the mortgagee of nonrenewal, whether resulting from the initiative of the insurer or from the failure of the insured to apply for renewal and pay the renewal premium. Yet the insurer can only give the required ten-day notice if it is the active party because only then can it know the date when “cancellation or nonrenewal takes effect.” The insurer cannot know until the expiration date whether the policy holder will come marching in at the eleventh hour with a completed renewal application and premium payment to renew the insurance policy. As we read no ambiguity in the policy, there is no occasion to invoke, as Commonwealth would have us do, the doctrine that ambiguities in an insurance policy are to be resolved against the author of the policy. See Pinheiro v. Medical Malpractice Joint Underwriting Assn., 406 Mass. 288, 294 (1989).
+No interest which a mortgagee may reasonably consider itself to be protected against by the policy language is compromised. A mortgagee is perfectly capable of monitoring whether a mortgagor has routinely renewed a casualty insurance policy. Indeed, in the instant case, Commonwealth received monthly escrow payments from the Chisholms on account of the renewal premium and not only could have, but should have seen to the timely application of those funds. It is only when expiration of coverage is unexpected because the insurer has decided to cancel or not to renew, that a mortgagee needs forewarning through notice. Hence the “by us” language in the policy.
+Edward Rabinovitz (Robert A. Romero, Jr., with him) for Commonwealth Mortgage Company, Inc.
+William T. Walsh for Massachusetts Property Insurance Underwriting Association.
+Cases from other jurisdictions cited to us by Commonwealth involved different statutory and policy language.
+Judgment affirmed.
+Commonwealth’s claim, as the caption of this case suggests, was a cross-claim. At the time of the grant of summary judgment in favor of MPIUA against Commonwealth, the primary claim of the Chisholms against MPIUA was unresolved. The motion judge certified under Mass.R.Civ.P. 54(b), 365 Mass. 821 (1974), that there was no just reason for delay in entering a final judgment so far as MPIUA and Commonwealth were concerned, and the appeal is properly before us. Some nine months later the same judge also granted summary judgment in favor of MPIUA against the Chisholms. The Chisolms entered an appeal from that judgment. We ultimately dismissed the appeal for persistent failure to perfect the appeal by filing a brief and record appendix.
+The policy issued was designated on the printed form as a Homeowners 3.
+On April 9, 1987, MPIUA cancelled the renewal policy issued March 12 because of “unrepaired fire damage” on the premises.
+General Laws c. 175, § 193P, requires that an insurer against loss by reason of fire shall provide written notice to the insured of intent not to renew or reissue a policy to the insured at least forty-five days prior to the expiration of the policy.
+The language is from printed pages in the record appendix which counsel for Commonwealth, on his affidavit, identifies as “a true and accurate copy of the pertinent pages” of the policy. The text differs somewhat from the text set out in interrogatories, which MPIUA acknowledged as correct, and identical text set out in Commonwealth’s brief. The differences are not material for purposes of this opinion and are probably the consequence of error in transcription by counsel.
+One may fairly ask whether that principle of interpretation applies because the policy appears to be one prescribed by statute. See Bilodeau v. Lumbermens Mut. Cas. Co., 392 Mass. 537, 541 (1984); G. L. c. 175, § 99.
