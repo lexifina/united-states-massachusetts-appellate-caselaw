@@ -1,0 +1,33 @@
+---
+court: "Massachusetts Appellate Division"
+docket: "170205"
+decided: "1966-12-21"
+citations: ["36 Mass. App. Dec. 9"]
+reporter: "mass-app-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["DANIEL BRANTLEY v. CURTIS AUTOMATIC TRANSMISSION CO., INC."]
+source_url: "https://static.case.law/mass-app-dec/36/cases/0009-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4044904
+cites_cases: ["209 Mass. 339", "286 Mass. 363", "292 Mass. 405", "293 Mass. 164", "303 Mass. 343", "315 Mass. 9", "318 Mass. 420", "328 Mass. 413", "351 Mass. 360"]
+---
+
+# Brantley v. Curtis Automatic Transmission Co.
+
+## Majority (Garvey, P.J.)
+
+Garvey, P.J.
+In this action of contract there was a finding for the plaintiff on a declaration alleging the defendant improperly rebuilt an automatic transmission in his motor vehicle. The report states :
+“At the close of the trial and before the final arguments, the plaintiff made certain requests for rulings. The court granted all of plaintiff’s requests for rulings and found for the plaintiff. The defendant duly filed a timely request for report and a draft report. The plaintiff filed a motion for judgment ‘for the reason’ in the language of said motion, ‘that the defendant’s request for report filed October 24, 1963 is improper in form under Buie 27 of the District Court’. On January 28,1964 the court allowed plaintiff’s motion for judgment on the ground that the defendant could not claim a report on the basis of the court’s disposition of the plaintiff’s requests for rulings. ’ ’
+From the allowance of the motion the defendant claimed this report.
+The question presented is whether a party, who does not file requests for rulings of law, is aggrieved, and thereby entitled as a matter of right to a report because of alleged error by a trial judge in granting requests of the .prevailing party. We think not.
+G.L. c. 231, § 108. “Any party .... aggrieved by any ruling on a matter of law by a single justice may, as of right, have the ruling reported for determination by the Appellate Division . .. .” Rule 27 of the Rules of the District Court (1965), in part provides: “Requests for rulings in the trial of causes shall be in writing and presented to the court before the beginning of any closing arguments unless special leave is'given to present requests later.”
+“A ‘request’ for a report is comparable to the taking of an exception in other courts. As to exceptions, it is true that the question whether a general finding or decision upon disputed facts was warranted by the evidence must be raised by an exception to the denial of a requested ruling that such a finding would not be warranted, and cannot be raised merely by an exception to that general finding or decision taken after it was made. A similar rule applies to reports from District Courts.” Barton v. Cambridge, 318 Mass. 420, 423-424. “The reason is that exceptions or claims of report lie only to questions of law, and where there is a general finding, without more, fact and law are interwoven to such an extent that no question of law is presented.” Muir Brothers Co. v. Sawyer Construction Co., 328 Mass. 413, 415.
+There are exceptions to this general rule. It has been decided that requests for rulings of law are not necessary on a report voluntarily made by the trial judge, G.L. c. 231, § 108; in a case stated, Nutter v. Mroczka, 303 Mass. 343, 347-348; where “all material subsidiary facts have been found or are agreed”, Leshefsky v. American Employer Ins. Co., 293 Mass. 164, 167. Muir Brothers Co. v. Sawyer Construction Co., 328 Mass. 413, 415. Langdoc v. Gevaert Co. of America, Inc., 315 Mass. 9, 11; “where the basis for the general finding is not in dispute” Barton v. Cambridge, 318 Mass. 420, 424. Tegelaar Brothers, Inc. v. Hanflig, 286 Mass. 363, 366, or where the ruling is “based on the record” Barton v. Cambridge, 318 Mass. 420, 424. It was recently held that when requests are filed by both parties, and the action of the trial judge is part of the record, the court will consider claim of error in the granting of a request of the adversary. Catalucci v. Massachusetts Bay Transportation Authority, 351 Mass. 360, 362.
+It is argued by the defendant that the decision in Muto v. Deslauriers, 292 Mass. 405 controls in the case under consideration. There, in a District Court, the plaintiff sued the defendant on his oral promise that if he did not become a tenant in the plaintiff’s building he would reimhurse her for the cost of alterations. Requests for rulings were filed by the defendant, but none by the plaintiff. The trial judge ruled the statute of frauds applied on the oral promise (held error) and found for the defendant. The plaintiff’s claim of report alleged error in trial judge’s action on the defendant’s requests.
+The opinion states at page 406 “The report prepared by the trial judge contains all the material facts and rulings of law . . .” At page 408, “Because the plaintiff made no request for rulings the defendant contends that the plaintiff did not put herself in a position to ask for a report touching her right to recover or to assail the finding for the defendant. The case is properly here because the right of the plaintiff to recover was necessarily involved and called for a decision without any special requests for rulings and because the rulings adverse to the plaintiff given at the request of the defendant were reported and one of them at least was erroneous”. (Emphasis supplied)
+From the emphasized language it appears to us the court treated this as a case reported voluntarily at the request of the plaintiff. At the very least the case reached the court on a record sufficient to enable it to determine whether there had been error. In this respect the case under consideration differs and does not come under any of the exceptions outlined above. Here the judge made no subsidiary findings and chose not to report a claim of error based on his actions on the prevailing party’s requests for rulings. After consideration of the decisions we do not think he was in error in allowing the motion for judgment. On this record we hold the defendant was not aggrieved and not entitled to a report. The report is to be dismissed.
+Louis H. Cohen of Springfield for the plaintiff.
+David Burres of Springfield for the defendant.
+It is the general practice for a trial judge when finding for the only party filing requests to indicate he has treated them as waived or withdrawn. The losing party then has no right to complain. Bangs v. Farr, 209 Mass. 339, 344.
