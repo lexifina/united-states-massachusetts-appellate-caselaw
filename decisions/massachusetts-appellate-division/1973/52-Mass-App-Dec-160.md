@@ -1,0 +1,44 @@
+---
+court: "Massachusetts Appellate Division"
+docket: "318460"
+decided: "1973-06-07"
+citations: ["52 Mass. App. Dec. 160"]
+reporter: "mass-app-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["WARREN BROTHERS COMPANY v. WARREN M. MESSIER, d/b/a MESSIER CONSTRUCTION COMPANY"]
+source_url: "https://static.case.law/mass-app-dec/52/cases/0160-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4336656
+cites_cases: ["178 Mass. 232", "193 Mass. 277", "202 Mass. 247", "255 Mass. 519", "259 Mass. 439", "268 Mass. 88"]
+---
+
+# Warren Bros. v. Messier
+
+## Majority (Glynn, J.)
+
+Glynn, J.
+This ...is an action of contract in which the plaintiff seeks to recover, in quantum meruit for certain labor and materials provided by it to the defendant, and for breach of.written contract. The. defendant answered by way of general denial, that the plaintiff failed to perform its contract and by claim of recoupment.
+The court found..for the. plaintiff in the amount of $5,809.33.
+At the trial there was evidence to show that plaintiff and defendant executed a " contract dated October-28, .1971, which'contract became effective on November 22, 1971, upon the approval of the defendant’s credit. The contract pertained to the surfacing of various roads in the defendant’s subdivision in Westport, Massachusetts. The contract provided basically for the installation of 9000 square yards more or less- of bituminous concrete pavement having a thickness of '2.%" at a cost of $1.40 per square yard; that all quantities were approximate and a determination was to be made of exact quantities after completion of work. Payment in full for all work done to be paid no later than the tenth of the month next following. Final and complete payment for all work performed to be made no later than thirty days after the completion of such work. Any deviation from the specifications or modifications of the terms of the contract and any extra or incidental work shall be set forth in writing and signed by both parties prior to the making of such change. Any increase in the contract price resulting from such change shall be included in the writing.
+The contract had no starting or completion date, but evidence was that the plaintiff commenced work on December 7, 1971, and that the parties agreed, during the trial, that the plaintiff was obligated to do all the fine grading and rolling of the gravel surface provided by the defendant. The defendant paid a third party for grading work done by the third party and the plaintiff applied one course only of bituminous concrete known as a “binder” which had an average compacted thickness of 1%" over an area between 6700 and 6900 square yards and the plaintiff failed to lay any bituminous concrete on approximately 200' of roadway and a turn-around. The plaintiff did not apply any second course of bituminous concrete, known as “top”, on any of the road surface. This work was done in accordance with a discussion between the plaintiff and the defendant, namely, that the work would be done in two stages with a “binder” of 1%" during permissible weather, and as soon as possible so that the defendant could avail himself of use of the road so covered during the winter months while the defendant continued constructing homes to be located adjacent to the roads so covered with binder. The remaining layer of 1" of “top” was to be applied as soon as possible in 1972, weather permitting.
+The plaintiff performed part of this construction during permissible weather conditions in placing the first binder coat of asphalt; that the work was done in a workmanlike manner and the asphalt plant of the defendant was shut down for the season because of weather conditions.
+The plaintiff submitted a bill for the work described above on the binder coat and for extra work. The defendant refused to make payment on said bill on account of the inclusion of extra charges and because all the work contracted for had not been completed in full. The plaintiff refused to do any further work on the defendant’s roads until paid as demanded and thereafter never returned to perform further work for the defendant.
+At the close of the trial, and before final arguments, defendant made 21 requests for rulings on' which the trial judge acted. The defendant claimed to be aggrieved by the rulings of the trial judge on requests numbered 1, 2, 5, 6, 7, 8, 9, 10, 11, 12,-13, 14, 15, 16, 17, 18, 19, 20 and 21.
+The trial judge found the following facts:
+“I find that the contract dated October 28, 1971 became effective on November 22, 1971, depending on weather conditions allowing for the placement of asphalt. I find that the work was started within a reasonable-time after November 22, 1971. -
+I find that the defendant was aware that the asphalt covering would be done in "two stages, (1) the first binder coat was to be 1%" in thickness (2) the top layer was to be 1" in thickness.
+I find'that the parties orally stipulated, weather permitting, that the first binder coat would be put in place on the road bed in order that the defendant- could use the covered roads during the winter months while the defendant constructed homes to be located off the roads.
+I find that the plaintiff performed a substantial part of the contract during permissive weather conditions, in placing the first binder coat of asphalt and that such work was done in a workmanlike manner.
+I find that the asphalt plant, owned and operated by the defendant, was shut down for the season ending on December 13, 1971.
+' I find that the plaintiff' submitted to the defendant a bill for the cost of the first binder coat. The bill also contained an item for extra work. I find that the extra work was not a' part of the contract or that the defendant agreed to pay for •such extra work. I find that the defendant refused to pay for the work done under, the terms of • the contract. Such refusal constituted a breach of the contract. .
+I find that the plaintiff is entitled to recover in ‘‘quantum meruit” for the work done. V
+The plaintiff did not complete his contract due to the breach of the contract by. the defendant in refusing to pay in accordance with the terms of the contract. The trial judge- further found that- the plaintiff had substantially performed its contract and was entitled to recover on the basis of quantum meruit. Cutter v. Arlington, 268 Mass. 88. Barley v. Marden, 193 Mass. 277. McDonald v. Kavanaugh, 259 Mass. 439. Greene v. Boston Safe Deposit & Tr. Co., 255 Mass. 519.
+If a special contract is terminated by any means other than the voluntary refusal of the plaintiff to perform same, and the defendant has actually received benefit from the labor performed and the material furnished by the defendant, the value of such may be recovered upon a count in quantum meruit, in which case the actual benefit by the plaintiff from the defendant is to be paid for, independent of the terms of the contract. Fitzgerald v. Allen, 178 Mass. 232.
+The contract itself may be put into evidence and its terms referred to upon the issue of the real value to the defendant of the labor and material supplied by the plaintiff. The original contract price is the important factor in determining the value of the labor and materials supplied. Vickery v. Ritchie, 202 Mass. 247.
+Regarding the grievance claim by the defendant in this case, it is noted that the defendant 'claimed he was aggrieved by the rulings of the trial judge on requests numbered 1, 2 and 11. These three requests were granted by the trial judge and properly so, as they stated correct principles of law. However, the trial judge ruled that they were inapplicable as to the facts found by him. The ruling of the trial judge was correct and the defendant was not, in any way, harmed by this ruling.
+The trial judge also denied requests numbered 5, 6, 7, 8, 9, 10, 12, 13, 14, 15, 16, 17, 18, with the ruling that these requests were “Inapplicable to the facts found”. The denial of these requests was not judicial error in view of the facts found by the trial judge, which facts were warranted on the evidence reported.
+Requests numbered 19, 20 and 21 were also denied with the notation, “See facts found”. These three requests deal with the issue of substantial performance. The trial judge found the work that was done was done in a proper and workmanlike manner and substantially performed. The refusal of payment by the defendant was a breach of the contract.
+Peter Davis for the Plaintiff
+Maguire & Collins for the Defendant
+The findings of the trial judge were warranted on the evidence reported and this Division finds no error in the rulings of the trial judge on the many requests for rulings filed by defendant. Report dismissed.
