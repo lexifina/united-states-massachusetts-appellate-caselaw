@@ -1,0 +1,22 @@
+---
+court: "Massachusetts Appeals Court"
+decided: "1980-07-29"
+citations: ["10 Mass. App. Ct. 850"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Dominic A. Forni’s Case."]
+source_url: "https://static.case.law/mass-app-ct/10/cases/0850-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3962972
+cites_cases: ["224 Mass. 405", "229 Mass. 89", "286 Mass. 459", "293 Mass. 259", "3 Mass. App. Ct. 133", "307 Mass. 520", "310 Mass. 130", "318 Mass. 737", "327 Mass. 68", "343 Mass. 778"]
+---
+
+# Forni's Case
+
+## Majority
+
+1. The reviewing board, reversing the decision of the single member, dismissed the employee’s claim against the city of Springfield for workmen’s compensation benefits. The Superior Court affirmed the reviewing board’s decision. The claim was based on a theory that the employee, who was employed provisionally as a senior accountant in the Springfield park department, had developed a permanent condition of severe anxiety which, in turn, contributed to a disabling costochondritis, all as a result of the employee’s involvement in, and futile attempts to police, a series of alleged fiscal improprieties practiced by the superintendent of the department in his management of appropriated funds and trust funds under the department’s control. Based on the employee’s testimony, the single member made extensive findings concerning the alleged improprieties and accepted the opinion of a medical expert witness that the stresses resulting from those improprieties led to the employee’s mental or emotional breakdown and his costochondritis. The reviewing board’s decision leaves something to be desired but nevertheless furnishes an adequate basis for judicial review. See Zucchi s Case, 310 Mass. 130, 132-133 (1941); Vouniseas’s Case, 3 Mass. App. Ct. 133, 141 (1975). The board declined to make findings in accordance with the employee’s allegations of extensive improprieties and, instead, adopted the opinion of a second medical expert witness to the effect (read in its entirety) that the employee’s mental condition predated by many years the period of time in which the alleged improprieties were said to have occurred and that the employee’s costochondritis, while possibly intensified by the employee’s mental condition, was not the result of stresses at work. The second doctor contradicted aspects of his opinion during cross-examination, but that contrary testimony was not binding on the city, leaving the reviewing board free to determine which parts, if any, of his testimony to accept. See Kettleman v. Atkins, 229 Mass. 89, 92 (1918); McClean v. University Club, 327 Mass. 68, 73 (1951). The doctor reasserted his original opinion on redirect examination. Contrast Sullivan v. Boston Elev. Ry., 224 Mass. 405, 406-407 (1916); Morris v. Lodgen, 343 Mass. 778 (1962). We are of the opinion that the reviewing board’s decision was supported by the evidence and that the reasons for its decision, when read against the background of the record as a whole, were set forth with adequate clarity. The employee’s contention that the board’s decision is legally erroneous turns largely on assertions of “facts” which were not found by the board and which are, at best, a statement of the evidence most favorable to the employee. 2. The reviewing board did not err in treating the second expert opinion as properly in evidence. The employee’s objections to the admissibility of that opinion were not raised before the reviewing board. See Indrisano’s Case, 307 Mass. 520, 521-522 (1940); Perrotta’s Case, 318 Mass. 737, 740 (1945). The employee was not relieved of the responsibility for renewing his objections to the opinion because of the fact that it was the city, not he, which had been aggrieved by and sought review of the single member’s decision. Compare Minns Case, 286 Mass. 459, 461, 466-467 (1934); DiClavio’s Case, 293 Mass. 259, 261 (1936). We also observe, in relation to the evidentiary objection, that the second medical expert testified on redirect examination that his opinion as to the lack of causal relationship would remain the same even if the irregularities alleged by the employee did, in fact, occur.
+Gerard L. Pellegrini for the employee.
+William P. O’Neill, Assistant City Solicitor, for the employer.
+Judgment affirmed.
