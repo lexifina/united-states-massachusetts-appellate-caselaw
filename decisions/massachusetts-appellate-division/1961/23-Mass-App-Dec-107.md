@@ -2,7 +2,8 @@
 court: "Massachusetts Appellate Division"
 docket: "20370"
 decided: "1961"
-citations: ["23 Mass. App. Dec. 107", "21 Mass. App. Dec. 177"]
+decided_precision: "year"
+citations: ["23 Mass. App. Dec. 107"]
 reporter: "mass-app-dec"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +11,7 @@ parties: ["JOSEPH G. COLLINS d-b-a COLLINS EQUIPMENT COMPANY v. THE AETNA CASUAL
 source_url: "https://static.case.law/mass-app-dec/23/cases/0107-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4037361
-cites_cases: ["237 Mass. 513", "240 Mass. 99", "309 Mass. 516", "317 Mass. 327", "324 Mass. 620", "324 Mass. 70", "337 Mass. 270"]
+cites_cases: ["237 Mass. 513", "324 Mass. 620", "324 Mass. 70", "337 Mass. 270"]
 ---
 
 # Collins v. Aetna Casualty & Surety Co.
