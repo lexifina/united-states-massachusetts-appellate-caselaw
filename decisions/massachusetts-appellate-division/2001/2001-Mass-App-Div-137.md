@@ -1,0 +1,32 @@
+---
+court: "Massachusetts Appellate Division"
+decided: "2001-06-19"
+citations: ["2001 Mass. App. Div. 137"]
+reporter: "mass-app-div-annual"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Present Wheatley, P.J., Welsh & Creedon, JJ."]
+parties: ["Margot Anthony vs. Maddalyn Jancsics, and another"]
+source_url: "https://static.case.law/mass-app-div-annual/2001/cases/0137-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 9449329
+cites_cases: ["216 Mass. 12", "278 Mass. 518", "301 Mass. 474", "319 Mass. 17", "355 Mass. 72", "356 Mass. 741", "376 Mass., 612"]
+---
+
+# Anthony v. Jancsics
+
+## Majority (Welsh, J.)
+
+Welsh, J.
+This is an action alleging negligence in the operation of a motor vehicle. The case was tried before a jury. A verdict was returned indicating that the defendant was not negligent
+The issue on appeal is whether the judge erred in failing to instruct the jury in accordance with G.L.c. 89, §8, (the general “right of way” at intersections) as well as G.L.c. 89, §9 (the duty of a motorist at an intersection governed by a stop sign).
+We determine there was no error.
+The following evidence was adduced at trial. On January 9,1996, the plaintiff was operating a motor vehicle on Revere Street a public way in Quincy. She testified that she came to a complete stop at a “stop” sign at the intersection of Revere Street and Mechanic Street also a public way. A large mound of snow obstructed her view and she was unable to see the intersection. She proceeded out into the intersection and stopped again about half way into the intersection. The passable roadway was narrowed considerably due to the snow banks on the sides of the road. She allowed a white car to pass her and then started up again. She testified that she saw the car operated by the defendant approaching at a speed of 45 miles per hour; nevertheless she proceeded through the intersection, making a left turn in the path of the oncoming vehicle. The defendant’s vehicle struck the left side of the plaintiffs vehicle, with left hand side damage to the defendant's vehicle. The defendant testified that the plaintiff did not stop.
+The jury determined that the defendant was not negligent The court gave comprehensive instructions on the elements of negligence and the duty of care. The court specifically instructed the jury as to the issue of violation of a statute as evidence of negligence, taking pains to explain that the violation, if found, must be a contributing factor to the damage sustained by the plaintiff. See Minnehan v. Hiland, 278 Mass. 518, 523 (1932). He specifically charged as to the duty to stop at a stop sign as provided by G.L.c. 89, §9. The plaintiff’s quarrel with the judge is that he failed specifically to instruct as she requested regarding G.L.c. 89, §8, the general duty of care applicable when two motorists arrive at an intersection at approximately the same time.
+There was no error. G.L.c. 89, §8 expressly provides that its provisions do not apply when an operator is otherwise directed by a traffic regulatory sign erected and maintained in accordance with the provision of Sec. 2 of Ch. 85 (which would include “stop” signs). See Canane v. Dandini, 355 Mass. 72, 75 (1968). G.L.c. 89, §9 is the statute that is primarily applicable to intersections governed by stop signs. As stated in Canane, one directed to stop by a stop sign may not have the benefit of the general rule if the rule grants him the right of way, until he has complied with the order to stop. After stopping, the operator becomes subject to the general rule and may proceed and thereafter exercise the right of way in accordance with that rule. Id. at 75. However, the operator must proceed into the intersection with due care. Even if the operator has the right of way under c. 89, §8, that right is subject to the requirement of using due care. Possession of the right of way is only one factor to be considered in deciding whether the operator has fulfilled his duty of due care. Id. at 76. Accordingly, an operator who has stopped at a “stop” sign may still be found to be negligent if he proceeds into the intersection without using due care.
+The duty to exercise due care requires an operator who has halted at a stop sign to behave with reasonable caution before entering the intersection. Even an operator who has stopped at a stop sign and has a “right of way” under §8 may be found to be negligent if he proceeds into the intersection before he can do so with reasonable prudence and with suitable regard for his safety and that of others. Freyermuth v. Lutfy, 376 Mass., 612, 616, N. 3. (1978). Again, the “right of way^ rule in §8 is not absolute, but is subject to the condition of due care as to its exercise.
+With these principles in mind, we turn to the judge’s charge. At the outset, we observe that it is not required that the judge charge the jury in the precise formulation proposed [see Poole v. Boston & Main Ry., 216 Mass. 12, 15 (1913)] so long as the judge fairly and adequately covers the point in the charge. See Comeau v. Beck, 319 Mass. 17, 10 (1946); Squires v. Fraska, 301 Mass. 474, 476 (1938). Stated somewhat differently, the denial of requested instruction does not constitute error where the requested instructions were covered substantially in the charge. Pearlin v. Farrell, 356 Mass. 741 (1970).
+The judge gave detailed and comprehensive instructions on the concept of negligence in the context of operating of motor vehicles. He explained the duty of a motorist with regard to intersections controlled by stop signs. This explanation included the duty to yield to vehicles in or in close proximity to the intersection. While the instruction did not follow precisely the formulation suggested in the Canane and Freyermuth cases, the judge’s instruction properly stressed the duty of due care when proceeding into the intersection governed by the stop sign after having stopped.
+Appeal dismissed.
+So ordered.
+“Another rule of the road is that every driver approaching a stop sign, shall stop at a clearly marked stop line, and if there is not a stop line, then [at] a point nearest the intersecting roadway before entering it After having stopped, the driver shall yield the right of way to every vehicle in the intersection or approaching in [the] other roadway so closely as to constitute an immediate hazard during the time when the driver is moving across or within the intersection.”
