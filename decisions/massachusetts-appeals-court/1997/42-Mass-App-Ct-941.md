@@ -1,0 +1,37 @@
+---
+court: "Massachusetts Appeals Court"
+docket: "96-P-1166"
+decided: "1997-05-07"
+citations: ["42 Mass. App. Ct. 941"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Commonwealth vs. Neal Terrelonge."]
+source_url: "https://static.case.law/mass-app-ct/42/cases/0857-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1606163
+cites_cases: ["32 Mass. App. Ct. 964", "361 Mass. 302", "37 Mass. App. Ct. 290", "37 Mass. App. Ct. 482", "378 Mass. 900", "383 Mass. 73", "384 Mass. 262", "40 Mass. App. Ct. 411"]
+---
+
+# Commonwealth v. Terrelonge
+
+## Majority
+
+A jury could have found the following facts. On August 2, 1994, police officers observed an unidentified man approach the defendant, who was standing outside a building on Winthrop Street in the Roxbury section of Boston. After the two men had a brief conversation, the defendant walked over to a nearby fence, stooped down, and returned, passing the man a small object. An exchange of cash followed. The officers subsequently observed two more similar transactions.
+A woman then approached the defendant and spoke to him briefly. The defendant looked up and down the street, handed the woman a napkin or white towel, and ran off. He was apprehended moments later. Police also apprehended Anthony Boston, one of the men who had been observed with the defendant. A small bag of crack cocaine was recovered from Boston. Five additional bags of crack cocaine were discovered by the fence. The packaging of the cocaine taken from Boston was the same as that found by the fence.
+The defendant filed a motion for a new trial pursuant to Mass.R.Crim.P. 30(b), 378 Mass. 900 (1979), which was denied by the trial judge without a hearing. The defendant maintains that in his instructions to the jury, the judge failed to differentiate between the quantity of cocaine that properly could be used to prove the distribution charges (the single packet recovered from Boston) and that which could be used to prove the possession with intent to distribute charges (the stash recovered from behind the fence). He argues that because the jury may have relied on the single packet of cocaine to support all four convictions, the judge’s denial of his motion for a new trial resulted in a manifest injustice and must, therefore, be reversed. See Commonwealth v. Little, 384 Mass. 262, 269 (1981). Cf. Commonwealth v. Sanchez, 40 Mass. App. Ct. 411, 418-419 (1996) (conviction reversed where jury may have taken an erroneous route to its guilty verdict).
+The defendant’s convictions on the distribution charges and the possession with intent to distribute charges would have been duplicative and hence impermissible if both were based on the same transaction involving a single packet of cocaine. Kuklis v. Commonwealth, 361 Mass. 302, 306-307 (1972). Commonwealth v. Ruggerio, 32 Mass. App. Ct. 964, 966 (1992). The two crimes, however, “are not so closely related so as to prevent conviction and punishment for both, so long as separate and distinct quantities of cocaine underlie the two charges.” Commonwealth v. Richardson, 37 Mass. App. Ct. 482, 489 (1994). After reviewing the judge’s charge in its entirety, see Commonwealth v. Conefrey, 37 Mass. App. Ct. 290, 292 (1994), we conclude that the instructions sufficiently distinguished between the single packet of cocaine to be considered by the jury with respect to the distribution charges, and the stash, to be considered with respect to the possession with intent to distribute charges. Cf. Commonwealth v. Diaz, 383 Mass. 73, 82-85 (1981) (convictions for distributing one bag of heroin and possessing several others with intent to distribute affirmed where distinct quantities of the drug formed the bases of each charge).
+The judge instructed the jury as to the elements of each offense individually. Regarding the distribution charges, he told the jury that in order to convict the defendant, they must find beyond a reasonable doubt “that the substance in question [was] . . . cocaine; that the [defendant distributed some perceptible amount of [cocaine] to another person or persons, . . . and . . . that he acted knowingly and intentionally.” The judge further stated that “[t]o distribute ... is actually to deliver a controlled substance to another person. ... It is the actual delivery that constitutes the distribution.” We think it is apparent that here, the judge was referring to the transaction between the defendant and Anthony Boston, and to the single packet of cocaine recovered from Boston.
+The instructions on possession with intent to distribute were equally clear. With respect to those charges, the judge stated:
+“[F]irst, . . . [the Commonwealth must prove that] . . . the substance . . . was, indeed, cocaine. And . . . you can take into account the second certificate of the Department of Public Health .... Secondly, the Commonwealth must prove . . . that the [d]e-fendant possessed some perceptible amount of cocaine. Third, that [he] did so knowingly and intentionally. And fourth, [that he] did so with the intent to distribute.. . .
+“In order to make the determination whether that cocaine that was found in what’s been called a stash, was . . . intended for distribution .or was intended for personal use, you can consider a number of factors.”
+The judge also described the concept of constructive possession, emphasis-ing the fact that actual, physical custody of an object is not required to establish possession, so long as a person has the ability and intention to exercise control over the object. He further cautioned the jury that “merely being present in the vicinity of cocaine, even if one knows it’s there, does not amount to possession.”
+Here, the judge not only referred specifically to the stash, but also told the jury that in determining whether the substance was indeed cocaine, they could consider the second certificate of the Department of Public Health, a certificate of analysis introduced at trial, which listed the five plastic bags discovered behind the fence. Finally, the reference to constructive possession could only have pertained to the drugs discovered by the fence. The single packet of cocaine recovered from Boston had clearly been in the defendant’s actual possession.
+Mark J. Gillis for the defendant.
+Paul M. Treseler, Assistant District Attorney, for the Commonwealth.
+The instructions adequately informed the jury that the possession with intent to distribute charges were based on the cocaine discovered in the stash, rather than the single packet recovered from Boston. Accordingly, we discern no risk that the defendant’s convictions for distribution and possession with intent to distribute were based on a single act involving the same packet of cocaine.
+Judgments affirmed.
+Denial of new trial motion affirmed.
+Inhis instruction on distribution within a 1,000 feet of a school zone, the judge referred to the same three elements, and added the requirement that the Commonwealth prove that the distribution occurred within 1,000 feet of an operating school.
+As to the charge of possession with intent to distribute within 1,000 feet of a school zone, the judge repeated the elements of possession with intent to distribute and added the requirement that the offense occurred within 1,000 feet of an operating school.
+The first certificate of analysis introduced at trial concerned the single bag of cocaine recovered from Anthony Boston.
