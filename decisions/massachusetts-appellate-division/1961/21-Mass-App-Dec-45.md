@@ -1,0 +1,42 @@
+---
+court: "Massachusetts Appellate Division"
+docket: "43, 362"
+decided: "1961"
+citations: ["21 Mass. App. Dec. 45"]
+reporter: "mass-app-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["KENNETH BOWDEN and WILLIAM HOWDY, d. b. a. K & G PLUMBING & HEATING CO. v. JACQUELINE ELIAS, alias DELIA J. ELIAS"]
+source_url: "https://static.case.law/mass-app-dec/21/cases/0045-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4036495
+cites_cases: ["177 Mass. 1", "190 Mass. 43", "216 Mass. 44", "292 Mass. 339", "292 Mass. 438", "3 Gray 263", "314 Mass. 351", "325 Mass. 707", "331 Mass. 80", "332 Mass. 190"]
+---
+
+# Bowden v. Elias
+
+## Majority (Sgarzi, J.)
+
+Sgarzi, J.
+The parties to this action entered into a written contract for the performance by the plaintiffs of certain plumbing and heating work on premises of the defendant for the sum of $2300.00. During the progress of the work certain additional work was done by the plaintiffs at the request of the defendant. The defendant paid the plaintiffs the sum of $1900.00 and this action of contract was brought for the recovery of the balance of $400.00 together with a claim for the additional work.
+The declaration is in four .counts, the first being for the balance of $400.00 under the written contract, the second on a “Quantum Meruit” for the said balance of $400.00, the third on a “Quantum Meruit” for the extra work amounting to $483.00 and the fourth on an Account Annexed for $896.24 combining the balance due under the contract and the extra work. The defendant’s answer sets up a general denial, allegation of payment, wilful and material deviation, illegality of contract and illegality of performance.
+There was evidence that: The plaintiffs performed all of the work called for in the contract except that a 2-inch brass shower trap was installed without a vent and without obtaining a permit in violation of the Plumbing Rules and Regulations of the Town of Dedham. This violation was intentional and it was an offense punishable by a fine of $50.00. There was a provision in the contract that “Contractor shall install all items in conformance with all existing laws”. The plaintiffs performed e'xtra work at the request of the defendant and that its fair value was $483.00.
+The judge found for the plaintiffs under Count 3 of their declaration in the sum of $483.00 for the extra work but denied recovery under the remaining counts because the improper installation of the shower trap was done knowingly, intentionally and illegally and the violation was not trivial. He found that while the contract was not in itself illegal, the performance was illegal and held that the plaintiffs could not recover either under the contract or the account annexed. He also found that the contract was entire and not divisible.
+The plaintiffs filed twelve requests for rulings of law nine of which were denied and the defendant filed eleven requests all of which were granted except the first which sought a ruling that “On all the evidence and as a matter of law, the plaintiff is not entitled to recover on any count of the declaration.” This request was allowed except as to Count III for extras. The plaintiffs being aggrieved by the denial of certain of their requests and the allowance of the defendant’s requests and the defendant being aggrieved by the finding for the plaintiffs for the extras and the ruling made on her first request, the judge reported the case to this Division for determination of the issues.
+Without reciting the various requests for rulings of law in detail, the issues raised and their treatment by the judge are as follows:
+“1. Was the illegal installation by the plaintiffs of only one item (shower trap for future use in the basement) out of numerous legal and proper installations so material and substantial as to even preclude the plaintiffs’ recovery on a quantum meruit for the legal and proper installations?
+2. Was the deviation by the plaintiff in the installation of only one item (shower trap for future use in the basement) out of many proper installations so material and substantial as to preclude the plaintiffs from recovery on a quantum meruit for the proper installations?
+3. Was the contract between the parties divisible so that the plaintiffs can recover for those parts of the contract properly performed?”
+It is well established in the case of Sipley v. Stickney, 190 Mass. 43 that one who commits a wilful default in the performance of a stipulation of a contract even though it does not go to the essence of the contract, is barred from recovery either on the contract or on a quantum meruit. Homer v. Shaw, 177 Mass. 1; Ficara v. Belleau, 331 Mass. 80.
+Likewise, where one performs a contract in an illegal manner even though the contract itself is not illegal, he cannot recover, provided the illegality is serious and not merely an incidental part of the performance. Hawes Electric Co. v. Angell, 332 Mass. 190; Tocci v. Lembo, 325 Mass. 707.
+The question as to whether the illegality is serious or merely an incidental part of the performance is one of law and not of fact. Hawes Electric Co. v. Angell, 332 Mass. 190.
+The judge in his decision declared that the violation of the Plumbing Rules and Regulations of the Town of Dedham “was not trivial.” This was equivalent to a ruling that the illegality was serious and more than an incidental part of the performance. The violation was one which was punishable by a fine of $30.00 and was therefore criminal in nature. It could have resulted in great embarrassment, inconvenience and expense to the defendant and was therefore much more than a mere incident in the performance of the contract.
+The plaintiffs urge that the contract was divisible and not entire since it involved several items of plumbing installations and one heating installation. Whether a contract is divisible or entire is a question of fact since it depends upon the intention of the parties as disclosed by the language of the contract, the manner in which it is performed, the method of payment and the circumstances attending its execution and operation. Carrig v. Gilbert Varker Corp., 314 Mass. 351; Bianchi Bros. v. Gendron, 292 Mass. 438. The finding of the judge that the contract “was an entire one” was clearly warranted by the evidence and discloses no error of law.
+The defendant in her brief raises a question of law which was not submitted to the court by a direct request for a ruling of law. She .contends that the plaintiffs should have applied the money which she paid them to the payment of their claim for extras rather than to the contract since the contract was illegally performed. If this were done she would owe the plaintiffs nothing, since she has paid them $1900.00 and the amount of the extras was found by the judge to be $483.00. She therefore argues that her first request should have been granted. As previously stated, this request asked the judge to rule that “on all the evidence and as a matter of law, the plaintiff is not entitled to recover on any count of the declaration.”
+The general rule is that where a debtor does not stipulate how a payment should be applied the creditor may apply it as he chooses. Tudor Press Inc. v. University Distributing Co., 292 Mass. 339.
+Ruben H. Klainer of Boston, for the Plaintiff.
+Marvin H. Margolies of Boston, for the Defendant.
+Where, however, moneys are owed by a debtor to a creditor under two contracts, one legal and the other illegal, the law will apply a payment made by the debtor to the legal .contract only. Bondy v. Hardina, 216 Mass. 44.
+In this case although the judge found that the contract was performed in an illegal manner, the contract itself was not unlawful, and therefore the above rule has no application. The defendant did not direct how the payments were to be applied and since she denied owing anything for extras it is difficult to see how the plaintiffs could have applied a payment voluntarily made by her to something which she claimed she did not owe.
+Furthermore the question is not properly raised by the defendant in her first request since it was based “on all the evidence” and lacked the specifications required by Rule 27 of the “Rules of District Courts.” Rundlett v. Weeber, 3 Gray 263.
+Since we find no prejudicial error the report is ordered dismissed.
