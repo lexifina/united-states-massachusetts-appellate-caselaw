@@ -1,0 +1,27 @@
+---
+court: "Massachusetts Appellate Division"
+decided: "1937-02-05"
+citations: ["2 Mass. App. Div. 110"]
+reporter: "mass-app-div"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["BRISTOL STREET REALTY, INC. VS. AARON ROSENTHAL."]
+source_url: "https://static.case.law/mass-app-div/2/cases/0110-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3878852
+cites_cases: ["10 Gray 285", "120 Mass. 284", "132 Mass. 367", "158 Mass. 287", "172 Mass. 244", "216 Mass. 238", "273 Mass. 388", "276 Mass. 84"]
+---
+
+# Bristol Street Realty, Inc. v. Rosenthal
+
+## Majority (Bolster, C. J.)
+
+Bolster, C. J.
+On November 13,1928 the plaintiff leased to the defendant, for three years from February 1, 1929 at a monthly rental of $208.34, the front part of the second floor of a building on Harrison Avenue and Bristol Street. On January 3,1934, the lease, having been extended for two years, was further extended to February 1, 1936 at an annual rental of $1800, payable monthly in advance, the last extension containing the clause, “The machine storage space on the second floor now occupied by the Albany Milling Co. is to be included in this lease, and to be occupied by A. Rosenthal & Sons for the term of this lease.” Rosenthal occupied till about May 1,1935, when he vacated. On April 27, 1935 he gave the plaintiff written authority to rent the premises for the unexpired term as Rosenthal’s agent, and “to lease the premises at a minimum rental of $100 per month, rent to commence from the date that the premises are occupied.” Rosenthal paid rent through October, 1935, and this suit is upon the lease for the rent of November. The relevant answers are general denial and eviction.
+There was evidence that the plaintiff had its office in the same building as the leased premises, and on premises occupied by the Albany Milling Co. Inc.; that until his death on September 27, 1935 one Joseph Finberg was president, treasurer and general manager and in full charge of both corporations. There was testimony that .after his death his widow, Helen Finberg, who owned most of the stock in the Albany Milling Co., managed the affairs of the plaintiff corporation, and Charles Finberg, brother of the deceased, assumed the general management of the Albany Milling Co. “Sometime in October 1985” Helen Finberg told Charles Finberg to move out of the building goods of the Albany-Milling Co. then on the third floor. He moved them to the second floor, where they remained “less than a week” and then out of the building. There was no evidence to control that testimony. Whether the final removal came before or after November 1, does not appear.
+In an action by Rosenthal against this plaintiff, heard on agreed facts, the plaintiff alleged a disturbance of the tenant’s quiet possession, by reason of the storage of goods. The finding was for the defendant. Rosenthal also sued the Albany Milling Co. in an action of trespass quare clausum and had a finding for nominal damages. Apparently all three actions were tried together. Judgments in the two other actions were entered May 22,1936.
+The judge found in the case here for the defendant and made special findings, that both companies were owned and controlled by identical interests, that the “manager of the Albany Milling Co., Inc. was agent for the plaintiff in managing property” and that “an agent of the plaintiff had goods stored in the premises.”
+The case comes here on the refusal of specific rulings. It is not a report of “the case.” The first request correctly defines an eviction and was given. The second, if not merely a request for a finding of fact, assumes that the temporary storage was the action of the Albany Milling Co., but the judge found it was the action of this plaintiff. It is what this plaintiff did and intended to do, not what the other corporation did or intended to do, that counts here. The same comment holds good for the third, fourth, fifth, sixth, seventh and ninth requests. All that remains is the denial of the eighth request.
+The judge has not reported the question of the legal sufficiency of the evidence to support his special findings, though much of the argument has been directed to that point. Reid v. Doherty, 273 Mass. 388.
+The eighth request reads, “There is no evidence of any intent on the part of the plaintiff to deprive the defendant of the enjoyment of the premises.” Of course what is meant by “intent” is not secret intent, but that shown by action. An act which, if done against the right of a tenant in possession, might prove eviction, does not necessarily evidence the same intent when the tenant has already vacated for other reasons than interference with his possession. The plaintiff, having taken control for the lessee’s account, may have become liable for improper care, or for a trespass. The question here is one of eviction, a definite and permanent design that the tenant should not have what the lease gave him. We do not think that the evidence warranted a finding of such, an eviction as ended the defendant’s covenant. Fuller v. Ruby, 10 Gray 285, 290. Bartlett v. Harrington, 120 Mass. 284. Skally v. Shute, 132 Mass. 367. Int. Tr. Co. v. Schumann, 158 Mass. 287. Riley v. Lally, 172 Mass. 244. Callahan v. Goldman, 216 Mass. 238. Palumbo v. Olympia Theatres, 276 Mass. 84.
+New trial ordered.
