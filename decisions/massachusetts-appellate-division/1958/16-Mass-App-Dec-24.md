@@ -1,0 +1,41 @@
+---
+court: "Massachusetts Appellate Division"
+docket: "97401"
+decided: "1958"
+citations: ["16 Mass. App. Dec. 24"]
+reporter: "mass-app-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["SHELDON L. HASSETT, et ux v. JOHN C. PETERSON, et ux"]
+source_url: "https://static.case.law/mass-app-dec/16/cases/0024-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4034234
+cites_cases: ["12 Pick. 141", "196 Mass. 186", "201 Mass. 412", "247 Mass. 30", "260 Mass. 178", "313 Mass. 444", "317 Mass. 716", "327 Mass. 501", "329 Mass. 406", "98 Mass. 205"]
+---
+
+# Hassett v. Peterson
+
+## Majority (Sgarzi, J.)
+
+Sgarzi, J.
+The plaintiffs brought this action of contract to recover a sum of money paid by them for a parcel of land in the town of Cohasset. The declaration alleges that the parties entered into a written agreement whereby the plaintiffs were to purchase and the defendants were to sell .certain land described as one half of lot No. 10 on Buttonwood Lane in Cohasset. Papers were to pass on August 15, 1955 but the defendants did not deliver a deed on said date, and the plaintiffs made repeated demands for the return of the purchase price which they had paid to the agent of the defendants. The answer is a general denial.
+There was evidence from which the following facts could have been found: The plaintiffs owned and occupied a house on lot No. 9 adjoining the land in question. The defendants had agreed to buy lot No. 10 and had started to clear it for the purpose of building a house upon it. The plaintiffs went to one Helen McDonald, a real estate broker who was negotiating the sale of lot No. 10 to the defendants and stated that they would like to purchase one half of lot No. 10 adjoining their premises and suggested that the defendants should purchase and build their house on lot No. 11. The defendants changed their plans to agree with this suggestion and purchased the additional lot No. 11. The broker thereupon prepared an agreement for the sale of one half of lot No. 10 to the plaintiffs for the sum of $750 the conveyance to be made on August 15, 1955. On August 8, 1955 the plaintiffs paid the purchase price to Mrs. McDonald together with a sum representing one half of the commission due her for her services. Mrs. McDonald had been engaged by the plaintiffs for the purpose of acquiring the land which they desired to purchase and her authority to act for them was never revoked. She also represented the defendants in that she agreed to prepare the deed and present it to them for execution upon payment to them of the purchase price.
+On August 15, 1955 she had not prepared the deed for execution by the defendants nor paid to them the purchase price but the plaintiffs did go upon the land after this date and took wood from it. Both parties urged Mrs. McDonald to complete the transaction after August 15, 1955.
+On November 8, 1955 a deed dated Nov. 7, 1955 was recorded by which the land in question was conveyed by the defendants to the plaintiffs. This deed was drawn by Mrs. McDonald and recorded by her. While the agreement provided that the premises were to be conveyed “free from encumbrances”, the deed contained a restriction against building within 25 feet of the street line and 25 feet of the side line of the lot. While the plaintiffs had no knowledge of the deed at the time of recording they did learn of it before this action was brought and have never reconveyed or offered to reconvey the property. The plaintiffs stated that they did not now want the property because they were going to sell lot No. 9.
+The judge found as facts that the broker represented both parties and that she had never paid the defendants the money she had received from the plaintiffs but kept it in her own account. He also found that there was no valid delivery of the deed, that the deed did not conform to the agreement by reason of the restriction imposed, and that the plaintiffs have not offered to reconvey the premises. He found that the agreement was broken by the defendants and found for the plaintiffs in the sum of $750 being the full amount paid by them for the land.
+The defendants seasonably filed a number of requests for rulings of law including the following:
+“3. If the plaintiffs were entitled to rescind the transaction, then as a matter of law it was incumbent upon the plaintiffs to offer the defendants a deed to the property.” This request was denied with the following comment “There was no delivery of the deed and it was recorded without the knowledge and consent of the plaintiffs.”
+The judge also denied request No. 4 as follows:
+“The evidence is insufficient to warrant a finding that at any time prior to or during the trial did the plaintiffs tender a deed of the property back to the defendants and for that reason the plaintiffs cannot recover.”
+While the judge found that there was no valid delivery of the deed, it appears that it was in fact delivered to the person who had been engaged by the plaintiffs to obtain for them the premises which they desired, that her acts of accepting it, paying over the purchase price and recording the deed were all within the scope of the agency which the court found existed and had never been terminated by the plaintiffs. The fact that the deed was accepted and recorded by the agent of the plaintiffs even though it may have contained a restriction not contemplated by the agreement, gave to the plaintiffs something of value of which they were well aware at the time of bringing suit. Notwithstanding this they have made no attempt to reconvey the property and the judge has so found.
+Although the action brought by the plaintiffs is for breach of contract it is plain that what they are really seeking is a rescission of the contract and recovery of the purchase price. In these <circumstances they cannot in equity and good conscience recover what they have paid without returning what they have received.
+“It is well settled that to warrant rescission the plaintiff ordinarily must be able to restore the property which he has received.” Zintz v. Golub, 260 Mass. 178; Colil v. Mass. Security Corp., 247 Mass. 30; Morse v. Brackett, 98 Mass. 205; O’Shea v. Vaughn, 201 Mass. 412.
+Since the plaintiffs were in a position to reconvey the land prior to bringing suit and did not do so, it must be assumed that they have elected to retain the property. While it is of course true that the recording of a deed without the knowledge or consent of the grantee cannot pass title, if the deed is accepted and recorded by an agent of the grantee, acting within the scope of his agency and the grantee upon learning of it does nothing to repudiate the action of the agent and does not offer to reconvey he has in effect accepted the deed. Hedge v. Drew, 12 Pick. 141; Blackwell v. Blackwell, 196 Mass. 186.
+The following language appears in the case of Bianco v. Lay, 313 Mass. 444 “In the instant case there is no finding of a manual delivery of the deed to the tenant, but it is settled that manual delivery of a recorded deed is not required to work a transfer, and that acts of the grantee when coupled with a purpose of the grantor to treat the deed as delivered are insufficient to pass the title.”
+Philip Foss Lackey, for the plaintiff.
+Burton Schair, for the defendant.
+Since the plaintiffs have elected to retain the land they cannot be heard to complain of a breach of the agreement of sale.
+“The acceptance of a deed of conveyance of land from one who has previously contracted to sell it, discharges the contractual duties of the seller to the party so accepting except such as are embodied in the deed.” Restatement: Contracts, §413; Pybus v. Grasso, 317 Mass. 716; Fanger v. Leeder, 327 Mass. 501.
+The denial of defendant’s third and fourth requests for rulings of law was prejudicial error. The allowance of these requests would have required a finding for the defendants since the plaintiffs neither made nor offered to make a reconveyance of the property.
+Accordingly the finding for the plaintiffs is to be vacated and judgment is to be entered for the defendants.
+G. L. c. 231, §§108, 110, 124; Elliott v. Warwick Stores, Inc., 329 Mass. 406.
