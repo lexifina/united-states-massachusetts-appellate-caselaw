@@ -1,0 +1,22 @@
+---
+court: "Massachusetts Appeals Court"
+decided: "1977-10-19"
+citations: ["5 Mass. App. Ct. 876"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Martha Jane Bradford Donoghue vs. John Walter Donoghue (and a companion case)."]
+source_url: "https://static.case.law/mass-app-ct/5/cases/0876-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5731173
+cites_cases: ["3 Mass. App. Ct. 702", "3 Mass. App. Ct. 730", "3 Mass. App. Ct. 743", "338 Mass. 10", "339 Mass. 773", "357 Mass. 279", "365 Mass. 850", "365 Mass. 864", "367 Mass. 921", "371 Mass. 420", "372 Mass. 398", "372 Mass. 469", "4 Mass. App. Ct. 843", "423 U. S. 1022"]
+---
+
+# Donoghue v. Donoghue
+
+## Majority
+
+The plaintiff (wife) filed a complaint for divorce in a Probate Court. The defendant (husband) in that case moved to dismiss the wife’s complaint and brought the companion case, also a complaint for divorce, in the same court. 1. The husband’s appeal from the order denying his motion to dismiss is an interlocutory appeal. Absent special authorization, interlocutory orders are not ripe for appellate review (see e.g., Pollack v. Kelly, 372 Mass. 469, 470-472 [1977], and cases cited; compare Mass.R.Dom.Rel.P. 64 [1975]); however, the question raised by this motion is now open on the appeal from the final judgment. 2. On the husband’s appeal from the judgment of divorce nisi entered on the wife’s complaint, the husband contends (as he did on his earlier motion) that the judge should have dismissed the complaint on the ground that the wife’s divorce from her previous husband was invalid and therefore she was never legally married to him. The husband did not request findings of fact from the judge. Mass.R.Dom.Rel.P. 52(a) (1975). Nor did he include the transcript (or any part thereof) of the proceedings in the record. Mass.R.A.P. 8(b), 365 Mass. 850 (1974). Mass.R.Dom.Rel.P. 52(c) (1975). See Haddad v. Board of Appeals of Medford, 4 Mass. App. Ct. 843 (1976). See also Mass.R.A.P. 18(a), 365 Mass. 864 (1974). In these circumstances, this court must conclude that the entry of the judgment imported a finding by the judge of every fact required to support it. Conway v. Otis, 3 Mass. App. Ct. 702 (1975). Brine v. Brine, 3 Mass. App. Ct. 730 (1975). See Boston v. DuWors, 339 Mass. 773 (1959); Bannish v. Bannish, 357 Mass. 279, 281 (1970). (In any event, it appears that even if the transcript were properly before us, there would be no basis for reversing the Probate Court judgments. See Mass.R.Dom.Rel.P. 52[a]). 3. The second issue raised by that appeal is the propriety of the lump sum alimony award. The husband contends that the judge failed to take into consideration all the criteria mandated by G. L. c. 208, § 34. The Supreme Judicial Court has held that, where a division of property is made under this statute, the record must show beyond doubt that the judge considered all the factors set forth in the statute and the “judge’s findings [must] clearly indicate that he has weighed all the statutory considerations.” Bianco v. Bianco, 371 Mass. 420, 423 (1976). As noted above, the husband made no request for findings of fact and conclusions of law. See Mass.R.Dom.Rel.P. 52(a). As this judgment was entered before the decision in Bianco, we will not exercise our discretion to remand for findings where the record before us is wholly barren of any suggestion that there is something improper or questionable in the award and where the award is one for lump sum alimony rather than an equitable division of property (Rice v. Rice, 372 Mass. 398, 401, n.3 [1977]; see Putnam v. Putnam, ante, 10, 15, n.7 [1977]), the latter being the situation most urgently requiring comprehensive findings which reflect consideration of all the statutory factors and articulate the rationale of the equitable division. 4. The appeal from the dismissal of the husband’s complaint for divorce has not been argued and is therefore deemed waived. Mass.R.A.P. 16(a) (4), as amended effective February 24, 1975, 367 Mass. 921. Phillips v. Phillips, 3 Mass. App. Ct. 743, 744, cert. denied, 423 U. S. 1022 (1975). Compare Lolos v. Berlin, 338 Mass. 10, 13-14 (1958). 5. The husband’s appeal from the denial of his motion to dismiss the action against him is dismissed. The judgments in both actions are affirmed.
+Efrem A. Gordon for the defendant.
+David M. Fuller for the plaintiff.
+So ordered.
