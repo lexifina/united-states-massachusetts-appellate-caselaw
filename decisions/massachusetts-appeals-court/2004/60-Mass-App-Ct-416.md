@@ -1,0 +1,31 @@
+---
+court: "Massachusetts Appeals Court"
+docket: "03-P-165"
+decided: "2004-02-09"
+citations: ["60 Mass. App. Ct. 416"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Commonwealth vs. Yovani Hernandez."]
+source_url: "https://static.case.law/mass-app-ct/60/cases/0416-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 859152
+cites_cases: ["363 Mass. 601", "429 Mass. 705", "431 Mass. 442", "434 Mass. 40", "50 Mass. App. Ct. 365", "58 Mass. App. Ct. 368"]
+---
+
+# Commonwealth v. Hernandez
+
+## Majority (Brown, J.)
+
+Brown, J.
+In September, November, and December, 2001, the defendant was arrested a total of three times for operating a motor vehicle while under the influence of intoxicating liquor (OUI). See G. L. c. 90, § 24(l)(a)(l). The charges arising out of the September arrest were ultimately dismissed. On January 13, 2002, the defendant pleaded guilty to the charges arising out of the November arrest. Four days later, on January 17, the defendant pleaded guilty to the December charges as a second or subsequent offense.
+The defendant now moves to withdraw his guilty plea to the December charges on the ground that he could not plead guilty to OUI as a second offense, because at the time of the conduct in question, he had not previously been convicted. That is, his first “conviction” occurred on January 13, 2002, the date of his guilty plea to the November charges.
+General Laws c. 90, § 24(l)(a)(l), as amended through St. 1994, c. 25, § 3, provides for enhanced punishment intended for repeat offenders, “[i]f the defendant has been previously convicted . . . because of a like violation within ten years preceding the date of the commission of the offense for which he has been convicted” (emphasis supplied). This statutory language supports the defendant’s claim that he could not be deemed a repeat offender for purposes of an enhanced sentence. The fact that, at the time of his guilty plea, he had in fact previously been convicted (four days earlier, on the November charges) is irrelevant. The controlling fact is that at the time of his “commission of the offense,” he had not yet been convicted of the earlier charges.
+However, this does not mean the defendant’s guilty plea is invalid. In Commonwealth v. Chaplin, 50 Mass. App. Ct. 365 (2000), this court considered the enhanced penalty provision of the statute and noted that it is similar to the enhanced penalty provision found in G. L. c. 94C, § 32A(d). See id. at 366-368 & n.l. In turn, in Bynum v. Commonwealth, 429 Mass. 705, 708 (1999), the Supreme Judicial Court discussed c. 94C, § 32A(d), and determined that that statute does not “createQ an independent crime.” That is to say, the subsequent offender provision “does not identify a crime that has a freestanding life of its own .... It concerns solely the sentence of a person convicted . . . who has previously been convicted of at least one similar . . . offense. The prior offense is not an element of the crime for which a defendant is charged but concerns the punishment to be imposed if he is convicted [of the substantive crime] and the prior offense is proved.” Id. at 708-709 (citations and footnote omitted).
+The lesson, then, is that because the subsequent offense provisions of the statute do not create different crimes, a guilty plea to the unembellished crime of operating under the influence is functionally no different from a guilty plea to OUI as a second or subsequent offense. The elements to which the defendant admits are the same. The subsequent conviction is merely a sentencing enhancement provision, for which independent proof is required. This being the case, the defendant’s guilty plea is valid.
+Nonetheless, the defendant should not have been sentenced according to the parameters of the second offender provision. While normally a defendant, by virtue of his guilty plea, relieves the Commonwealth of its burden of proving both the elements of the charged crime, cf. Commonwealth v. Robbins, 431 Mass. 442, 444-445 (2000), and, where part of the plea, its burden of proving the prior offense, the defendant here did not, and could not, relieve the Commonwealth of its burden of proving the prior offense, because there was no record support whatsoever for the prior offense. While the defendant could plead guilty, he could not accept a statutorily created sentencing condition that simply did not exist under the facts of his case. In an imperfect analogy, it is well recognized that a judge must be satisfied that there exists a factual basis for a guilty plea. See Commonwealth v. Morrow, 363 Mass. 601, 607-608 (1973). The judge here could not have found a factual basis for the prior conviction — a fact that, although not an element of the crime charged, the defendant was still entitled to have proven beyond a reasonable doubt. See Commonwealth v. Olivo, 58 Mass. App. Ct. 368, 371-372 (2003).
+The defendant’s motion to withdraw his guilty plea should not have been denied in its entirety. Because the guilty plea to OUI as a second offense should not have been accepted, the words “second offense” shall be struck from the defendant’s conviction, and the sentence imposed thereon shall be vacated. The defendant must be resentenced for OUI as a first offense. Otherwise, the order denying the defendant’s motion to withdraw his guilty plea is affirmed.
+So ordered.
+Noteworthy is the fact that the trial procedures for each statute — that is, G. L. c. 94C, § 32A(d), and G. L. c. 90, § 24(l)(a)(l) — are governed by G. L. c. 278, § 11 A, as inserted by St. 1967, c. 213, which governs crimes “for which more severe punishment is provided for second and subsequent offenses.”
+Put another way, OUI is not a lesser included offense of OUI, second offense. See Bynum v. Commonwealth, 429 Mass. at 709 n.4.
+We recognize the anomaly created by this result: four days apart, a defendant pleads guilty to separate charges of OUI, yet in each instance is deemed a first-time offender. But this peculiarity is the result of the plain language of the statute, which we are not free to disregard. See, e.g., DaLuz v. Department of Correction, 434 Mass. 40, 49 (2001).
