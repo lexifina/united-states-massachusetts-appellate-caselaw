@@ -1,0 +1,31 @@
+---
+court: "Massachusetts Appellate Division"
+decided: "1957"
+citations: ["14 Mass. App. Dec. 198"]
+reporter: "mass-app-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Present: Nash, P. J., Welch and Callan, JJ."]
+parties: ["STANLEY MACEK v. WALTER WIECZOREK"]
+source_url: "https://static.case.law/mass-app-dec/14/cases/0198-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6063911
+cites_cases: ["104 Conn. 28", "143 Me. 275", "216 Mass. 197", "225 Mass. 165", "253 Mass. 490", "254 Mass. 363", "255 Mass. 459", "256 Mass. 555", "292 Mass. 293", "296 Mass. 215", "309 Mass. 223", "329 Mass. 748", "68 Conn. 250"]
+---
+
+# Macek v. Wieczorek
+
+## Majority (Callan, J.)
+
+Callan, J.
+The only issue in this action of contract to recover a real estate broker’s commission is whether the defendant engaged the services of the plaintiff for the sale of his property and to pay him for his efforts.
+The evidence tends to show that the defendant was the owner of certain real estate in New Bedford which he wished to sell. The plaintiff, a mill worker, and the defendant who had known each other for many years discussed the matter of sale. It was made known to the plaintiff that the defendant wanted to sell his property and that the asking price was $13,000.00. The defendant was informed by the plaintiff that he had a customer and if he obtained a purchaser he would expect a commission. The evidence does not show whether the defendant made any reply, although the judge found that to this he made no reply.
+Shortly thereafter the plaintiff brought a prospective purchaser to the defendant. The defendant raised the price to $13,500.00. The purchaser offered $12,000.00 and later increased it to $12,500.00. The next day the prospective purchaser returned with his wife and a sale was agreed upon at the purchaser’s price of $13,250.00. The plaintiff then asked the defendant for payment for his services.
+There was evidence that the defendant promised the plaintiff a "drink” if a customer was produced who bought the property. The plaintiff denied this. This was later changed by the defendant to $25.00. The plaintiff refused to accept this. There was also evidence that the plaintiff stated the defendant never agreed to pay him for procuring a customer but that the plaintiff felt he was entitled to compensation because the sale was made to the man procured by him.
+The plaintiff duly filed three requests for rulings which were allowed. The defendant filed ten requests for rulings all of which were determined by the judge as being contrary to the facts found by him. The judge found for the plaintiff in the sum of $250.00. Claiming to be aggrieved by the judge’s action on the requests for rulings of both plaintiff and defendant and by the court’s finding of certain facts, the defendant claims a report to this court.
+This court can consider only questions of law, Loanes v. Gast, 216 Mass. 197, 199; and no questions involving the finding of facts, Bresnick v. Heath, 292 Mass. 293, 296; Adamaites v. Met. Life Ins. Co., 296 Mass. 215, 221, unless such findings involve errors of law. The court’s finding of facts by which the defendant claims to be aggrieved appear to be supported by the evidence and must stand. Barttro v. Watertown Sq. Theatre, Inc., 309 Mass. 223, 224. However, the defendant was prejudiced by the judge’s action on the request for rulings.
+Generally, a broker whose services have been engaged is entitled to a commission if he produces a customer, ready, able, and willing to buy upon the terms and for the price given the broker by the owner. Henderson & Beal, Inc. v. Glen, 329 Mass. 748; Ripley v. Taft, 253 Mass. 490, 492: "The obligation of a broker employed to procure a customer for the purchase of property is at an end and he is entitled to a commission when such customer has been produced. It is immaterial whether a contract between the seller and prospective purchaser is made, or, if made, whether carried into effect; that is a matter with which the broker is not concerned and on which his right to a commission is in no way dependent.”
+There is no evidence here that the defendant engaged or employed the plaintiff’s services. In fact, there is evidence from the plaintiff himself that the defendant never agreed to pay him for procuring a customer but that the plaintiff "felt he was entitled to compensation because the sale was made to the man procured by him.” The evidence indicates, and the judge found, that the talk between the plaintiff and defendant concerning a "drink” and also the payment of $25.00 took place after the sale to the customer. There was no unilateral or bilateral contract between the plaintiff and defendant. There was no expressed contract of employment. No consideration was given for any promise. There was no offer by the defendant to pay a commission. Bartlett v. Keith, 225 Mass. 165, Elliott v. Kazajian, 255 Mass. 459; Walsh v. Grant, 256 Mass. 555.
+For the plaintiff to establish an implied contract he must show that he rendered his services in the sale of the property reasonably believing that a request had been made to him by the defendant, or that he rendered his services under such circumstances that it was obvious he intended to be paid therefor, and that the defendant, knowing this, availed himself of the benefits of the plaintiff’s services. McAuslan v. Nolan, 254 Mass. 363; Canfield v. Sheketoff, 104 Conn. 28; Jones v. Silsby, 143 Me. 275. However, one acting as a broker cannot thrust himself upon the owner and expect to be paid for his unsolicited services. The plaintiff was merely a volunteer. There was nothing in the defendant’s conduct which could be construed as an acceptance of an implied offer on the part of the plaintiff to negotiate a sale, and no contract to pay for such services will arise. Mechem, Agency §562; Weinhouse v. Cronin, 68 Conn. 250. Consequently, the plaintiff is not entitled to recover. The finding for the plaintiff is vacated and an entry is to be made "Judgment for defendant.” So ordered.
+Henry Bartkiewicz, for the Plaintiff.
+Joseph Freídas, for the Defendant.
