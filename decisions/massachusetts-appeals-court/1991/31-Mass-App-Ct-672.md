@@ -1,0 +1,57 @@
+---
+court: "Massachusetts Appeals Court"
+docket: "90-P-617"
+decided: "1991-12-18"
+citations: ["31 Mass. App. Ct. 672"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Construction Planners, Inc., & others vs. Dobax Insurance Agency, Inc."]
+source_url: "https://static.case.law/mass-app-ct/31/cases/0672-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4005727
+cites_cases: ["14 Mass. App. Ct. 52", "235 Va. 328", "336 Mass. 438", "337 Mass. 652", "371 Mass. 659", "386 Mass. 187", "389 Mass. 345", "407 Mass. 185", "443 N.W.2d 540", "8 Mass. App. Ct. 498", "9 Mass. App. Ct. 497"]
+---
+
+# Construction Planners, Inc. v. Dobax Insurance Agency, Inc.
+
+## Majority (Fine, J.)
+
+Fine, J.
+The issue raised in this appeal is whether sufficient special circumstances were shown to take the case out of the general rule that an insurance broker owes his client no duty to renew a policy of insurance absent a specific request or undertaking to do so.
+The plaintiff, Construction Planners, Inc. (CPI), had a contract with the Plymouth Housing Authority to build a housing complex for the elderly. The individual plaintiffs are the principal of CPI, John F. Gamache (Gamache), and his wife. The contract required CPI to carry builder’s risk insurance. The defendant, Dobax Insurance Agency, Inc. (Dobax), is an insurance brokerage firm from whom CPI had purchased a builder’s risk policy covering the Plymouth project while in the construction phase. The policy expired on March 31, 1986, before the project was completed. A fire on July 24, 1986, caused considerable damage to the project which, as of that date, still had not been completed.
+Having learned that it had no builder’s risk insurance to cover the loss, the plaintiffs brought this action against Dobax claiming liability in tort, contract, and under G. L. c. 93A. Dobax moved for summary judgment, supporting its motion with a memorandum of law and Gamache’s deposition. Concerning liability, the defendant relied on Gamache’s deposition testimony that he had been informed by Warren Baxter, a principal in Dobax, that the policy would expire on March 31, 1986, and had not requested that Dobax renew the policy. Dobax contended, therefore, that it had no duty to renew the policy. Alternatively, in support of its motion, Dobax argued that, even if it was negligent, the plaintiffs’ claim was barred by contributory negligence. In addition, Dobax asserted that there was no evidence of any actual damages.
+The plaintiffs opposed the motion, relying on the same deposition and a supplemental affidavit of Gamache. In his affidavit, Gamache described the relationship of the parties. He stated that for several years prior to the fire CPI used Dobax exclusively to meet its insurance needs which were varied and included automobile, liability, and workers’ compensation insurance in addition to surety bonding and builder’s risk insurance. Gamache asserted that CPI relied on Dobax for advice and for obtaining proper coverage. Among other things, CPI relied on Dobax to renew policies as necessary, and often policies were renewed automatically by Dobax without consulting Gamache. Gamache stated, further, that Dobax’s principals were familiar with CPI’s business and were aware of CPI’s reliance on Dobax.
+Gamache confirmed in his affidavit that in mid-March, 1986, he had a brief conversation with Dobax’s principal about the builder’s risk policy. Gamache stated that in the course of that conversation he was informed of the March 31st expiration date, and he responded that the project would not be completed until at least mid-April. He stated, further, that nothing was said by either party to the conversation about renewal, but he assumed that Dobax would renew it. Gamache was never sent a copy of a letter from Dobax informing the insurer that the policy was not being renewed, and Gamache did not know that it had not been renewed until after the fire. In his deposition, Gamache stated that, in the past, he had received premium bills for renewals as late as four months after the effective date of the renewal. The plaintiffs’ theory of damages was discussed in both Gamache’s deposition and affidavit.
+The judge allowed Dobax’s motion for summary judgment, noting only, “No contract executed, no damages shown.” We conclude, on the basis of the evidence before the motion judge, that there were material issues of fact as to common law liability in tort or contract as well as damages, but not as to the claim under G. L. c. 93A.
+Although an insurance broker who is an agent for a client is generally bound to use due care in implementing the agency, see Rayden Engr. Corp. v. Church, 337 Mass. 652, 660 (1958); Rae v. Air Speed, Inc., 386 Mass. 187, 192 (1982), the broker ordinarily has no duty, absent a request from the client or an undertaking by the broker, to obtain insurance or to renew a policy about to expire. See Gabrielson v. Warnemunde, 443 N.W.2d 540, 542 (Minn. 1989); Stacy v. J.C. Montgomery Ins. Corp., 235 Va. 328, 331 (1988); 18 Couch, Insurance § 68.12, at 15 (Rhodes rev. 2d ed. 1983); 16A Appleman, Insurance Law & Practice § 8836, at 64, 69-71 (1981). “[S]pedal circumstances of assertion, representation and reliance,” Rapp v. Lester L. Burdick, Inc., 336 Mass. 438, 442 (1957), however, may give rise to such a duty. See Bicknell, Inc. v. Havlin, 9 Mass. App. Ct. 497, 501 (1980). 18 Couch, Insurance § 68.7, at 8 . & n.10. Compare McCue v. Prudential Ins. Co., 371 Mass. 659, 661 (1976).
+We think the plaintiffs made a sufficient showing to raise a jury question as to the existence of such special circumstances in the present case. As background, we assume that the insurance needs of a company engaged in the construction business are complex. A jury could have inferred, we think, that, as a broker soliciting such a company’s insurance business, Dobax was holding itself out as reasonably knowledgeable on the subject and efficient in securing necessary coverage. See McCue v. Prudential Ins. Co., 371 Mass, at 662; 3 Couch, Insurance § 25.37, at 338 & n.3, 339 (Rhodes rev. 2d ed. 1984). Further, there was evidence of the relevant circumstances, which a jury might believe, that for several years CPI dealt exclusively with Dobax to meet its extensive insurance needs and that often policies were renewed by Dobax automatically without consultation with CPI. The mid-March conversation must be considered in light of that background. Dobax contends that Gamache’s failure, when informed of the March 31 expiration date, expressly to request that the builder’s risk policy be renewed eliminated any obligation on its part to renew the policy. The plaintiffs contend, on the other hand, that, having informed Dobax that the project would not be completed by the expiration date, and not having been informed by Dobax that it would not renew the policy, they were reasonable in relying on Dobax to renew the policy.
+In our view, assuming the truthfulness of Gamache’s affidavit, a jury could find that the plaintiffs’ analysis of the effect of the conversation makes more sense. Having had builder’s risk coverage all along during the project, it is unlikely that the plaintiffs would have elected to take the risk of loss by fire for the short period remaining for completion of the project. This is particularly so given the fact, known to Dobax, that CPI was bound by its contract with the Plymouth Housing Authority to carry the insurance. Conveying the information to Dobax that the project would not be complete by the expiration date of the policy could reasonably be construed in the circumstances as tantamount to a request to Dobax to renew the policy. Thus, in our view, a reasonable fact finder could conclude, in the special circumstances set forth in the Gamache affidavit, both that Dobax was negligent in failing to renew the policy and that CPI was reasonable in relying on Dobax to renew it. A triable issue as to liability, therefore, was shown. CPI may have been contributorily negligent, as Dobax contends, but, if so, the degree of such negligence would also be a question for the jury at trial.
+We need not discuss damages at length. There is enough in the materials before the motion judge to justify a trial at least on the claim for the final $100,000 payment due CPI from the Plymouth Housing Authority, less any amount due subcontractors.
+We see nothing in the materials, however, to justify recovery under G. L. c. 93A, §§ 2 and 11, which make unlawful “unfair or deceptive acts or practices in the conduct of . . . trade or commerce” between two businesses. Although, in certain situations, liability under G. L. c. 93A may be based on negligence, see MacGillivary v. W. Dana Bartlett Ins. Agency of Lexington, Inc., 14 Mass. App. Ct. 52, 58-61 (1982); compare Maillet v. ATF-Davidson Co., 407 Mass. 185, 193 (1990) (liability may be based on negligent breach of an implied warranty), “not every negligent act is unfair or deceptive and thus unlawful under G. L. c. 93A, § 2.” Swanson v. Bankers Life Co., 389 Mass. 345, 349 (1983). Levings v. Forbes & Wallace, Inc., 8 Mass. App. Ct. 498, 504 (1979).
+Here there is no claim of breach of any promise or warranty, or of deception. It is undisputed that Dobax orally informed the plaintiffs that the builder’s risk policy was about to expire. To determine whether there was unfairness, “we must evaluate the equities between the parties,” and a claimant’s own conduct may be relevant to that evaluation. Swanson v. Banker’s Life Co., 389 Mass, at 349. It is undisputed that, when told of the expiration date of the policy, the plaintiffs did not expressly request that it be renewed, and they let months go by without inquiring about the premium bill. Nor is there any indication that Dobax sought any unfair advantage for itself by not renewing the policy. Thus, as to the G. L. c. 93A claim, we conclude that there has been no showing of a dispute as to any material fact.
+Accordingly, we affirm the judgment for the defendant on the c. 93A claim, but we vacate the judgment for the defendant based upon the common law counts and order the case to stand for trial.
+So ordered.
+The testimony as to the conversation was as follows.
+Q. “Did you talk to Warren Baxter at that meeting about the builder’s risk policy for the Plymouth Housing Project?’’
+A. “That was one of many, correct.”
+Q. “You told him that the project was substantially complete at that time?”
+A. “I told Mr. Baxter on that particular policy that I had four to five weeks left on the project.”
+Q. “And he told you that it was coming up for renewal at the end of the month?”
+A. “He told me it was coming up for renewal, correct.”
+Q. “Isn’t it fair to say that you asked him not to renew the policy?” A. “No, sir.”
+Q. “What did you say to him?”
+A. “I told him I had four or five weeks left on the project.”
+Q. “What did you say about the renewal of the project policy?”
+A. “I didn’t.”
+Q. “You didn’t say anything?”
+A. “No, sir.”
+Q. “Did he ever talk to you about renewing the policy?”
+A. “No. That was it.”
+Q. “Did he ever talk to you about not renewing the policy?”
+A. “No, he didn’t.”
+Q. “He didn’t say either way?”
+A. “That’s correct.”
+Q. “You also did not ask him to renew the policy?”
+A. “That’s correct.”
+Dobax also knew that the Gamaches were bound as indemnitors under the surety bond to carry such insurance.
