@@ -1,0 +1,33 @@
+---
+court: "Massachusetts Appeals Court"
+decided: "1984-04-03"
+citations: ["17 Mass. App. Ct. 679"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Michael J. Moran vs. Town of Mashpee."]
+source_url: "https://static.case.law/mass-app-ct/17/cases/0679-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3980745
+cites_cases: ["2 Mass. App. Ct. 722", "365 Mass. 824", "382 Mass. 309", "382 Mass. 398", "386 Mass. 367", "387 Mass. 43", "387 Mass. 51", "391 Mass. 517", "459 U.S. 970"]
+---
+
+# Moran v. Town of Mashpee
+
+## Majority (Brown, J.)
+
+Brown, J.
+This is an appeal from a summary judgment entered in the Superior Court dismissing the plaintiff’s action for failure to comply with the presentment requirement of the Massachusetts Tort Claims Act. G. L. c. 258, § 4, inserted by St. 1978, c. 512, § 15. Our task is to decide only whether on the state of the record before us the defendant is entitled to judgment as matter of law. See Mass.R.Civ.P. 56(c), 365 Mass. 824 (1974).
+The plaintiff alleged that on March 28, 1979, he sustained an injury due to negligence on the part of the defendant town. The plaintiff notified the town clerk of his claim in a “letter of representation,” dated April 2, 1979. Receiving no response from the town, the plaintiff commenced an action in the Superior Court on August 7, 1979. In its answer the town alleged as an affirmative defense that the plaintiff had failed to comply with the provisions of c. 258. In September, 1979, the plaintiff’s attorney had a conversation with the'town’s attorney in which they discussed the notice requirements of the statute. Based on this conversation, the plaintiff sent a second notice of the claim in a letter dated October 1, 1979. This letter was sent to the board of selectmen. The plaintiff’s predicament at this juncture was that the second notice, although presented to the proper official, was sent after the complaint had been filed. The town’s attorney, however, agreed that, upon the serving of the second notice of claim, there would be no need for the plaintiff to amend his complaint. There was extensive discovery during the ensuing three and one half years. In March, 1983, the defendant moved for summary judgment. The plaintiff, in turn, moved to amend his complaint. The judge denied the plaintiff’s motion to amend and allowed the defendant’s motion for summary judgment.
+It is plain from the record that the initial notice was not presented to the “executive officer” of the public employer, and that the later notice was presented subsequent to the filing of the complaint. General Laws c. 258, § 4, reads in pertinent part: “A civil action shall not be instituted against a public employer on a claim for damages under this chapter unless the claimant shall have first presented his claim in writing to the executive officer of such public employer within two years after the date upon which the cause of action arose.” Ordinarily, a plaintiff must comply strictly with the presentment requirement. See Weaver v. Commonwealth, 387 Mass. 43, 47-48 (1982) (notice not sent to official designated by statute until after two-year limitation period had run); Pruner v. Clerk of the Superior Ct., 382 Mass. 309, 316 (1981) (unexplained failure to comply with § 4). However, improper compliance with § 4 is not a jurisdictional defect, and, therefore, can be waived. See Vasys v. Metropolitan District Commn., 387 Mass. 51, 55 (1982).
+The plaintiff contends that the town should be estopped from asserting that the presentment was defective, that the town agreed that an amendment of the complaint would not be necessary, and that it thereby intentionally led the plaintiff to believe that it was waiving its presentment defense. See Vasys, 387 Mass. at 57 (defendant’s actions could have “had the effect of lulling the plaintiff into believing that presentment would not be an issue in the case”). The town disputes the allegation that its attorney agreed that amendment of the complaint would not be necessary.
+We think that in the unusual circumstances of this case the plaintiff has raised sufficiently a factual question whether the town may be barred from asserting a defense of defective presentment. Compare Vasys, supra at 57 (fairness to plaintiff dictated that defendant be barred from raising issue of defective presentment). Whether the elements to create an estoppel exist is still an issue of fact. Thus, it cannot be said as matter of law that the town is not estopped. Contrast Spence v. Reeder, 382 Mass. 398, 413 (1981). Moreover, in these circumstances, an estoppel of the town would not vitiate the statutory purpose behind the presentment requirement. See Vasys, supra at 57.
+As a genuine issue of material fact is present, the granting of summary judgment was improper. Attorney Gen. v. Bailey, 386 Mass. 367, 370-371, cert. denied, 459 U.S. 970 (1982). Accordingly, the judgment is reversed, and the case is remanded to the Superior Court for further proceedings in accordance with this opinion.
+So ordered.
+Under G. L. c. 258, § 4, notice should have been presented to the “executive officer” of the town, here the board of selectmen, and not to the town clerk.
+As an alternative, the plaintiff could have voluntarily dismissed his action without prejudice and refiled his complaint at the proper time.
+During this period there also were settlement negotiations between the plaintiff’s counsel and the town’s insurance carrier.
+A complaint may then be filed after final denial by the executive officer of the claim in writing or after six months if the executive officer has failed to give such denial or has failed to resolve the claim through arbitration, settlement, or compromise. In any event the action must be brought within three years after the date upon which the cause of action accrued.
+See Spence v. Reeder, 382 Mass. 398, 412 (1981) (“In civil cases, where procedural rules not rising to the level of constitutionally protected rights are involved, a waiver might be found by the failure to assert those rights or from an agreement to waive them”).
+See Cellucci v. Sun Oil Co., 2 Mass. App. Ct. 722, 728 (1974).
+Here the purposes of presentment had been achieved and the worst that can be said is that the presentment, though timely, was sequentially amiss. It would have done the town little good, i.e., would have provided it with no better notice of the pending claim, had the plaintiff moved to dismiss his action without prejudice in order to file a new one to achieve the correct sequence. Compare Lewis v. Emerson, 391 Mass. 517, 520 (1984).
