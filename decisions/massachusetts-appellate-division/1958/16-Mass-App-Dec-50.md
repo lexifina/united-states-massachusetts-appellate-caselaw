@@ -1,0 +1,47 @@
+---
+court: "Massachusetts Appellate Division"
+docket: "16826"
+decided: "1958"
+citations: ["16 Mass. App. Dec. 50"]
+reporter: "mass-app-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["GERALD F. GRIFFIN v. NAPOLEON FIELDS"]
+source_url: "https://static.case.law/mass-app-dec/16/cases/0050-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4033994
+cites_cases: ["104 Mass. 336", "122 Mass. 176", "185 Mass. 341", "292 Mass. 347", "303 Mass. 93"]
+---
+
+# Griffin v. Fields
+
+## Majority (Gallan, J.)
+
+Gallan, J.
+In this action of contract the plaintiff seeks to recover $2,000.00 against the defendant as a surety on a bond. The bond was given to dissolve what was described therein as an equitable attachment against one Shimar, Inc. The defendant answered by way of a general denial and failure of consideration.
+Evidence tended to show that on or about May 3rd, 1953, the plaintiff brought a bill in equity against Shimar, Inc., and Music Hall Corporation. Prior to trial a bond in the amount of $2,000.00 was executed by Shimar, Inc., as principal and the defendant and two others as sureties and delivered to the plaintiff. The bond in question in its entirety is as follows:
+The Commonwealth Of Massachusetts
+Know All Men By These Presents
+That We, Shimar, Inc., a corporation duly established by law, of Brockton, in the County of Plymouth and the Commonwealth of Massachusetts, as principal and Matthew Zotos of said Brockton, and Napoleon Fields of said Brockton, and John Putignano of said Brockton, both in said Commonwealth of Massachusetts as sureties, are beholden and stand firmly bound and obligated unto Gerald F. Griffin in the full and just sum of $2,000,00 to be paid unto said Griffin, his executors, administrators, or assigns, to which payment well and truly to be made, we bind ourselves, our heirs, executors and administrators, jointly and severally, firmly by these presents.
+Sealed with our seals. — Dated the Ninth day of July in the year of our Lord one thousand nine hundred and fifty-four.
+The Condition of this Obligation is such. That whereas said Gerald F. Griffin has instituted proceedings in equity against Shimar, Inc. and Music Hall Corporation, to reach and apply by Bill in Equity dated on or about May 3, 1954, and returnable to the Superior Court to be holden at Plymouth within and for the County of Plymouth in said Commonwealth, on the Seventh day of June 1934 in which action said Gerald F. Griffn is plaintiff, and said Shimar, Inc. and Music Hall Corporation are defendants, And Whereas said defendant, Shimar, Inc. wishes to dissolve the equitable attachment therein.
+Now, Therefore, if the above bounden Shimar, Inc. or Music Hall Corporation shall pay to the plaintiff in said action the amount, if any, that they may recover therein, within thirty days after the final judgment in said action, and also shall pay to the plaintiff in said action, within thirty days after the final judgment in said action, and also shall pay to the plaintiff in said action within thirty days after the entry of any special judgment in said action, in accordance with Section twenty-five of Chapter two hundred and thirty-five of the General Laws of the Commonwealth of Massachusetts, the sum, if any, for which said judgment shall be entered: then the above written obligation shall be null and void; otherwise it shall remain in full force and virtue
+Signed and sealed in the presence of Victor G. Fields Zoto & Fields
+Shirmar, Inc. by John Putignano Matthew Zoto Napoleon Fields John Putignano
+The plaintiff recovered judgment against Music Hall Corporation and made demand on the corporation for payment which was not satisfied. The only instruments in evidence were the bond heretofore mentioned and an execution in favor of the plaintiff against Music Hall Corporation issued pursuant to the final decree entered by the Superior Court in the equity action upon which execution it was noted that a demand was made by a deputy sheriff.
+The defendant duly filed five requests for rulings as follows, which were denied as being “inconsistent with the evidence in this case.”
+1. The purpose of the obligation of a surety on a bond to dissolve an attachment is to secure the payment of any judgment that may be recovered against his principal. Since the principal, Shimar, Inc. was not an adverse party to any judgment, neither in the case of Griffin vs Shimar, Inc., Plymouth Superior Court in Equity No. 36254. on the original obligation, nor in any action on the bond in issue, plaintiff cannot maintain this action. Tapley v. Goodsell, 122 Mass. 176.
+2. Upon all the evidence plaintiff cannot recover since the evidence is insufficient to indicate that there was an acceptance by plaintiff of the sureties as required by G. L. (Ter. Ed.) c. 223, §120.
+3. “A defendant whose property has been attached on mesne process in a civil action may, at any time before final judgment, dissolve the attachment by giving a bond with sufficient sureties who shall be approved by the plaintiff or by his attorney in writing, by a master in Chancery or by a justice of a Court . . .” G. L. (Ter. Ed.) c. 223, §120.
+4- Since the validity of the bond is contingent upon the approval of said bond in accordance with c. 223, §120, which was not done, plaintiff cannot recover in this action.
+5. Where the consideration flowing from the obligee to the principal obligor on the bond in issue was to release a real estate attachment on property of the principal obligor pending in an action against obligor by obligee, and where in said action judgment was rendered in favor of obligor, therefor, the consideration for said bond failed and the sureties are discharged from liability thereon.
+The judge made a special finding of facts. The defendant claiming to be aggrieved by the denial for his requests for rulings claims a report to the Appellate Division.
+It is evident from the evidence, the report, briefs of both parties and the judge’s finding of fact that there was no real estate or equitable attachment made in the equity case, G. L. c. 214 §7, but that a restraining order was dissolved in the equity matter and this by virtue of the bond in issue that was given to the plaintiff.
+There was consideration for this bond, for the bond recites, “Sealed with our Seals”. G. L. .c. 4, §gA. Being an instrument under seal, a consideration is presumed and is sufficient to support it as a binding agreement. Roth v. Adams, 185 Mass. 341.
+The bond was delivered to the plaintiff and from this an inference may be drawn that the plaintiff approved it and the parties intended to give it and be bound by it.
+This case is governed by Leonard v. Speidel, 104 Mass. 336, 360 and Burns Bros. Co. v. Block, 292 Mass. 347, wherein it was held that if sureties wish to escape liability for a judgment against any party to the action they should see to it that the bond was drawn under §129 of c. 223 of the Gen. Laws wherein it is provided that a defendant whose individual property has been attached in an action against several defendants may dissolve such attachment in any of the methods provided in the preceding sections. But the bond to dissolve such attachment shall be so worded and conditioned as to apply only to a judgment recovered against such defendant alone or jointly. The principal and sureties in the case in issue may have intended to have become bound only in the event of a judgment against Shimar, Inc. but the provisions of it are specific in that they obligated themselves if the plaintiff recovered a judgment against Shimar, Inc. or Music Hall Corporation.
+John R. McGrath, of Boston, for the plaintiff.
+Victor G. Fields, of Brockton, for the defendant.
+It is established in this Commonwealth that in the absence of any agreement to the contrary a creditor is free to proceed against the surety in the first instance and is not required to exhaust every or any other remedy before doing so. Killoren v. Herman, 303 Mass. 93 and cases cited.
+Judgment was recovered against Music Hall, Inc. and had not been satisfied. The judge was correct in denying the defendant’s requests as being inconsistent with the facts found. There appears to be no prejudicial error and the report is ordered dismissed.
+So ordered.
