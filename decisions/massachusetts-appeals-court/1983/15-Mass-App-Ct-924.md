@@ -1,0 +1,28 @@
+---
+court: "Massachusetts Appeals Court"
+decided: "1983-01-21"
+citations: ["15 Mass. App. Ct. 924"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Commonwealth vs. Huberto Moure."]
+source_url: "https://static.case.law/mass-app-ct/15/cases/0924-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5740502
+cites_cases: ["342 Mass. 180", "371 Mass. 26", "372 Mass. 199", "372 Mass. 590", "373 Mass. 569", "381 Mass. 90"]
+---
+
+# Commonwealth v. Moure
+
+## Majority
+
+The defendant was convicted by a jury on indictments charging him with assault by means of a dangerous weapon, carrying a firearm without a license, unlawful possession of ammunition, and receiving stolen property.
+The verdicts show that the jury disbelieved the defendant and believed Springfield police Officers Wallie Williams and James Lake. Williams testified that when he and Lake stopped the car being driven by the defendant, the defendant got out of the car and fled. Lake remained at the car with the passenger, Alexis Martinez, while Williams ran after the defendant. When Williams came to a vacant lot, he heard noises coming from the direction of some shrubbery. He walked toward the bushes, telling the defendant to come forward. Williams stated that the defendant fired two shots at him and began to run. In turn, Williams fired a warning shot and called for help on his hand radio. Additional officers arrived and searched the area but they did not find a gun. The defendant was not arrested until several days later. Lake corroborated Williams’ testimony by stating that after Williams started chasing the defendant, he (Lake) heard two “faint pops” followed by a louder “pop.” The defendant testified that he did not have a gun, that he never fired at Williams, and that Williams fired two shots at him.
+Because Williams had used his revolver, he and Lake filed reports of the incident with the Police Internal Investigation Unit (IIU). Williams turned in his gun for inspection, as required, and while he knew the results of that inspection, he was not allowed to relate them to the jury because of the defendant’s objection based on hearsay. Williams did testify on redirect, without objection, that he had appeared before the IIU, that, after that investigation, nothing had “happened” to him, that he was still a member of the police department, and that he had never been suspended.
+1. The records of the IIU were available to the defendant at trial, but they were not received in evidence until the hearing on the defendant’s motion for a new trial, which was based, in part, on an allegation of an improper remark in the prosecutor’s closing argument. The IIU reports do not appear in the record appendix, but the defendant claims that those reports give no indication that Williams’ gun was ever tested or that the matter was investigated by the IIU beyond Williams’ account of the incident. Even if we take the defendant’s description of the IIU reports as accurate, there was no error. The defendant argues that the prosecutor asked the jury to draw an improper inference when he stated: “Do you think if [Williams] had said I fired one shot and [the IIU] found two shots fired he would have had no action taken against that officer? He fired one shot as he told you.” The inference suggested by the Commonwealth was arguably more specific than the supporting evidence, but we find no prosecutorial misconduct on this record.
+Arthur D. Serota (Howard S. Sasson with him) for the defendant.
+William T. Walsh, Jr., Assistant District Attorney, for the Commonwealth.
+Any false notion as to the extent of the HU’S investigation was initiated by defense counsel, who also embellished on that notion by implying that the results of any inquiry by the IIU were less than favorable to the Commonwealth’s position at trial. Defense counsel argued to the jury that the function and importance of the HU provided Williams with a motive to lie about the number of shots he had fired. He went further and stated: “There was evidence that the firearm was examined, the Commonwealth whose duty it is to present evidence to you did not present the evidence of the investigation, although they could have. Nor did they have available the HU report, and that’s a very significant issue for you to consider in this case because we know what the issue is, we know what the contentions are.” When the prosecutor objected to the remarks of defense counsel, the trial judge advised him that he could speak to the IIU reports in his summation. Although the scope of the prosecutor’s retaliatory argument was not delineated prior to his summation, see Commonwealth v. Earltop, 372 Mass. 199, 205 (1977) (Hennessey, C.J., concurring), his statement was not beyond the pale, considering Williams’ testimony, and it was a permissible attempt “to correct the erroneous impression for which the defendant himself was responsible.” Commonwealth v. Smith, 342 Mass. 180, 186 (1961). Compare Commonwealth v. Burke, 373 Mass. 569, 574-576 (1977).
+2. For the reasons given by the trial judge in her memorandum on the defendant’s motion for a new trial, she was not in error in concluding that the defendant was not prejudiced by the failure of the Commonwealth to turn over Lake’s arrest report to the defendant. See Commonwealth v. DeChristoforo, 371 Mass. 26, 35-37 (1976); Commonwealth v. Pisa, 372 Mass. 590, 595-596 (1977); Commonwealth v. Wilson, 381 Mass. 90, 108-109 (1980).
+Judgments affirmed.
+Order denying motion for new trial affirmed.
