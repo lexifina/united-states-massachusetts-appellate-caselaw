@@ -1,0 +1,48 @@
+---
+court: "Massachusetts Appellate Division"
+docket: "4613"
+decided: "1953-01-08"
+citations: ["4 Mass. App. Dec. 122"]
+reporter: "mass-app-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["JOHN PERRINO v. LEONARD MARCHAND"]
+source_url: "https://static.case.law/mass-app-dec/4/cases/0122-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6064644
+cites_cases: ["257 Mass. 344", "274 Mass. 23", "286 Mass. 39", "288 Mass. 102", "292 Mass. 277", "293 Mass. 1", "297 Mass. 536", "300 Mass. 382", "306 Mass. 466", "312 Mass. 97", "314 Mass. 738", "324 Mass. 105", "324 Mass. 699", "326 Mass. 566"]
+---
+
+# Perrino v. Marchand
+
+## Majority (Brooks, J.)
+
+Brooks, J.
+This is an action of tort in which plaintiff seeks to recover damages for personal injuries sustained by him and damage to his motor vehicle, caused by the negligence of the defendant. Defendant’s answer is general denial and plea of contributory negligence.
+Plaintiff was driving easterly on State Highway Route 2 in Shirley, Massachusetts, outside the thickly settled part of the town, December 10, 1949, shortly after 6 a.m. The road was dry. It was dark at the time so that car lights were necessary. It was ten degrees below zero, the road was a two-lane road about 25 feet wide, flanked by snow banks.
+While so travelling at a rate of speed of 35 to 40 miles per hour in his right lane with his lights on low beam, descending a slight grade, plaintiff suddenly became aware of defendant’s unlighted, dark-colored car about 25 or 30 feet away, in the same lane as plaintiff and headed in the same direction. It was not in motion. He was unsuccessful in his attempt to avoid the collision. His right front fender collided with defendant’s left rear fender, pushing defendant’s car some 50 feet. His own car upset.
+Defendant had developed engine trouble in Shirley and was driving to a garage in Ayer. His battery ran out and he left the car and started to wra!k.
+Defendant made the following Requests for Rulings :
+“1. If the road where the accident took place was level or downhill for a distance of at least 200 feet west of the point of the accident, then, the evidence does not warrant a finding that the plaintiff was in the exercise of due care."
+In support of the above requests, the defendant also made the following “request for a finding of fact:”
+“1. The road where the accident took place was level or downhill for a distance of at least 200 feet west of the point of the accident.
+2. The evidence does not warrant a finding other than that the plaintiff was negligent.
+3. The evidence does not warrant a finding that the defendant was negligent.”
+The court found for plaintiff both in personal injuries and property damage. Following is part of the court’s finding:
+“I conclude that the defendant’s leaving his dark-colored car unlighted and unattended on the arterial way in question was negligence on his part, which was the proximate cause of the collision, and that no negligence of the plaintiff contributed in whole or part to the collision. The plaintiff’s failure to see defendant’s dark-colored car in the prevailing darkness until he was about 35 to 40 feet away is not inconsistent with due care on his part and his effort to avoid collision as soon as he was aware of the presence of the defendant’s car on the road tends to show that he was not indifferent to his own safety or to that of others. To some extent, he could expect and rely on observance of lighting requirements by other cars on the road.”
+“I dispose of the defendant’s Requests for Rulings as follows:
+1. Denied. I find as a fact that where the collision took place the road ran downgrade for a distance of at least 200 yards in the course of travel of the plaintiff’s car as it approached from the crest of the rise in the road to the point of collision. I rule that this fact is only a single fragment of the evidence which is indecisive of the issue of due care, or that of the defendant’s negligence.
+2. Denied,
+3. Denied.”
+The arrangement of requests for rulings is somewhat peculiar. There is a request marked 1 which relates to plaintiff’s due care. Then follow three requests labeled “request for finding of fact.” Of these three, the first is a request for a finding of fact. The other two are requests for rulings of law. The trial judge denied numbers 1, 2 and 3. Number 1 appears to be the original request No. 1. Requests 2 and 3, which he also denied by number, we assume are requests for “finding of fact,” 2 and 3. Since these requests 2 and 3 raise the only issues argued by the parties, we limit our consideration entirely to them.
+Request No. 2 “that the evidence does not warrant a finding other than that the plaintiff was negligent,” calls for a ruling that plaintiff was negligent as a matter of law. On the issue of plaintiff’s due care under circumstances of this sort, there are two lines of cases. One line is represented by Stone v. Mullen, 257 Mass. 344, Levine v. Bishop, 292 Mass. 277 and Ouillette v. Sheerin, 297 Mass. 536. in the first case, two impartial witnesses testified that they could see the defendant’s truck 100 feet away. The plaintiff did not see it until he was within 15 feet. In the second case, plaintiff admitted that he was driving at a speed at which he could not stop within the limits of his vision. In the third case, the plaintiff testified that he could see 160 feet ahead of him and yet, he did not see the defendant’s automobile until he was 5 feet away. In all of these cases, the court held that plaintiff was negligent as a matter of law.
+The other line of cases where the court held that the question of the plaintiff’s negligence was for the jury is represented by Bresnahan v. Proman, 312 Mass. 97 and Jacobs v. Moniz, 288 Mass. 102. In Bresnahan v. Proman, the plaintiff was travelling at 40 miles per hour, saw the unlighted vehicle of defendant 60 feet away but was unable to stop before hitting it. Discussing the decision, the court said: “It is true that differences of varying degree can be pointed out between some of these cases and the case at bar but the cases cited taken together sufficiently show that the present case should be classed with them and not with Stone v. Mullen, 257 Mass. 344, Levine v. Bishop, 292 Mass. 277 and Ouillette v. Sheerin, 297 Mass. 536.”
+Jacobs v. Moniz, 288 Mass. 102 is pretty ranch on all fours with the present case, except that plaintiff’s car, in the present case, pushed defendant’s car a considerable distance after the impact. This, however, occurred on a “distinct” downgrade with snow banks on either side.
+In Hoban v. Trustees of N.Y., N.H., and H.R.R., 326 Mass. 566, 569, plaintiff’s taxicab ran into an unlighted locomotive standing on tracks in the street on which plaintiff was travelling. The court said: “Since the adoption of the statute of 1914, now G.L. (Ter. Ed.) c. 231, s. 85, as appearing in St. 1947, c. 386, s. 1, we have uniformly held that contributory negligence, if any, of the plaintiff is an affirmative defence, with the burden of proving it resting on the defendant. It may well be that the fact that the headlights on the plaintiff’s automobile threw a beam of only twenty to twenty-five feet was a violation of the regulations of the registrar of motor vehicles and that in these circumstances the speed of the plaintiff’s automobile was excessive, but these facts in themselves would be only evidence of negligence and would not require a ruling that as matter of law there was negligence on the part of the plaintiff and that such negligence was a contributing cause of the accident. The question of contributory negligence was one of fact to be determined by the jury. Jacobs v. Monis, 288 Mass. 102, 106, 107. Bresnahan v. Proman, 312 Mass. 97, 100-101.”
+Request No. 3 was “The evidence does not warrant a finding that the defendant was negligent.” This required the judge to find that the defendant was not negligent as a matter of law. Defendant’s automobile was parked on the highway in viola-periodic storms in the past have combined to wash the coast at this point and threaten defendant’s property. A sea wall had been built for defendant in 1948. To protect it from the ravages of the tion of G.L. c. 85, s. 15 and c. 90,^s. 7. The violation was evidence of negligence. Madden v. Berman, 324 Mass. 699, 702. However, whether that negligence was a condition of or had a casual relation to the accident was a question of fact. Baggs v. Hirschfield, 293 Mass. 1. Feaver v. Railway Express Agency, Inc., 324 Mass. 105, 108.
+Robert J. Larkin, for the Plaintiff,
+Badger, Pratt, Doyle & Badger, for the Defendant.
+Harsha v. Bowles, 314 Mass. 738, relied on by defendant was a case of violation of G.L. c. 84, s. 14B, requiring the placing of three flares behind a disabled vehicle at night. The auditors finding was to be final. He found that defendant did not have time to place the flares prior to the accident and therefore was not negligent.
+There is ample judicial support for the judge’s denial of request 3. It has been consistently held that the negligence of the defendant under similar circumstances to those here, apart from the violation of law, presents a jury question. Cutler v. Johansson, 306 Mass. 466; Leveillee v. Wright, 300 Mass. 382; Renoud v. New England Transportation Company, 286 Mass. 39; Rotefsky v. Bova, 274 Mass. 23.
+We cannot say that the judge was wrong under all the circumstances in finding plaintiff to have been in the exercise of due care and in finding defendant negligent. We find no error in the denial of requests No. 2 and No. 3.
+Report dismissed.
