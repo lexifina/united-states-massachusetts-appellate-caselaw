@@ -1,0 +1,37 @@
+---
+court: "Massachusetts Appellate Division"
+docket: "7675; No. 2682"
+decided: "1972-03-01"
+citations: ["48 Mass. App. Dec. 27"]
+reporter: "mass-app-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["HENRY DAIGLE v. Z. WADSWORTH NARKUN"]
+source_url: "https://static.case.law/mass-app-dec/48/cases/0027-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4335756
+cites_cases: ["169 Mass. 237", "170 Mass. 479", "304 Mass. 371", "314 Mass. 167", "317 Mass. 485", "37 Mass. App. Div. 97"]
+---
+
+# Daigle v. Narkun
+
+## Majority (Parker, P.J.)
+
+Parker, P.J.
+The defendant is a public fire adjuster. The plaintiff brings this action of contract against the defendant to recover $4,000.00 as compensation for procuring, at the defendant’s request, one Bourdon, as a client for the defendant. It is alleged in the declaration that the defendant subsequently obtained the settlement of Bourdon’s fire loss in the amount of $60,000.00 for which the defendant was paid a fee of $6,000.00. The case was tried 17 March 1971 the declaration at that time being in one count.
+On 23 March 1971 plaintiff filed a motion to amend his declaration by adding a second count which was allowed by the trial justice “without a hearing”. The second count alleged that in the latter part of January 1962 the plaintiff procured a client for the defendant, whereby the defendant obtained a $6,000.00 fee and that the plaintiff is entitled on a quantum meruit to the sum of $600.00 with interest. The defendant’s answer was a general denial. There was a trial of the case on 17 March 1971 and a finding on 23 March 1971, for the defendant on Count 1 and for the plaintiff on Count 2 in the amount of $600.00 without interest.
+The defendant seasonably filed two requests for rulings upon which the court granted the first, but denied the second which was as follows :
+“2. The plaintiff, not having been the force which effected defendant’s hiring by Bourdon, a finding for the plaintiff is not warranted.”
+The defendant claims to be aggrieved by the allowance of the motion to amend the plaintiff’s declaration, by the finding for the plaintiff on Count , 2 of the declaration and the denial of the defendant’s request for ruling numbered 2. The court made no specific findings of fact. The case was submitted on briefs.
+The report states that the motiqn to amend the declaration by inserting a new Count 2 was allowed without hearing on 23 March 1971. This was six days after the trial of the case. The report gives no other facts relative to the allowance of the motion. On this bare statement there is nothing upon which this Division can determine whether there was an abuse of the court’s discretion under the 4th paragraph of Buie 22 of the Buies of the District Courts. The defendant (appellant) in his brief states facts which are not contained in the report and which therefore, are not considered by this Division. The report simply states that the amendment was allowed “without hearing”, and thus it cannot be determined that there was an abuse of discretion in its allowance. There may have been notice as required by Buie 22 and the appellant failed to appear. He may have been there but did not ask to be heard. To allow such a motion without an opportunity for the opposing party to be heard, even though the court may have intimated previously that the motion would be accepted is not a proper method of procedure. Until such a motion is filed and the opposing party has had a chance to see it and be heard does not appear to us to be a proper exercise of discretion. However, on the report before us there is no evidence to show the circumstances and facts upon which the court acted in granting the motion.
+The appellant claims to be aggrieved by the finding of the court for the plaintiff (appellee) on Count 2 as being inconsistent with the court’s finding for the defendant (appellant) in Count 1. An objection to findings of a court as being inconsistent can not be raised initially on appeal. Such an attack on a court’s findings must be made first to the trial judge by a motion' for new- trial or a motion to correct the ruling made on the request. National Shawmut Bank v. Johnson, 317 Mass. 485, 492 and cases therein cited.
+Further, it is to be pointed out that the appellant in his brief inserts a copy of the 1st Count. This was not a part of the report and so we cannot consider and compare the two counts. Buie 28, 2nd paragraph, and Draft Be-port Model, last sentence, Buies of the District Courts, which reads as follows:
+“The report should include, by incorporation and not merely by reference, all matters necessary to present the questions of law reported.”
+The court could have found that the defendant asked the plaintiff to procure a client, for him and that as a result the plaintiff did produce a client, Bourdon. The report fails to show any evidence upon which the court could find that the defendant earned a fee of $6,000.00 or that the value of plaintiff’s service on a quantum meruit was $600.00. The only evidence as to what the plaintiff (appellee) did to earn this was- to introduce Bourdon to the defendant and that Bourdon testified that he hired the defendant due to the defendant’s introduction. The court’s ruling that the request was not applicable to Count 2 is confusing unless the court meant that it was for a request for a finding of fact. Perry v. Hanover, 314 Mass. 167, 174-75.
+The fact that an agent introduces parties and that later as a result of that introduction the person so introduced and the other party makes a contract does not entitle the introducer to a commission, without his doing something more. Crowinshield v. Foster, 169 Mass. 237. Whitcomb v. Bacon, 170 Mass. 479, 481. The court would seem to have so found by the finding for the defendant on Count 1. However, by its finding on Count 2 the court would seem to have found that the plaintiff by the introduction of Bourdon to the defendant and the fact that Bourdon testified “to the effect” that he hired the defendant because of the plaintiff’s introduction, the plaintiff is entitled to $600.00 from Bourdon. There was no evidence as to the work, time or labor which the plaintiff put into this introduction or why the court should have picked out $600.00 as the quantum meruit due the plaintiff.
+The report has been carelessly drawn by the appellant and the appellee, in that it does not contain the evidence and facts alleged by them in their respective briefs. If the evidence and facts were before the court they should have been included in the report. This is primarily the duty of the appellant. However, the report is that of the trial justice and not of the parties and as such he should exercise his authority in seeing that the report contains the evidence before him relative to the points raised by the appealing party. Keeney v. Ciborowski, 304 Mass. 371, 373-74.
+The report reads, “This report contains the evidence material to the question reported.” It is plainly apparent from the briefs submitted it does not so contain all the evidence, since it is confused and deficient in reporting the evidence and findings which would appear to have been relied on by both parties.
+Eugene R. Geary for the Defendant
+Robert P. Sullivan for the Plaintiff
+We are of the opinion that justice requires that there be a new trial. Coco v. Lenfest, 37 Mass. App. Div. 97.
+The finding is to be vacated and a new trial ordered.
