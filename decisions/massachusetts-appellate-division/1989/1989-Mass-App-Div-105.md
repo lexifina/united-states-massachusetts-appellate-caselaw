@@ -1,0 +1,27 @@
+---
+court: "Massachusetts Appellate Division"
+decided: "1989-05-16"
+citations: ["1989 Mass. App. Div. 105"]
+reporter: "mass-app-div-annual"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Present: Black, P.J., Silva & Hurley, JJ."]
+parties: ["Fred Connor and another vs. Thomas M. Weldon"]
+source_url: "https://static.case.law/mass-app-div-annual/1989/cases/0105-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6812999
+cites_cases: ["13 Mass. App. Ct. 1080", "1979 Mass. App. Div. 455", "1987 Mass. App. Div. 181", "1987 Mass. App. Div. 28", "318 F.2d 538", "389 Mass. 809", "400 Mass. 254", "401 Mass. 155"]
+---
+
+# Connor v. Weldon
+
+## Majority (Black, P.J.)
+
+Black, P.J.
+This is an action brought by the plaintiffs, Fred and Ellen Connor, against the defendant, Thomas Weldon, in which it was alleged that the defendant had constructed and installed a chimney and woodburning stove in the plaintiffs’ home pursuant to a contract between the parties. That following completion of the work, there was a fire in the residence, causing substantial damage to the walls and side of the plaintiffs’ dwelling. As a result of the fire, Sentry Insurance made payment to or for the benefit of the plaintiffs. This action was brought by the plaintiffs on behalf of the insurer pursuant to the subrogation provisions of the insurance policy.
+On February 3,1987, judgment for the plaintiffs was entered as to liability only. Damages in the sum of $11,600, plus interest of $584.98 and costs were assessed April 1,1987. Due notice was sent to all of the parties. The defendant filed a Motion for Relief from Judgment and Leave to File Answers Late on May 16,1988, which was denied by the trial judge May 24,1988. The defendant now seeks appellate review of the trial judge’s denial of his motion.
+The defendant’s motion was filed approximately thirteen and one half months following entry of judgment. In oral argument before the trial judge the defendant acknowledged that Dist./Mun. Cts. R. Civ. P., Rule 60(b) precluded relief under subsections (1), (2), and (3), but contended that subsection (6) contained no such limitation. He pointed out that subsection (6) provided that relief could be granted “upon such terms as are just” for “any other reason justifying relief from the operation of the judgment.” The plaintiffs, on the other hand, stressed that under rule 60(b), the “other reasons” alluded to in subsection (6) were those not covered by the subsections (1), (2), and (3). Consequently, subsection (6) does not include “mistake, inadvertence, surprise, or excusable neglect.” The trial judge agreed with the plaintiffs’ postulation and denied the motion.
+Clearly, the trial judge was correct. While Rule 60(b)(6) has been called the “grand reservoir of equitable power to do justice in a particular case,” Radack v. Norwegian American Line Agency, Inc., 318 F.2d 538, 542 (2d Cir. 1963); Parrell v. Keenan, 389 Mass. 809 (1983), it is extremely limited, though, in scope. A Rule 60(b) (6) motion is not a substitute for an appeal. Pilgrim Pools, Inc. v. Perry, 1979 Mass. App. Div. 455; J. SMITH & ZOBEL, RULES OF PRACTICE, 8 MASSACHUSETTS PRACTICE Sec. 60.15 (1977 & Supp. 1988). Ordinarily, an issue which could have been timely raised, but was not, is deemed waived; regardless of the merits of the case. See Marymount College of Virginia v. Voccollo, 1987 Mass. App. Div. 28; Pilgrim Pools, Inc. v. Perry, 1979 Mass. App. Div. 455; J. SMITH & H. ZOBEL, RULES PRACTICE, 8 MASSACHUSETTS PRACTICE Sec. 60.15; WRIGHT & MILLER, FEDERAL PRACTICE AND PROCEDURE: CIVIL Sec. 2864 (1973 & Supp. 1988). A rule 60(b)(6) motion is to be used only in exceptional circumstances where there is a compelling injustice. Charles Choate Memorial Hospital v. Commissioner of Public Welfare, 13 Mass. App. Ct. 1080 (1982); J. SMITH & H. ZOBEL, RULES PRACTICE, 8 MASSACHUSETTS PRACTICE Sec. 60.15 (1977 & Supp. 1988); WRIGHT & MILLER, FEDERAL PRACTICE AND PROCEDURE: CIVIL Sec. 2857 (1973 & Supp. 1988). See also Bushnell v. Bushnell, 1987 Mass. App. Div. 181.
+Additionally, although it is true that the one year limitation on motions for relief from judgment does not apply to subsection (6) of Rule 60(b), a motion under subsection (6) cannot lie if the reasons for relief are more properly classified under subsections (1), (2) or (3). Bromfield v. Commonwealth, 400 Mass. 254 (1987); Parrell v. Keenan, 389 Mass. 809 (1983). For example, if the reason for the requested relief is actually “mistake" or “excusable neglect” [subsection (1)], a motion under subsection (6) would not serve to avoid the one year time limit. Relief under subsection (6) is to be granted only in extraordinary circumstances. Bromfield, supra. Therefore, an appellate court reviewing a denial of Rule 60(b)(6) motion should reverse a trial judge’s ruling only upon a showing of a clear abuse of discretion.
+In the present case, no factual reason appears to have been advanced by the defendant which would justify the granting of the relief sought. None at least is reflected in the report of the trial judge. Therefore, the defendant has failed to demonstrate any basis for reversal of the trial judge’s decision. Scannell v. Ed. Ferreirinha & Irmao, LDA, 401 Mass. 155 (1987). Certainly, no abuse of discretion has been shown.
+Accordingly, the report is dismissed.
