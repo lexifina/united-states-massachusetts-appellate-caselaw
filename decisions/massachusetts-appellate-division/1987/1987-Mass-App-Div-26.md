@@ -1,0 +1,31 @@
+---
+court: "Massachusetts Appellate Division"
+decided: "1987-02-23"
+citations: ["1987 Mass. App. Div. 26"]
+reporter: "mass-app-div-annual"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Present: Black, P.J., Staff & Silva, JJ."]
+parties: ["Bruce Holmquist vs. Mary Louise Starr"]
+source_url: "https://static.case.law/mass-app-div-annual/1987/cases/0026-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6812881
+cites_cases: ["311 Mass 1", "419 F. 2d 1319", "466 F.2d 249"]
+---
+
+# Holmquist v. Starr
+
+## Majority (Silva, J.)
+
+Silva, J.
+In this action, the plaintiff alleges that the injuries which he received in an accident which occurred on October 14,1982, were caused by the negligence of John B. Starr.
+Suit was commenced against John B. Starr by a complaint filed August 5, 1985. The return of service indicates that the defendant was served on August 12,1985 at his “last and usual place of abode...”. An answer was filed on August 29, 1985 by an attorney for the “Estate of John B. Starr” together with a statement indicating that “the defendant, John B. Starr, died a resident of Middleboro, Massachusetts on October 2,1984”. This was followed by a Motion to Amend the complaint by substituting the personal representative of the named defendant, namely “Mary Louise Starr, Executrix of the Estate of John B. Starr. . .”. The motion was allowed. On October 16, 1986 the defendant executrix filed an answer to the amended complaint denying the allegations, and also setting up as defenses a lack of jurisdiction “.. .over the person of the defendant”, insufficiency of service of process, failure of the complaint to state a claim, statute of limitations and several other defenses not pertinent to the issues raised by this appeal. On March 18,1986 the defendant filed a Motion to Dismiss based on lack of jurisdiction over John B. Starr, defendant’s intestate, as he died prior to the commencement of this action, and over defendant executrix because as a matter of law the action is a nullity. The motion was allowed on April 22,1986. From the judgment of dismissal plaintiff appeals. We find no error.
+Mass. Dist./Mun. Cts. R. Civ. P., Rule 26 (a) (1) states that where a party dies, and the claim is not thereby extinguished, the court may order substitution of the parties. However, this rule is not applicable where the defendant was dead before the action commenced. The Rule contemplates substitution for someone who had been made a party before his death. Mizukami v. Buros, 419 F. 2d 1319, (1969). In every suit there must be a real defendant, who may be a natural or artificial person. An action maybe brought only against a party who actually or legally exists and is legally capable of being sued. 69 AM. JUR. 2d. Parties, § 46.
+Substitution is meant to cover only those cases where the proper parties have been joined but, because of death, incompetency, departure from public office, or transfer of interest by a party, another may be substituted. Amendment, on the other hand, may allow the addition of parties who should or might have been joined originally, or may permit replacement of a party in or against whom the cause of action really lies. 3B MOORE FED. PRACTICE §25.02.
+As originally filed, this action was brought against a named defendant who was already dead. At this point the purported action was a nullity, for a dead man obviously cannot be made a party defendant in an action. Chandler v. Dunlop, 311 Mass 1, 5 (1942). Hence the attempted substitution of the administratrix was ineffective as such. There was no legally existing action in which she could be substituted. The amendment as originally allowed was not a substitution of a successor defendant, but the naming for the first time of a legally existent defendant. It was in effect the commencement of a new action against the defendant administratrix.
+In order to preserve his claim, the plaintiff must also have the claim relate back to the original date of commencement.
+While Mass. Dist./Mun. Cts. R. Civ. P. are modeled after the Federal Rules of Civil Procedure, there were certain sections which were not adopted. Mass. Dist./Mun. Cts. R. Civ. P. Rule 15 (c) is identical to Federal Rules of Civil Procedure, Rule 15 (c) except that the Federal Rule goes on to state”... (a)n amendment changing the party against whom a claim is asserted relates back if the foregoing provision is satisfied and, within the period provided by law for commencing the action against him, the party to be brought in by amendment (1) has received such notice of the institution of the action that he will not be prejudiced in maintaining his defense on the merits, and (2) knew or should have known that, but for the mistake concerning the identity of the proper party, the action would have been brought against him.”
+Notwithstanding the fact that Massachusetts practice professes to be more libera] than Federal Rule of Civil Procedure, Rule 15 (c) in allowing amendments adding or substituting party defendants after expiration of the period of limitations, adoption of Federal Rule of Civil Procedure, Rule 15 (c) in total would have permitted the plaintiff to have a hearing on the merits. Service in this case was made on the intended defendant within the limitation period, thereby obviating any claim of prejudice. Under the clear wording of Federal Rule of Civil Procedure, Rule 15 (c), the amendment would relate back if within the limitation period the substituted party received notice of the action and knew or should have known he was the intended party. See Loudenslager v. Teeple, 466 F.2d 249 (1972).
+Unfortunately for the plaintiff, the liberalized practice in this Commonwealth does not extend to resurrecting suits originally commenced against deceased defendants.
+The plaintiff argues that with adoption of Mass. Dist./Mun. Cts. R. Civ. P., Rule 3 a suit is legally commenced when filed with the Clerk upon payment of the fee. We do not quarrel with this premise, but add that the individual against whom a suit is commenced must be capable of exercising his due process rights.
+Report dismissed.
