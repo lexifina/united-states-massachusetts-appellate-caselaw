@@ -1,0 +1,23 @@
+---
+court: "Massachusetts Appeals Court"
+decided: "1981-05-13"
+citations: ["11 Mass. App. Ct. 832"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Sword & Shield Restaurant, Inc. vs. Amoco Oil Company; Raymond S. Lee, third-party defendant."]
+source_url: "https://static.case.law/mass-app-ct/11/cases/0832-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3965357
+cites_cases: ["129 N.J. Super. 192", "273 Mass. 254", "279 Mass. 325", "351 Mass. 353", "375 Mass. 644", "380 Mass. 285", "7 Mass. App. Ct. 870", "94 Wis. 2d 56"]
+---
+
+# Sword & Shield Restaurant, Inc. v. Amoco Oil Co.
+
+## Majority (Kass, J.)
+
+Kass, J.
+1. As to the primary issue argued by the parties, the instant case is controlled by Naukeag Inn, Inc. v. Rideout, 351 Mass. 353, 356 (1966), which held that broad general releases drawn “in terms sufficiently comprehensive” discharge all existing claims, whether disclosed or undisclosed. Here the release which Amoco Oil Company (Amoco) gave to its service station tenant, Raymond S. Lee (Lee), discharged Lee from “all claims ... of any kind whatsoever . . . whether known or unknown, which it now has, ever had, or hereafter may claim to have had, from the beginning of time to the date hereof . . . .” To the extent that the release referred to the resolution of the particular dispute then being resolved, it did so expressly “without limiting the generality of the foregoing.” If exceptions to the release were intended, they should have been stated. See Radovsky v. Wexler, 273 Mass. 254, 258 (1930); Naukeag Inn, Inc. v. Rideout, 351 Mass. at 356; LaFontaine v. Fillela, 7 Mass. App. Ct. 870, 871 (1979). Contrast Commissioner of Ins. v. Bristol Mut. Liab. Ins. Co., 279 Mass. 325, 333-334 (1932).
+2. It is no answer to the application of the familiar principles restated above to say that the claim for contribution which Amoco seeks to press against Lee did not mature until that date, after the release, upon which Amoco paid a judgment on a tort claim to Sword & Shield Restaurant, Inc. (Sword & Shield). Although it is Amoco’s position that it could not bring an action against Lee for contribution until it had paid more than its share of Sword & Shield’s claim, that action would have “its roots in the underlying incident which gives rise to the personal injury.” Coulson v. Larsen, 94 Wis. 2d 56, 59-60 (1980). So while a cause of action for contribution may not be ripe until a joint tortfeasor has paid more than his share of a judgment, the inchoate right to contribution comes into being when the “underlying incident”occurs. See Markey v. Skog, 129 N.J. Super. 192, 200 (1974). Here the underlying incident involved a leaking gasoline storage tank from which gasoline seeped into Sword & Shield’s basement, an event which occurred six days before Amoco and Lee exchanged releases. Although the existence of Sword & Shield’s claim may not have been known to the persons who signed and delivered the release of Lee on behalf of Amoco, that release by its terms included “all claims, demands, causes of action, and liabilities of any kind whatsoever (upon any legal or equitable theory, whether contractual, common law, statutory, federal, state or otherwise) whether known or unknown ...” (emphasis supplied).
+Moreover, G. L. c. 231B, § 4(b), inserted by St. 1962, c. 730, § .1, provides that, “[wjhen a release ... is given-in good faith to one of two or more persons liable in tort for the same injury . . . [i]t shall discharge the tortfeasor to whom it is given from all liability for contribution to any other tortfeasor.” The releases, incident to settlement, referred to are prejudgment releases. See Bishop v. Klein, 380 Mass. 285, 292-295 (1980). The statute refers to prejudgment releases of a tortfeasor by a claimant. The case for honoring a release by which one joint tortfeasor, as here, discharges the other is even stronger since the rights of parties are not in any way established by the actions of a third party. We recognize that the legislative purpose behind c. 23IB is to avoid having one of two or more joint tortfeasors bear a disproportionate share of a plaintiff’s recovery. Hayon v. Coca Cola Bottling Co., 375 Mass. 644, 648 (1978). It does no violence to that objective of equitable distribution of tort burdens, however, to allow tortfeasors, among themselves, to release one of their number. See generally 12 U.L.A. § 4, Comment of the National Conference of Commissioners on Uniform State Laws, at 99-100 (Master ed. 1975).
+Judgment affirmed.
