@@ -1,0 +1,36 @@
+---
+court: "Massachusetts Appellate Division"
+docket: "23571"
+decided: "1962"
+citations: ["24 Mass. App. Dec. 138"]
+reporter: "mass-app-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["BROCKTON HOSPITAL v. JOHN COOPER"]
+source_url: "https://static.case.law/mass-app-dec/24/cases/0138-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4037673
+cites_cases: ["1 Gray 148", "16 Mass. App. Dec. 8", "269 Mass. 126", "315 Mass. 59", "319 Mass. 368", "331 Mass. 653", "332 Mass. 172"]
+---
+
+# Brockton Hospital v. Cooper
+
+## Majority (Callan J.)
+
+Callan J.
+Action of contract to recover an amount allegedly due for hospital care, board, medical services and supplies furnished the defendant’s wife. By way of answer, the defendant filed a general denial and further averred that his wife did not receive proper treatment, that in the performance of its duties the plaintiff was negligent and that the services were worthless.
+Only one witness testified at the trial. Plaintiff called one Marion Cummings who was the assistant manager in the plaintiff’s office. She testified that all records of the plaintiff hospital were under her direction and supervision, and that she had charge of the same. Testifying from an accounts receivable ledger which she stated was an official hospital record, she said that the entries made therein were made by a booldceeper and not by herself. In direct examination and over the defendant’s objection, she was asked if she had an itemized account of the Cooper bill. Replying in the affirmative, she was then asked to state the itemized charges therein which she did. She was then asked if the§e .charges were fair and reasonable and whether the charges were the usual rates at the plaintiff institution, to both of which she answered “yes”. She further testified a credit of $110.60 appeared on the account.
+On cross examination she stated she knew nothing of the treatment of patients and knexv nothing of this case other than what appeared on the records from which she was testifying; that the charges on the bill for the period ending February 29,1960 appeared to be for a maternity case but she did not know for xxdiat purpose the charges were made on the bill for the period ending March 29,1960.
+The defendant filed the following requests for rulings, all of which were denied.
+1. Upon all the evidence a finding for the defendant is required.
+2. Upon all the evidence plaintiff has failed to establish that the charges for room, and board were necessary items and, therefore, cannot recover.
+3. Upon all the evidence plaintiff has failed to establish that the items alleged were necessaries, and, therefore, cannot recover.
+4. Upon all the evidence plaintiff has failed to establish that fair value of the items alleged due from the defendant, and, therefore, cannot recover.
+5. Upon all the evidence there is no privity of contract between plaintiff and defendant.
+6. Plaintiff has failed to establish that defendant is husband of the party for whom charges as alleged were made, and, therefore, cannot recover.
+The judge made a finding of facts. The case comes here on the denial of the defendant’s requests.
+We are of the opinion that there was no error. Obviously, the defendant does not have the benefit of G. L. c. 233, §ygG wherein in an action of tort for personal injuries or of consequential damages an itemized bill for medical and hospital services rendered sworn to as provided in said section “shall be admissible as evidence of the fair and reasonable charge for such services, etc.” But the plaintiff does have the benefit of the statute relating to business records and accounts. G. L. c. 233, §78. If the court makes a preliminary finding that the plaintiff’s entries in the account book or record were made in good faith in the regular course of business and before the beginning of the action and that it was the regular course of business to make such records at the time of the transaction or within a reasonable time thereafter, then the entries of the plaintiff’s accounts receivable ledger made as a record of any act, transaction, occurence or event shall not be inadmissible in any criminal or civil proceedings, “as evidence of the facts therein stated” because it is transcribed or because it is hearsay or self serving.
+When any entry, writing or record is admitted, all other circumstances of the making thereof, including lack of personal knowledge by the maker, may be shown to effect its weight. Since Miss Cummings, the plaintiff’s assistant office manager, was allowed to testify as to the entries, a finding is implied of the facts by the trial judge prerequisite to their admission. Bendett v. Bendett, 315 Mass. 59; Sellew v. Tuttle’s Millinery, 319 Mass. 368; Household Fuel Corp. v. Hamacher, 331 Mass. 653. At common law account books in support of actions brought on upon accounts for goods and services were admissible, but they were limited to enforcement of small claims and were subject to other limitations and restrictions for verification by all the individuals making the entries. Kent v. Garvin, 1 Gray 148. In 1913 the Mass, statute, now G.L. c. 233, §78, superceded the common law, hearsay exception as a ground of admissibility for business entries relieving against the hardships experienced in making proof in accordance with the prior law. Thereafter the proponent of the record was relieved of the necessity of .calling as witnesses all available persons who had figured in the transaction. The statute has since been amended making it applicable to criminal as well as civil proceedings. The evidence offered may be an entry in a book of account. Consequently, records or other writings made in the regular course of business are admissible in proof of “any act, transaction, occurence or event”, thus admitting such evidence in proof of many details which would have been excluded under the common law rule. Where record evidence is admitted under the statutory procedure, the defendant still has the right to controvert the evidence of business entries so received, or to question the credibility of the record, but this goes to the weight of the evidence and not its admissibility.
+Wiley and Foss, Inc. v. Saxony Theatres, Inc., 332 Mass. 172. For a case wherein the only evidence of the plaintiff was the ledger account which was admitted to show the fact of the sale of oil to the defendant, charges for the oil so sold, the fact of delivery of the oil and to whom the oil was sold, see Standard Oil Co. of New York v. Malaguti, 269 Mass. 126. See also Goodyear Service Stores v. Gustafson, 16 Mass. App. Dec. 8 wherein the only evidence submitted by the plaintiff was a record ledger showing a credit and balance owed in an action to recover the purchase price, and the court stated that a prima facie .case was made out by the seller as to the amount owed by the purchaser.
+In the case in issue the judge found there was no credible eivdence by the defendant rebutting the plaintiff’s evidence or to substantiate any contentions set forth in his answer. Accordingly, there is no error by the judge on the requests for rulings. As to request 6 the defendant by his answer obviates proof by the plaintiff.
+The report is ordered dismissed.
