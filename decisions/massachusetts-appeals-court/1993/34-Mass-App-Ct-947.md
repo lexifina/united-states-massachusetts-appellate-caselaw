@@ -1,0 +1,30 @@
+---
+court: "Massachusetts Appeals Court"
+docket: "92-P-464"
+decided: "1993-06-03"
+citations: ["34 Mass. App. Ct. 947"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ernest R. Robitaille vs. Gary Robitaille & another."]
+source_url: "https://static.case.law/mass-app-ct/34/cases/0947-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5754166
+cites_cases: ["133 Mass. 74", "179 Mass. 30", "2 Mass. App. Ct. 240", "354 Pa. 320"]
+---
+
+# Robitaille v. Robitaille
+
+## Majority
+
+Ernest Robitaille repeated King Lear’s mistake: he gave his estate to his progeny in return for room and board. On June 30, 1987, Ernest sold his house in Hatfield, worth approximately $140,000, to his son (Gary) and his daughter-in-law (Gretchen) for $52,500. That same day, the three Robitailles entered into a written agreement conferring on Ernest “the right to reside in [the property conveyed] with Gary R. Robitaille and Gretchen R. Robitaille, for the remainder of his natural life without any payment for room and board.” That Gary and Gretchen might move was foreseen. The agreement provided that their “obligation may be fulfilled by providing [Ernest] with a home within their new residence.” That the younger family unit might find living with the elder Robitaille unbearable they did not foresee, and that is what happened. Gary and Gretchen moved to Indiana for work-related reasons on January 1, 1989, and made it known that they did not welcome Ernest under the same roof. They disapproved of his abuse of alcohol and what they saw as his generally loutish behavior.
+Aggrieved, Ernest sued. A judge of the Superior Court who heard the case without a jury made findings of fact (upon which we have drawn) and decided, as matter of law, that reasonable off-premises living quarters would satisfy the children’s obligations to their father under the contract. From January, 1989, through June, 1989, the judge ruled, the children were in breach of the contract. During that period they had offered Ernest nothing and appeared to repudiate the contract. Thereafter, the judge found that the children offered to furnish substitute space, but the father was uncooperative and thereby (this was a ruling of law) frustrated performance of the contract. The judge assessed damages of $3,060 against the children based on Ernest’s costs for living in a camper in Florida and his cost for food. On a counterclaim by the children he assessed against the father damages of $13,927.35, having to do with the cost of discharging an attachment against the Hatfield property based on a judgment against Ernest by a third party. Ernest has appealed.
+Contracts promising support for life in exchange for property have considerable history in the law and are enforceable. Parker v. Russell, 133 Mass. 74, 77 (1882). Howe v. Watson, 179 Mass. 30, 39-40 (1901). Swartz v. Hafer, 354 Pa. 320, 324 (1946). 1 Corbin, Contracts § 148, at 654 (1963). 73 Am. Jur. 2d, Support of Persons § 10, at 892 (1974). Indeed, neither party in this case contends the contrary. The children argue instead that the attachment (they were aware of the attachment when they took title but mistakenly understood that the claim underlying the judgment was no longer pressed against the property) went to the core of the bargain with their father. At a minimum, however, the value they received from the father was $87,500 and a charge of $13,927 against the larger amount is a long way from cancelling it out.
+Our review of the transcript of testimony at trial does not support the judge’s conclusion that Ernest frustrated performance of the contract. The contract státes that Ernest has the right to live in Gary’s and Gretchen’s residence. It is they who repudiated that obligation for reasons which one may understand, but which do not exonerate them from paying for the consequences of their breach of contract. They recognized as much when they acknowledged an obligation to pay for substitute living accommodations, although they were silent as to their obligation to provide board. The judge’s findings suggest that Ernest rejected various reasonable propositions by his children regarding accommodations in Indiana. Even were we to assume the quite doubtful proposition that the contract could be stretched to cover substitute accommodations, the evidence is barren of reference to any particular accommodation which Ernest turned down. The most that can be said is that there is no evidence that Ernest came up from Florida, where he was holed up in the camper on his pickup truck, to look around at places in Indiana. Nothing Ernest did or failed to do prevented Gary .or Gretchen from making reasonable provision for Ernest’s meals, i.e., board. Contrast Frank Fitzgerald, Inc. v. Pacella Bros., 2 Mass. App. Ct. 240, 242 (1974).
+Jeffrey Leukens for Ernest R. Robitaille.
+Joseph A. Nicastro for Gary Robitaille & another.
+The proper measure of damages is the monetary value of what Gary and Gretchen promised: room and board for life. It will be necessary to impute the duration of Ernest’s life through actuarial assumptions, adjusted by Ernest’s medical history. Against damages so determined there shall be set oif the amount of $13,927.35 established under the counterclaim.
+The judgment is reversed, and the case is remanded to the Superior Court for further proceedings consistent with this opinion.
+So ordered.
+After Gary and Gretchen had the Hatfield house under agreement to sell, but before they had closed that transaction, there was discussion between the parties about using sale proceeds to buy Ernest a mobile home in which he could live in Florida. Gary and Gretchen drew back from that arrangement when they were confronted with the attachment and underlying claim previously adverted to.
+There is an element of personal service in the Robitaille contract. In view of the delicate feelings which developed within the family, the father wisely did not press for specific performance under the contract.
