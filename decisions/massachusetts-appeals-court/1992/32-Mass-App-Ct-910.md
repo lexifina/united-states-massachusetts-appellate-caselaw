@@ -1,0 +1,31 @@
+---
+court: "Massachusetts Appeals Court"
+docket: "90-P-488"
+decided: "1992-01-29"
+citations: ["32 Mass. App. Ct. 910"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Commonwealth vs. Manuel Baptista."]
+source_url: "https://static.case.law/mass-app-ct/32/cases/0910-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4008159
+cites_cases: ["227 Md. 298", "27 Mass. App. Ct. 485", "378 Mass. 392", "378 Mass. 680", "384 Mass. 13", "397 Mass. 236", "397 Mass. 863", "584 F.2d 764"]
+---
+
+# Commonwealth v. Baptista
+
+## Majority
+
+Following a jury trial, the defendant was convicted of breaking and entering a building with the intent to commit a felony, and larceny. The latter conviction was filed with the defendant’s consent. The only issue at trial was the identity of the person who committed the crimes. On appeal, the defendant claims that he was convicted solely on fingerprint evidence and argues that such evidence was insufficient to warrant the verdict. The defendant did not move for a required finding of not guilty at the trial. “However, findings based on legally insufficient evidence are inherently serious enough to create a substantial risk of a miscarriage of justice.” Commonwealth v. McGovern, 397 Mass. 863, 867-868 (1986). Therefore, we review the issue of the sufficiency of evidence raised on appeal by the defendant.
+We view the evidence in the light most favorable to the Commonwealth to determine whether the evidence “was sufficient to persuade a rational jury beyond a reasonable doubt of the existence of every element of the crime charged.” Commonwealth v. Campbell, 378 Mass. 680, 686 (1979). A conviction may not rest upon the piling of inference upon inference or on conjecture and speculation. Commonwealth v. Ferguson, 384 Mass. 13, 18 (1981).
+We summarize the Commonwealth’s evidence. In 1988, at the time of the break-in, Pearl Street Motors (Motors) occupied a building in Brain-tree. Motors was engaged in the business of selling new and used automobiles and also had a repair business. On April 7, 1988, at about 9:00 p.m., the sales manager closed and locked the building for the night. At 5:30 a.m. on the following day, an employee arrived at the building; he observed that the garage door was partially open and there was smoke throughout the garage. In addition, the doors to the soft drink and cigarette machines had been burned open with a cutting torch, several tool boxes in the garage were missing their top compartments, and a drawer where a typewriter had been kept had been opened, and the typewriter was missing.
+A detective was assigned to conduct a crime scene search. He “lifted” fingerprints, later identified as the defendant’s, from a tool box whose upper compartment was missing, from the access door to the typewriter cabinet in which the missing typewriter was stored, and from the coin box of the soft drink machine which had been burned open and rifled. In the detective’s opinion, the prints were “fresh.” There was no direct evidence of the defendant’s presence at the crime scene.
+“It is generally recognized that fingerprint evidence found at the scene of a crime must be coupled with evidence of other circumstances tending to reasonably exclude the hypothesis that the print was impressed at a time other than that of the crime.” Commonwealth v. Clark, 378 Mass. 392, 405-406 (1979), quoting from McNeil v. State, 227 Md. 298, 300 (1961). “The prosecution was bound to rebut the possibility that the fingerprints had been placed [at the scene] at a time other than that of the occurrence of the crime.” Commonwealth v. Fazzino, 27 Mass. App. Ct. 485, 486 (1989). Only then, may the jury reasonably infer that the defendant was the perpetrator of the crime. In sum, the Commonwealth, in order to withstand a motion for a required finding of not guilty in cases of this type, must satisfy two prongs: (1) the fingerprints found at the scene are those of the defendant, and (2) the fingerprints could not have been impressed at any time other than at the time of the crime. It is the second prong that is the focus of the appeal.
+Here, the defendant’s fingerprints were found at three different locations. The number of times a defendant’s fingerprints are found at the crime scene, by itself, does not constitute “evidence of other circumstances tending to reasonably exclude the hypothesis that the print was impressed at a time other than that of the crime.” Commonwealth v. Clark, supra at 406.
+However, one of the defendant’s fingerprints was found inside a closed, locked Pepsi vending machine. In order to reach the coin box, the perpetrator had to cut off a lock on the machine. Because the interior of that machine was not available to members of the public, the jury could reasonably infer that the defendant’s fingerprints were left on the coin box at the time of the crime. See United States v. LaMartina, 584 F.2d 764, 765-766 (6th Cir. 1978) (defendant’s fingerprint found on voucher inside cash box of rifled vending machine, sufficient evidence to convict the defendant). The Commonwealth satisfied its burden of showing that the defendant’s fingerprints were impressed at the time of the crime.
+Maureen A. M. Doyle for the defendant.
+Robert C. Cosgrove, Assistant District Attorney, for the Commonwealth.
+The defendant also claims that the Commonwealth failed to prove that he was not the owner or did not have a right of access to the Motors building. The evidence was undisputed that the perpetrator entered the Motors building by standing on an automobile, kicking in one of the garage panels, and then crawling through the hole. The evidence also showed that once inside, the person stole a television, a typewriter, several tools, and, using a torch, forced open two vending machines, and emptied the coin boxes located therein. The jury were warranted in finding beyond a reasonable doubt that the defendant was that person. The acts alleged and proved were simply inconsistent with either ownership or a legitimate right of access. See Commonwealth v. Souza, 397 Mass. 236, 238-239 (1986).
+Judgment affirmed.
+The evidence that the fingerprints were “fresh” adds support to the reasonable inference that the jury could draw.
