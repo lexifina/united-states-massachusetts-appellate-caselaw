@@ -1,0 +1,25 @@
+---
+court: "Massachusetts Appeals Court"
+decided: "1983-10-07"
+citations: ["16 Mass. App. Ct. 1004"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ramesh V. Kapur vs. Scientific Gas Products, Inc., & others."]
+source_url: "https://static.case.law/mass-app-ct/16/cases/1004-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5741800
+cites_cases: ["2 Mass. App. Ct. 623", "229 Mass. 292", "320 Mass. 155", "329 Mass. 768", "9 Mass. App. Ct. 506", "9 Mass. App. Ct. 931"]
+---
+
+# Kapur v. Scientific Gas Products, Inc.
+
+## Majority
+
+In this action for wrongful interference with contract, a judge of the Superior Court, upon stipulated facts, held for the defendants and dismissed the complaint. We affirm the judgment.
+Executors of the will of John A. Mooney, Jr., after negotiations with a number of prospective purchasers, including the defendant Scientific Gas Products, Inc. (Scientific), entered into a contract, subject to the approval of a Probate Court, to sell certain shares of Medical-Technical Gases, Inc., to the plaintiff Ramesh V. Kapur for a price of $284,500. Prior to hearing on the executors’ petition for approval, Scientific informed the executors, in effect, that it was prepared to offer a minimum of $300,000 for the shares on the same terms as had been incorporated in the agreement with the plaintiff, and that it had entered an appearance in the Probate Court in opposition to the executors’ petition. This was made known to the court which also had before it a report of a guardian ad litem, appointed to represent the interests of unborn and unascertained beneficiaries, suggesting that a method of sealed bids should be employed to assure the highest price for the executors as sellers. Nevertheless, the court after hearing entered a decree authorizing the executors to sell to the plaintiff under the agreement with him; at the same time the court struck the appearances at the hearing of Scientific and other prospective buyers.
+Scientific wrote counsel for the executors that, in the expectation that the court would call for sealed bids, it had not previously made its top offer; now it was prepared to pay $325,000, and it reminded the executors (and the guardian ad litem) of their duty to secure the highest price. The executors advised the court of Scientific’s letter with its higher offer and pointed out that they would be obliged to appeal the decree authorizing sale (although nominally in their favor, see Hendrick v. Mitchell, 320 Mass. 155, 159 [1946]) on pain otherwise of possibly suffering personal liability. At that stage the guardian petitioned the court to revoke the decree and, after hearing, the court entered an order allowing the petition. See Onanian v. Leggat, 2 Mass. App. Ct. 623, 630-631 (1974); cf. Thorn ton v. McWalter, 329 Mass. 768, 769 (1953); Grennan v. Pierce, 229 Mass. 292 (1918). The plaintiff Kapur took an appeal from the order. This appeal was consolidated with protective appeals that had been taken by the guardian and a beneficiary of the estate from the earlier decree authorizing sale to the plaintiff. This court dismissed the plaintiff’s appeal on the ground that the order of revocation was interlocutory; dismissed the two other appeals as moot; and remanded the matter to the Probate Court for further proceedings. Hayes v. Kapur, 9 Mass. App. Ct. 931 (1980). Upon remand, sealed bids were received; Scientific bid $401,000, the plaintiff $426,500. After hearing, the court authorized sale to the plaintiff, and the sale was carried out.
+Patrick J. Daly for the plaintiff.
+Anthony E. Battelle (John Barr Dolan & Cynthia A. Claff with him) for the defendants.
+The plaintiff seeks in the present action to recover from Scientific the difference between the price he paid and the price fixed in his original agreement with the executors (plus various expenses) on a theory of intentional interference with the performance of contract or with prospective contract relations. In holding against the plaintiff, the judge below ruled correctly that the express condition of the original agreement — approval by the Probate Court — must, on fair interpretation, be read to mean final approval, and that that condition was not satisfied because the decree, evidently considered by the court to have been ill advised, was duly revoked. Hence there was no “contract” that could have been the target of interference by Scientific. Nor was there any evident impropriety in the steps taken by Scientific as a competitor of the plaintiff in the race for the shares, although it came prominently into the picture after the plaintiff may have thought he had a head start. Thus any theory of wrongful interference with incipient contract relations must also fail. See Restatement (Second) of Torts § 767 (1977) (“Whether Interference is Improper”). See also id. §§ 766-766B; Chemawa Country Golf, Inc. v. Wnuk, 9 Mass. App. Ct. 506, 509-510 (1980). The facts are remote from those characteristic of the actionable tort.
+Judgment affirmed.
