@@ -1,0 +1,48 @@
+---
+court: "Massachusetts Appellate Division"
+docket: "6027; No. 1708"
+decided: "1965-03-26"
+citations: ["31 Mass. App. Dec. 165"]
+reporter: "mass-app-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MARY J. BELL v. DOMINIC J. MORANDO, ET AL"]
+source_url: "https://static.case.law/mass-app-dec/31/cases/0165-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4041435
+cites_cases: ["169 Mass. 237", "170 Mass. 479", "184 Mass. 594", "250 Mass. 215", "255 Mass. 459", "256 Mass. 555", "265 Mass. 143", "267 Mass. 171", "275 Mass. 528", "283 Mass. 420", "291 Mass. 513", "303 Mass. 88", "332 Mass. 11"]
+---
+
+# Bell v. Morando
+
+## Majority (Parker, J.)
+
+Parker, J.
+In this action of contract the plaintiff seeks to recover a commission as a broker on a sale of a house formerly owned by the defendants. The defendants’ answer was a general denial.
+There was evidence to show that the defendants on 14 February 1964 listed their house with the plaintiff, stating that they desired to sell the property over the weekend, and that the defendants refused to give the plaiintiff an exclusive agency and reserved the right to sell to anybody who would pay their price, which was $15,000.00 “clear for themselves.” The plaintiff advertised the property for $16,500.00 and advised the defendants that it would do so. The plaintiff showed the property to one Robert J. DiGiamarino, his father, brother and wife on 15 February 1964. In the evening of 15 February, the plaintiff’s agent called the male defendant, reporting that the plaintiff had an offer of $15,500.00 but the male defendant rejected the offer. The plaintiff then showed the property to other persons.
+In the evening of 15 February 1964 the DiGiamarinos talked with one Rizzuto, a neighbor and friend of the defendants and relation of the DiGiamarinos. Rizzuto arranged for a meeting by the DiGiamarinos and the defendants and after some negotiation, the DiGiamarinos purchased the property for $15,000.00 from the defendants.
+The court found that the plaintiff was the effective and efficient cause of the sale to the purchaser, was entitled to a commission, and that the defendants completed the transaction without knowledge of the plaintiff in order to avoid paying a .commission to the plaintiff which was an act of bad faith and did not deprive the plaintiff of her right to recover. The court found for the plaintiff in the amount of $882.00.
+The defendants filed, among other requests, the following requests for rulings which were denied by the court and from their denial they allege they are aggrieved.
+“2. The evidence in this case is insufficient, as a matter of law, to require a finding for the plaintiff.
+9. There is no sufficient evidence that the defendants sold the property for the purpose of avoiding a commission to the plaintiff.
+10. There is no sufficient evidence of any bad faith on the part of the defendants in the transaction.”
+The defendants’ request #2 seeks a ruling that the evidence is insufficient to require a finding for the plaintiff. Literally, it states that the court on the evidence as a matter of law does not have to find for the plaintiff. It is not a request that on all the evidence a finding for the plaintiff is not warranted. It is a request in substance that on all the evidence the court is not required to find for the plaintiff, although on the evidence it might so decide. The defendant by his request has limited himself to this narrow point. The defendants’ request #9 and #10, however, do raise the question whether on the report which is before us there was evidence upon which the court could have found the defendants sold the property to avoid paying the plaintiff a commission and whether there was evidence upon which the court could have found the defendants acted in bad faith.
+The evidence reported shows that the defendants listed the property with the plaintiff for the limited time of the week-end of 14-15 February 1964. Further, they refused to give the plaintiff an exclusive listing expressly stating that the defendants reserved the right to sell to anybody who wanted to pay their price and the defendants told the plaintiff they wanted $15,000.00 “clear for themselves.” The plaintiff did show the property to various people including the ultimate purchasers. The plaintiff did get an offer of $14,500.00 from the ultimate purchasers which the defendants rejected.
+On these facts, the defendants had made an offer to the plaintiff that if she secured a purchaser over the week-end and who would pay enough so that the defendants would “clear” $15,000.00 on the sale, she would be entitled to a commission. This the plaintiff did not do and so she did not comply with the offer.
+[ 1 ] The listing of property with a broker does not make a contract of employment. It is an offer and ripens into a contract when the broker has accepted the offer by fulfilling its terms. Elliott v. Kazajian, 255 Mass. 459; Walsh v. Grant, 256 Mass. 555. A broker who does not comply with the terms of an offer cannot receive a commission. Horowitz v. S. Slater & Sons, Inc., 265 Mass. 143, 153.
+Further, a broker to recover must show that he was the efficient or effective means of bringing about the actual sale. John T. Burns & Sons, Inc. v. Hands, 283 Mass. 420, 422.
+The fact that the ultimate purchaser was first introduced to the seller is not enough. Crowinshield v. Foster, 169 Mass. 237; Whitcomb v. Bacon, 170 Mass. 479, 481. Further, he must show that no new force enters into the transaction to break the causal relation between his effort and the sale. Holton v. Shepard, 291 Mass. 513, 516.
+In this case there is no evidence that the plaintiff .conducted any further negotiations with the ultimate purchasers after the offer of $14,500.00 was rejected. The negotiations from there on were carried on by Rizzuto and the defendants with the ultimate purchasers in which negotiations, the evidence shows, the plaintiff took no part.
+This was a new force outside any action of the plaintiff. Nichols v. Atherton, 250 Mass. 215; Glendon v. Pyne, 275 Mass. 528; John T. Burns & Sons, Inc. v. Hands, 283 Mass. 420; Walsh v. Grant, 256 Mass. 555.
+On the evidence and the law, we are of the opinion that the evidence would require a finding for the defendants on the grounds that it showed the plaintiff had not been the effective cause of the sale to the ultimate purchasers, and that the plaintiff had not complied with the offer of the defendants to secure a purchaser for $15,000.00 “clear” within the week-end as required by the defendants.
+We are of the opinion that the defendants’ request #2 should have been granted.
+Defendants’ requests 9 and 10 in substance allege that there is not sufficient evidence to show that the defendants sold to avoid paying the plaintiff a commission or that they acted in bad faith. The court, by its denial of the requests and by its finding, found that the defendants did both.
+Bad faith is not to be presumed, but it must be proved as a fact. Dragone v. Dell'Isola, 332 Mass. 11, 13. Bad faith exists where the employer revokes the broker’s authority or makes a sale through other means when the broker has performed all he has undertaken or is plainly or evidently approaching success in his undertaking. Leonard v. Eldridge, 184 Mass. 594, 595; Kacavas v. Diamond, 303 Mass. 88, 93.
+The evidence reported shows that the plaintiff produced an offer which was less than what the plaintiff asked him to get, and that this was rejected. There is no evidence that the plaintiff took any further action with the ultimate purchasers. He did show the property to other prospective customers, but did not submit any further offers to the defendants. As far as the ultimate purchasers went, the evidence shows that the plaintiff had abandoned that source. Kacavas v. Diamond, 303 Mass. 88, 93.
+George Earner, of Melrose, for the Plaintiff.
+Max Binder, of Boston, for the Defendant.
+The negotiations were renewed by Rizzuto. Delaney v. Doyle, 267 Mass. 171, 177.
+The only evidence to show that the defendants were acting in bad faith was the fact that they began negotiations with the ultimate purchasers before the expiration of the week-end and that they knew that the ultimate purchasers had been shown the house by the plaintiff. There is no evidence to show that the defendants knew the offer of $14,500.00 had been made by the ultimate purchasers. The defendants had refused to give the plaintiff an exclusive agency and they had reserved the- right to sell to anybody who would pay their price. Their price turned out to be $15,000.00 after negotiations carried out without any assistance by the plaintiff.
+Further, the evidence does not show that the price of $15,000.00 was agreed upon before the termination of the week-end and so before the expiration of the plaintiffs’ offer, the evidence fails to show that the defendants sold the property to avoid paying the plaintiff a commission, or that the defendants acted in bad faith.
+The denial of the defendants’ requests #2, #9, and #10 was error, and the finding of the court should be reversed and a finding entered for the defendants.
+We are of the opinion that the amount of $15,500.00 is a typographical error. There was no evidence elsewhere that the offer was $15,500.00 and all other references in the report to the offer were $14,500.00. Neither party in their briefs refer to any offer of $15,500.00 but always refer to the offer as being $14,500.00. We shall therefore consider this offer reported to the defendants by the plaintiff and rejected by the defendants to be $14,500.00 and not $15,500.00.
