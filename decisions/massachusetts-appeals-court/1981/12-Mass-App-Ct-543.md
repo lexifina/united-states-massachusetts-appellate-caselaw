@@ -1,0 +1,37 @@
+---
+court: "Massachusetts Appeals Court"
+decided: "1981-10-30"
+citations: ["12 Mass. App. Ct. 543"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Commonwealth vs. Donald Cavanaugh."]
+source_url: "https://static.case.law/mass-app-ct/12/cases/0543-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3966765
+cites_cases: ["378 Mass. 866", "378 Mass. 867", "378 Mass. 868", "384 Mass. 353", "591 S.W. 2d 129", "6 Mass. App. Ct. 928", "78 App. Div. 2d 1014"]
+---
+
+# Commonwealth v. Cavanaugh
+
+## Majority (Smith, J.)
+
+Smith, J.
+As a result of proceedings in a six-person jury session of the District Court Department on June 13, 1980, the defendant was sentenced to a period of confinement at a house of correction. Six weeks later, the defendant filed a motion for leave to withdraw guilty plea and for a new trial claiming (1) that his sentence was invalid because he had never formally pleaded guilty, and (2) that his plea had been involuntary because the judge had failed to inform him of the maximum possible sentence on the charge. We find no error and affirm the order denying the motion.
+1. The claim in regard to the entry of the plea. The defendant claims that his sentence was invalid because it was in violation of G. L. c. 263, § 6, as appearing in St. 1979, c. 344, § 19, which states, in part, that a person cannot be convicted “except by confessing his guilt in open court, by admitting the truth of the charge against him by his plea or demurrer or by the verdict of a jury accepted and recorded by the court or, in any criminal case other than a capital case, by judgment of the court.” The defendant was charged in a complaint with being an escapee from the Massachusetts Correctional Institution, Lancaster. The complaint was filed in the District Court Department, and the defendant elected to have his case transferred to a first-instance jury session. On June 13, 1980, the defendant was present in the jury session court with his attorney, Mr. Hanlon. The judge inquired as to the wishes of the defendant and was informed by defense counsel that the defendant was going to change his plea from not guilty to guilty. The defendant agreed that it was his desire to plead guilty. After asking a series of questions in regard to the voluntariness and the factual basis for the plea, the judge began the recitation of the rights that would be waived, as follows: “If you decide to have a plea here ...” and concluded the recitation, by saying, “Is that what you want to do?” The defendant replied, “Yes, your Honor,” and the judge said, “All right.” There followed an extended discussion among the judge, the probation officer, the prosecutor, defense counsel, and the defendant in regard to the parole eligibility date for the sentence that the defendant was serving at the time of the proceedings. After the discussion was concluded, the judge sentenced the defendant. At no time did the defendant say, “I plead guilty,” or “guilty” to the charge.
+There are no reported cases in the Commonwealth that set out the precise words, if any, that are to be used by the defendant in pleading guilty. The Massachusetts Rules of Criminal Procedure are also silent on this point. However, other States have held that the absence from the record of the words, “I plead guilty” or “guilty” does not, of itself, invalidate a purported guilty plea. People v. Bellis, 78 App. Div. 2d 1014 (N.Y. 1980). Neighbors v. State, 591 S.W. 2d 129, 130-131 (Mo. App. 1979) (“there is no requirement that a trial court specifically ask the defendant ‘how do you plead’”). In this case, although the words, “Guilty” or “I plead guilty,” were not used, the circumstances compel the conclusion that the defendant did enter a plea of guilty and that the plea was accepted by the judge. The defendant acknowledged to the judge that it was his intention to plead guilty (n.1). The defendant, after the recitation of relinquished rights, when asked, “Is that what you want to do?” answered affirmatively. The record also shows that the defendant was familiar with court proceedings and understood that he had the right to ask questions at any point in the proceedings. The defendant admitted that the summary of facts outlining the essential elements of the crime was correct. We hold that upon this record the absence of the words “I plead guilty” or “guilty” does not invalidate the defendant’s sentence. We urge judges to follow Mass. R.Crim.P. 12, 378 Mass. 866 (1979), in accepting guilty pleas and to follow the established practice of having the session clerk read the complaint or indictment to the defendant and ask him how he pleads. The defendant must utter the appropriate words before the guilty plea is accepted.
+2. The failure of the judge to advise the defendant of the maximum possible sentence. Because of the failure of the judge to inform him of the maximum possible sentence, the defendant claims that his plea of guilty was not voluntary. Counsel for the defendant and the prosecutor had agreed on a sentence recommendation. However, defense counsel had reserved the right to request a lesser sentence. Mass.R.Crim.P. 12(b)(1)(C), 378 Mass. 867 (1979). The judge, after listening to defense counsel, imposed the recommended sentence. At no time did the judge inform the defendant of the maximum possible sentence that he could impose on the charge. The defendant must be informed, where appropriate, of the maximum possible sentence. Mass.R.Crim.P. 12(c)(3)(B), 378 Mass. 868 (1979). Here, the judge did not exceed the agreed recommendation for a sentence. If there was error in the failure of the judge to advise the defendant of the maximum possible sentence, it was harmless beyond a reasonable doubt. Commonwealth v. Curry, 6 Mass. App. Ct. 928, 929 (1978).
+Order denying motion to withdraw guilty plea and for new trial affirmed.
+“The Court: What are we doing?
+Mr. Hanlon: This is going to be a change of plea, Judge, not guilty to guilty.
+The Court: Okay. Mr. Cavanaugh, will you stand up here? Now, your lawyer tells me that you’re going to plead guilty to being an escapee from the Lancaster Institution, is that correct?
+The Defendant: Yes sir, your honor.”
+The defendant makes no claim as to involuntariness in regard to this issue; rather, the defendant asserts he never formally pleaded guilty.
+“The Court: . . . What’s the recommendation of the Commonwealth here or the agreed upon recommendation?
+Ms. Godemis: The agreed upon recommendation, your honor, would be one year in the House of Correction, six months to be served, six months to be suspended, for a period of one year.
+The Court: Well, is this going to be concurrent with time now being served?
+Ms. Godemis: No, it will be (inaudible) and after, Judge.
+The Court: All right. That’s the recommendation of the Defendant’s counsel also?
+Mr. Hanlon: Yes, your Honor.”
+General Laws c. 268, § 16, provides a maximum penalty of ten years in State prison or two and one-half years in a house of correction. Because the case was before a District Court (see G. L. c. 218, § 26) the maximum sentence which the judge could impose was two and one-half years in a house of correction.
+We are aware of Commonwealth v. Crocker, 384 Mass. 353, 356 n.3 (1981), which states the general requirement of Mass.R.Crim. P. 12(c) (3) (B). Crocker does not require a contrary result as the Crocker case did not present the particular facts of the case at bar.
