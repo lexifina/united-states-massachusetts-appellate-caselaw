@@ -1,0 +1,25 @@
+---
+court: "Massachusetts Appeals Court"
+decided: "1980-07-22"
+citations: ["10 Mass. App. Ct. 844"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Commonwealth vs. Albert D. Barnett."]
+source_url: "https://static.case.law/mass-app-ct/10/cases/0844-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3962583
+cites_cases: ["352 Mass. 556", "367 Mass. 432", "375 Mass. 369", "378 Mass. 392", "378 Mass. 863", "4 Mass. App. Ct. 295", "5 Mass. App. Ct. 544"]
+---
+
+# Commonwealth v. Barnett
+
+## Majority
+
+The defendant appeals from his conviction on an indictment charging armed robbery. He was also tried and convicted on an indictment charging conspiracy to violate the Controlled Substances Act, but as that indictment was placed on file with the defendant’s consent, the appeal from it is not properly before us. Commonwealth v. Delgado, 367 Mass. 432, 438 (1975). Commonwealth v. Hoffer, 375 Mass. 369, 370 n.1 (1978). Commonwealth v. Bergstrom, ante 838 (1980). We therefore do not consider the issues raised by the defendant which arise out of the conspiracy conviction.
+1. The defendant claims error in the denial of the motion to sever the trial of the conspiracy indictment from that of the armed robbery indictment (and others). We limit our review of this claim to a consideration of whether the evidence presented on the conspiracy indictment may have contributed to the defendant’s armed robbery conviction. The defendant concedes that severance is a matter within the sound discretion of the trial judge but argues that if the “record demonstrates that joinder has resulted in prejudice to the defendant or that ‘substantive rights of the defendant [have been] adversely affected,’” a claim of abuse of discretion will lie, citing Commonwealth v. Doyle, 5 Mass. App. Ct. 544, 547 (1977). He also agrees that G. L. c. 278, § 2A, as in effect at the time of trial, did not apply because the conspiracy indictment did not involve the same substantive offense as the armed robbery indictment. The defendant does not suggest that any evidence was admitted in the combined trial which could not have been admitted had the armed robbery indictment been tried separately. See Commonwealth v. Kenneally, ante 162, 180-181 (1980). He points to no specific way in which his substantive rights were adversely affected and has not made it appear that there was any abuse of discretion. See Commonwealth v. Tatro, 4 Mass. App. Ct. 295, 297 (1976) (burden on appellant to demonstrate error).
+Carmen A. Frattaroli for the defendant.
+Dyanne Klein Polatin, Assistant District Attorney (Robert N. Weiner, Assistant District Attorney, with her) for the Commonwealth.
+2. The defendant claims it was error to admit in evidence a photograph of one Dolgin, who had been known to the victim for “a couple of years” and who was one of those who robbed him. The ground stated to the trial judge as the basis for the objection was that the Commonwealth had breached a pretrial agreement to disclose “identification procedure(s)” by failing to disclose that the photograph would be used to identify Dolgin. The defendant argues that the admission in evidence of the photograph was a violation of Mass.R.Crim.P. 11(a) (2) (A), 378 Mass. 863 (1979). That argument is unavailing as the new rules of criminal procedure were not effective until July 1, 1979, and this case was tried in April of 1979. In any event, the photograph was not used in any identification procedure within the contemplation of the pretrial agreement. The defendant also argues for the first time on appeal that the failure to show his attorney the photograph was a breach of the Commonwealth’s pretrial agreement to allow defense counsel to inspect all physical evidence. That argument fails at the outset as it was not raised before the trial judge. Commonwealth v. Clark, 378 Mass. 392, 397 (1979).
+3. The victim testified under direct examination by the prosecutor that at Dolgin’s request he had gone to a motel to sell cocaine and that he was robbed at gunpoint by the defendant. The victim testified further that after the police had arrived at the motel room, he, in the presence of the defendant, “told Trooper Gravelle there was no problem in the room; and later on in the conversation, [he] told him [he] was in the room to buy cocaine, not to sell.” No objection was made to the question which led to the quoted answer, although objections were raised to the questions which preceded and followed it. The victim’s statement was inadmissible as to the defendant, but no request was made by the defendant to strike the answer or for a limiting instruction. We have considered the admission of the statement in the light of the other evidence at trial to determine whether there was a substantial risk of a miscarriage of justice, Commonwealth v. Freeman, 352 Mass. 556, 564 (1967), and have concluded that there was no risk.
+Judgment affirmed as to indictment 99721.
