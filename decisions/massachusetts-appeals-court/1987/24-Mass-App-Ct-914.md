@@ -1,0 +1,44 @@
+---
+court: "Massachusetts Appeals Court"
+decided: "1987-05-13"
+citations: ["24 Mass. App. Ct. 914"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Town of Westwood vs. Adams-Russell Company, Inc."]
+source_url: "https://static.case.law/mass-app-ct/24/cases/0914-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3993890
+cites_cases: ["19 Ga. L. Rev. 543", "19 Mass. App. Ct. 902", "338 Mass. 10", "376 Mass. 212", "380 Mass. 609", "392 Mass. 663", "467 U.S. 691", "47 U.S.C. § 522", "47 U.S.C. § 543", "47 U.S.C. §§ 521-559", "5 Cardozo Arts & Ent. L.J. 157", "5 Mass. App. Ct. 750", "9 Mass. App. Ct. 27"]
+---
+
+# Town of Westwood v. Adams-Russell Co.
+
+## Majority
+
+Adams-Russell Company, Inc. (Adams-Russell), the defendant, appeals from an order of the Superior Court granting the request of the plaintiff town (Westwood) for a preliminary injunction restraining Adams Russell from raising cable television rates. The controversy involves a “rate freeze” provision, set out in the margin, in the licensing agreement between the parties.
+Adams-Russell was granted the cable television license for Westwood on March 22, 1983. In February, 1986, Adams-Russell announced a rate increase in the schedule of monthly rates, effective on April 1, 1986, for one of the three tiers of service on the cable System. Westwood claims that this increase constitutes a breach of contract because Adams-Russell has never requested a “certification of complete construction” from Westwood, the issuing authority, as required by the rate freeze provisions.
+Signal carriage on the Westwood’s system is organized into three tiers of service. Each tier represents a separate bundle of services. The defendant characterizes those tiers as follow:
+1. Basic Tier — Referred to in the license as “Basic 20 Service,” includes all local television “broadcast stations, two distant [television] broadcast stations, local origination and the various types of access channels.”
+2. Extended or Satellite Tier — Referred to in the license as “Expanded 54 Service,” “includes Cable News Network, E.S.P.N. (a sports channel), USA Network, Nickelodeon (children’s programming), Nashville Network, CBN Headline News and several other specialty cable television network channels. All programming on the extended tier is delivered via satellite.”
+3. Premium Channels — These include Home Box Office, Showtime, The Movie Channel, New England Sports Network, Sports Channel, the Disney channel and other similar channels.
+A customer may subscribe to the basic service only, or to both the basic and extended tier. The customer also has the option of purchasing any or all of the permium services. The monthly rates initially charged were:
+Basic Service $4.50
+Extended Tier $3.00 additional ($7.50 with basic)
+Premium Channels Specific charge per channel
+The challenged rate increase affects the extended tier. The rate for that tier was to be increased from $3.00 to $10.00 per month, thereby making the cost $14.50 per month with basic service.
+Adams-Russell’s principal argument on appeal is that the trial judge’s implied assessment of the plaintiff’s chance of success on the merits was erroneous as matter of law. Adams-Russell maintains that under the Federal Cable Communications Policy Act of 1984 (the Cable Act), 47 U.S.C. §§ 521-559 (Supp. Ill 1985), and Federal Communications Commission (FCC) decisions, Westwood’s authority to regulate the rates for non-basic cable service has been preempted by the Federal government.
+The Cable Act establishes a uniform policy for the regulation of the cable television industry and preempts inconsistent State and local regulations. A municipality’s regulation of cable television rates, particularly for non-basic services, has been almost entirely eliminated by the Cable Act. See 47 U.S.C. § 543 (Supp. Ill 1985); Capitol Cities Cable, Inc. v. Crisp, 467 U.S. 691, 698-700 (1984). See also Berman, The End of Government Regulation of the Rates Cable Television Services Charge Their Subscribers, 5 Cardozo Arts & Ent. L.J. 157, 164 (1986). Section 543, entitled “Regulation of Rates”, states, in subsection (a), that no Federal agency or State may regulate the rates for cable service “except to the extent provided under this section." Franchising authorities are similarly preempted. The Cable Act became effective on December 29, 1984. For two years from that date, franchising authorities could, under § 543(c) (1) of the Cable Act, regulate the rates for basic cable service, including multiple tiers of basic cable service pursuant to existing franchise agreements. The term “basic cable service” is defined as “any service tier which includes the retransmission oflocal television broadcast signals.” 47 U.S.C. § 522(2) (Supp. HI 1985).
+The explicit language of the Act appears to provide that if a higher tier contains local broadcast signals, in addition to distant broadcast signals, the rates for both tiers can be. regulated by the franchising authority. See Meyerson, The Cable Communications Policy Act of 1984; A Balancing Act on the Coaxial Wires, 19 Ga. L. Rev. 543, 564 (1985). After this two-year grace period, ending on December 29,1986, a franchising authority can only regulate basic cable service that is not subject to “effective competition." 47 U.S.C. § 543(b) (1) (Supp. III 1985).
+In reviewing the trial judge’s order, we are mindful that an injunction properly may be issued only if upon initial evaluation of the moving party’s claim of injury and the likelihood of success on the merits it is apparent that the risk of irreparable harm to that party outweighs any similiar risk of irreparable harm which granting the injunction would create for the opposing party. Packaging Indus. Group, Inc. v. Cheney, 380 Mass. 609, 616-617 (1980). Westwood has not met its burden of showing the likelihood of its success on the merits. At the time of the order, the trial judge could have favorably assessed Westwood’s chance of success on the merits. On the limited record, “Expanded 54 Service” could be considered a multiple tier of basic cable service as defined by the Cable Act and subject to regulation under the two-year grace period; it is not obvious that the Extended Tier does not contain local broadcast signals.
+However, at the time of our review, the two-year grace period had run. See and compare Demoulas Super Markets, Inc. v. Peter’s Market Basket, Inc., 5 Mass. App. Ct. 750, 753-754 (1977). The authority of a municipality to regulate basic cable rates currently depends on whether the cable system faces effective competition in its market, as defined by the FCC. 47 U.S.C. § 543. Westwood has not adequately argued this particular issue in its briefs, nor does the record permit a determination of this matter. See Lolos v. Berlin, 338 Mass. 10, 13-14 (1958). Pupecki v. James Madison Corp., 376 Mass. 212, 216 n.4 (1978). Hastoupis v. Gargas, 9 Mass. App. Ct. 27, 39 (1980); Foss v. Employers Fire Ins. Co., 19 Mass. App. Ct. 902, 903 (1984). Given these circumstances, the likelihood of Westwood’s success on the merits is unascertainable and thus there is an insufficient basis to continue the preliminary injunction in force.
+James C. Heigham for the defendant.
+Thomas P. McCusker, Jr., for the plaintiff.
+Order granting preliminary injunction vacated.
+The “Rate Freeze” clause, § 23(f), of the contract provides:
+“The licensee agrees that it will not change the schedule of monthly rates for all Cable and Pay TV services for two (2) years after system turn on of all initial construction phases. When this construction is complete, Licensee shall request certification of complete construction from the Issuing Authority which shall be granted promptly upon submission by the Licensee to the Issuing Authority of a Map of the Town of Westwood showing that construction of plant has passed all residences in the Town of Westwood existing as of the date of the Final License and has been fully activated. Any changes thereafter for rate increases will be made in accordance with Chapter 166A of the Massachusetts General Laws.”
+Westwood accepts and adopts the undisputed facts as described in the Adams Russell brief.
+This means that programming is relayed from the point of origination via space satellite to a “dish” maintained by Adams-Russell at the head end of the system.
+The trial judge did not file an opinion.
+A franchising authority is defined as “any governmental entity empowered by Federal, State or local law to grant a franchise. ”47 U.S.C. § 522(9) (Supp. III 1985).
+Compare 207 Code Mass. Regs. § 6.53 (1986) (“competitive alternative standard”). See generally Mayor of Salem v. Warner Amex Cable Communications, Inc., 392 Mass. 663 (1984).
