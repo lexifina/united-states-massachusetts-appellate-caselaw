@@ -1,0 +1,20 @@
+---
+court: "Massachusetts Appeals Court"
+decided: "1978-10-10"
+citations: ["6 Mass. App. Ct. 933"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Don Lorenz, Inc. vs. Northampton National Bank."]
+source_url: "https://static.case.law/mass-app-ct/6/cases/0933-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5731911
+cites_cases: ["215 Va. 373", "3 Mass. App. Ct. 774", "365 Mass. 755", "366 Mass. 234", "366 Mass. 593", "405 U.S. 233", "540 F.2d 287", "85 Ill. App. 2d 394"]
+---
+
+# Don Lorenz, Inc. v. Northampton National Bank
+
+## Majority
+
+The plaintiff, a seller of automobiles, appeals from a judgment entered for the defendant, Northampton National Bank (bank), in the Superior Court. The plaintiff brought this action under G. L. c. 93A, § 2, claiming that it was an unfair practice for the bank to include a provision on the back of a check, issued jointly to a new car buyer and to the plaintiff, whereby the endorser warranted that the bank had been listed as the first lienholder in the application for the certificate of title for the automobile. See generally G. L. c. 90D. The bank had financed the sale and obtained a security interest in the automobile from the buyer. The plaintiff filed the buyer’s application for a certificate of title, which failed to list the bank therein as lienholder. When the bank was unable to collect an unpaid balance, it brought an action against the plaintiff in a District Court to recover the balance on the ground of breach of the warranty provision set out on the back of the check. The plaintiff then brought this action to enjoin the prosecution of the District Court action and for relief under G. L. c. 93A. By summary judgment the judge ruled that the practice complained of did not constitute an unfair or deceptive trade practice under G. L. c. 93A and was not in violation of G. L. c. 90D, and that the issue whether a valid contract existed between the parties "should be determined in the action ... pending trial in the ... District Court.” There was no error. 1. Whether a given practice is unfair or deceptive under c. 93A "must be determined from the circumstances of each case.” Commonwealth v. DeCotis, 366 Mass. 234, 242 (1974). We believe that "the practice in question [here] is not within any recognized conception of unfairness, is neither immoral, unethical, oppressive nor unscrupulous, and would not cause substantial injury to consumers, competitors or other businessmen.” PMP Associates, Inc. v. Globe Newspaper Co., 366 Mass. 593, 596 (1975). Cf. Federal Trade Commn. v. Sperry & Hutchinson Co., 405 U.S. 233, 244 n. 5 (1972). Nor do we think the defendant’s practice "offends established public policy.” See Spiegel, Inc. v. Federal Trade Commn., 540 F.2d 287, 293 (7th Cir. 1976). 2. We likewise agree with the judge that the practice complained of does not violate G. L. c. 90D. The procedure set forth in G. L. c. 90D, § 7, requires the owner of a motor vehicle to apply for a certificate of title and that the application list the name and address of any lienholder having a security interest in the automobile. It also requires that the dealer sign the application. The statute is not violated by the bank’s requiring the dealer, as a condition of accepting the financing offered by the bank, to insure that the bank has been named in the application as the first lien-holder. 3. The judge declined to consider the issue whether a valid contract was created, between the plaintiff and the defendant by the inclusion of the warranty provision on the back of the check. See United Virginia Bank of Fairfax v. Dick Herriman Ford, Inc., 215 Va. 373, 374 (1974). Compare Aurora Natl. Bank v. Ed Fanning Chevrolet, Inc., 85 Ill. App. 2d 394, 396 (1967). As the trial of this same issue is pending in a District Court, it was not error for the judge to decline jurisdiction. See Mass.R. Civ.P. 12(b)(9), 365 Mass. 755 (1974): McCauleu v. Sons Pharmacy, Inc., 3 Mass. App. Ct. 774, 775 (1975).
+Judgment affirmed.
