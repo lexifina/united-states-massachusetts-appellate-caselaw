@@ -1,0 +1,37 @@
+---
+court: "Massachusetts Appeals Court"
+docket: "94-P-982"
+decided: "1996-02-07"
+citations: ["40 Mass. App. Ct. 38"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Thomas J. Flatley vs. City of Malden."]
+source_url: "https://static.case.law/mass-app-ct/40/cases/0038-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1035600
+cites_cases: ["187 Mass. 552", "220 U.S. 61", "242 Mass. 223", "295 Mass. 31", "358 Mass. 354", "374 Mass. 246", "387 Mass. 830", "411 Mass. 744"]
+---
+
+# Flatley v. City of Malden
+
+## Majority (Greenberg, J.)
+
+Greenberg, J.
+Thomas J. Flatley, who does business under the name and style of “The Flatley Company,” owns, among other properties, an apartment complex called “Granada Highlands” situated in the city of Malden. In all, there are thirteen buildings containing 919 apartment units in the compound. Each building is equipped with a separate water meter which registers the volume (in cubic feet) delivered to that building. The question put is whether, in view of a water rate scheme providing higher rates for higher usage, it is impermissibly discriminatory to determine the rate for apartment buildings by measuring the total consumption of all units, while for an individual home owner, the rate is set by measuring flow to just his house.
+As Flatley concedes, the city’s commissioners have “broad authority” to establish water rates and to “determin[e] the methods of fixing rates . . . .” Henry B. Byors & Sons v. Board of Water Commrs. of Northborough, 358 Mass. 354, 358 (1970). In support of its motion for summary judgment Flatley was unable to demonstrate that the Malden three-tiered rate structure was unreasonable or discriminatory. For its part, the city submitted affidavits and other materials that provided an acceptable basis for the judge to conclude that it is permissible to charge higher rates to consumers of a large volume of water than those applied to smaller users. We affirm a declaratory judgment entered to that effect.
+We set out the pertinent facts as they appear in the various pleadings, discovery materials, affidavits and exhibits available to the judge in ruling on the motion for summary judgment.
+Malden has a three-tiered water rate system, charging, in addition to a flat rate for up to 1,000 cubic feet of water, three incrementally higher rates per 100 cubic feet as usage increases. Residential and commercial/industrial users alike fall under the same rate structure, although, perhaps as a practical matter, only commercial/industrial users would generally fall within the highest usage levels.
+Each of Flatley’s thirteen buildings has a single water meter, resulting in Flatley’s payment of a large portion of its water bill at the higher-usage rates. These higher-rate water charges, we may assume, “are ultimately paid by the residents” of the apartments. Board of Pub. Works of Millis v. Aron, 374 Mass. 246, 248 n.l (1978). On this ground, Flatley challenges Malden’s water rate system as creating an impermissible discrimination “between consumers who receive the same service under similar conditions,” Brand v. Water Commrs. of Billerica, 242 Mass. 223, 227 (1922), i.e., between apartment dwellers and residents of single family homes.
+Flatley has the burden of showing that the rate is unreasonable and discriminatory. Henry B. Byors & Sons, 358 Mass. at 359, citing Souther v. Gloucester, 187 Mass. 552, 556 (1905). “A classification having some reasonable basis does not offend . . . merely because it is not made with mathematical nicety or because in practice it results in some inequality.” Lexington v. Govenar, 295 Mass. 31, 36 (1936), citing Lindsley v. Natural Carbonic Gas Co., 220 U.S. 61, 78 (1911) (equal protection).
+While urging us to declare Malden’s rate structure invalid because it results in a higher rate to apartment dwellers, Flatley simultaneously suggests that a per-apartment averaging system, which would result in a lower rate to apartment dwellers than to residents of single family homes, would not unjustly discriminate. His suggestion underscores the fundamental difficulty that, without installing individual meters in each apartment, there is no rate system that could place apartment dwellers on exactly the same footing as residents of single family homes.
+The difference between metered residential users and nonmetered residential users is not merely a formal one. We agree with the motion judge that because apartment residents “do not pay for their actual use of water as do residents of single family homes,” (emphasis in original), and “have no individual liability to the City for water use,” that “Flatley has failed to demonstrate that the [apartment] residents receive ‘the same service under the same conditions’ as residents of single family residences.”
+The city’s legitimate basis, see Cohen v. Board of Water Commrs., Fire Dist. No. 1, S. Hadley, 411 Mass. 744, 753 (1992), for creating the three-tiered system is to conserve water. That purpose is achieved under the present system. Even though Flatley’s complex cannot aspire to the lowest levels of usage, the tenants have an incentive to use as little water as possible since they are charged at a higher rate. Flatley’s proposed averaging system, which rewards high-level users by lumping them together with lower-level users, would instead result in a distortion of the commissioners’ purpose.
+Our view of the case is supported by another consideration. It cannot be persuasively argued that Malden’s rate structure is based on land use, charging single family residents a flat rate while apartment building dwellers are charged at a higher “ballooning” rate. That would be discriminatory. See Board of Pub. Works of Millis v. Aron, 374 Mass, at 248; Board of Pub. Works of Millis v. Aron, 387 Mass. 830 (1983). In the case at bar, Malden has one rate system based upon consumption.
+Judgment affirmed.
+We acknowledge the helpful briefs filed by four amici curiae: Attorneys’ Committee of Community Associations Institute; City Solicitors and Town Counsel Association: Massachusetts Housing Finance Agency; and Malden Property Owners’ Association.
+Malden’s public works commission was established by St. 1983, c. 541, § 1, and has authority to set water and sewer rates for the city.
+The initial flat fee differs depending on the size of the meter. This difference is not involved in the current dispute. •
+As of July, 1988, water usage over 1,000 and up to 5,000 cubic feet cost $2.08 per 100 cubic feet; water usage over 5,000 and up to 75,000 cubic feet cost $2.86 per 100 cubic feet; water usage over 75,000 cubic feet cost $3.40 per 100 cubic feet. On July 1, 1991, the rates for these three incremental usages were raised to $2.51, $4.60 and $5.51, respectively.
+For example, using the averaging method, if one apartment resident used only 500 cubic feet of water, while another used 1,500 cubic feet, Flatley (and therefore each resident, Aron, 374 Mass, at 248 n.l) both would pay only the flat rate for 1,000 cubic feet, thereby rewarding the profligate and penalizing the thrifty user.
+There is some indication in Flatley’s brief that there exists some method for quantifying each unit’s exact water usage. These facts play no part in Flatley’s argument, however, and we do not consider them in rendering our opinion. ,
