@@ -1,0 +1,29 @@
+---
+court: "Massachusetts Appeals Court"
+docket: "97-P-1327"
+decided: "1998-03-13"
+citations: ["44 Mass. App. Ct. 924"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Janet Vera Carr vs. Robert Earle Carr."]
+source_url: "https://static.case.law/mass-app-ct/44/cases/0924-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 772076
+cites_cases: ["24 Mass. App. Ct. 608", "371 Mass. 406", "383 Mass. 232", "39 Mass. App. Ct. 29", "422 Mass. 590", "426 Mass. 238", "93 Harv. L. Rev. 1156"]
+---
+
+# Carr v. Carr
+
+## Majority
+
+Robert Earle Carr (father) appeals from a Probate and Family Court judgment which awarded custody of the parties’ only child to Janet Vera Carr (mother) with visitation rights to the father. The father asserts that the judge applied the wrong analysis in settling the custody issue. While the father recognizes that the best interests of the child is the proper standard to be applied in deciding custody issues under G. L. c. 208, § 31, he asserts that due process considerations require that a determination of a child’s best interests must be based on the least intrusive interference with parental rights and that any limitation imposed upon parental rights must be based on a detailed demonstration of substantial harm to the child from the exercise of those rights. For this assertion, he relies upon the decision in Felton v. Felton, 383 Mass. 232 (1981), which he claims displaced the rule set forth in Vilakazi v. Maxie, 371 Mass. 406 (1976), that the determination of a child’s best interest is a matter left to the discretion of the trial judge whose task it is to identify and weigh those factors found pertinent to those interests. We conclude that the father’s reliance upon Felton is misplaced and affirm the judgment.
+The issue in Felton was the validity of a Probate Court judgment modifying the visitation provisions of a divorce judgment which in effect forbade visitation by the father unless he refrained from instructing his child in his religion. In reversing the judgment, the Supreme Judicial Court held that absent demonstration in detail of harm to the child, the limitation imposed upon the father’s freedom of religious practice and expression was not justified. Felton v. Felton, 383 Mass. at 233-234, 239-241. The Supreme Judicial Court cautioned that any such limitation should be imposed in a form which intrudes least on the religious inclinations of either parent and is yet compatible with the health of the child. Id. at 235. The focus in Felton was thus limited to the scope of a judge’s power to limit expressly a noncustodial parent’s religious activities with his children.
+Robert Earle Carr, pro se.
+Jacqueline Y. Parker for Janet Vera Carr.
+The following submitted briefs for amici curiae:
+Eric S. Maxwell & William L. Bruce for the Coalition for the Preservation of Fatherhood & others.
+William Wayne Bruce for the Father’s Group, Inc.
+The father argues, however, that the same type of analysis is equally applicable to the award of custody in this case, because the thrust of the judge’s decision places a burden upon his parental right to educate his son. While the judge did find that the father’s obsessive drive to instill intellectual discipline and provide continual academic stimulus for his child has placed stress upon his son, the judge imposed no limitations upon the father’s right to continue to provide academic stimulus or a course of study for his son. The judge’s comment that he hoped that the father could “adjust his teaching to the child’s ability and allow the child to have fun while in his company” imposes no such limitation but in our opinion simply cautions the father that his continued parenting style runs the risk of jeopardizing his relationship with his son. Of course, by an award of sole legal and physical custody to the mother, the father is limited to the extent that the mother will have the final decision-making power on questions of education. The father does not explain how such an award, in what essentially amounts to a mediation by the courts of a dispute between two irreconcilably opposed parents, amounts to a State-imposed limitation of his parental rights. The father appears to overlook the fact that when custody is contested it is the divorcing parents who seek the impairment of each other’s rights and the “state is thrust into the role of mediator by necessity.” The Constitution and the Family, 93 Harv. L. Rev. 1156, 1326 (1980).
+In any event, in Kendall v. Kendall, 426 Mass. 238 (1997), decided after judgment entered in this case, the Supreme Judicial Court reaffirmed the principle set forth in the Vilakazi decision that the custody of a child is to be determined by the “happiness and welfare of the child” (371 Mass, at 409) and rests within the discretion of the trial judge. 426 Mass. at 251. Where the judge in this case found that the relationship of the parties has been dysfunctional, virtually nonexistent, and one of continuous conflict, he properly determined that custody should be awarded to only one parent. G. L. c. 208, § 31. Contrast Kendall v. Kendall, 426 Mass. at 251. In deciding that that parent should be the mother, he properly considered several factors including those that the mother had been the primary caretaker of the child in a marriage where the parties never lived together and the child’s preference was to remain with the mother. Bak v. Bak, 24 Mass. App. Ct. 608, 616, 617 (1987). See and compare R.H. v. B.F., 39 Mass. App. Ct. 29, 42-43, S.C., 422 Mass. 590 (1996). His findings are amply supported by the record and will not be disturbed by us, for the judge neither abused his discretion nor applied an improper analysis in settling the custody issue in favor of the mother.
+Judgment affirmed.
