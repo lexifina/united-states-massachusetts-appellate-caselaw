@@ -1,0 +1,26 @@
+---
+court: "Massachusetts Appellate Division"
+decided: "2001-03-20"
+citations: ["2001 Mass. App. Div. 41"]
+reporter: "mass-app-div-annual"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Present: Wheatley, RJ., Creedon & Winslow, JJ."]
+parties: ["Ruth Anderson vs. Ro-Jack’s Food Stores, Inc."]
+source_url: "https://static.case.law/mass-app-div-annual/2001/cases/0041-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 9448775
+cites_cases: ["19 Mass. App. Ct. 515", "1998 Mass. App. Div. 276", "1999 Mass. App. Div. 135", "1999 Mass. App. Div. 23", "2000 Mass. App. Div. 265", "343 Mass. 263", "343 Mass. 771", "363 Mass. 165", "423 Mass. 1402", "49 Mass. App. Ct. 175"]
+---
+
+# Anderson v. Ro-Jack's Food Stores, Inc.
+
+## Majority (Winslow, J.)
+
+Winslow, J.
+The defendant supermarket (“Ro-Jack’s”) appeals from a judgment in favor of a plaintiff customer (“Anderson”) who suffered personal injuries when she slipped on a piece of lettuce while shopping. The trial judge, hearing the matter without a jury on remand from the Superior Court found for Anderson based on Ro-Jack’s failure to warn. In the absence of clear error, we affirm the judgment
+The trial judge found that Anderson, while pushing a shopping cart slipped on a piece of lettuce and fell on her back. Because of the cart Anderson could not see the lettuce. The spot where Anderson fell is eight feet from a self-service salad bar located within a narrow passageway which linked the produce section to the rest of the supermarket At the time Anderson fell, the store manager was standing in the produce section about ten feet from the slippery spot The manager approached Anderson after she fell, pushed away the carriage, and discovered a pleated piece of lettuce which contained no foreign markings. The self-service use of the salad bar caused a lot of spillage. While there was no evidence concerning the length of time the particular piece of lettuce was on the floor, and the trial judge made no finding regarding how long the lettuce was on the floor, the trial judge found that Ro-Jack’s knew of frequent spillage from the salad bar but foiled to monitor spills or to warn customers about the spillage around the salad bar. Ro-Jack’s knew that fruit or vegetables on the floor posed a dangerous condition to customers, namely, objects on which customers could slip. Moreover, the trial judge found that if Ro-Jack’s had displayed a visible warning then Anderson would have heeded it by watching for food on the floor.
+“Appellate courts may not disregard or set aside a trial judge’s findings unless they are clearly erroneous. See Mass. R Civ. R, Rule 52(a), as amended, 423 Mass. 1402 (1996). Appellate review of the facts found at a bench trial does not permit the weighing of the evidence anew. See Capitol Bank & Trust Co. v. Richman, 19 Mass. App. Ct. 515, 519 (1985).” Thurlow v. Shaw’s Supermarkets, Inc., 49 Mass. App. Ct. 175, 177 (2000). “In reviewing the finding of negligence by the trial judge, we consider the evidence and all rational inferences that may be derived therefrom taken in the light most favorable to the plaintiff. Anderson v. Shaw’s Supermarkets, Inc., 1999 Mass. App. Div. 23; O’Connor v. Shaw’s Supermarkets, Inc., 1999 Mass. App. Div. 135.” Welby v. Stop & Shop Supermarket Co., 2000 Mass. App. Div. 265. In a case involving a customer’s slip and fall on a foreign substance, “[t]he obligation of one who controls business premises is to use due care to keep the premises provided for the use of its patrons in a reasonably safe condition, or at least to warn them of any dangers that might arise from such use, which are not likely to be knoum to them, and of which the defendant knows or ought to know.” Oliveri v. Massachusetts Bay Transportation Authority, 363 Mass. 165, 167 (1973) (emphasis supplied). “The length of time the law allows to the defendant for discovery and removal or warning of the dangerous condition is governed by the circumstances of each case.... The decisive issues ... are the length of time the condition is present and the opportunity for discovery on the facts of the case.” Deagle v. Great Atlantic & Pacific Tea Co., 343 Mass. 263, 265 (1961).
+Here, despite the absence of a finding regarding the length of time the particular piece of lettuce was on the floor, the trial testimony amply supported the trial judge’s finding that Re-Jack’s knew of the condition of regular spillage from the salad bar but failed to monitor or warn customers of the hazard. Indeed, the store employee at trial testified that debris from the salad bar would “definitely” be on the floor and the spillage was described as a condition that occurred “constantly.” Because Anderson’s view of the floor was obscured by her shopping cart, Ro-Jack’s cannot defeat liability because the lettuce posed an open and obvious danger. Compare Hall v. Waltham Post No. 156, 1998 Mass. App. Div. 276, citing Robinson v. Ipswich Post 1093, V.F.W., Inc., 343 Mass. 771, 772 (1961) (“There is no duty to warn when the condition is obvious.”) (rescript). In these circumstances, the trial judge’s findings are not clearly erroneous.
+Accordingly, the judgment for the plaintiff is affirmed.
+So ordered.
