@@ -1,0 +1,35 @@
+---
+court: "Massachusetts Appeals Court"
+docket: "88-P-773"
+decided: "1989-06-05"
+citations: ["27 Mass. App. Ct. 1154"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Wayne F. Cross vs. Commissioner of Correction & another."]
+source_url: "https://static.case.law/mass-app-ct/27/cases/1154-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3998074
+cites_cases: ["118 Cal. App. 3d 115", "128 N.H. 732", "193 Conn. 116", "288 Minn. 231", "365 Mass. 755", "59 Wis. 2d 323", "705 P.2d 500", "79 N.J. Super. 379"]
+---
+
+# Cross v. Commissioner of Correction
+
+## Majority
+
+In November, 1987, the plaintiff, a prisoner at the Massachusetts Correctional Institution at Norfolk, filed a pro se complaint requesting declaratory and injunctive relief in the Superior Court in Norfolk County. The plaintiff sought a declaratory judgment to the effect that New Hampshire had violated the terms of the Interstate Agreement on Detainers Act (Act), to which both Massachusetts and New Hampshire are parties. He also sought an injunction ordering the Massachusetts defendant to return a detainer lodged by New Hampshire authorities against him at M.C.I., Norfolk.
+Both defendants filed motions to dismiss the plaintiff’s complaint on the ground that the Massachusetts courts lacked jurisdiction over the subject matter. Mass.R.Civ.P. 12(b)(1), 365 Mass. 755 (1974). After a hearing, a Superior Court judge granted both defendants’ motions, ruling that the issue raised by the defendant was one for the New Hampshire courts, not those of Massachusetts. The judge did not rule on the merits of the plaintiff’s complaint. The plaintiff has appealed from the judge’s action.
+We assume as true the allegations contained in the plaintiff’s complaint and accompanying memorandum. In November, 1983, the plaintiff was serving a sentence in Massachusetts. He learned as a result of a detainer lodged against him by the New Hampshire authorities that charges were pending against him in that State. The plaintiff demanded a speedy trial under the provisions of the Act. On or about December 19, 1983, the plaintiff was transported to Hillsborough County in New Hampshire pursuant to his request. While awaiting trial, the plaintiff was confined at the New Hampshire State prison.
+On December 5, 1984, the plaintiff was found guilty of the New Hampshire charges and sentenced to two consecutive terms of seven and one-half to fifteen years’ imprisonment at the New Hampshire State prison. He appealed from his convictions to the New Hampshire Supreme Court. At his sentencing hearing, the plaintiff requested an order that he be immediately transferred to Massachusetts, but the Superior Court in New Hampshire declined to issue such an order, and he was committed to the New Hampshire State prison. Plaintiff’s counsel communicated with the county attorney in Hillsborough County in March, 1985, demanding the plaintiff’s return to Massachusetts. The county attorney’s office took no action.
+On August 19, 1985, the plaintiff inquired of New Hampshire prison authorities about his status and was informed that “the County Attorney was keeping you in [New Hampshire] until your appeal was completed.”
+On March 11, 1986, the district attorney in Middlesex County in Massachusetts requested temporary custody of the plaintiff in order to have him stand trial in that county for armed robbery, assault and battery by means of a dangerous weapon, and assault with a dangerous weapon. That request was addressed to the New Hampshire defendant. The plaintiff was informed on May 7,1986, that the New Hampshire authorities had refused the request.
+After receiving letters from the plaintiff, dated September 10, 1986, and October 9, 1986, plaintiff’s counsel filed a motion in the Hillsborough County Superior Court to return the plaintiff to Massachusetts. Before that court ruled on that motion, the New Hampshire Supreme Court affirmed the plaintiff’s convictions. See State v. Cross, 128 N.H. 732 (1986). The plaintiff was returned to Massachusetts on December 19, 1986. A detainer has been lodged at M.C.I., Norfolk, for the plaintiffs return to New Hampshire after completion of his Massachusetts sentence to serve his sentences on the New Hampshire offenses.
+The plaintiff sought in his complaint to have the Superior Court rule whether New Hampshire violated art. V(d) and V(e) of the Act when it failed to return him to Massachusetts for twenty-two months after his convictions on the charges for which he was transferred to New Hampshire under the “temporary custody” provisions of the agreement. The plaintiff further sought a declaration that, as a result of the violations, “New Hampshire has de facto pardoned or otherwise terminated the New Hampshire sentence[s] which the [plaintiff] was serving and waived any future right to demand further service of that sentence.”
+We have not been referred to any specific language in the Act or any decision that confers, in these circumstances, jurisdiction in the courts of Massachusetts to hear and grant the relief requested by the plaintiff. Indeed, States that have addressed a similar issue in regard to interstate rendition proceedings have uniformly held that neither the Act nor any other source authorizes a sending State (here, Massachusetts) to dismiss or otherwise invalidate a charge in the receiving State (here, New Hampshire) underlying a detainer for noncompliance with the Act, or even to inquire into such compliance. See In re Fabricant, 118 Cal. App. 3d 115 (1981); Dodson v. Cooper, 705 P.2d 500 (Colo. 1985); Giardino v. Bourbeau, 193 Conn. 116 (1984); State ex rel. Chamberlain v. Martinco, 288 Minn. 231 (1970); State v. West, 79 N.J. Super. 379 (1963); State ex rel. Garner v. Gray, 59 Wis. 2d 323 (1973). It follows that, in this case, the Massachusetts courts do not have jurisdiction to inquire into compliance with the Act by New Hampshire or to grant the relief requested by the defendant.
+Wayne F. Cross, pro se.
+David S. Peck, Assistant Attorney General of New Hampshire, for the Superintendent of the New Hampshire State Prison.
+Judgment affirmed.
+Art. V(d), St. 1965, c. 892, states:
+“The temporary custody referred to in this agreement shall be only for the purpose of permitting prosecution on the charge or charges contained in one or more untried indictments, informations or complaints which form the basis of the detainer or detainers or for prosecution on any other charge or charges arising out of the same transaction. Except for his attendance at court and while being transported to or from any place at which his presence may be required, the prisoner shall be held in a suitable jail or other facility regularly used for persons awaiting prosecution.”
+Art V(e), St. 1965, c. 892, states:
+“At the earliest practicable time consonant with the purposes of this agreement, the prisoner shall be returned to the sending state.”
