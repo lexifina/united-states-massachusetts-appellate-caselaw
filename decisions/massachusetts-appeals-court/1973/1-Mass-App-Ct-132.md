@@ -1,0 +1,27 @@
+---
+court: "Massachusetts Appeals Court"
+decided: "1973-02-27"
+citations: ["1 Mass. App. Ct. 132"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Sophie Bernstein vs. Highland Associates of Worcester, Inc."]
+source_url: "https://static.case.law/mass-app-ct/1/cases/0132-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3941766
+cites_cases: ["219 Mass. 281", "279 Mass. 533", "308 Mass. 66", "325 Mass. 293", "325 Mass. 479", "331 Mass. 16", "333 Mass. 514", "336 Mass. 309", "338 Mass. 150", "339 Mass. 177", "340 Mass. 73", "87 Ariz. 44"]
+---
+
+# Bernstein v. Highland Associates of Worcester, Inc.
+
+## Majority (Keville, J.)
+
+Keville, J.
+This is an action of tort for personal injuries. The case was transferred from the Superior Court to a District Court where the judge found for the defendant. The case was then tried to a jury in the Superior Court upon retransfer. The plaintiff has taken exceptions to the allowance of the defendant’s motions for directed verdicts at the close of the plaintiffs evidence. The questions presented are whether the plaintiffs injuries resulted from negligence of the defendant in the maintenance of an elevator or from negligence on its part in allowing a defective condition of the elevator to exist.
+Taken most favorably for the plaintiff, the evidence showed the following facts: On October 6, 1967, the plaintiff was injured as she emerged from an automatic elevator located in the defendant’s building. As stipulated, the building and the elevator were in the control of the defendant. The plaintiff had been a tenant of the defendant on the fourth floor of the building for three years prior to the accident. During that time she had used either of two identical elevators at least once a day.
+On October 6, she returned from shopping and entered one of the elevators. She pressed the button for the fourth floor. The door closed and the elevator ascended. A panel light indicated its arrival at that floor. The elevator came to a full stop and the door opened completely. The plaintiff looked down. She was carrying a half-gallon jug of orange juice, a handbag and groceries. As she emerged from the elevator, she tripped, fell and was injured. As she fell, she flung her bundles from her. While lying on the floor, she looked back and observed that the elevator was three inches below the level of the floor. A similar observation was made a week later by an investigator employed by the plaintiffs attorney. The elevators were the same elevators which were in use in the building when the plaintiff became a tenant.
+There was no error. We disagree with the plaintiffs assertion that this is a case for the application of the doctrine formerly denominated res ipsa loquitur. See Evangelio v. Metropolitan Bottling Co. Inc. 339 Mass. 177, 179-180. An essential to the application of that doctrine is satisfied by the stipulation that the elevator was in the control of the defendant, but the doctrine is inapplicable here because the accident which occurred is not of the type which would not ordinarily have happened without negligence on the part of the defendant. Walker v. Benz Kid Co., 279 Mass. 533, 538. Ginsberg v. Metropolitan Transit Authority, 333 Mass. 514, 516. Stated another way, this is not a situation where it could be inferred that “there was a greater likelihood that the accident was due to his negligence than to some other cause.” DiRoberto v. Lagasse, 336 Mass. 309, 311-312.
+Moreover, the failure of the elevator to level with the floor (unlike for example the falling elevator cases relied upon by the plaintiff, viz., Cleary v. Cavanaugh, 219 Mass. 281, and Banaghan v. Dewey, 340 Mass. 73) did not establish the cause of the plaintiffs injury but simply created a condition upon which the plaintiff subsequently acted and was thereby injured. On these facts, the plaintiff is not relieved of her burden of proving that the proximate cause of her injury was negligence of the defendant; and she “may not thrust this burden upon the shoulders of res ipsa loquitur.” Nieman v. Jacobs, 87 Ariz. 44,50.
+The defendant was obligated to use reasonable care to keep the elevator in the same condition it was in, or appeared to be in, at the inception of the plaintiffs tenancy. Story v. Lyon Realty Corp. 308 Mass. 66, 69. Brown v. A. W. Perry Co. 325 Mass. 479, 481. Furber v. Rodney, 331 Mass. 16, 18. Lee v. Jerome Realty, Inc. 338 Mass. 150,152. The fact that the elevator was defective at the time of the accident, without more, is not evidence of the defendant’s negligence. Nieman v. Jacobs, supra, at 47. Koch v. Otis Elevator Co. 10 App. Div. 2d (N. Y.) 464, 466-467.
+There was no evidence that the defendant had knowledge prior to the accident that the elevator was defective, nor was there evidence that the defendant had failed to maintain- the elevator in a safe condition. The first indication that the elevator was not functioning properly was the plaintiffs observation following the accident that it had failed to level with the floor. The plaintiff has failed to sustain her burden of showing that the defendant knew or in the exercise of reasonable care should have known of the defect sufficiently in advance of the accident to have remedied it. Furber v. Rodney, supra, at 18-19. Fernandes v. Medeiros, 325 Mass. 293, 295-296.
+Exceptions overruled.
