@@ -1,0 +1,28 @@
+---
+court: "Massachusetts Appeals Court"
+decided: "1986-06-11"
+citations: ["22 Mass. App. Ct. 340"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Edward D. Kent vs. Mary D. Kent & others."]
+source_url: "https://static.case.law/mass-app-ct/22/cases/0340-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3990240
+cites_cases: ["12 Mass. App. Ct. 430", "354 Mass. 448", "376 Mass. 587", "381 Mass. 234", "391 Mass. 517", "393 Mass. 444", "394 Mass. 534", "395 Mass. 366", "395 Mass. 614", "9 Mass. App. Ct. 412"]
+---
+
+# Kent v. Kent
+
+## Majority (Kaplan, J.)
+
+Kaplan, J.
+Elizabeth H. Darling, an elderly widow, executed a will on October 1, 1979, in which she devised certain real estate to a grandnephew, the plaintiff Edward D. Kent, nominally for his lifetime, with a residuary clause in favor of the defendant Mary D. Kent, sister-in-law of the testatrix and grandmother of the plaintiff. Elizabeth died on June 10, 1980. The original of the will has not been found. The defendant Mary, although named as executrix in the will, failed to offer it for probate. Instead, the plaintiff commenced the present action in Probate Court to establish the will, with Mary one of those opposing. After trial, the judge entered judgment for the plaintiff, allowing the will and appointing the plaintiff as administrator with will annexed. The judge made detailed fact findings to support his conclusions.
+Upon her appeal from the judgment, Mary asserts that various of the findings are erroneous, but she does not come near making such a demonstration. She argues, also, that the judgment ought to fail because the judge adopted many of the findings proposed by the plaintiff and thus, so she contends, did not show himself to be independently in command of the facts. We are satisfied from the record that the contention fails. See Cormier v. Carty, 381 Mass. 234, 236-238 (1980); Lewis v. Emerson, 391 Mass. 517, 524 (1984); Lovett v. Commonwealth, 393 Mass. 444, 446-447 (1984); First Pa. Mortgage Trust v. Dorchester Sav. Bank, 395 Mass. 614, 622 n.12 (1985); Markell v. Sidney B. Pfeifer Foundation, 9 Mass. App. Ct. 412, 414-418 (1980).
+Upon oral argument it appeared that Mary was not so much concerned to overthrow the judgment as to use this appeal to get rid of some of the findings. (Indeed, it may be that her final position would to some extent be helped by the establishment of the will.) Her anxiety about those findings arises from the fact that there is pending, as yet untried, an action by the present plaintiff against the present defendants (Mary and the Campbells) to remove a cloud on the real estate created by a certain 1975 deed of the same property from the testatrix and her husband to Mary (subject to the grantors’ life interests). This deed Mary caused to be recorded in August, 1979; and she deeded the property to the defendants Campbell on April 30, 1982. In the cloud-removal action the defendants presumably will try to uphold the recorded deed as having passed the property before the will could become effective, while the plaintiff may seek to show that the deed was not delivered to Mary so as to consummate a transfer of ownership.
+It would be a curiously stultifying endeavor to attempt to excise findings from this action No. 1 on a theory that they might become embarrassing to one or another party in an action No. 2 which has yet to come to trial. We may point out, however, that ordinary rules of res judicata tend to provide as much protection to the defendants as they deserve against casual preclusive use of the present findings in the forthcoming litigation. The conventional principle is that stated in Restatement (Second) of Judgments § 27 (1980): for preclusion purposes, an “issue” must have been “actually litigated” and its determination must have been “essential to the judgment. ” The question whether a given subsidiary or mediate finding, as distinguished from an ultimate finding or conclusion, can qualify as the determination of an “issue” that may be given preclusive effect in the later action, will be illuminated by a reading of comment j to § 27. Regarding “essentiality” (considered at comment h), the case of Home Owners Fed. Sav. & Loan Assn. v. Northwestern Fire & Marine Ins. Co., 354 Mass. 448, 455 (1968) (4 to 3 decision), suggested that findings “not strictly essential to the final judgment in the prior action” might serve as preclusive if “the issues underlying them were treated as essential to the prior case by the court and the party to be bound.” This relaxation of the essentiality requirement appears to find no approval or encouragement in Restatement Second. As to the current status of Home Owners in our law, see Rudow v. Fogel, 376 Mass. 587, 591-592 & n.7 (1978); Fidler v. E.M. Parker Co., 394 Mass. 534, 539-542 (1985); Fireside Motors, Inc. v. Nissan Motor Corp. in U.S.A., 395 Mass. 366, 372-374 (1985).
+Judgment affirmed.
+It is understood that the plaintiff claims the will should be read to convey the fee.
+If the will were denied probate, Elizabeth’s estate would presumably go by intestacy and Mary would lose such benefits as might come her way as residuary taker under the will.
+Section 27 reads: “When an issue of fact or law is actually litigated and determined by a valid and final judgment, and the determination is essential to the judgment, the determination is conclusive in a subsequent action between the parties, whether on the same or a different claim.”
+The sequel was Rudow v. Fogel, 12 Mass. App. Ct. 430 (1981).
