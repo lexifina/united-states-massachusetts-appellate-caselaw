@@ -1,0 +1,60 @@
+---
+court: "Massachusetts Appellate Division"
+docket: "5708; No. 1366"
+decided: "1963-01-28"
+citations: ["25 Mass. App. Dec. 165"]
+reporter: "mass-app-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["FIRST FEDERAL SAVINGS and LOAN ASSOCIATION of LOWELL v. FRANCIS K. MONARSKI RUSSELL H. McDERMOTT CHARLES M. YARID"]
+source_url: "https://static.case.law/mass-app-dec/25/cases/0165-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4038220
+cites_cases: ["126 Mass. 360", "127 Mass. 293", "127 Mass. 386", "13 Pick. 165", "203 Mass. 511", "228 Mass. 571", "260 Mass. 485", "262 Mass. 302", "269 Mass. 118", "271 Mass. 292", "282 Mass. 352", "282 Mass. 39", "284 Mass. 461", "292 Mass. 416", "298 Mass. 170", "299 Mass. 518", "312 Mass. 272", "313 Mass. 306", "317 Mass. 44", "318 Mass. 366", "320 Mass. 428", "325 Mass. 627", "331 Mass. 703", "334 Mass. 295", "8 Met. 222"]
+---
+
+# First Federal Savings & Loan Ass'n v. Monarski
+
+## Majority (Brooks, P. J.)
+
+Brooks, P. J.
+This is an action in contract to recover on a note. The answer is general denial and payment.
+At the trial there was evidence to show the following:
+On June 3, 1955 Russell H. McDermott, James C. Harrington, Francis K. Monarski, Paul P. Kirkonian, and Raymond Ennis, as trustees of the Beaver Brook Recreational Trust, executed a mortgage to plaintiff in the amount of $25,000. On the same day the above named, as trustees aforesaid, also as individuals, together with Charles M. Yarid and four- others as individuals signed a note payable to plaintiff in the sum of $25,000 at 6% interest. On the margin of the note was stated “This note is secured by a mortgage on real estate on 437 rear Mammoth Road, Dracut, county of Middlesex, state of Massachusetts, recorded with Middlesex North District Registry of Deeds.”
+There was also a chattel mortgage of personal property given to plaintiff which, after default was foreclosed and the proceeds of the sale in the amount of $1,225, were applied to the balance due on the note, said foreclosure having taken place on May 20, 1958.
+On May 20, 1958 there was a foreclosure sale of the premises after default and the property was sold at public auction for $24,000 to one Kneeland, who failed to pay the purchase price. A suit was brought against him by the plaintiff in a separate action which is still pending.
+On July 23, 1958 another auction sale was held and the property sold to one Dabilis for $20,500, which amount has been credited on the note less the expenses of the sale.
+Plaintiff, under the terms of the mortgage, paid the real estate taxes to the town of Dracut on May 11, 1958 for 1957 in the amount of $3,189.83, which sum was added to the balance of the note.
+Plaintiff also, on several occasions, paid insurance premiums on the premises.
+Plaintiff charged interest on these advances and taxes and insurance and said interest was added to the balance of the note.
+Plaintiff also charged the expenses of sale in the amount of $1,573.55, which amount was deducted from the sale price of the real estate before crediting it to the balance of the note.
+At the close of the trial defendants made the following Requests for Rulings which were all denied:
+1. The evidence is insufficient to warrant a finding for the plaintiff.
+2. There is a variance between the evidence and the pleadings in the case and the plaintiff cannot recover in this action. (Pacheco v. Madeiros, 292 Mass. 416.)
+3. The evidence is insufficient to warrant a finding that these defendants signed the real estate mortgage in their individual capacity.
+4. The evidence is insufficient to warrant a finding that these defendants authorized or requested the plaintiff to pay real estate taxes on behalf of the mortgagees, therefore the plaintiff cannot recover the amount of the taxes so paid from these defendants individually, nor interest on said payments.
+5. The evidence is insufficient to warrant a finding that these defendants authorized or requested the plaintiff to pay insurance premiums on behalf of the mortgagees, therefore the plaintiff cannot recover the amount of the insurance premiums so paid from these defendants individually, nor interest on said payments.
+6. The evidence is insufficient to warrant a finding that these defendants authorized or requested the plaintiff to pay for maintenance costs on behalf of the mortgagees, therefore the plaintiff cannot recover the amounts so paid from these defendants individually, nor can it recover interest on said payments.
+The court found for the plaintiff in the sum of $6,650.17 with interest from July 20, 1958.
+Defendants claim to be aggrieved by the court’s denial of their Requests for Rulings.
+Of the several signers of the mortgage deed and note only three are before this court on appeal, Monarski, McDermott and Yarid. The first two were among those who signed both mortgage deed and note as trustees and the mortgage note also individually. Yarid, on the other hand, was not a trustee, did not sign the mortgage deed but did sign the note. Some questions arise out of this situation in view of the difference in status between these defendants, also the different purposes to which payments were applied by plaintiff and charged to defendants.
+First as to defendants, Monarski and McDermott, who signed the mortgage deed as trustee and the note both as trustee and as individuals. In whichever capacity they signed, it seems inescapable that they are liable for whatever of their acts can be considered breaches of the covenants in the mortgage. Merely because they signed as trustees their liability is not limited unless it appears that some limitation was specified in the trust instrument, as to which there is no evidence. Larson v. Sylvester, 282 Mass. 352, 357, 358; Downey Co. v. Whistler, 284 Mass. 461, 466; Silverstein Inc. v. Nash, 298 Mass. 170, 173; Baker v. Rosen, 331 Mass. 703, Restatement of Law of Trusts 2, 263.
+On the other hand as individual signers of the note they are bound by the statement in the margin that the mortgage is collateral security for the note. Shaw v. Methodist-Episcopal Society, 8 Met. 222, 226; Costello v. Crowell, 127 Mass. 293; Eastern Mutual Ins. Co. v. City Nat. Bank, 260 Mass. 485, 489; First Nat. Bank, v. Wolfson, 271 Mass. 292, 294.
+The suggestion that defendants are merely accommodation makers and did not personally receive the proceeds of the loan does not affect their liability. Stoughton Tr. Co. v. Pike, 282 Mass. 39, 41; Blanchard v. Porter, 317 Mass. 44; Baker v. Paeff, 318 Mass. 366; Johnson v. Favazza, 325 Mass. 627, 629.
+As to defendant Yarid, it is true that he did not sign the mortgage deed, but as signer of the note he was, like Monarski and McDermott, bound by the marginal reference to the mortgage. Costello v. Crowell supra, also Wheelock v. Freeman, 13 Pick. 165, 168. A somewhat analogous situation is where mortgage bondholders are bound by the provisions in the trust instrument. Mayo v. Fitchburg Ry., & Leominster St. Ry., 269 Mass. 118, 121.
+We come now to the purposes to which the plaintiff’s payments were appiled, taxes, insurance, interest, expenses of foreclosure sale.
+First as to taxes, G. L. c. 60, §58 provides: “If the whole or any portion of a tax on land remains unpaid after it is due, the holder of the mortgage upon the land may pay to the collector such amount as is due and unpaid with the accrued charges and expenses and the amount so paid may be added to the amount in the deed.”
+Furthermore, covenant #2 in the mortgage specifically provides for payment of taxes and the charging of such payment to the mortgage debt. The mortgagor further covenants :
+#2. “To pay to the mortgagee on the payment dates of the note secured by this mortgage, in addition to the payments of principal and interest therein required, a monthly apportionment of the sum estimated by the mortgagee to be sufficient to make all payments of all taxes, .charges and assessments upon the mortgaged property as they become due and any balance due for any of said payments shall be paid by the mortgagor to the mortgagee on demand, and the mortgagee is hereby specifically authorized to pay when due or at any time thereafter all of said payments and to charge the same to the account of the mortgagor.”
+In addition, without such statutory provision or authority specified in the mortgage is might well be held, as argued by plaintiff’s counsel, that plaintiff having a duty to maintain and conserve the mortgage property is in effect a surety who, under certain circumstances, could be held liable for failure to maintain and conserve the property. Guild v. Butler, 127 Mass. 386; Durfee v. Kelley, 228 Mass. 571; Mohan v. Woburn Nat. Bank, 313 Mass. 306, 309, and on that ground is entitled to reimbursement.
+Secondly as to insurance, the fourth covenant in the mortgage deed requires the mortgagor:
+“To insure in sums satisfactory to the mortgagee and for its benefit the buildings now or hereafter standing on said land against fire, and such other hazards, casualties and contingencies as the mortgagee may from time to time direct, and to deposit all such insurance policies with the mortgagee.”
+Under covenant #11 of the mortgage the mortgagor agrees that he
+“will pay on demand to the mortgagee, or the mortgagee may at its option add to the principal balance then due, any sums advanced or paid by the mortgagee on account of any default, of whatever nature, by the mortgagor, or any sums advanced or paid, whether before or after default, for taxes, repairs, improvements, insurance on the mortgaged property or any other insurance pledged as collateral to secure the mortgage loan, or any sums paid by the mortgagee, including reasonable attorney’s fees, in prosecuting, defending, or intervening in any legal or equitable proceeding wherein the mortgagee deems any of the rights created by this mortgage are jeopardized or in issue.”
+On the same principle the mortgagee is entitled to deduct the expenses of foreclosure from the proceeds of the sale. G. L. c. 183, §27. See also City Institute for Savings v. Kelil, 262 Mass. 302; Wiggin v. Lowell 5c Savings Bank, 299 Mass. 518; Krikorian v. Grafton Co-op Bank, 312 Mass. 272, 278; State Realty Co. v. MacNeil Bros., 334 Mass. 295, 305; Davis v. Continental Realty Co., 320 Mass. 428, 431.
+With regard to the right to charge interest on payments on the amounts above referred to, there is admittedly no specific authority for such payment and no case directly in point has been cited by either party. Mowever, there is every reason in equity for such reimbursement for the loss of use of funds resulting from defendant’s several defaults and we see no reason why plaintiff should not receive interest on top of the charges heretofore discussed. There is support for this position by analogy with other situations. The court has held, for instance, that when one makes payments upon the express or implied request of another, the former is entitled to interest from the time of the payment. French v. French, 126 Mass. 360, 361. This case was later cited in Mayhew v. Martha's Vineyard Nat. Bank, 203 Mass. 511, 514. There, plaintiff was endeavoring to redeem property sold under a mortgage and the issue related to the amount paid out by the mortgagee. Plaintiff contended that items of interest on taxes paid should not be allowed since there was no agreement therefor. The court held that there was an implied agreement to pay interest.
+E. L. Monahan, of Lowell, for the Plaintiff.
+Paul E. Sheehan, of Lowell, for the Defendant.
+With regard to defendant’s second request, alleging a variance between the evidence and the pleadings, no such variance appears in the report. It is hot referred to in defendant’s brief. We see no error in the denial of this Request.
+Being of the opinion that there is no prejudicial error in the Findings and Rulings of the trial judge, we order:
+Report Dismissed.
