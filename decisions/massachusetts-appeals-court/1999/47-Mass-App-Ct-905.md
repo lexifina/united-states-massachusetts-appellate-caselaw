@@ -1,0 +1,28 @@
+---
+court: "Massachusetts Appeals Court"
+docket: "92-P-185"
+decided: "1999-06-23"
+citations: ["47 Mass. App. Ct. 905"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Commonwealth vs. Vilma Villanueva."]
+source_url: "https://static.case.law/mass-app-ct/47/cases/0905-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 480292
+cites_cases: ["31 Mass. App. Ct. 336", "35 Mass. App. Ct. 938", "352 Mass. 556", "405 Mass. 488", "410 Mass. 199", "45 Mass. App. Ct. 576", "499 U.S. 279"]
+---
+
+# Commonwealth v. Villanueva
+
+## Majority
+
+On appeal the defendant claims that the judge’s misstatement was per se reversible error. Citing Commonwealth v. Chotain, 31 Mass. App. Ct. 336 (1991), she argues that removing an issue from the jury’s consideration constituted a structural defect in the trial requiring automatic reversal.
+The defendant misunderstands the structural defect doctrine. A structural error is one that so infringes on a defendant’s right to the basic components of a fair trial that it can never be considered harmless. See Arizona v. Fulminante, 499 U.S. 279, 309 (1991). Such errors include, for example, deprivation of the right to counsel, trial before a biased judge, and unlawful exclusion of members of the defendant’s race from the jury. Id. at 310. The error here is not in that category. In the absence of an objection, we review the error to determine whether it created a substantial risk of a miscarriage of justice. Commonwealth v. Freeman, 352 Mass. 556, 563-564 (1967).
+There was no such risk here. The Commonwealth introduced the cocaine the police found in the defendant’s apartment and the corresponding certificates of analysis. “When properly executed, [a certificate of analysis] shall be prima facie evidence of the composition, quality, and when requested, the net weight of the narcotic . . . analyzed . . . .” G. L. c. 111, § 13, as amended by St. 1982, c. 650, § 18. See Commonwealth v. Johnson, 410 Mass. 199, 201 (1991). “[T]here was no evidence that the substance was other than cocaine or that would impugn the integrity of the certificate of analysis.” Commonwealth v. Johnson, 405 Mass. 488, 490 (1989). Moreover, the composition of the substance was not an issue at trial. “The only live dispute between the parties was whether the defendant had possessed the substance in question at all.” Ibid. The defendant did strenuously object to the introduction of the analysis, but the basis for the objection was primarily the lack of connection between her and the cocaine. She also sought to sanitize the analysis by having her name removed from the certificate. In closing argument, given before the judge gave the instructions at issue here, defense counsel acknowledged that the police fpund large amounts of cocaine in the apartment. Referring to the undercover police officer who presented himself as a buyer, defense counsel told the jury that “he went in with other officers and found cocaine. He found two ki’s [jz'c] of cocaine that are exhibits. They were on the premises. In addition to that, he found the other packets, the 21 packets of cocaine . . . .” See Commonwealth v. Malcolm, 35 Mass. App. Ct. 938 (1993). “Thus, there is little risk that a properly instructed jury would have chosen to disbelieve the evidence contained in the certificate of analysis.” Commonwealth v. Johnson, 405 Mass, at 490.
+Commonwealth v. Chotain, 31 Mass. App. Ct. 336 (1991), cited by the defendant, is readily distinguishable. In that case, the judge told the jury “you need [not] delay too long on the elements of the crime . . . the . . . real issue, is, who was the perpetrator?” Id. at 339. Not only did Chotain not concede the fact of the crime, he had moved for a directed verdict at the close of the Commonwealth’s case, claiming there was insufficient evidence of a break-in, and objected “promptly and specifically” to the judge’s instructions. Id. at 340-341.
+Robert M. Greenspan for the defendant.
+Jane L. McDonough, Assistant District Attorney, for the Commonwealth.
+Expert police testimony. Trooper Matthews, a back-up officer, testified that “somebody who would have in his possession this amount of cocaine is a substantial trafficker in cocaine.” The codefendants objected and moved to strike; the defendant did not. The trial judge sustained the objection but apparently did not instruct the jury to disregard the trooper’s testimony. No one sought clarification. Arguing that this testimony permitted the officer to testify to the defendant’s guilt, the defendant claims its introduction created a substantial risk of a miscarriage of justice. Commonwealth v. Freeman, 352 Mass, at 563-564.
+The admission of expert opinion testimony is largely within the sound discretion of the judge and will be reversed only where the admission constitutes an abuse of discretion or error of law. Commonwealth v. Johnson, 410 Mass, at 202. “[T]he subject matter discussed [was] within the witness’s field of expertise and ... the witness [did] not directly express his views on the defendant’s guilt.” Commonwealth v. Tanner, 45 Mass. App. Ct. 576, 579 (1998). Matthews did not comment on the defendant’s activity directly, contrast id. at 580 (“[F]rom my experience, I believed a drug transaction had taken place”), but more generally on the meaning of the quantity of the cocaine in question. In context, given the quantity of cocaine recovered here, two separate kilograms and twenty-one smaller bags of different weights, there was no substantial risk of a miscarriage of justice.
+Judgment affirmed.
