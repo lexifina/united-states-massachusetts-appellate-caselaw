@@ -1,0 +1,25 @@
+---
+court: "Massachusetts Appeals Court"
+decided: "1979-12-10"
+citations: ["8 Mass. App. Ct. 943"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Synthetic Materials Corporation vs. David E. Maciel & another."]
+source_url: "https://static.case.law/mass-app-ct/8/cases/0943-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3959421
+cites_cases: ["105 Mass. 255", "116 Mass. 374", "161 Mass. 496", "171 Mass. 370", "180 Mass. 527", "204 Mass. 362", "208 Mass. 425", "216 Mass. 516", "225 Mass. 525", "257 Mass. 559", "275 Mass. 96", "277 Mass. 497", "282 Mass. 361", "290 Mass. 168", "291 Mass. 131", "296 Mass. 34", "311 F.2d 117", "332 Mass. 368", "365 Mass. 825", "367 Mass. 921", "372 Mass. 721", "372 U.S. 930", "377 Mass. 909", "6 Mass. App. Ct. 558", "8 Gray 211"]
+---
+
+# Synthetic Materials Corp. v. Maciel
+
+## Majority
+
+1. It is clear from the unmodified language (particularly the opening clause of the second paragraph) of the writing admittedly executed by the defendants on July 21, 1977, that that writing constituted an absolute guaranty of specifically described obligations of Thames, Ltd. (Thames), as opposed to an offer to guarantee those obligations. It follows that the plaintiff was not required to notify the defendants of its acceptance of the guaranty or to demonstrate that it relied thereon in subsequently extending credit to Thames. Paige v. Parker, 8 Gray 211, 214 (1857). Lennox v. Murphy, 171 Mass. 370, 373 (1898). Cumberland Glass Mfg. Co. v. Wheaton, 208 Mass. 425, 431 (1911). Stauffer v. Koch, 225 Mass. 525, 530 (1917). Standard Plumbing Supply Co. v. LaConte, 277 Mass. 497, 501 (1931). Vacuum Oil Co. v. Smookler, 282 Mass. 361, 365 (1933). Mayo v. Bloomberg, 290 Mass. 168, 170-171 (1935). Chase Manhattan Bank v. May, 311 F.2d 117, 120 (3d Cir. 1962), cert, denied, 372 U.S. 930 (1963). Contrast Bishop v. Eaton, 161 Mass. 496, 499-500 (1894); Lynn Safe Deposit & Trust Co. v. Andrews, 180 Mass. 527, 532-533 (1902); Lascelles v. Clark, 204 Mass. 362, 376 (1910); Black, Starr & Frost v. Grabow, 216 Mass. 516, 517-518 (1914); Lane Bros. v. Sheinwald, 275 Mass. 96, 97-98 (1931). 2. The defendants were not entitled to rescission of the guaranty by reason of any misrepresentation which may have been made to them by the plaintiff’s credit manager because the Maciel affidavit contains no assertion of any such misrepresentation nor any assertion that the defendants (or either of them) relied on any misrepresentation in deciding to execute the guaranty. See Howard v. Barnstable County Natl. Bank, 291 Mass. 131, 135-136 (1935); Yorke v. Taylor, 332 Mass. 368, 371 (1955); Levy v. Bendetson, 6 Mass. App. Ct. 558, 564-565 (1978).
+3. There was no ambiguity created by the language employed by the defendants in modifying the plaintiff’s standard form of guaranty which entitled the defendants to introduce parol evidence as to the intended meaning of that language. See and compare Merrimack Valley Natl. Bank v. Baird, 372 Mass. 721, 722, 723, 724-725, 726 (1977).
+4. The plaintiff was obliged to follow the agreed upon practice asserted (without challenge; see Mass.R.Civ.P. 56[f], 365 Mass. 825 [1974]) in the Maciel affidavit of applying the payments received from Thames against its obligations in the order in which those obligations had been incurred. Crompton v. Pratt, 105 Mass. 255, 257 (1870). Worthley v. Emerson, 116 Mass. 374, 374-375 (1874). Snell v. Rousseau, 257 Mass. 559, 561-562 (1926). Lampasona v. Capriotti, 296 Mass. 34, 40 (1936). Accordingly, the damages component of the judgment entered on the original complaint must be modified so as to state the defendants’ total liability to the plaintiff as $30,256.50 rather than $43,391.50, and the interest component of that judgment must be recalculated on the lower of those figures. 5. The defendants’ appeal from the judgment dismissing their counterclaim has not been argued within the meaning of Mass.R.A.P. 16(a)(4), as amended, 367 Mass. 921 (1975), and the brief submitted by the plaintiff ignores the cross appeal claimed by it. Accordingly, both those appeals will be dismissed. Tobin v. Commissioner of Banks, 377 Mass. 909, 910 (1979). 6. No question touching the validity of the postjudgment real estate attachments which were approved on June 30,1978, was raised by the defendants’ claim of appeal which was filed on June 14,1978, and which was directed only to the judgments on the original complaint and on the defendants’ counterclaim which had been entered on June 7,1978. The defendants’ appeal from the judgment dismissing their counterclaim and the plaintiff’s cross appeal are dismissed; the judgment on the original complaint is to be modified in the respects required by part 4 of this opinion and, as so modified, is affirmed; costs of appeal are not to be awarded to any party.
+Gordon N. Schultz for David E. Maciel.
+Michael S. Gardener for the plaintiff.
+Gjon N. Nivica, pro se, submitted a brief.
+So ordered.
