@@ -1,0 +1,29 @@
+---
+court: "Massachusetts Appellate Division"
+decided: "1989-09-21"
+citations: ["1989 Mass. App. Div. 177"]
+reporter: "mass-app-div-annual"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Present: Doyle, P.J., Forte & Ruma, JJ."]
+parties: ["James S. Munro, Jr. vs. U.S.-China Peoples Friendship Association"]
+source_url: "https://static.case.law/mass-app-div-annual/1989/cases/0177-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6814481
+cites_cases: ["1980 Mass. App. Div. 59", "1981 Mass. App. Div. 126", "1982 Mass. App. Div. 286", "1982 Mass. App. Div. 301", "1983 Mass. App. Div. 41", "1986 Mass. App. Div. 42", "1987 Mass. App. Div. 133", "216 Mass. 545", "367 Mass. 464", "368 Mass. 174", "372 Mass. 469", "55 Mass. App. Dec. 3"]
+---
+
+# Munro v. U.S.-China Peoples Friendship Ass'n
+
+## Majority (Doyle, P.J.)
+
+Doyle, P.J.
+This petition to establish a draft report constitutes the culmination of the defendant’s efforts to override the trial justice’s refusal to authorize an interlocutory appeal of certain pretrial rulings.
+Given the pretrial posture of this case, the facts are quickly stated. This is an action for breach of contract and violations of G. L. c. 93A arising from the defendant’s alleged failure to supply meals, accommodations and other travel services to the plaintiff during the latter’s tour of the People’s Republic of China. Service was made pursuant to the Massachusetts Long Arm Statute, G. L. c. 223A. The defendant filed Dist./Mun. Cts. R. Civ. P., Rule 12(b)(2), 12(b)(7) and 19(b) motions to dismiss for lack of personal jurisdiction and failure to join an indispensable party. These motions were denied by the trial court.
+The defendant filed a request for a report and a draft report challenging the court’s denial of the defendant’s dismissal motions. The defendant also submitted motions for a “Stay During Pendency of Interlocutory Appeal” and for “Immediate Report of Interlocutory Rulings.” The trial justice denied both motions, and indicated that “a report may ultimately be settled in this proceeding after a hearing on the merits and the entry of final judgment.”
+The defendant responded to the court’s denial of its request for an interlocutory appeal by filing both a second request for a report and draft report and a petition to establish its first draft report. The defendant asserted in its second request for a report that the court’s refusal to authorize an interlocutory appeal was “unlawful and an abuse of discretion because a final determination as to jurisdiction over the lawsuit should precede, rather than follow, trial on the merits.” The court “disallowed” the defendant’s second draft report, noting again that a report could be settled “only after final judgment.” The defendant thereafter filed the petition to establish its second draft report which is now before this Division.
+The defendant’s petition to establish a report of pretrial rulings compels this Division to reiterate a principle that is axiomatic; namely, that a party is neither entitled to, nor may claim as of right, immediate appellate review of unreported interlocutory orders or rulings. Rollins Environmental Serv., Inc. v. Superior Court, 368 Mass. 174, 179 (1975); Seigal v. Fitz Taxi, Inc., 1986 Mass. App. Div. 42, 43.
+Appellate courts in this Commonwealth countenance few exceptions to that ‘general rule of practice so early announced, so frequently reiterated, so constantly followed, and so manifestly in the interests of parties litigant and the general public. . . . that [interlocutory rulings] will not be considered until the case is ripe for final judgment.’ Pollack v. Kelly, 372 Mass. 469, 470-471 (1977), quoting from Weil v. Boston Elev. Rwy., 216 Mass. 545, 549 (1914).
+Quint v. Moffie, 1987 Mass. App. Div. 133. The defendant’s efforts to circumvent the trial judge’s proper refusal to sanction an interlocutory appeal in this case wholly disregard not only this principle, but also the related procedural tenet that interlocutory rulings will be reviewed by this Division only with the consent or upon the voluntary report of the trial justice. G. L. c. 231, Sec. 108; Dist./Mun. Cts., R. Civ. P., Rule 64(d). See also, Foreign Auto Imports, Inc. v. Renault, 367 Mass. 464, 467 (1975); First East Savings Bank v. Bean, 1982 Mass. App. Div. 301; Nonantum Lumber Co. v. DePamphilis, 1981 Mass. App. Div. 126; Hart v. Keoveney, 1980 Mass. App. Div. 59, 60.
+An exercise of the limited discretion accorded a trial justice by statute and rule of court to make a voluntary report of an interlocutory ruling requires the assessment and resulting written certification of the ruling in question as one which so affects the merits of the controversy that it ought, in justice, to be reviewed before further proceedings are conducted. Pleasant Travel, Inc. v. Butler, 1983 Mass. App. Div. 41, 43-44; Barnette v. Commercial Ins. Co., 55 Mass. App. Dec. 3, 5 (1974). We concur with.the trial justice’s implicit determination herein that the denial of the defendant’s motions to dismiss entailed no issue or circumstance sufficiently unique or compelling to necessitate immediate appellate consideration. In support of its demand for interlocutory review,, the defendant contends merely that it is entitled to dismissal as a matter of law and that it will incur undue expense and difficulty if forced to proceed to trial. Such contentions are insufficient to defeat the well-established and prudent judicial policy against piecemeal appellate review. Bohlin v. Camille, 1982 Mass. App. Div. 286, 287. As the propriety of the trial court’s denial of the defendant’s motions to dismiss will be open for appellate review after judgment, no irreparable harm attends the denial of such review at this preliminary juncture.
+Accordingly, this petition to establish a draft report is hereby denied.
