@@ -1,0 +1,26 @@
+---
+court: "Massachusetts Appeals Court"
+decided: "1981-04-06"
+citations: ["11 Mass. App. Ct. 990"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Commonwealth vs. Mark Lawrence."]
+source_url: "https://static.case.law/mass-app-ct/11/cases/0990-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3965253
+cites_cases: ["333 Mass. 78", "336 Mass. 66", "354 Mass. 200", "377 Mass. 453", "380 Mass. 513"]
+---
+
+# Commonwealth v. Lawrence
+
+## Majority
+
+Lawrence was convicted under (1) an indictment charging him with entering, being armed with a dangerous weapon, a knife, a dwelling of Nina Jones in the nighttime with the intent therein to commit larceny, and assault therein upon Mrs. Jones, and (2) assault upon and battery of Mrs. Jones. The jury acquitted him of a charge of assault and battery by means of a dangerous weapon. Upon Lawrence’s motion to revise his sentence, a suspended sentence was imposed on the conviction for assault and battery and three years’ probation on the indictment for armed assault in a dwelling. Lawrence appealed. The somewhat conflicting evidence permitted the following findings.
+Mrs. Jones was awakened on August 7, 1976, between 4:30 and 5:00 a.m. and heard footsteps of someone wandering about her apartment. She called out “Larry,” the name of a friend of hers who had a key to the apartment. Lawrence (whom she knew as a friend of Larry) entered her bedroom. She asked him what he was doing. He slapped her and told her to “shut up . . . or I will. . . slit your throat.” Mrs. Jones tried to sit up in bed and saw in one of Lawrence’s hands what “looked like ... a knife.” He folded this and put it away, then raised his other hand which had some object in it, with which he hit her knee. Mrs. Jones gave Lawrence a well-placed and well-deserved kick square in the stomach. Her legs gave out under her and she saw Lawrence “fleeing.” She, “nervous” and “scared” and “in a state of panic,” drove to a cousin’s house and was taken to a hospital. Her leg was swollen and her knee had a slight puncture wound. Later on August 7, Mrs. Jones returned to her apartment (“in a brace and on crutches”) and, for the first time, noticed that her plants had been thrown into the yard and that footprints indicated that someone had climbed into the window. A medication, missing from her apartment, was returned by neighbors who found it in the street. Missing also were a tape deck, two speakers, and tapes.
+1. The jury reasonably could infer from the circumstances that Lawrence if found to have entered a dwelling place, not his own, by a window and without invitation, in the middle of the night, did so with intent to steal. See Commonwealth v. Ronchetti, 333 Mass. 78, 81 (1955). Of course, as was suggested in the Ronchetti case (at 81-82), that intent may have shifted to another offense after Mrs. Jones was discovered alone in the apartment.
+2. The period between Lawrence’s flight and the discovery that items were missing was not so long that the jury were not warranted in concluding that Lawrence (and not some unidentified intruder) was responsible. It was not extraordinary that, immediately after the assault upon her, Mrs. Jones did not notice the confusion in her apartment as she left for her cousin’s house.
+3. The trial judge treated this as an indictment under G. L. c. 265, § 18A, and charged with respect to the elements of the offense there defined without explaining in detail the elements of larceny, which the indictment specified as the felony which Lawrence had the intent to commit. No objection was claimed to the judge’s charge at its conclusion, and counsel, given the opportunity, requested no additional instructions. There had been no advance written request for any detailed description of the legal meaning of larceny. No charge of larceny was being tried and there thus was no occasion for the trial judge to go into the refinements of that crime. Compare Commonwealth v. Engleman, 336 Mass. 66, 68-69 (1957, a decision since affected by St. 1967, c. 817, § 1, adding par. (4) to G. L. c. 266, § 30). The intent charged would be sufficiently proved by showing a basis for an inference that Lawrence entered the apartment to take any valuable item upon which he could lay his hands, a concept consistent with the general lay understanding of larceny as stealing or theft. No more specific knowledge of the offense was necessary. Compare the special meaning of “malice” in respect of arson discussed in Commonwealth v. Niziolek, 380 Mass. 513, 526-529 (1980). It would have been preferable if the judge had included in her charge the brief statement of the elements of larceny found in the second paragraph of note 5 in the Niziolek case at 529. We think, however, that the omission was harmless and could not have resulted in prejudice to Lawrence or in any risk of a miscarriage of justice. See Commonwealth v. Blackburn, 354 Mass. 200, 205 (1968); Commonwealth v. Dupont, ante 931 (1981). Compare Commonwealth v. Dunphy, 377 Mass. 453, 458-459 (1979).
+Margaret H. Van Deusen for the defendant.
+William T. Walsh, Jr., Assistant District Attorney, for the Commonwealth.
+Judgments affirmed.
