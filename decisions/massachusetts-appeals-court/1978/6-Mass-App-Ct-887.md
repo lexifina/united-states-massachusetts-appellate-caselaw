@@ -1,0 +1,22 @@
+---
+court: "Massachusetts Appeals Court"
+decided: "1978-06-06"
+citations: ["6 Mass. App. Ct. 887"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Commonwealth vs. James E. Harvey."]
+source_url: "https://static.case.law/mass-app-ct/6/cases/0887-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5732996
+cites_cases: ["2 Mass. App. Ct. 250", "367 Mass. 798", "369 Mass. 17", "371 Mass. 97", "371 U.S. 471", "372 Mass. 346", "373 Mass. 478", "373 Mass. 545", "373 Mass. 676", "379 U.S. 89", "401 U.S. 560", "420 U.S. 103", "422 U.S. 590", "423 U.S. 411", "435 U.S. 934", "5 Mass. App. Ct. 383", "560 F.2d 494"]
+---
+
+# Commonwealth v. Harvey
+
+## Majority
+
+The defendant assigns as error the judge’s denial of his pretrial motion to suppress certain incriminating statements made by him following his arrest. The defendant claims those statements should have been suppressed as the fruits of his arrest which he contends was illegal because it was made (1) without probable cause (see United States v. Watson, 423 U.S. 411, 417-418 [1976], and cases cited) and (2) in his home in alleged violation of the principle announced in Commonwealth v. Forde, 367 Mass. 798, 806 (1975). There was no error. 1. Although the judge found the application "fell woefully short of [showing] probable cause for an arrest warrant,” there is ample evidence in the record to support the judge’s finding that the arrest of the defendant was based on probable cause. See Gerstein v. Pugh, 420 U.S. 103, 111-113 (1975). Cf. Beck v. Ohio, 379 U.S. 89, 91 (1964). See also United States v. Watson, 423 U.S. at 423-424. For example, the confession of Lindsey, a participant in the alleged armed robbery, provided an independently sufficient basis for probable cause to arrest the defendant. See Commonwealth v. Vynori-us, 369 Mass. 17, 21 (1975). Cf. Commonwealth v. Fleurant, 2 Mass. App. Ct. 250, 253-254 (1974). Contrast Whiteley v. Warden, Wyo. State Penitentiary, 401 U.S. 560, 567 (1971). We do not have to decide the applicability to the instant case of the plurality holding of the Supreme Judicial Court in Commonwealth v. Forde, 367 Mass. 798 (1975) (but see Commonwealth v. LeBlanc, 373 Mass. 478, 485 n.2 [1977]), as we conclude that Commonwealth v. Fielding, 371 Mass. 97, 113-115 (1976), is controlling in the circumstances of this case. See Wong Sun v. United States, 371 U.S. 471, 487-488 (1963). See also Commonwealth v. Tisserand, 5 Mass. App. Ct. 383, 389-390 (1977). 2. Thus, in the circumstances, the only relevant question was the "voluntariness of the statement.” See Brown v. Illinois, 422 U.S. 590, 604 (1975). The judge concluded that the Commonwealth "has sustained the burden ... as to the voluntariness of the [defendant’s] statement.” That conclusion was based on findings, warranted on the evidence, that the defendant’s "will was not unfairly overborne ... [and his] statement was the product of a rational mind.” See Commonwealth v. Cruz, 373 Mass. 676, 682 n.2 (1977). Contrast Commonwealth v. Haas, 373 Mass. 545, 550 (1977). The police did attempt to get an arrest warrant. Compare Beck v. Ohio, 379 U.S. at 96. There is nothing in the record to indicate that the purpose of the arrest was to advance the investigation or that the arrest was effected with the view toward obtaining a confession. Contrast Brown v. Illinois, 422 U.S. at 605. The judge found that there was no coercion of the defendant or trickery by the police to induce a confession. Compare Commonwealth v. Fournier, 372 Mass. 346, 349 (1977). In short, for all that appears, both the defendant and the police thought at all times that the arrest was legal. Accordingly, we conclude that the defendant’s arguments are off the mark. See Brown v. Illinois, 422 U.S. at 597-600; Commonwealth v. LeBlanc, supra at 487-488. But see United States v. Watson, 423 U.S. at 433 (Stewart, J., concurring in the result). There is thus ample support in the record from which to conclude that the defendant’s confession was "an act of free will unaffected” by the alleged illegal arrest. See Brown v. Illinois, 422 U.S. at 603. Cf. United States v. Jarvis, 560 F.2d 494, 498-499 (2d Cir. 1977), cert. denied, 435 U.S. 934 (1978). Compare Commonwealth v. Fielding, supra at 113-114.
+Edward Berkin for the defendant.
+William L. Pardee, Assistant District Attorney, for the Commonwealth.
+Judgment affirmed.
