@@ -1,0 +1,25 @@
+---
+court: "Massachusetts Appeals Court"
+decided: "1983-04-25"
+citations: ["15 Mass. App. Ct. 997"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Town of Burlington vs. Board of Education."]
+source_url: "https://static.case.law/mass-app-ct/15/cases/0997-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5739845
+---
+
+# Town of Burlington v. Board of Education
+
+## Majority
+
+The town appeals from a judgment declaring that it is entitled to receive reimbursement from the Commonwealth of fifty percent of the cost of construction of its senior high school, rather than sixty-five percent. Reimbursement for school construction is provided for by St. 1948, c. 645, as amended by subsequent statutes, and in order to receive the higher figure, the town must show that its project qualified under St. 1971, c. 1010, § 2, a short-lived measure (see St. 1974, c. 492, § 18) which amended St. 1948, c. 645, and gave a higher percentage of reimbursement to projects in depressed areas. Section 6 of c. 1010 provided, “This act shall apply only to projects approved by the board of education on or after January the first, nineteen hundred and seventy-one.” We agree with the reasoning and conclusion of the Superior Court judge that the approval referred to in § 6 of St. 1971, c. 1010, is the approval under § 8 of St. 1948, c. 645, of the application described in § 7 of that chapter. Since that approval occurred on October 27, 1970, we affirm the judgment.
+A brief analysis of c. 645, as amended through c. 1010 of St. 1971, requires this result. Section 5, a definitional section, in relevant part provides: ‘“Approved school project’ shall mean any project for the construction ... of any public schoolhouse in any city or town . . . the contract or contracts for which shall have been awarded on or after January the first, nineteen hundred and forty-six, by any city, [or] town, . . . which has been approved by the commission for the purposes of sections seven through nine, inclusive.” Section 7 provides that any city or town may apply for a school construction grant to meet in part the “cost of an approved school project.” The application must be in the form prescribed by the commission accompanied by such drawings or other information required by the commission. Section 8 requires the commission to examine the application and accompanying data “forthwith” and to “determine whether the proposed construction is in the best interests of the . . . town.” If so, the commission “shall determine the estimated approved cost of such construction . . . and compute the amount estimated of construction grant to which the town would be entitled under [§ 9], . . . based on said approved cost.” The commission is required to notify the town “of its approval or rejection [of the application] .... Notice of approval hereunder shall be accompanied by a statement of the estimated approved cost . . . and an estimate of the . . . grant to which such . . . town . . . may be entitled” under § 9. “The final approved cost” is to be determined after “the acceptance of the completed project by the local school committee.” Section 9 provides for the amount and timing of grant payments.
+Joyce Frank for the plaintiff.
+Carolyn V. Wood, Assistant Attorney General, for the defendant.
+It is apparent to us from these sections that the vote of the Board of Education of October 27, 1970, that the Burlington senior high school project was in the “best interest[] of the . . . town,” that its estimated cost was $15,272,000, the estimated rate (of reimbursement) fifty percent, and the estimated grant, $7,636,000, was the action which made the project an “approved school project” within § 5 of c. 645 of St. 1948, and a “project approved” within the meaning of § 6 of c. 1010 of St. 1971. That additional approvals by other officials of final plans and specifications were required (by administrative practice) before payments to the town would be made does not affect this conclusion.
+We also note that the Legislature, when it intended that a new rate of reimbursement apply to projects already approved under § 8, used clear language to that effect. E.g., St. 1961, c. 471, § 5, providing that the changes in the percentage of reimbursement in the 1961 act, “shall apply to projects approved by the school building assistance commission prior to the effective date of this act and which are under construction but unoccupied on said date, and to projects so approved but construction of which has not commenced prior to said date, and to all projects approved by the commission on or after said date.” See also, subsequent to St. 1971, c. 1010, St. 1976, c. 302, §§ 8 & 10.
+Judgment affirmed.
+Despite the abolition of the commission (school building assistance commission) and the transfer of its powers and duties to the board of education, see St. 1965, c. 572, § 42, the wording of § 5 of St. 1948, as amended, does not reflect that change.
