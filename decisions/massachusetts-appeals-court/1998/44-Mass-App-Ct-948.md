@@ -1,0 +1,26 @@
+---
+court: "Massachusetts Appeals Court"
+docket: "97-P-0322"
+decided: "1998-05-21"
+citations: ["44 Mass. App. Ct. 948"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Commonwealth vs. Jesus Mejias."]
+source_url: "https://static.case.law/mass-app-ct/44/cases/0948-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 772109
+cites_cases: ["36 Mass. App. Ct. 930", "38 Mass. App. Ct. 943", "407 Mass. 108", "41 Mass. App. Ct. 903", "414 Mass. 193", "421 Mass. 224"]
+---
+
+# Commonwealth v. Mejias
+
+## Majority
+
+Admitting to sufficient facts to warrant a conviction of possession of heroin with intent to distribute, the defendant was sentenced to two years in a house of correction, with ninety days to be served and the balance suspended to August 25, 1997. After ninety days, he was released on probation, one of the conditions of which was adherence to Federal, State, and local laws. The defendant was arrested on April 30, 1996, on a complaint of breaking and entering in the daytime with intent to commit a felony and possession of burglarious tools. On September 8, 1996, he was again arrested on charges of domestic assault and battery. Two days later, he was arrested a third time and charged with possession of cocaine. Based on these charges, the defendant’s probation officer surrendered him for violating the condition of his probation, and the judge, following a hearing on December 5, 1996, revoked his probation.
+The defendant appeals, claiming that the evidence was insufficient to revoke or, alternatively, that he was denied his right to confront the witnesses against him due to the form in which their evidence was received — namely, a reading by the probation officer of the police reports prepared in connection with each of the three arrests. The reports, he claims, were not sufficiently reliable to justify depriving him of the right to confront his accusers. See Commonwealth v. Maggio, 414 Mass. 193, 196-198 (1993), on which the defendant relies.
+Michael W. Seddon for the defendant.
+Margaret A. Peterson, Assistant District Attorney, for the Commonwealth.
+The first police report stated that Khmao Som, a resident in a Lowell housing project, heard a window being smashed and ran to the rear room of her unit, where one of the panes in a window had been broken. She saw (she claimed) the defendant reaching his hand through the broken pane. She ran out through the front and summoned help. When the police arrived, they found the defendant and another man together in the rear of the project, the defendant carrying a hammer and a knife, which the police took for burglarious tools. Khmao Som identified the defendant as the man who had reached through the broken window. The pane in the door was in a condition consistent with her story. The judge, obviously familiar with Commonwealth v. Durling, 407 Mass. 108, 120-122 (1990), and the Maggio decision, ruled that the police officers’ personal observations sufficiently corroborated Khmao Som’s story to warrant treating the police report as reliable hearsay. The second police report was based on the complaint of the defendant’s girlfriend, who arrived home, saw the defendant smoking crack cocaine, and told him she did not want him using drugs in her house. She told the police that he then pushed her against the wall and slapped her face. She ran away to phone the police. The third report, shortly following the second, was of the police observing the defendant entering a car, lighting up a pipe of crack cocaine, and smoking it with a friend. The third report the judge ruled reliable. He ruled the second report was generally unreliable because it was based on events not observed by the reporting officer, and he based the revocation on the first and third reports. He mentioned that the third report — possession and use of cocaine — was in one respect corroborated by the girlfriend’s report to the police of the defendant’s cocaine use the day before.
+The judge was right for the reasons he gave in his thoughtful memorandum of decision. Unlike Commonwealth v. Joubert, 38 Mass. App. Ct. 943, 944-945 (1995), the judge’s revocation here was not based on an alleged violation supported only by unreliable hearsay. Crediting the girlfriend’s statement that she saw the defendant using crack cocaine, even if it were error, would be harmless in view of the police officers’ own observations the next day. The defendant’s argument that the police reports should not have been used without a showing that witnesses were unavailable, for which he relies on Commonwealth v. Delaney, 36 Mass. App. Ct. 930, 932 (1994), is unavailing for the reason stated in Commonwealth v. Calvo, 41 Mass. App. Ct. 903, 904 (1996). Compare Commonwealth v. Durling, 407 Mass. at 117 n.5, and Commonwealth v. Maggio, 414 Mass. at 199 n.3. Finally, the fact that the charges against the defendant for breaking and entering (the first report) were later dismissed for failure to prosecute is immaterial to the validity of the revocation, as would be an acquitted. See Commonwealth v. Holmgren, 421 Mass. 224, 225-227 (1995).
+Order revoking probation affirmed.
