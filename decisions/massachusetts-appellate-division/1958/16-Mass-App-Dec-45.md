@@ -1,0 +1,36 @@
+---
+court: "Massachusetts Appellate Division"
+docket: "96238"
+decided: "1958"
+citations: ["16 Mass. App. Dec. 45"]
+reporter: "mass-app-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["JAMES COLLIER v. CAHILL MOTOR COMPANY AND NORMAN C. AYERS"]
+source_url: "https://static.case.law/mass-app-dec/16/cases/0045-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4033980
+cites_cases: ["196 Mass. 554", "210 Mass. 8", "230 Mass. 370", "238 Mass. 453", "247 Mass. 178", "247 Mass. 316", "252 Mass. 47", "268 Mass. 59", "278 Mass. 339", "278 Mass. 5", "285 Mass. 192", "289 Mass. 595", "292 Mass. 277", "297 Mass. 536", "298 Mass. 146", "301 Mass. 301", "307 Mass. 86", "312 Mass. 97", "314 Mass. 167", "315 Mass. 102", "317 Mass. 222", "317 Mass. 288", "327 Mass. 159", "329 Mass. 305", "329 Mass. 530", "329 Mass. 578", "335 Mass. 234"]
+---
+
+# Collier v. Cahill Motor Co.
+
+## Majority (Sgarzi, J.)
+
+Sgarzi, J.
+This is an action of tort to recover for personal injuries and damage to a motor vehicle allegedly caused by the negligence of the defendants. The answer is general denial and contributory negligence. The judge found for the plaintiff and the defendants claim to be aggrieved because of the denial of their request for a ruling of law that" the evidence did not warrant a finding for the plaintiff.
+There was evidence that the plaintiff was operating his motor vehicle in a northerly direction on Walpole Street in the Town of Norwood on February 20, 1955 at about 8:45 P.M. He had stopped at a traffic light and had proceeded about fifty yards at about fifteen miles per hour, when he was in .collision with a car owned by the defendant Cahill Motor Company and operated by its agent or servant, the defendant Norman C. Ayers, in the course of his employment.
+The defendant Ayers entered the highway from the plaintiff’s right where he had been parked at a funeral home. His headlights were not on and the plaintiff did not see him until the moment of collision. The right front fender of the plaintiff’s car was in collision with the left rear fender of the defendant’s car. After the collision the defendant’s car was at an angle on Walpole Street with its right rear corner off the cement pavement and on the shoulder.
+The defendants’ request for ruling of law could have been granted only if on the view of the evidence most favorable to the plaintiff a finding for the defendant was required. Sutherland v. McGee, 329 Mass. 530; Neil v. Holyoke St. Ry., 329 Mass. 578. The defendants argue that a finding for them was required because there was no evidence of negligence on the part of the defendant operator causally related to the accident, and that the evidence required a finding of contributory negligence on the part of the plaintiff.
+Whether the defendant Ayers was negligent and the plaintiff contributorily negligent were questions of fact to be decided by the court upon consideration of all the evidence and the reasonable inferences to be drawn from the facts found. Stickel v. Cassasa, 268 Mass. 59; Rizzo v. Ahearn, 278 Mass. 5; Kelsall v. NY, NH & HRR, 196 Mass. 554.
+It is true of .course that negligence cannot be inferred merely by the happening of an accident. Whalen v. Mutrie, 247 Mass. 316; Luvera v. DeCaro, 317 Mass. 222. However, slight evidence of the circumstances may place the fault. Hendler v. Coffey, 278 Mass. 339; Jennings v. Bragdon, 289 Mass. 595; Washburn v. Owens, 252 Mass. 47. There was sufficient evidence from which the court could find that the conduct of the defendant Ayers in entering upon the highway in the circumstances which prevailed did not measure favorably to the standard of conduct of a reasonably prudent person and was enough to support a finding of negligence. Stickel v. Cassasa, 268 Mass. 59.
+With regard to the question of contributory negligence the plaintiff had the benefit of the statute which clothed him with the presumption of due care. G. L. c. 231, §85; Duggan v. Bay State St. Ry., 230 Mass. 370.
+While this presumption is not evidence, it is enough to support a finding of due care in the absence of facts which are undisputed or indisputable or evidence by which the plaintiff is bound. Neil v. Holyoke St. Ry., 329 Mass. 578; Brown v. Henderson, 285 Mass. 192; Duff v. Webster, 315 Mass. 102.
+The burden of proving contributory negligence on the part of the plaintiff is on the defendant and it is very seldom that it can be said that this burden has been sustained as a matter of law. Salvato v. DiSilva Trans. Co., 329 Mass. 305; Perry v. Hanover, 314 Mass. 167; Zawacki v. Finn, 307 Mass. 86.
+The defendants argue that the plaintiff is bound by his admission that he did not see the defendants’ vehicle before the collision. While this may be true it does not necessarily follow that he was negligent. The judge was warranted in finding that in all the circumstances a reasonably prudent person in the position of the plaintiff could not have seen the defendant’s car in time to avoid a collision. Stickel v. Cassasa, 268 Mass. 59; Bresnahan v. Proman, 312 Mass. 97.
+LAWRENCE F. O’DONNELL, for the Plaintiff stated in his brief:
+In a case heard by a judge without a jury, the judge acts in a dual capacity. As in a jury case, he lays down correct and applicable rules of law, but in cases without a jury, he performs the additional function of finding facts. John Hetherington & Sons, Ltd. v. William Firth Co., 210 Mass. 8, 18. In non-jury cases he is under no duty to state any rules of law on his own motion; his duty being merely to pass on pertinent requests for rulings and to decide the case. Fisher v. Drew, 247 Mass. 178, 181.
+ROBERT P. COOK, for the Defendant stated in his brief:
+The mere happening of any accident is not evidence of negligence; the attending circumstances must supply it by more than conjecture: Luvera v. DeCaro, 317 Mass. 222, (evidence that defendant struck plaintiff on a scooter on the left side, held insufficient) ; Rogers v. Dalton, 298 Mass. 146; Jabbour v. Central Constr. Co., 238 Mass. 453, (defendant’s truck passed near plaintiff who was last seen on a sidewalk; this might warrant an inference that truck struck him, but not of negligence. Afterwards plaintiff was lying on the sidewalk) ; Whalen v. Mutrie, 247 Mass. 316, (witness had seen defendant’s truck going “fast,” and saw plaintiff under right front wheel; too conjectural) ; and Walker v. Bullard, 317 Mass. 288, (defendant backed car over 2 year old plaintiff, after having seen him some distance away; too conjectural).
+There was no prejudicial error in the denial of the defendants’ request for ruling of law and the report is ordered dismissed.
+If the evidence is considered sufficient to establish negligence on defendant’s part and causally related it to the accident, then certainly it equally shows contributory negligence on the part of the plaintiff. O’Neil v. W. T. Grant Co., 335 Mass. 234; Joyce v. NY, NH & H. RR, 301 Mass. 301, (plaintiff, walking on tracks failed to see car backing toward him) ; Campbell v. Burger, 327 Mass. 159; Ouillette v. Sheerin, 297 Mass. 536, (plaintiff did not see defendant’s unlighted, parked vehicle until it was 3 or 10 feet away) ; and Levine v. Bishop, 292 Mass. 277.
