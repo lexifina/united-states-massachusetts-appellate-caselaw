@@ -1,0 +1,30 @@
+---
+court: "Massachusetts Appellate Division"
+decided: "1992-10-23"
+citations: ["1992 Mass. App. Div. 204"]
+reporter: "mass-app-div-annual"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Present: Sherman, P.J., Banks & Furnari, JJ."]
+parties: ["Carmen J. Ciampa vs. Donald January, and another"]
+source_url: "https://static.case.law/mass-app-div-annual/1992/cases/0204-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6814795
+cites_cases: ["280 Mass. 180", "365 Mass. 83"]
+---
+
+# Ciampa v. January
+
+## Majority (Banks, J.)
+
+Banks, J.
+This is an action in tort to recover for personal injuries allegedly caused by the defendants’ assault and battery upon the plaintiff.
+The case is before this D ivision on the plaintiff s appeal of the trial court’s allowance of the defendants’ motion to dismiss and/or for summary judgment pursuant to Dist./ Mun. Cts. R. Civ. P., Rules 12(b) (6) and 56. The defendants’ motion alleged that the plaintiffs complaint failed to state a claim upon which relief could be granted because such complaint was filed after the expiration of the applicable Statute of Limitations. The sole issue presented by the plaintiff s appeal is the very fundamental and practical question of calculating the final day of a statutory limitations period.
+The plaintiffs tort claim is governed by G.L.c. 260, §4 which requires, in pertinent part, that “actions for assault and battery... shall be commenced only within three years next after the cause of action accrues [emphasis supplied].” With respect to an accrual date, see generally, Hendrickson v. Sears, 365 Mass. 83, 89-90 (1974), the plaintiff s complaint alleges that the defendants committed assault and battery upon him on December 31, 1988. There was, however, evidence (including written averments of the plaintiff) that the incident from which the plaintiffs claim arose occurred on December 30, 1988. In his written opposition to the defendants’ motion, the plaintiff did not dispute the defendants’ assertion that the alleged incident occurred on December 30, 1988. The plaintiff has in fact conceded in his brief to this Division that his cause of action, if any, accrued on December 30, 1988.
+With respect to the commencement of this action, the trial court docket indicates that the plaintiff s complaint was filed on January 2, 1992. However, the judge’s report to this Division states, and both parties appear to have agreed, that the plaintiffs complaint was filed two days earlier on December 31, 1991. As the outcome of this appeal would necessarily be the same regardless of which of these two filing dates was used, we utilize the earlier date of December 31, 1991 for purposes of this discussion.
+The specific question posited by the plaintiffs appeal is thus simply whether a complaint filed on December 31, 1991 was a timely commencement “within three years” next of a cause of action which accrued on December 30, 1988.
+The plaintiff correctly notes that, with respect to the commencement of any time period, Dist./Mun. Cts. R. Civ. P., Rule 6(a) provides: See also, Pierce v. Tiernan, 280 Mass. 180, 182 (1932) and cases cited. Applied to the instant case, Rule 6 (a) obviously designates the first day of the governing limitations period as December 31, 1988, the day after the incident in question. Further, the effect of the Rule, where a prescribed time such as a statutory limitations period is set forth on an annual basis, is that the last day of each year to be counted falls on the anniversary date of the incident or event in question.
+In computing any period of time prescribed by an applicable statute or rule, the day of the act, [or] event... afterwhich the designated period of time begins to run shall not be included.
+The simplest example of the operation of the Rule would have been provided if the plaintiffs cause of action had accrued on New Years Eve, December 31, 1988, as originally alleged in his complaint, because the applicable limitations period would then have coincided with actual calendar years. New Years Day, January 1, 1989, would have marked the commencement of the time period, and New Years Eve, December 31, 1989 (the anniversary of the alleged date of the event) would have constituted the end of the first calendar year. January 1, 1990would have commenced a second year and January 1, 1991, a third year, with that third year ending on New Years Eve, December 31, 1991. Given the plaintiffs admission that his cause of action actually arose one day earlier on December 30, 1988, the result is that the final date for filing is moved back one day earlier to December 30, 1991. Thus the plaintiffs filing of a complaint on December 31, 1991 was an untimely commencement of an action on the first day of the fourth year after the cause of action accrued, rather than commencement of the action “within three years” of the event as mandated by G.L.c. 260, §4.
+In an attempt to validate his December 31, 1988 filing, the plaintiff argues in his brief that “if the first day of the occurrence is excluded, the plaintiff could commence his action on December 31, 1991, which is exactly 3 years after the alleged incident if December 30, 1988 is excluded.” The short answer to such contention is that Rule 6(a) does nothing to change the date on which a cause of action accrues; the Rule merely insures that the relevant time period begins on the next day after the event, and that for annual time periods, the last day is the anniversary date of the event. See Pierce v. Tiernan, supra at 182 (October 8, 1929 was the last day upon which actions could be commenced for injuries sustained on October 8, 1928 under a one year statute of limitations).
+As the plaintiff failed to file his complaint “within three years” of the time his alleged cause of action accrued, his complaint is barred by the Statute of Limitations. The trial courf s allowance of the defendants’ motion to dismiss and for summary judgment is affirmed.
