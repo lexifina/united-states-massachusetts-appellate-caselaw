@@ -1,0 +1,43 @@
+---
+court: "Massachusetts Appellate Division"
+decided: "1943-11-20"
+citations: ["8 Mass. App. Div. 353"]
+reporter: "mass-app-div"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Present: Estes, P. J., Briggs & Nash, JJ."]
+parties: ["JOSEPH URDANG vs. JOHN PRITCHARD"]
+source_url: "https://static.case.law/mass-app-div/8/cases/0353-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3885004
+cites_cases: ["146 Mass. 596", "202 Mass. 443", "209 Mass. 155", "210 Mass. 8", "244 Mass. 248", "262 Mass. 475", "273 Mass. 356", "282 Mass. 49", "284 Mass., 570", "292 Mass. 293", "293 Mass. 1", "305 Mass. 276", "305 Mass. 51", "307 Mass. 64", "308 Mass. 472", "310 Mass. 269", "310 Mass. 351"]
+---
+
+# Urdang v. Pritchard
+
+## Majority (Nash, J.)
+
+Nash, J.
+This is an action of tort brought by the plaintiff to recover for damage to his automobile resulting from a collision with an automobile owned and driven by the defendant. The answer was (1) general denial, (2) contributory negligence and (3) operator, a person for whose conduct the defendant was not responsible. There was evidence and the Court found that the plaintiff was the owner of the automobile and that on the evening of March 21,1942 he granted his son the right to use the motor vehicle on the latter’s own affairs and that early on the following morning while so operating on a highway in Boston the son collided with the defendant’s automobile. The Court found the accident was caused by the concurrent negligence of both operators. The defendant produced evidence from the Registry of Motor Vehicles and the Court found that the application for registration of the plaintiff’s automobile was signed by the wife of the plaintiff who in answer to a question on the application, to wit: “Is this vehicle owned by you individually” answered “Yes.” The Court found that this statement was false, that her husband, the plaintiff, was the owner, and that the automobile was illegally registered, and found for the defendant. There was no claim that the conduct of either operator was wilful, wanton or reckless.
+The plaintiff’s requests for rulings were allowed or found to be requests for findings of fact and are not in issue but he claims to be aggrieved because the Court allowed five of the defendant’s six requests for rulings, particularly because those numbered (2) and (4) were allowed. They are as follows:
+(2) There is not sufficient evidence to warrant a finding for the plaintiff in any view of the evidence taken most favorable to the plaintiff.
+(4) As a matter of law, the plaintiff is guilty of contributory negligence.
+This automobile admittedly was registered in the name of the plaintiff’s wife. General Laws, Ter. Ed. Ch. 90, § 3 requires an automobile to be registered in the name of the owner in order to be properly registered. Hanley v. American Railway Express Co., 244 Mass. 248.
+“Ownership is a vital fact required to be stated in the application General Laws, (Ter. Ed.) Ch. 90, § 1, as amended S. 2, as amended. ’’ Furtado v. Humphrey, 284 Mass., 570, 573. Burns v. Winchell, 305 Mass. 276, 280.
+The plaintiff and his son both testified that the plaintiff was the owner and that he had given the son permission to use the ear on this occasion and unless there is other evidence more favorable to the plaintiff he is bound by his own testimony. Murphy v. Smith, 307 Mass. 64, 66.
+The Court found on this testimony that the car was illegally registered. In fact it could make no other finding. General Laws, (Ter. Ed.) Ch. 90, § 9 provides:
+“No person shall operate” . . . such a vehicle upon a way — and “the owner ... of such a vehicle shall not'permit” its operation there — or “permit” it “to remain upon a way.”
+Section 20 of the same statute provides a criminal penalty for its violation, and violation of any such statute is evidence of negligence on the part of the violator “as to all consequences that the statute was intended to prevent.” Baggs v. Hirschfield, 293 Mass. 1, 3. Malloy v. Newman, 310 Mass. 269, 274.
+The defendant relies upon the defense of contributory negligence and opens the question of the effect of the plaintiff’s failure to have complied with the statute requiring registration in the name of the owner as evidence of negligence. It has been held in a long series of cases beginning with Dudley v. Northampton Street Railway, 202 Mass. 443, that an owner of an improperly registered automobile cannot recover for damage or injury unless there is proof of wilful, wanton or reckless conduct on the part of the defendant. It is the public policy of the Commonwealth to exclude such motor vehicles from its highways. Fouquette v. Millette, 310 Mass. 351, 354. Rummel v. Peters, 1943 A. S. 1437, 1439 & cases cited.
+Such an automobile could neither be operated or permitted upon a highway of the Commonwealth. Malloy v. Newman, 310 Mass. 269, 272.
+An unregistered automobile on a highway of the Commonwealth is an outlaw and as to persons carefully using the highway has no other right than to be exempt from reckless, wanton or wilful injury. The plaintiff was a trespasser and the defendant owed him no further duty than to refrain from injuring him thru wanton or reckless conduct on his part. Dudley v. Northampton, 202 Mass. 443.
+As was said in the case of Potter v. Gilmore, 282 Mass. 49, at 56
+“But the plaintiff’s presence on the highway is an essential element of his case and, under our decisions in actions for negligence, the illegality of his operation of an unregistered motor vehicle on the highway, if proved, so permeated his presence on the highway that it cannot be separated therefrom, his presence thereon is regarded as contributing directly to the injury, and the plaintiff cannot maintain an action for negligence. See Cook v. Crowell, 273 Mass. 356.”
+Such illegal operation is evidence of contributory negligence, Van Dresser v. Firlings, 305 Mass. 51, 56, and if such contributory negligence has a causal connection with the damage or injury complained of it would preclude recovery by the plaintiff. MacDonald v. Boston Elevated Railway, 262 Mass. 475, 477.
+It appears on the record that the Court did not consider it as evidence sufficient to establish the negligence of the plaintiff. The report does not find as a fact any negligence upon the part of the plaintiff. It makes a general finding for the defendant. It appears from the record that such conclusion was determined because of the illegal registration of the plaintiff’s automobile.
+“The proof of the violation, where not specifically pleaded would not be conclusive as matter of law against the right of the plaintiff to recover, nevertheless under the defense of contributory negligence it would be evidence of negligence for the consideration of the jury,” Conningford v. Cote, 308 Mass. 472, 474, and the Court could find as a fact that the plaintiff’s conduct was consistent with reasonable care and therefore not negligent. Newcomb v. Boston Protective Department, 146 Mass. 596, 600. Bourne v. Whitman, 209 Mass. 155, 163, 164. Baggs v. Hirschfield, 293 Mass. 1, 4.
+The Court was in error in allowing this ruling for it was equivalent to finding that there was no evidence that would justify a finding for the plaintiff. There are no findings of fact made by the trial judge that under the defense of contributory negligence would necessarily on any view of the evidence most favorable to him have precluded the plaintiff from recovering. John Hetherington & Sons, Ltd. v. William Firth Co., 210 Mass. 8, 18, 19. Bresnick v. Heath, 292 Mass. 293, 298.
+The Court was likewise in error in allowing request for ruling #4. In allowing this ruling the Court has taken the position that in finding the plaintiff’s automobile illegally registered he is barred from recovery as a matter of law in a case where the defense relied upon is one of contributory negligence; in other words that proof of illegal registration as a matter of law is contributory negligence per se.
+The cases cited do not decide that illegal registration if proved under a pleading of contributory negligence is negligence per se but that it is evidence of contributory negligence and the finder of fact may determine whether it is consistent with reasonable care, and therefore not negligent. Newcomb v. Boston Protective Department, 146 Mass. 596, 600.
+A finding for the defendant without having found contributory negligence on the part of the plaintiff is unwarranted.
+• There is prejudicial error in allowing both requests and the finding for the defendant is to be vacated and the case is to stand for a new trial.
