@@ -1,0 +1,35 @@
+---
+court: "Massachusetts Appeals Court"
+docket: "90-P-355"
+decided: "1991-11-06"
+citations: ["31 Mass. App. Ct. 510"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["R.C. Management Corp. vs. Planning Board of Southbridge."]
+source_url: "https://static.case.law/mass-app-ct/31/cases/0510-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4004553
+cites_cases: ["24 Mass. App. Ct. 572", "308 Mass. 20", "380 Mass. 18", "397 Mass. 555", "406 Mass. 248", "7 Mass. App. Ct. 72"]
+---
+
+# R.C. Management Corp. v. Planning Board of Southbridge
+
+## Majority (Dreben, J.)
+
+Dreben, J.
+Unlike the usual case in which a developer seeks exemption from the subdivision control law, the plaintiff-developer in this action is challenging a decision of the planning board of Southbridge (board) denying approval of a plan on the ground, among others, that the plaintiff’s plan is not a subdivision as defined in G. L. c. 41, § 81L. A judge of the Superior Court allowed the board’s motion for summary judgment based on this contention.
+The reason for this dispute is that G. L. c. 40A, § 6, 5th par., gives a developer a longer zoning freeze (protection against zoning changes) for a plan which requires planning board approval under the subdivision control law than for one that does not require approval. See G. L. c. 40A, § 6, 6th par.
+We turn to the plan submitted by the plaintiff which purports to be a definitive subdivision plan. See G. L. c. 41, § 8 IT, and G. L. c. 40A, § 6. It shows two lots with a proposed cul-de-sac called Cameo Place between them. If the width of Cameo Place is divided between the two lots, the frontage of each lot on Worcester Street, a public way, is in excess of eighty feet, the required frontage under the applicable provision of the zoning by-law.
+The plaintiff argues that its plan provides for the construction of a new public way — Cameo Place — and cites G. L. c. 41, § 81Y, as requiring it to submit the plan to the board for subdivision approval. That statute, however, only applies to ways within a subdivision and does not bear on the question whether the plaintiff’s proposal is a subdivision within the meaning of c. 41, § 81L. According to the statutory definition, if each lot in a tract of land has the frontage prescribed by the zoning by-law on a public way, the development is not a subdivision within the subdivision control law and is not a subject for board approval. See Corcoran v. Planning Bd. of Sudbury, 406 Mass. 248, 251-252 (1989).
+The board treats Cameo Place as a common driveway and argues that the driveway is “not relevant to determining whether [the plaintiff’s] plan shows a subdivision.” Fox v. Planning Bd. of Milton, 24 Mass. App. Ct. 572, 574 (1987). The difficulty with the board’s contention is that the plaintiff is not required to convey all or a portion of Cameo Place with either of the two lots. If the plan is recorded with the endorsement “approval not required,” the plaintiff may convey one lot having less than eighty feet frontage on Worcester Street without giving the grantee thereof any part of Cameo Place. If the plaintiff were to do so, the conveyance by the definition of G. L. c. 41, § 81L, see note 3, supra,' would create a subdivision.
+The case was decided in the trial court on a motion for summary judgment. The record supporting the motion is not sufficient to enable us to address the board’s other contentions. For example, it argues that under another provision in the Southbridge zoning by-law, § 602, Note (a), both lots have the required frontage even if one of the lots has less than eighty feet frontage on Worcester Street. Since the provision is not properly before us and was not before the motion judge, we do not consider on this record whether the lots meet the requirements of that provision. In any event, compliance with the frontage requirements would not be a ground for disapproval of the plan, but rather would require the board to endorse it “approval not required.”
+The board gave other reasons for its disapproval of the plan. We also cannot determine, in the absence of the planning board regulations, whether disapproval was appropriate on these other grounds. In any event, they were not reached by the motion judge.
+The plaintiff’s argument that the board is estopped to deny approval of the plaintiff’s plan on the ground that it is not a subdivision because the board initially treated the plan as a subdivision is without merit. The contention was not supported by any affidavit or other evidence indicating the basis for an estoppel or showing any material issue of fact relating thereto. Our conclusion is buttressed by the reluctance of courts “to apply principles of estoppel to public entities where to do so would negate requirements of law intended to protect the public interest.” O’Blenes v. Zoning Bd. of Appeals of Lynn, 397 Mass. 555, 558 (1986), and cases cited.
+The judgment is reversed, and the case is remanded to the Superior Court for a determination whether the lots as drawn have the required frontage by operation of § 602, Note (a), of the Southbridge zoning by-law. If so, the plan is to be remanded to the board for an endorsement “approval not required.” If the lots do not have the required frontage, the judge is to determine whether the board’s disapproval was justified by any of the other grounds cited by it in its decision. If not so justified, the plaintiff’s application is to be remanded to the board for reconsideration.
+-So ordered.
+The briefs state that the plaintiff sought to avoid the increased dimensional requirements for multi-family residential use introduced by a new zoning provision. Under the old provision, the plaintiff claims it could build 156 units, under the new one, only thirty-eight.
+The preliminary plan had shown three lots.
+The definition in G. L. c. 41, § 81L, as amended through St. 1965, c. 61, provides that a subdivision is “the division of a tract of land into two or more lots” except that “the division of a tract of land into two or more lots shall not be deemed to constitute a subdivision within the meaning of the subdivision control law if, at the time when it is made, every lot within the tract so divided has frontage on (a) a public way ... of at least such distance as is then required by zoning or other ordinance . . . .”
+A plan may not be received for recording without an endorsement of approval, constructive approval, or approval not required, G. L. c. 41, § 8IX, and a building permit may not be issued until one of these endorsements has been given, G. L. c. 41, § 81Y.
+Although the parties submitted portions of the zoning by-law to the panel, we cannot take judicial notice of such provisions. Lawrence v. Falzarano, 380 Mass. 18, 25 n.10 (1980). Perini Corp. v. Building Inspector of N. Andover, 7 Mass. App. Ct. 72, 78 n.9 (1979). See also Finlay v. Eastern Racing Assn., 308 Mass. 20, 27 (1941).
