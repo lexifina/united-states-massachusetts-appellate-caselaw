@@ -1,0 +1,24 @@
+---
+court: "Massachusetts Appellate Division"
+decided: "2004-09-21"
+citations: ["2004 Mass. App. Div. 153"]
+reporter: "mass-app-div-annual"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Present: LoConto, P.J., Brennan & Koenigs, JJ."]
+parties: ["Steven Scheibel, Chief Operating Officer, Westborough State Hospital vs. Harvey Cohen"]
+source_url: "https://static.case.law/mass-app-div-annual/2004/cases/0153-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 9031821
+cites_cases: ["369 Mass. 701", "374 Mass. 271", "388 Mass. 607", "391 Mass. 614", "403 Mass. 370", "431 Mass. 101"]
+---
+
+# Scheibel v. Cohen
+
+## Majority (LoConto, P.J.)
+
+LoConto, P.J.
+Aggrieved by the decision to commit him to the appellee hospital, the appellant, Harvey Cohen, commenced this appeal in accordance with G.L. chapter 123, §9(a). The appellant tests the sufficiency of the evidence as a matter of law to support the trial court’s finding that the failure to retain him at the appel-lee hospital would create a likelihood of serious harm, and that there existed no setting less restrictive. For the reasons stated below, we rule that the issue presented by this appeal is moot and dismiss the appeal.
+After several hospitalizations since November, 1993, the appellant was transferred to the Westborough State Hospital on March 2, 1994 and has since remained there as a patient. He generally resided in the Hennessey building, a locked inpatient ward. During the summer of 2002, Mr. Cohen was transferred to Liberty House, an unlocked facility. In October of 2002, he requested a transfer back to Hennessey. While Mr. Cohen was at this facility, the subject matter petition was filed.
+After hearings held on November 26, 2002, December 5, 2002 and December 17, 2002, the appellant was committed to the Westborough State Hospital on a Petition pursuant to G.L.c. 123, §§7 & 8, for a period of one year. The appellant was present for the hearing, but never testified. However, informally, he did express his desire to be discharged. The appellant did offer the testimony of a senior staff attorney at the Center for Public Representation and Legal Advocate at Westborough State Hospital. A staff psychiatrist testified for the appellee. The appellant filed this appeal on December 26, 2002 in accordance with G.L.c. 123, §9(a). In addition, on January 2, 2003, the appellant filed an Application for Discharge pursuant to G.L.c. 123, §9(b) in the Worcester Superior Court. After hearing held in the Superior Court on February 25, 2003, the application was denied in a decision issued on April 1, 2003. On December 12, 2003, within days of the expiration of the civil commitment, the appellant signed a conditional voluntary admission pursuant to G.L.c. 123, §§10 & 11. At the time of the filing of the appellee brief on January 13, 2004, the appellant was a patient at Westbor-ough State Hospital on this voluntary legal status. This court was never apprised of any change to that status.
+Litigation is considered moot when the party who claims to be aggrieved ceases to have a personal stake in the outcome. Acting Superintendent of Bournewood Hospital v. Baker, 431 Mass. 101 (2002). Nonetheless, we have discretion to decide an issue that is moot “where the question is of public importance, is very likely to arise again in similar circumstances, and where appellate review could not be obtained before the question would again be moot.” Attorney General v. Commissioner of Insurance, 403 Mass. 370, 380 (1988). “[Ijssues which involve the rights of the mentally ill are classic exam-pies of issues that are capable of repetition, yet evading review.’” Guardianship of Doe, 391 Mass. 614, 618 (1984), quoting Hashimi v. Kalil, 388 Mass. 607, 609 (1983). However, since the appellant is no longer subject to the commitment of December 17, 2002, and has agreed to remain at Westborough State Hospital pursuant to a voluntary admission, we decline to decide the issue presented in this appeal, namely, the sufficiency of the evidence to support his commitment. There is a twofold reason for this decision. First, the appellant is no longer subject to the order of the court and therefore does not have a “personal stake” in the outcome of the appeal. Blake v. Massachusetts Parole Board, 369 Mass. 701, 703 (1976). If the appellant prevails on the merits, his legal status will not change. Second, the evidence necessary to support a commitment pursuant to G.L.c. 123, §§7 & 8 is well established as a matter of law. Superintendent of Worcester State Hospital v. Hagberg, 374 Mass. 271 (1978). It is not necessary that we revisit the law on this occasion. Therefore, we order that the Clerk/Magistrate of the Westborough District Court enter an order dismissing the appeal.
