@@ -1,0 +1,36 @@
+---
+court: "Massachusetts Appellate Division"
+docket: "19,595"
+decided: "1961-06-22"
+citations: ["22 Mass. App. Dec. 49"]
+reporter: "mass-app-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ATLANTIC REFINING COMPANY v. ALBERT WEENER"]
+source_url: "https://static.case.law/mass-app-dec/22/cases/0049-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4037368
+cites_cases: ["214 Ala. 62", "217 Mass. 526", "224 Mass. 415", "24 Pa. Dist. 147", "24 Pa. Dist. 778", "245 Mass. 94", "256 Mass. 269", "257 Mass. 166", "266 Ala. 391", "274 Mass. 239", "285 Mass. 156", "294 Mass. 80", "302 Mass. 122", "4 Gray 128", "96 Mont. 177", "98 NJ Law 658"]
+---
+
+# Atlantic Refining Co. v. Weener
+
+## Majority (Callan, J.)
+
+Callan, J.
+The plaintiff seeks to recover for goods and merchandise sold and delivered to the defendant or his agents or servants in the operation of the defendant’s business on a charge account basis.
+From the evidence it appears that over a period of time charges of the defendant were accepted by the plaintiff on the basis of a charge account card presented by the defendant’s drivers at various gas stations where fuel was obtained. There was also issued to the defendant a plastic imprinted card which, when sales were to be made, would be stamped to the charge slip by a means of an imprinting machine supplied by the plaintiff to some of its gas stations in connection with the use of the credit card stencil. About sixty charges from November 1958 to June 1959 were made on a charge basis and were later billed to the defendant. Charge account slips were introduced into evidence for the period commencing July 1958 to June 5, 1959. Under date of November 27, 1957 and December 6, 1957 letters were sent by the defendant to the plaintiff requesting the plaintiff not to honor his credit card unless the driver “bears” that card. Some of the plaintiff’s gas stations where charges were made did not have an imprinting machine and many of the charge slips in question did not have the impression of the plastic imprinted card on them and the charge number and name of the person to whom charged were written by hand in ink or pencil.
+After the Court’s finding for the plaintiff, the defendant filed a motion for a new trial which was denied. The defendant’s requests for rulings which were denied are as follows :
+2. There being no credible evidence of the express, implied or apparent authority of the truck drivers to use the defendant’s credit, the plaintiff cannot recover the disputed amount in this action.
+3. The plaintiff is bound by its admission that it was expressly instructed not to extend credit to the defendant unless the credit card issued to him by the plaintiff was exhibited and impressed on the receipts issued to him by the plaintiff.
+4. The plaintiff has not sustained its burden of proof that the merchandise delivered by it was delivered to any agent of the defendant authorized to receive same on the credit of the defendant.
+After the finding, two more requests were filed by the defendant and upon which the Court did not act.
+The method of extending credit by the plaintiff to the defendant is a common one and is accomplished by the issuance of a credit card by the seller to one seeking credit, and when the person or his agent presents it at the seller’s place of business and receives merchandise, a charge is recorded on another slip containing a notation of the merchandise purchased, the name and number of the charge card is imprinted on the slip and the slip is signed by the person receiving the merchandise. The defendant contends he is not liable because in two letters to the plaintiff he requested that no charges be extended to his drivers unless they bore the credit card, and some of the sales slips do not contain the impression of the plastic card. The defendant concedes indebtedness by him on sales represented by twelve of the credit cards in question. The judge found that all except one of the sales slips were signed by the defendant or his agents or employees who received the merchandise to be used in the defendant’s vehicles and that the sales were made in good faith. There was no evidence that the drivers did not have the credit card with them when these sales were made.
+Generally, a contract of sale may be enforced only against one who is a party thereto, but where the; party, in fact, is the real buyer, he may be held liable as such, although the goods are purchased by another and delivered to another, as where goods are purchased within the latter’s scope of authority. Evans v. Pistorino, 245 Mass. 94.
+Where goods are furnished by one person to another on request and credit of a third person, the latter and not the receiver of the goods, is the buyer and as such is liable to pay for them.
+There must be a mutual agreement express or implied that the relationship of debtor and creditor shall exist. Miller v. Mutual Grocery Co., 214 Ala. 62; Ison Finance Co. v. Glascow, 266 Ala. 391; Jackson v. Sheldon, 96 Mont. 177.
+Authority in an agent to bind the principal to pay for goods purchased may be more readily implied than authority to borrow money on his credit or to give negotiable paper in his name. Temple v. Pomroy, 4 Gray 128; Williams v. Dugan, 217 Mass. 526; England Brothers Co., Inc. v. Miller, 274 Mass. 239, 242.
+Whether the credit card issued to the defendant is no more than an identification card (Lit v. Haines, 98 NJ Law 658; Gulf Refining Co. v. Plotnick, 24 Pa. Dist. 147) or whether the credit card is similar to a check, bill of exchange or other negotiable instrument payable to bearer and is in effect an order to deliver goods to the person presenting it and to charge the same to the customer’s account (Wanamaker v. Megary, 24 Pa. Dist. 778), there was sufficient evidence for the judge to find that the defendant agreed to honor all charges if his agents or employees bore his credit card. We construe the word “bears” in its ordinary sense as meaning “having possession of”. There appears to be no evidence that the defendant’s agents or employees did not have the credit card in their possession when purchases were made. The mere fact that the credit .card was not imprinted on the sales slips is not enough. The court found' all of the charge slips were signed by the defendant or his agents or employees ; that the merchandise in question was received; and that no bad faith existed on the sales involved. The judge was warranted in concluding that the defendant’s employees had the credit card in their possession for presentation on all sales for which the defendant is liable.
+The action on the defendant’s motion for a new trial was discretionary with the judge. Herrick v. Waitt, 224 Mass. 415; McKin v. Siegel, 256 Mass. 269; Mantho v. Nelson, 285 Mass. 156, 158.
+The requests for rulings filed after the judge’s finding were not filed in accordance with the rules. See District Court Rule No. 27. No action being taken on them amounted to a denial. Sullivan v. Roche, 257 Mass. 166; Kravitz v. Lipofsky, 294 Mass. 80, 84; Bankoff v. Coleman Bros., Inc., 302 Mass. 122.
+No error exists and the report is ordered dismissed.
