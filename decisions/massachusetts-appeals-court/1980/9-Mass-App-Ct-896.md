@@ -1,0 +1,24 @@
+---
+court: "Massachusetts Appeals Court"
+decided: "1980-04-11"
+citations: ["9 Mass. App. Ct. 896"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["John J. Barchenski & another vs. Nelson E. Pion & another."]
+source_url: "https://static.case.law/mass-app-ct/9/cases/0896-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3961586
+cites_cases: ["207 Mass. 67", "273 Mass. 1", "292 Mass. 518", "315 Mass. 129", "326 Mass. 127", "352 Mass. 337", "8 Mass. App. Ct. 815"]
+---
+
+# Barchenski v. Pion
+
+## Majority
+
+The plaintiffs, along with specific equitable relief, sought a declaration (G. L. c. 231A, §§ 1, 2) in a Probate Court defining the scope of the defendants’ easement to use the plaintiffs’ vacant lakefront lot. The deeds conveying the interior lot to the defendants and their predecessors in title expressed the easement as “the right to use the beach or shore lot [known as Harriet E. Ames’ private beach] for beach purposes . . . .” In addition to the conveyances in the defendants’ chain of title, Harriet E. Ames also conveyed three other lots to different grantees with various rights to use “the beach.” She also conveyed the shore lot in question to the plaintiffs “subject to any rights heretofore granted by [me] to others for beach or boating purposes.” The judge entered a declaration that the defendants, members of their family, and their social guests have the right under the easement to use the “beach lot” for swimming, sunbathing, boating, picnicking, and playing beach games; that these rights extend to the use of the entire lot, are not limited to the grassy area adjacent to the beach, and include access across the lot to reach the shore; and that the rights are to be exercised in a manner consistent with the plaintiffs’ rights and the rights of others holding similar easements. The plaintiffs have appealed, contending that the declaration is inconsistent with the purposes expressed in the grant, that it overburdens the easement, and that it imposes an unintended servitude on their lot. The judge made findings of fact. Along with those findings the record contains certain exhibits, principally the various deeds granting rights in the easement. No other evidence is reported. We will accept the facts found by the judge as binding on us unless they are mutually inconsistent or clearly erroneous. We conclude that the facts found by the judge, in light of the controlling principles of law, support the declaration made.
+In determining the use that the defendants could make of the shore-front lot, the judge correctly looked to “the language of the grant construed in the light of the attending circumstances which have a legitimate tendency to show the intention of the parties as to the extent and character of the contemplated use . . . .” Doody v. Spurr, 315 Mass. 129,133 (1943), and cases cited. Restatement of Property § 483, and Comment c (1944). On the facts found, he properly concluded that the defendants and their predecessors in title were granted an easement in the shore lot for “general beach purposes” (Labounty v. Vickers, 352 Mass. 337, 345 [1967]; contrast Makepeace Bros., v. Barnstable, 292 Mass. 518, 525 [1935]), and that “[a]n easement granted in general terms is not necessarily limited to the uses made of the dominant estate at the time of the creation of the easement and it is available for all reasonable uses to which the dominant estate may thereafter be devoted.” Doody v. Spurr, 315 Mass, at 133, and cases cited. Rajewski v. MacBean, 273 Mass. 1, 6 (1930). In dealing with the grant of an easement that is general in nature, a standard of reasonableness is applied to determine the extent of uses permitted for either the easement holder or the owner of the servient estate. Western Mass. Elec. Co. v. Sambo’s of Mass., Inc., 8 Mass. App. Ct. 815, 825 (1979), and cases cited. Restatement of Property § 486 (1944). See 2 American Law of Property § 8.66 (Casner ed. 1952). On the facts found, we cannot say that the uses defined by the judge were unreasonable. See Anderson v. DeVries, 326 Mass. 127, 134 (1950). In setting certain limitations on the defendants’ use of the easement (excluding power boats, for example) it is evident that the judge focused on balancing the benefits, conveniences and burdens of the respective parties. Blais v. Clare, 207 Mass. 67, 69-70 (1910). Stucchi v. Colonna, ante 851 (1980). We cannot accept the technical definition of “beach purposes” sought to be ascribed by the plaintiffs to that phrase in the easement, and it follows from what has already been said that the easement has not been overburdened, and no improper servitude has been imposed on the plaintiffs’ land.
+The case was submitted on briefs.
+Rebekah J. Crampton for the plaintiffs.
+Joanne I. DeLong for the defendants.
+Judgment affirmed.
