@@ -1,0 +1,36 @@
+---
+court: "Massachusetts Appeals Court"
+docket: "91-P-954"
+decided: "1992-05-28"
+citations: ["32 Mass. App. Ct. 964"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Commonwealth vs. Joan E. Ruggerio."]
+source_url: "https://static.case.law/mass-app-ct/32/cases/0964-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4009027
+cites_cases: ["27 Mass. App. Ct. 506", "361 Mass. 302", "384 U.S. 436", "399 Mass. 385", "402 Mass. 209"]
+---
+
+# Commonwealth v. Ruggerio
+
+## Majority
+
+The defendant was convicted by a jury of (1) distribution of cocaine and (2) possession of cocaine with intent to distribute. She assigns as error (1) the denial of her suppression motion, (2) the judge’s instructions to the jury regarding the use of inferences, (3) the judge’s refusal to instruct the jury on a lesser included offense, and (4) the denial of her claim that her convictions were duplicative.
+As background for our analysis of the issues, we summarize the evidence introduced by the Commonwealth at the trial. On October 22, 1988, about 4:00 p.m., Detective John Greene of the Boston police drug control unit was conducting a surveillance of a delicatessen on Massachusetts Avenue in Boston. To assist him, he summoned Detectives Terrance Avery and Michael Primm, also of the drug control unit.
+About 5:30 p.m., the detectives observed the defendant leave the delicatessen, get into a blue Plymouth automobile, and drive south on Massachusetts Avenue. The detectives followed in two unmarked vehicles. When the defendant’s automobile stopped, Avery and Primm also stopped about forty-five yards away. Greene parked his automobile on an adjacent street. Using binoculars, Primm observed the defendant. He saw her leave her automobile, walk over to a white station wagon, and hand the driver a plastic bag containing a white substance. A moment later, the driver handed the defendant what appeared to be money. The defendant then returned to her automobile, and both automobiles drove away. Primm radioed Green and reported what he had seen; then he and Avery followed the white station wagon and stopped it. The occupants were arrested. Three bags were found in the automobile; two contained cocaine.
+After Greene received the radio report from Primm, he followed the defendant’s automobile for a short distance and then ordered it to stop. He asked the defendant for her license and registration, and she replied that her license was in her handbag at the delicatessen. Greene asked the defendant if she had any money or drugs on her. She produced $418 from a pocket in her jacket. The defendant was then arrested.
+Greene went back to the delicatessen for the defendant’s handbag. While looking in the handbag, Greene found three paper packets containing cocaine.
+1. Denial of suppression motion. The defendant claims that her suppression motion should have been allowed because the police violated her rights set forth in Miranda v. Arizona, 384 U.S. 436 (1966). In particular, the defendant argues that when Greene ordered her to stop, she was arrested and he should have advised her of her Miranda rights before he asked her if she had any money or drugs on her.
+The question of a possible violation of the Miranda rule was not raised in the defendant’s suppression motion. Indeed, the record shows that the suppression hearing focused on the only ground stated by the defendant in her motion — that she was a victim of an illegal search and seizure. A brief comment by defense counsel in his argument to the motion judge in support of the suppression motion did not adequately raise the issue. The comment was so fleeting that the judge made no mention in his memorandum of decision of any possible Miranda violation. Further, the matter was not raised at trial. See Commonwealth v. Rubio, 27 Mass. App. Ct. 506, 511 (1989). “We are not obliged to address this issue because it was not raised during the suppression hearing or at trial and it requires resolution of factual questions which are not open to us. The defendant is thereby precluded from raising it for the first time on appeal.” Commonwealth v. Barnes, 399 Mass. 385, 393-394 (1987). See Commonwealth v. Ramos, 402 Mass. 209, 211 (1988).
+Thomas Dreschler (Frances L. Robinson with him) for the defendant.
+Paul B. Linn, Assistant District Attorney, for the Commonwealth.
+2. The judge’s instructions as to the jury’s use of inferences. The defendant requested that the judge instruct the jury that “they cannot use or draw any inference unless that inference is found to be true by them beyond a reasonable doubt.” The judge did not so instruct and the defendant claims error. We disagree. In Commonwealth v. Azar, ante 290, 309 (1992), we stated that “[tjhere is no requirement that . . . each inference made must be proved beyond a reasonable doubt.” The judge’s charge on inferences was entirely proper.
+'3. The judge’s refusal to instruct the jury on the charge of possession of cocaine. The Commonwealth introduced in evidence the three paper folds containing cocaine that were found in the defendant’s purse which she had left at the delicatessen. As a result, the defendant requested that the judge instruct the jury on the lesser included offense of possession of cocaine.
+The charges on which the defendant was tried were based on the sale of cocaine that was observed by the police. The cocaine found in her purse was not part of the “identical mass” of cocaine that was the basis of the two indictments on which she was tried. See Kuklis v. Commonwealth, 361 Mass. 302, 307-308 (1972). In that regard, the defendant was not on trial for the possession of the cocaine found in her purse and the judge so instructed the jury. Therefore, on this record, the judge was not required to instruct the jury on the lesser included offense of possession of cocaine.
+4. The claim that the defendant’s two convictions are duplicative. The Commonwealth vigorously argued to the trial judge that the defendant’s convictions for distribution and possession with intent to distribute were not duplicative. The judge agreed and imposed concurrent sentences on both convictions.
+On appeal, the Commonwealth concedes, as it must, that the convictions were duplicative and that the conviction for possession of cocaine with intent to distribute must be vacated. It argues, however, that the fact that one conviction is vacated does not require that the defendant be resentenced, especially where the defendant received concurrent sentences. We disagree.
+From the judge’s comments at the sentencing hearing, the fact that the defendant was convicted on two indictments might have played a part in the length of the concurrent sentences that he imposed on the defendant. In these circumstances, therefore, we vacate the sentences and remand the matter to the Superior Court judge for resentencing on the distribution conviction. The conviction for possession of cocaine with intent to distribute is vacated, and the indictment is to be dismissed.
+So ordered.
+The driver of the other automobile was a witness for the Commonwealth. He testified that he paid the defendant $300 for a package of cocaine.
