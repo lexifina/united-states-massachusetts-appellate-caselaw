@@ -1,0 +1,27 @@
+---
+court: "Massachusetts Appeals Court"
+decided: "1984-02-28"
+citations: ["17 Mass. App. Ct. 1016"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Custody of a Minor."]
+source_url: "https://static.case.law/mass-app-ct/17/cases/1016-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3980924
+cites_cases: ["367 Mass. 631", "377 Mass. 876", "381 Mass. 563", "383 Mass. 595", "385 Mass. 482", "388 Mass. 398", "391 Mass. 113"]
+---
+
+# Custody of a Minor
+
+## Majority
+
+Many of the considerations which led to the result in Petition of Dept. of Social Servs. to Dispense with Consent to Adoption, 391 Mass. 113 (1984), pertain to this case. The inception of the case, however, is different in that it does not begin with a petition by the Department of Social Services, but rather with contesting petitions for adoption of a minor child. The first petition filed was that on behalf of the maternal grandparents of the minor; the second petition was filed on behalf of the biological father, a minor at the time of his petition. Both biological parents were fifteen years old at the time of the child’s birth and they were not married to each other. At the age of seventeen, the mother was killed in an automobile accident.
+The father brought his petition under G. L. c. 210, § 4A, and did, as that statute requires, file a parental responsibility claim with the Department of Social Services of the Commonwealth. By reason of the mother’s death, it is not possible to meet the literal preconditions for a petition under § 4A, viz., that the mother of the child born out of wedlock has surrendered the child in accordance with G. L. c. 210, § 2, or that the mother has lost her right to withhold consent for adoption under G. L. c. 210, § 3. In two cases, however, Petition of New Bedford Child and Family Serv. to Dispense with Consent to Adoption, 385 Mass. 482, 486 (1982), and Petition of the Dept. of Social Servs. to Dispense with Consent to Adoption, 391 Mass. at 118-119, the court has recognized the rights of a father of a child born out of wedlock. As in the case of a “lawful” father, it requires an affirmative showing of unfitness to sever the link with the biological parent.
+In this case the probate judge made no express finding concerning the unfitness of the biological father. At best we might infer such a determination from the judge’s subsidiary findings, but so indirect an approach would not be faithful to the requirement of the cases culminating so recently in Petition of Dept. of Social Servs. to Dispense with Consent to Adoption, supra. Moreover, on the basis of our review of the entire record, we harbor serious doubt that it can sustain such a finding of unfitness. Among the seeds of our doubt were the report and testimony of the guardian ad litem that the biological parent was not unfit, and was a satisfactory person to adopt the child.
+There was evidence that, throughout her life, the minor spent time at the home of her father, though the predominant time was at the home of her maternal grandparents. Granting that the closer bond would be with the home where the child spent the greater time (both homes were cheerful and loving), that tie was necessarily enhanced by the approximately two years which elapsed between the time the petitions for adoption were first filed and the time the probate judge ordered the entry of a decree.
+If it was error in Petition of Dept. of Social Servs. to Dispense with Consent to Adoption, 391 Mass. at 119, “to base the allowance of a petition to dispense with parental consent on a finding that the child would be hurt by being returned to the natural parent” and if, as was posited in that case, “the parent has the ability, capacity, fitness and readiness to assume parental responsibility,” then the legal and physical custody of the natural father in this case and on this record, as thus far developed, should not be irrevocably cut off. “For [that] extreme step to be taken, ... it must be shown by clear and convincing evidence that the parent’s unfitness to assume parental responsibility is such that it would be in the best interests of the child for all legal relations to be ended.” Id. at 119. See also Petition of New England Home for Little Wanderers to Dispense with Consent to Adoption, 367 Mass. 631, 639, 642 (1975); Custody of a Minor (No. 1), 377 Mass. 876, 882 (1979); Bezio v. Patenaude, 381 Mass. 563, 570 (1980); Custody of a Minor, 383 Mass. 595, 600-601 (1981); Freeman v. Chaplic, 388 Mass. 398, 406-409 (1983).
+Arthur M. Pearlman (Judith M. Freedman with him) for the father.
+Kenneth Michael John for the grandparents.
+Lacking the required conclusion of parental unfitness on the part of the father, the decree allowing adoption by the maternal grandparents is vacated. The case is remanded to the Probate Court for further proceedings, especially to determine (particularly in light of Petition of Dept. of Social Servs. to Dispense with Consent to Adoption, supra) the current fitness of the biological father to act as the parent of the child. In furtherance of that inquiry the Probate Court is to have discretion to reopen the record to receive evidence about the current situation of the father and to receive evidence from such clinicians and experts as may be at the disposal of the court or a party.
+So ordered.
