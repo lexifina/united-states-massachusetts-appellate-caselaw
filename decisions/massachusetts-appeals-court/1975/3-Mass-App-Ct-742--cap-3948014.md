@@ -1,0 +1,22 @@
+---
+court: "Massachusetts Appeals Court"
+decided: "1975-04-30"
+citations: ["3 Mass. App. Ct. 742"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Paul B. Bermingham vs. George M. Thomas & another."]
+source_url: "https://static.case.law/mass-app-ct/3/cases/0742-02.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3948014
+cites_cases: ["12 Cush. 281", "12 Pick. 89", "173 Mass. 117", "200 U. S. 298", "290 Mass. 18", "312 Mass. 325", "320 Mass. 555", "332 Mass. 675", "338 Mass. 10", "340 Mass. 382", "343 Mass. 686", "355 Mass. 58", "365 Mass. 280"]
+---
+
+# Bermingham v. Thomas
+
+## Majority
+
+This is a bill in equity for an accounting arising from the plaintiff’s sale of an optical dispensing business to the defendants. The case was referred to a master and comes here on the defendants’ appeals from an interlocutory decree overruling their objections to and confirming the master’s report and from a final decree establishing their indebtedness to the plaintiff. The denial of the defendants’ motion to require the master to append to his report a transcript of the evidence was proper for the reasons stated in Shaw v. United Cape Cod Cranberry Co. 332 Mass. 675, 679-680 (1955), and cases cited. The defendants’ contention that the master erred in finding that they had contracted with the plaintiff is based on evidence in the transcript which is not before us and furthermore this contention does not amount to an argument. It therefore brings nothing before this court for review. Lolos v. Berlin, 338 Mass. 10, 13-14 (1958). The defendants assert that testimony of a witness given at an earlier hearing was inadmissible. The defendants have failed to sustain their burden of showing that the admission of the testimony, even if erroneous, was prejudicial. Compare Ferris v. Turner, 320 Mass. 555, 558 (1947). The document embodying that testimony is not part of the record before us (see Dodge v. Inspector of Bldgs. of Newburyport, 340 Mass. 382, 386 [1960]), and the degree of reliance, if any, placed upon it by the master remains undisclosed. The defendants’ reliance upon the attorney-client privilege, to exclude an attorney’s testimony of a conversation between the attorney and his client, is misplaced. The privilege could have been asserted only by or in behalf of the client, the plaintiff’s father. Wigmore, Evidence, § 2321, p. 629 (McNaughton rev. 1961). See Foster v. Hall, 12 Pick. 89, 93 (1831); McCooe v. Dighton, Somerset & Swansea St. Ry. 173 Mass. 117, 118-119 (1899). We rule that the master’s report was properly confirmed and his subsidiary findings, not being mutually inconsistent or plainly wrong, are binding upon us. Marine Contractors Co. Inc. v. Hurley, 365 Mass. 280, 282 (1974). We disagree with the defendants’ contention that several months after their assumption of the plaintiff’s business, and after they had moved to a new location, they effectively terminated their agreement with the plaintiff pursuant to a clause in that agreement. In our view the defendants’ power of termination could have been exercised only within a reasonable time following the transfer of the business to them and only upon their bona fide offer to restore in full the status quo ante. See Ray v. Thompson, 12 Cush. 281 (1853). Compare Factory Realty Corp. v. Corbin-Holmes Shoe Co. 312 Mass. 325, 329-330 (1942), and cases cited; Powers, Inc. v. Wayside, Inc. of Falmouth, 343 Mass. 686, 690-694 (1962); Guss v. Nelson, 200 U. S. 298, 302-303 (1906). The defendants returned only the plaintiff’s few pieces of office furniture and equipment and continued to operate the business as their own under a new name. They paid nothing to the plaintiff. The plaintiff was, therefore, entitled to recover the contract price to the extent that its installments were due as of the date of the final decree. Rooney v. Weeks, 290 Mass. 18, 29 (1935). The decree is to be modified, however, to permit recovery by the plaintiff of the final installment, which became due during the pendency of this appeal, with interest. Ibid. Capp v. Chamberlain Real Estate, Inc. 355 Mass. 58, 61-62 (1968). The interlocutory decree confirming the master’s report and the final decree as so modified are affirmed.
+John F. O’Donoghue for the defendants.
+Irving J. Pinta for the plaintiff.
+So ordered.
