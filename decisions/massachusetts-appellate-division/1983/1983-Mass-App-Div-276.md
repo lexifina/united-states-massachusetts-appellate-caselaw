@@ -1,0 +1,57 @@
+---
+court: "Massachusetts Appellate Division"
+decided: "1983-09-08"
+citations: ["1983 Mass. App. Div. 276"]
+reporter: "mass-app-div-annual"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Present: Welsh, P.J., & Staff, J."]
+parties: ["Jay J. Paquin vs. Richard Arruda"]
+source_url: "https://static.case.law/mass-app-div-annual/1983/cases/0276-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6067867
+cites_cases: ["148 F. 2d 407", "164 N.E. 393", "324 U.S. 806", "333 Ill. 225", "364 Mass. 639", "372 Mass. 96", "374 Mass. 606", "376 Mass. 621", "379 Mass. 381", "381 Mass. 177", "8 Mass. App. Ct. 84"]
+---
+
+# Paquin v. Arruda
+
+## Majority (Staff, J.)
+
+Staff, J.
+This is an action brought under the provisions of G.L.c. 93A, the so-called Consumer Protection Act, in which the plaintiff seeks to recover damages as a result of the purchase by the plaintiff of a motor vehicle claimed to be defective from the defendant.
+The answer by defendant admits that the plaintiff purchased the automobile from the defendant, but states that the price was $500.00 rather than $1,300.00 which the plaintiff claimed he paid; denies any misrepresentation; alleges that the car was in roadworthy condition; and further avers by way of affirmative defense that plaintiff is not entitled to treble damages under G.L.c. 93A in that the defendant at all times was able and willing to return the purchase price of $500.00 upon the return of the vehicle.
+The trial court found for the plaintiff in the sum of $3,631.51, that amount apparently representing a double damages award plus attorney’s fees in the sum of $750.00 plus interest and costs, and further ordered that upon payment of the judgment that the car be returned to the defendant-seller. For a reason that we will come to, the case must be remanded to the trial court.
+The defendant, claiming to be aggrieved by (1) the denial of his motion for involuntary dismissal presented to the court at the close of plaintiff s case; (2) the court’s failure to rule on his requests for rulings; and,(3) the denial of his motion to modify the judgment, requested that the case be reported to the appellate division.
+The evidence would tend to show the following:
+The plaintiff, in response to a newspaper advertisment stating the year and make of the car reciting that the car was in excellent condition and a purchase price of $1,395 “firm”, purchased a 1974 Subaru motor vehicle from the defendant for the sum of $1,300.00.
+The defendant suggested that if he furnished a bill of sale reciting a sale price of $500 that the plaintiff would pay a lower sales tax. Acquiescing to this scheme the plaintiff accepted a bill of sale reciting the following and paid a lower sales tax:
+“Sold to Jay Paquin one 1974 Subaru D.L.
+Vehicle I.D. A22L909998 Odm. 73,800 4 cyl,
+5 pass. 2 dr. As is as shown for the sum of $500.00
+Paid in full
+R.A.
+Richard Arruda
+431 Florence Street
+Fall River, Mass.
+02721”
+A few days after purchasing the car, the plaintiff was looking under the hood and rested on the fender apron when it collapsed. Further examination showed that a structural member had rusted or rotted away and that the apron had been propped up by wooded brackets and then covered by an asphalt coating to conceal the repairs.
+Plaintiff made an oral demand followed by a written demand for the return of his $1,300.00. The written demand stated that the defendant had “failed to disclose gross defects in the automobile’s body integrity, artfully camouflaged with undercoating and blocks of wood; falsely and fraudulently advertised the automobile to be in ‘excellent condition’ and representing in a willful and fraudulent manner that the automobile was safe to be driven on the road despite the inherent danger and risk to plaintiff’s life.”
+The defendant orally offered to return $500,00 to the plaintiff, the amount shown on as the purchase price on the bill of sale, but did not tender any offer of settlement in writing.
+Estimates by experts to repair the automobile engine area to solidify the engine carriage ranged from $1,200 to $1,644.15. The car was registered, inspected and subsequently driven 8,000 miles without being repaired.
+At the close of plaintiff’s case, the defendant moved for an Order of Involuntary Dismissal pursuant to M.R.C.P. 41 (b)(2) alleging that the bill of sale and registration, both introduced into evidence, were evidence of the purchase price; that the plaintiff had had full use of the automobile and had not lost the consideration paid for the automobile; that it was inequitable for plaintiff to receive the full purchase price after such use of the vehicle; that the inspection stickers obtained for the car were evidence that the car was in a safe and roadworthy condition, and that plaintiff had spent no money nor had any repair work done on the car. Defendant also argued that plaintiff should be denied recovery because he had wilfully perpetrated a fraud upon the Commonwealth of Massachusetts by paying a lesser sales tax and therefore came into the case with “unclean hands.” The motion was denied.
+The defendant filed “Proposed Findings of Fact and Conclusions of Law.” The trial judge stated in his special findings: “Being requests for findings of fact, they are not acted on. His conclusions of law based on the findings of fact can not be properly deemed requests for rulings, and likewise, they are not acted on. ”
+The defendant also filed a post-judgment motion asking the court to modify the judgment on the grounds that the award was excessive, inequitable and left the plaintiff unjustly enriched. In argument on this motion, the defendant claimed that since the findings of the court resulted in recission, an equitable remedy, the plaintiff because of his fraud on the Commonwealth came into court with “unclean hands” and should have been denied relief. The defendant’s motion to modify or alter the judgment was denied.
+The defendant did not argue in his brief and in oral argument waive his contention that the judge erred in failing to act on his requests for rulings. See Dist./Mun. Cts. R. Civ. P., Rule 64 (f).
+Although it was not reported, the defendant admitted in oral argument that the trial judge might properly find him to be a “dealer” or “in commerce.” See Lantner v. Carson, 374 Mass. 606, 612 (1978) which points out that the remedies provided by Chapter 93 A do not apply to transactions which are strictly private in nature. Whether a private individual’s participation in a particular transaction takes place in a “business context” must be determined from the circumstances of each case. Begelfer v. Najarian, 381 Mass. 177, 190-191 (1980).
+In deciding defendant’s Motion To Dismiss, the Court, being the trier of the facts, has a right to apply its own judgment to the plaintiff’s evidence, and even though there may be some conflict in plaintiffs case, or even if two possible inferences may be drawn from it, the court, as trier of the facts, may apply its own judgment and grant or deny the motion accordingly. Bach v. Friden Calculating Mach. Co., Inc., 148 F. 2d 407, (6th Cir. 1945).
+Thus a motion under Dist./Mun. Cts. R. Civ. P., Rule 41 (b)(2) is somewhat different than a motion brought under Dist./Mun. Cts. R. Civ. P., Rule 12 (b)(6) for failure to state a claim because in a 12 (b)(6) motion the motion may not be dismissed unless it appears beyond doubt that the plaintiff can prove no set of facts in support of his claim which would entitle him to relief. Nader v. Citron, 372 Mass. 96, 98 (1977).
+As to defendant’s post judgment motion, we discard the lack of “clean hands” argument. Although the legislation conferring jurisdiction upon the district courts in Chapter 93A cases [G.L. 93A sub par (3A)] expressly provides “ .. .no rights to equitable relief shall be created under this paragraph...,” this would seem to apply only to affirmative relief.
+By statute, “[i]n the district courts, the defendant may allege in defense any facts which would allow him in equity to be absolutely and unconditionally relieved against the plaintiff s claim...” By rule, “ .. .a party may also state ... separate claims or defenses ... whether based on legal or equitable grounds ...’•’ Accepting the proposition that equitable principles should apply, the maxim that “he who comes into equity must come with clean hands’ ’ depends upon showing a connection between the alleged iniquitous acts of the plaintiff and the alleged wrongful conduct of the defendant which the plaintiff relies upon in his complaint. Precision Instrument Manufacturing Co. v. Automotive Maintenance Machinery Co., 324 U.S. 806, 65 S. Ct. 993. In any event since the defendant suggested the fraud, he should not be entitled to benefit from it. Carpenters’ Union v. Citizens Committee, 333 Ill. 225, 233; 164 N.E. 393, 401 (1928).
+As we have mentioned, the district court in Chapter93A cases has no power to grant equitable relief. Although the subject has not been briefed or argued by the parties, but since it raises the basic question of the jurisdiction of the court, we feel compelled to raise the issue on our own volition. See Boston v. Massachusetts Port Authority, 364 Mass. 639, 645 (1974); Goes v. Feldman, 8 Mass. App. Ct. 84, 85 (1979). We note in the report that the judge ordered that the car be returned by the buyer-plaintiff to the seller-defendant after the money damages had been paid, in effect rescinding the sale. An order of this sort is an attempt to provide equitable relief. See 27 Am. Jur. 2d Equity § 105. Since it is impermissible to afford equitable relief, the entire judgment becomes tainted. Accordingly, the matters must be returned to the trial court for the purpose of assessing damages only.
+There is another matter which the trial judge may wish to consider as to damages. The report contains nothing suggesting that the defendant participated in or condoned the installation of the ersatz supporting members for the auto body or that he knew or should have known of them when he sold the car to the plaintiff. While his ignorance would not necessarily insulate him from liability on the theory of breach of express or implied warranty or for tortious misrepresentations, it seems that some degree of scienter is required for the imposition of the multiple damage provisions of Chapter 93A. Heller v. Silverbranch Constr. Corp., 376 Mass. 621, 627-628 (1978); Linthicum v. Archambault, 379 Mass. 381, 388 (1979).
+Of course, the court is entitled to draw fair inferences from the facts in evidence as to the fake supporting member and the conduct of the parties as to defendant’s knowledge.
+Even if the multiple damages provisions of G.L.c. 93A are not triggered because the court makes no finding of a willful or knowing violation on the part of the defendant in connection with the substituted wood supporting member, we observe that the scheme suggested by the defendant, ostensibly to defraud the Commonwealth by inducing the plaintiff to accept a bill of sale for an amount less than that actually paid, could be found to be an unfair or deceptive act with a consequence of injury to the plaintiff.
+The appellate division need not pass upon questions or issues noi argued in brief...”
+G.L.c. 231, §31.
+Dist./Mun. Cts. R. Civ. P., Rule 8(e)(2).
+G.L.c. 93A, §9(3).
