@@ -1,0 +1,84 @@
+---
+court: "Massachusetts Appellate Division"
+decided: "1980-09-19"
+citations: ["1 Mass. Supp. 652"]
+reporter: "mass-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Present: Lee, P.J., Rider, J. and Staff, J.", "Lee, P.J.", "Daniel. HA Rider, J.", "Richard O. Staff, J."]
+parties: ["Daniel PORAZZO vs. RIETZL PORSCHE-AUDI, INC."]
+source_url: "https://static.case.law/mass-supp/1/cases/0652-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5601461
+cites_cases: ["1 Mass. App. 833", "138 N.E. 247", "2 Mass. App. 805", "244 Mass. 57", "265 N.E. 2d 494", "287 Mass. 477", "309 Mass. 223", "330 Mass. 132", "337 Mass. 401", "352 Mass. 683", "354 Mass. 639", "358 Mass. 470", "362 Mass. 642", "368 Mass. 814", "39 Mass. App. Dec. 7", "45 Mass. App. Dec. 132", "53 Mass. App. Dec. 25"]
+---
+
+# Porazzo v. Rietzl Porsche-Audi, Inc.
+
+## Majority (RIDER, J.)
+
+RIDER, J.
+This is an action of contract or tort which was brought in the Second District Court of Plymouth on November 11. 1974, was removed to the Plymouth Superior Court upon motion of the defendant, and was remanded on September 27, 1978 to the Second Plymouth Division of the District Court Department (St. 1978, c. 478, sec. 2) for trial under G.L. c. 231, sec. 102C. Plaintiff’s declaration alleges breach by the defendant of a contract of bailment, and negligence of the defendant, in allowing plaintiff’s motor vehicle to be stolen while in its possession for repairs. The report does not include the nature of the defenses raised by the defendant.
+The report is deficient in another, major respect. It contains no report of the evidence other than certain responses of the defendant to plaintiff’s requests for admission filed under Dist./Mun. Cts. R. Civ. P. 36, and certain answers of the defendant to interrogatories propounded by the plaintiff. The report states that it “contains all of the evidence and material to the question reported”, but we do not agree.
+The plaintiff introduced in evidence the following requests for admissions and the responses of the defendant:
+“1. That the plaintiff, his agents, servants, or employees delivered a 1969 Porsche, two door convertible, Model 911 S, serial #119310048, registered in the name of the plaintiff, to defendant on or about 3 March 1972.
+Admitted.
+2. That defendant received delivery of the auto described above.
+Admitted.
+3. That defendant held said auto for plaintiff for the special purpose of repairing the auto.
+Admitted.
+4. That said repairs were done for consideration.
+Admitted.
+5. That plaintiff, by virtue of completing delivering his auto to defendant for the purpose of repairing the auto for consideration entered into a bailor/ bailee relationship with defendant.
+Admitted.
+6. That the auto described in statement one was stolen from defendant’s premises at about one or two p.m. on March 15, 1972.
+Admitted.
+7. That at the time plaintiff’s auto was stolen it was in the “customer Pick-up area” on defendant’s premises and said area was not an enclosed area.
+Admitted.
+11. That defendant did not report plaintiff’s auto stolen to the police until more than one hour after defendant, his agents, servants or employees saw that the plaintiff’s auto had been driven off defendant’s premises.
+Admitted.”
+The plaintiff also introduced in evidence the following interrogatories propounded to the defendant and the defendant’s replies thereto:
+“5. As part of its function and business, does the defendant corporation maintain a place of business for the servicing of certain motor vehicles?
+Answer: Yes.
+7. On or about March 3,1972, did the defendant corporation, through its agents, servants or employees acquire the custody of a 1969 Porsch, two door convertible (sic), Model 91 IS, serial number 119310048, registered in the name of the plaintiff?
+Answer: Yes.
+10. If the motor vehicle described in interrogatory number 7 was brought to the place of business of the defendant corporation for servicing, please state whether this servicing was to be done gratuitously by the defendant corporation or for hire.
+Answer: For hire.
+14. When the motor vehicle described in interrogatory number 7 was delivered to the defendant corporation on or about March 3,1972, were the keys to the said motor vehicle similarly delivered to the defendant corporation, its agents, servants or employees?
+Answer: Yes:
+15. Please state where the motor vehicle of the plaintiff, as described in interrogatoy number 7, was stored for safekeeping by the defendant corporation while in its custody.
+Answer: Overnight inside garage, during day, parking for finished cars to be picked up.
+17. When and where was the motor vehicle described in interrogatory number 7 last seen by the defendant corporation its agents, servants or employees?
+Answer: A salesman, Norm Brust, observed the plaintiff vehicle heading in an easterly direction on Route 228, at the Queen Anne’s at about 1:00 p.m. to 2:00 p.m. on March 15,1972. 19. Was the motor vehicle described in interrogatory number 7 stolen while in the care and custody of the defendant corporation, its agents, servants or employees?
+Answer: Yes.
+21. What precautions, if any, did the defendant corporation have in effect on or about March 15, 1972, to protect the motor vehicles of. its customers from theft?
+Answer: The vehicle was locked and ready for pick up in the customer pick up area. The vehicle is visible to the defendant and the car keys are secured in the defendant’s service department.”
+At the conclusion of the trial and before argument the plaintiff filed twelve requests for ruliri'gs of law, of which three were allowed and nine were denied.
+The trial judge found for the defendant and filed these findings of fact:
+“The facts of this case are found to be as follows: On or about March 3,1972, a Porsche Model 911S belonging to the plaintiff, Daniel Porazzo, was towed to the defendant, Rietzl Porsch-Audi, Inc., pursuant to an agreement between the defendant and a former owner of the vehicle, one Studley. The defendant was to perform certain repairs, including work on the fuel injection pump, for which Studley was to make payment, and the plaintiff was to be allowed to pick up the vehicle upon completion of the repair work. The plaintiff had only one car key, which was left with the defendant. While the Porsche was in the possession of the defendant, it was stored inside the defendant’s garage at night and parked a few feet outside the service department entrance in an unsecured area during normal business hours.
+On March 15, 1972, the vehicle was - locked and parked four to five feet from the service entrance at twelve Noon when several employees went to lunch. At 2:00 P.M., the plaintiff’s vehicle was discovered missing. At this point, the vehicle liad been repaired, and the former owner, Studley, had been notified that such was the case and that the amount due was over Four Hundred ($400.00) Dollars. At first it was thought that the plaintiff might have picked up the vehicle. Efforts to contact the plaintiff were unsuccessful, and it was not until several hours later when the theft was verified that the defendant notified the police.
+At least two service personnel were on duty between 12:00 Noon and 2:00 P.M., .and in order for anyone to gain entry to the vehicle other than by means of a key, it would have been necessary to break a vent window and to “pop” the ignition. On this particular model of Porsche, it would have been extremely difficult to “pop” the ignition without a pry-bar or similar device, and it would have taken several minutes for even a professional car thief to start the vehicle without a key. Either the breaking of the glass or presence of a person in or around the vehicle for any length of time would most likely have attracted the attention of the defendant’s service personnel. Therefore, the evidence strongly suggests that the vehicle was stolen by a person or persons unknown by means of a key. It might be added that the key delivered to the defendant was at all times immediately before, during and after the car theft on a kéy board within the defendant’s service department. The vehicle has not been recovered.
+Since the contract for the repairs was made between the former owner, Studley, and the defendant, there is no privity of contract between the plaintiff and the defendant. Therefore, no recovery can be allowed the plaintiff under that contract. American Auto Sales, Inc. v. Mass. Port Authority, 2 Mass. App. 805 (1974); Fairfield’s Motors, Inc. v. Fitz-Inn Auto Park, Inc., 1 Mass. App. 833 (1973).
+Lack of contractual relation with the defendant should not bar the plaintiff from recovering from the defendant in the event the latter breached his duty to use ordinary care of a man of common prudence in keeping a car entrusted to him as a bailee for consideration. Hale v. Mass. Parking Authority, 358 Mass. 470, 265 N.E. 2d 494 (1970). On the other hand, while it is well established that when a bailee (sic) delivers property in good condition which the bailee fails to return on timely demand, the burden is irrevocably fixed upon the bailee to prove by a fair preponderance of the evidence that he has exercised due care to prevent the loss or destruction (Rabinovitzch v. Sea Crest Cadillac Pontiac, Inc., 368 Mass. 814 (1975) ), the garage owner is not an insurer, and the fact that the car was stolen raises no presumption of negligence. Hanna v. Shaw, 244 Mass. 57, 138 N.E. 247 (1923).
+In this case, the defendant exercised ordinary care to safeguard the plaintiffs automobile from theft, and no negligence is found on its part. Perhaps it should also be mentioned that the defendant had no reason to know that another key to the vehicle was in the possession of a third person, and therefore, the theft of the vehicle by a person having a key thereto was not within the foreseeable risk. The parties were duly notified of the theft, and no negligence is found on the defendant’s part for having contacted the plaintiff to see if he had picked up the vehicle before reporting its loss to the police.”
+The plaintiff claims to be aggrieved by the finding and judgment for the defendant, the special findings of fact made by the trial judge, and the denial of the following requests for rulings made by the plaintiff.
+“ 1. As a matter of law, Defendant Rietzel Porsche-Audi, Inc. entered into a contract of bailment with Plaintiff by accepting his auto with the purpose of repairing said auto for consideration.
+2. As a matter of law, Defendant breached his contract with Plaintiff by failing to redeliver said auto in the same or better condition as it was received by Defendant.
+6. As a matter of law, the Court is required to make a presumption that the defendant was negligent due to its failure to redeliver the bailed automobile to the plaintiff upon demand.”
+The plaintiff contends that the Court is bound by defendant’s admissions in response to plaintiffs requests; that as a matter of law the defendant entered into a contract of bailment for consideration with the plaintiff upon the delivery of his automobile for repairs to the defendant through plaintiff’s agent, servant or employee; and that the defendant breached the contract by its failure to redeliver the automobile to the plaintiff. The plaintiff also contends that the defendant was negligent for failure to redeliver the automobile to the plaintiff, citing Rabinovitzch v. Sea Crest Cadillac-Pontiac, Inc., 368 Mass. 814, 815 (1975) and Knowles v. Gilchrist Co., 362 Mass. 642, 652 (1972).
+I.
+The trial judge made detailed findings of fact, none of the crucial ones of which are supported by the reported evidence. The reported evidence consists only of certain admissions of the defendant to requests made by the plaintiff under Dist./Mun. Cts. R. Civ. P. 36 and answers of the defendant to certain interrogatories propounded by the plaintiff.
+The report in this case did not comply with Dist./Mun. Cts. R. Civ. P. 64(c)(2) and the model report included within the rules. The model report requires both (1) a summary of the essential evidence and (2) the judge’s findings of facts. The summary of the essential evidence is lacking from this report.
+Findings of fact made by the trial judge are not a part of the trial record and must be supported by reported evidence. Findings cannot supply evidence that the report lacks. Tranfaglia v. Security National Bank, 53 Mass. App. Dec. 25, 30(1973); Morville v. Villemaire, 45 Mass. App. Dec. 132, 137 (1970); Pettinella v. Worcester, 39 Mass. App. Dec. 7, 9 (1967).
+The trial judge found that there was no privity of contract between the plaintiff and the defendant and that, as the result, the plaintiff could not recover in contract. Specific findings of fact made by the Court are that plaintiff’s motor vehicle “was towed to the defendant, Rietzl Porsche-Audi, Inc., pursuant to an agreement between the defendant and a former owner of the vehicle, one Studley. The defendant was to perform certain repairs,..., for which Studley was ■to make payment, ...” This finding is not supported by the reported evidence and is contradictory to the defendant’s response to the plaintiff’s requ'est for admission No. 1. There is no report whatsoever of any agreement between Studley and the defendant. Although it is not included in the report, we note that in argument before us counsel for the defendant stated that it was the plaintiff’s fiancee who called the defendhnt, stating that the car had broken down, whereupon the defendant towed the car to its shop for repairs. This version is corroborated by defendant’s answer to plaintiff’s interrogatory No. 8.
+The finding by the Court that the defendant was free from negligence rests substantially upon a syllogism of doubtful validity. The Court stated that “the evidence strongly suggests that the vehicle was stolen by a person or persons unknown by means of a key.” This finding apparently is the product of deductive reasoning reached after the elimination, at least to the satisfaction of the judge, of certain other means of car theft. Having deduced that the auto- • mobile had been stolen by the use of a key whose existence was apparently unknown to the parties, the Court exonerated the defendant from negligence, at least in substantial part, by stating that “the defendant had no reason to know that another key was in the possession of a third person, and therefore, the theft of the vehicle by a person having a key thereto was not within the foreseeable risk.” There is no reported evidence concerning such key nor, in fact, concerning the degree of care exercised by the defendant.
+II.
+The plaintiff filed eleven requests for admissions pursuant to Dist./Mun. Cts. R. Civ. P. 36. A summarization of defendant’s responses to plaintiff’s requests Nos. 1 through 7 shows that the defendant admitted the following facts: that the plaintiff, his agents, servants or employees, delivered a 1969 Porsche two-door convertible, registered in the name of the plaintiff, to the defendant on or abo'ut March 3, 1972, for the purpose of repairs; that the defendant held said auto for the plaintiff for that purpose; that said repairs were done for a .consideration; that thereby the plaintiff entered into a bailor-bailee relationship with the defendant; that the said auto was stolen from defendant’s premises at or about one or two o’clock, P.M., on March 15, 1972; and that it was stolen from the “customer pick-up area”, which was not enclosed..
+The facts admitted by the defendant pursuant to the request for admission under Rule 36 became binding on the defendant “unless the court on motion permits withdrawal or amendment of the admission”, which was not done here. So' long as the admissions were binding upon the defendant, the admitted facts were established as fully as by a statement of agreed facts. Waldor Realty Corp. v. Planning Board of Westborough, 354 Mass. 639, 640 (1968); Krinsky v. Pilgrim Trust Company, 337 Mass. 401, 408 (1958); see, Saphier v. Devonshire Street Fund, Inc., 352 Mass. 683, 684 (1967).
+III.
+We are cognizant that findings of fact of the trial judge may not be disturbed on appeal if they are permissible upon any reasonable view of the evidence or unless plainly .wrong. Zaleski v. Zaleski, 330 Mass. 132, 134 (1953); Barttro v. Watertown Square Theatre, Inc., 309 Mass. 223, 224 (1941); Kennedy Bros., Inc. v. Bird, 287 Mass. 477, 484 (1934). Unfortunately, we are unable to make either determination from the contents of this report.
+We hereby order the finding for the defendant vacated and order the case remanded to the Hingham Division of the District Court Department for a new trial.
+So ordered.
+Lee, P.J.
+Daniel. HA Rider, J.
+Richard O. Staff, J.
