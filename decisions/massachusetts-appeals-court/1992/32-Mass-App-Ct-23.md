@@ -1,0 +1,35 @@
+---
+court: "Massachusetts Appeals Court"
+docket: "90-P-1069"
+decided: "1992-01-21"
+citations: ["32 Mass. App. Ct. 23"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Abington Savings Bank vs. Leslie John Rock."]
+source_url: "https://static.case.law/mass-app-ct/32/cases/0023-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4006628
+cites_cases: ["133 F. 2d 789", "176 Iowa 316", "185 Mass. 419", "354 Mass. 448"]
+---
+
+# Abington Savings Bank v. Rock
+
+## Majority (Dreben, J.)
+
+Dreben, J.
+After a fire damaged property in Pittsfield, Maine on which the. Abington Savings Bank (bank) held a mortgage of $1,410,000, the bank brought this action under its own insurance policy to recover for loss to its “mortgage interest” in the amount by which its loan exceeded the bank’s recovery under the mortgagor’s policy. The bank had received only $730,000 from the mortgagor’s insurance company, a figure determined by appraisers (after the parties could not agree) to be the actual cash value of the loss to the building. On cross-motions for summary judgment, a judge of the Superior Court entered judgment for the defendant insurer, ruling that the bank “has recovered from the policy of the borrower all that it is entitled to and has no rights to look to the defendant’s Lloyd’s policy for further recovery.” We affirm the judgment.
+The provisions of the bank’s policy on which it relies, as well as the definition of “mortgage interest,” are set forth in the margin. Arguing that the policy does not limit recovery to the actual cash value of the property, the bank claims it is entitled to recover the difference between the replacement cost of the property and the amount received from the mortgagor’s insurer. The bank’s insurance policy nowhere refers to replacement cost and we do not see any basis for reading such a term into the words “the loss.” See § A, par. ii, set forth in note 2, supra.
+The definition of “mortgage interest” in the policy is the interest of the bank in the real property which it has as a security for its loan. See note 2, supra. Such a policy, as contrasted with a mortgage insurance policy, see, e.g., 12 U.S.C. 1709 (1988), does not permit either the owner or a mortgagee to collect by way of insurance more than the loss to that property. A lienholder’s insurable interest is not greater than the security to which it attaches. As recited in 3 Couch on Insurance § 24.72 (2d rev. ed. 1984), “The mortgagee’s insurable interest is prima facie the value mortgaged and extends only to the amount of the debt, not exceeding the value of the mortgaged property” (emphasis supplied). See Dodge v. Grain Shippers’ Mut. Fire Ins. Assn., 176 Iowa 316, 322-324 (1916).
+To overcome this rule, the bank cites Century Ins. Co. v. First Natl. Bank, 133 F. 2d 789 (5th Cir. 1943), arguing that it had an interest in the property greater than its market value “because the building (under construction) and the land secured a mortgage construction loan which until sufficient appreciation in the real estate market occurred, was greater than the market value of the property.” The argument is specious. The fact that the loan was greater than market value does not help the bank nor can the bank obtain recovery for hoped-for appreciation in the property. Had the bank foreclosed and sold the property immediately prior to the loss, it would have realized no more than its then fair market value. It is not entitled to a greater recovery because the property was damaged by fire. Tabbat v. American Ins. Co., 185 Mass. 419, 421 (1904). In Century Ins. Ltd. v. First Natl. Bank, 133 F. 2d at 791, the security holder’s interest in the pledged property (cotton) was greater than the market value of the destroyed cotton because the security holder was protected by an agreement with a Federal agency whereby that agency was obliged to purchase the cotton at a higher price. There is nothing comparable here.
+The bank’s additional claim that it is not bound by the determination of value under the mortgagor’s policy is also without merit. The bank participated in the appraisal process in Maine and it did not appeal from the determination. The bank’s policy permits recovery where there is inadequate or no insurance or where the bank is “unable to collect the loss wholly or partially under (the mortgagor’s insurance).” See note 2, supra. In context, the provision does not look to a redetermination of “the loss” where the same peril has been insured against and full recovery has been allowed for that loss under the mortgagor’s policy. As we interpret § A, par. ii, see note 2, supra, it provides coverage only where the mortgagor’s policy does not cover the full amount of “the loss” as determined by that (the mortgagor’s) policy. That the defendant insurer suggested an appraiser (whom the bank designated to be one of the appraisers to determine the loss under the mortgagor’s policy) who gave an original appraisal which" was higher than was ultimately awarded does not, in our view, change the result.
+Judgment affirmed.
+“ SECTION (A)
+“PHYSICAL LOSS OR DAMAGE FROM ‘REQUIRED PERILS’ “Underwriters hereon will insure the Assured for loss to the Assured's Mortgage Interest and unpaid charges accruing after loss up to date of settlement, including . . . Assured’s Owner Interest in foreclosed property, ... by reason of All Physical Loss or Damage, occurring during the policy period to property caused by perils against which the Assured requires the mortgagor to maintain Fire, Extended Coverage and Other Physical Damage Insurance required of the mortgagor, ... to property against which the Assured has granted or holds a mortgage or to which Assured has taken title under foreclosure . . . :
+“(i) For total or partial losses occasioned by reason of the non-existence of such insurance(s) or inadequate insurance(s), or
+“(ii) In the event ... the Assured is unable to collect the loss wholly or 'partially under said insurance for any reason not caused or contributed to by dishonesty on the part of the Assured, its officers or employees” (emphasis supplied).
+The policy defines mortgage interest as follows:
+“MORTGAGE INTEREST shall mean the interest of the Assured in property sold under a conditional sales agreement, a mortgage, a deed of trust, or any other instrument representing an interest in real property executed for the benefit of Assured as security for a loan.”
+The mortgagor’s policy, unlike the bank’s policy, has a specific endorsement as to replacement costs. The provision, however, only permits recovery of replacement costs if the property is in fact repaired. It was not repaired or replaced.
+We do not consider any question of estoppel. Cf. Home Owners Fed. Sav. & Loan Assn. v. Northwestern Fire & Marine Ins. Co., 354 Mass. 448, 455 (1968).
+The appraiser subsequently revised his estimate and joined in the unanimous opinion of the other appraisers that the loss to the building was $730,000.
