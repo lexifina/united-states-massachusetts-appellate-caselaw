@@ -1,0 +1,23 @@
+---
+court: "Massachusetts Appeals Court"
+decided: "1978-01-31"
+citations: ["6 Mass. App. Ct. 836"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Francis W. Madigan, Jr., trustee, vs. Zoning Board of Appeals of Worcester & another."]
+source_url: "https://static.case.law/mass-app-ct/6/cases/0836-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5731390
+cites_cases: ["372 Mass. 232", "5 Mass. App. Ct. 416"]
+---
+
+# Madigan v. Zoning Board of Appeals
+
+## Majority
+
+We believe everyone’s difficulty with paragraph (d) of § 31 of the zoning ordinance has resulted largely from taking that paragraph out of its context. The concluding portion of § 30 of the ordinance (see exhibit B attached to the plaintiff’s affidavit) sets out a number of main uses in connection with which an owner must provide off-street parking, as well as the minimum number of parking spaces required in connection with each such use; some of those uses require a license for the parking spaces from the license board (see G. L. c. 148, § 56, as amended), while others do not. Paragraphs (a) and (b) of § 31 of the ordinance (which is entitled "Location and Layout”) are concerned with the proximity of the "[Required parking” to the "main use” and the minimum size of "[e]ach required car space,” respectively. Paragraph (c) of § 31 is concerned with the grading, surfacing, drainage and lighting of "[a]ll required parking not under the jurisdiction of the [l]icense [b]oard.” Paragraph (d) of § 31, which is the ultimate paragraph of that section and the only one which makes any express reference to the regulations of the license board, reads in material part: "Except where fewer than ten car spaces are provided or where the regulations for parking lots of the [l]icense [b]oard apply, before a building permit may be issued the parking plan shall be approved by the [l]icense [b]oard with regard to access, capacity, circulation, and safety to pedestrians and vehicles using the facilities and using abutting public streets” (emphasis supplied). When that paragraph is read in the light of the concluding portion of § 30 of the ordinance and §§ 1 ("Definitions”) and 2 ("License Required”) of the regulations of the license board, it is immediately apparent that there are many types of parking lots, some of which may involve very substantial areas (e.g., employee parking lots), which are not subject to the regulations so long as no specific charge is made for their use (which is what the plaintiff proposes). When one considers (d) of § 31 (1) the juxtaposition of paragraphs (c) (parking which is not subject to the jurisdiction of the license board) and (d) (which makes express reference to the regulations of that board) and (2) the relatively small area involved in a parking lot with fewer than ten car spaces, it is readily perceived that the ambiguity in (d) arises from the word "or” rather than from the immediately ensuing words "where the regulations ... of the [ljicense [bjoard apply.” If one were to (3) ignore the word "or” on the theory that its presence results from an error on the part of the scrivener or compositor and (4) concentrate on the opening words "[ejxcept where fewer than ten car spaces are provided” (such as the plaintiff proposes), he would conclude that the city council, after considering the relative size and importance of small parking lots for small retail stores (see [i] of the aforementioned § 30 of the ordinance), has made a common sense determination that the public interest does not require the licensing of such lots prior to commencing the construction of such stores. Although it cannot be demonstrated that the presence of the "or” is the result of an error, we are of the opinion that a construction of paragraph (d) which deletes that word is to be preferred over the construction adopted by the judge below. See and compare Eastman Kodak Co. v. Clerk of the Third Dist. Court of E. Middlesex, 372 Mass. 232, 235 (1977); Commonwealth v. W. Barrington Co., 5 Mass. App. Ct. 416, 419 (1977). It follows that the judgment of the Superior Court is reversed and that a new judgment is to be entered which annuls the decision of the zoning board of appeals and directs the superintendent of public buildings to consider and act upon the plaintiffs application for a building permit on its merits.
+The case was submitted on briefs.
+Noel R. Bartsch for the plaintiff.
+Bennett S. Gordon, Assistant City Solicitor, for the defendants.
+So ordered.
