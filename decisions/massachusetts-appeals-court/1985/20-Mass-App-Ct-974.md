@@ -1,0 +1,26 @@
+---
+court: "Massachusetts Appeals Court"
+decided: "1985-09-09"
+citations: ["20 Mass. App. Ct. 974"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Commonwealth vs. BEI, Inc. (and a companion case)."]
+source_url: "https://static.case.law/mass-app-ct/20/cases/0974-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1154563
+cites_cases: ["15 Mass. App. Ct. 524", "339 Mass. 487", "360 Mass. 531", "363 Mass. 513", "364 Mass. 310", "384 Mass. 262", "391 Mass. 369", "393 Mass. 318"]
+---
+
+# Commonwealth v. BEI, Inc.
+
+## Majority
+
+On appeal, the defendants raise three points, all of which concern the degree of identity between two lists of usable equipment which were referred to at the trial as identical. The first list (Exhibit K for identification) was a list prepared by a State police officer (at an interrogation of Zenisek) of items put on BEI’s truck other than scrap for which BEI had paid. The second list (Exhibit 10) was a list of equipment placed on the return of the warrant which the police had obtained to search BEI’s truck. The defendants urge that the two lists are not identical and that the prosecution knew or should have known this and thus had distorted the evidence in presentation and final argument.
+The judge, in denying the defense motion for a new trial, observed that the trial had been a lengthy one, that, if assertions about the identity of the lists were incorrect, they were not so prejudicial as to have tainted the jury’s verdict, and that “[n]o miscarriage of justice resulted from the prosecutor’s challenged remarks.” A motion for a new trial, rests in the sound discretion of the trial judge, and the judge’s disposition of the motion will not be reversed unless a survey of the case as a whole gives rise on review to a conviction that a manifest injustice may result. Commonwealth v. Little, 384 Mass. 262, 269 (1981) (dealing with newly discovered evidence), and cases therein cited. Commonwealth v. Preston, 393 Mass. 318, 324 (1984). See Smith, Criminal Practice and Procedure § 2065 (2d ed. 1983).
+The trial judge’s assessment, essentially that the impact of the commentary about the parts lists, in the context of the entire trial, was less than seismic, is persuasive. Moreover, that commentary was consistent with the evidence. Zenisek, on direct examination, had identified Exhibit K for identification as a “list of equipment which was put on the truck, other than the equipment that was paid for.” He was shown Exhibit 10 and said, “[I]t is the same list.” If this startled the defense, the record does not reflect it. During extensive cross-examination of Zenisek, the defense never probed discrepancies between the lists. Objections to the assertion that the lists were identical first materialized at the conclusion of the prosecution’s argument and were, to that degree, untimely so far as the initial evidence of identity was concerned. Commonwealth v. Geagan, 339 Mass. 487, 513 (1959). Commonwealth v. Haley, 363 Mass. 513, 517 (1973). We have examined the two exhibits. They are not identical, but there is substantial overlap, and calling them the same, while imprecise, falls a good deal short of distortion.
+William P. Homans, Jr. for the defendants.
+Edward F. McLaughlin, Assistant Attorney General, for the Commonwealth.
+In closing argument the prosecutor stated that Zenisek had told the police that thirteen pieces of the stolen equipment were going onto a truck to be picked up by BEI and that the following day Zenisek had identified the thirteen items listed on the warrant return as the same stolen equipment. The defense objects that this misstated the evidence. Whether a misstatement occurred is far from clear. Zenisek did identify the items which appeared on the search warrant as those which had been stolen. That warrant referred to thirteen items. Although Zenisek’s testimony does not refer to the number of stolen items or to the warrant, it could be inferred that Zenisek identified the items which made up the list of thirteen on the warrant. See Commonwealth v. Nordstrom, 364 Mass. 310, 315 (1973); Commonwealth v. Francis, 391 Mass. 369, 372 (1984). As the trial judge quite correctly concluded, in the context of a long and complicated trial and long closing speeches, the prosecutor’s argument, if it misstated the evidence at all, did not do so in a manner which was persistent, flagrant, inflammatory, or calculated unduly to prejudice the jury. See Commonwealth v. DeChristoforo, 360 Mass. 531, 537 (1971); Commonwealth v. Gaeten, 15 Mass. App. Ct. 524, 529 (1983).
+A third ground of appeal is the refusal of the trial judge to grant a defense request for a specific curative instruction regarding the prosecutor’s alleged misstatements of fact. Since the existence of an erroneous statement was far from apparent, the trial judge wisely declined to “pass on any specific reference to testimony in . . . counsel’s argument.” The judge did instruct the jury unmistakably, and with some elaboration, that they were not to consider argument of counsel as evidence and that what counsel said might not accurately reflect what a witness said. The defendants were amply protected by the judge’s charge.
+Judgments affirmed.
