@@ -1,0 +1,35 @@
+---
+court: "Massachusetts Appeals Court"
+docket: "91-P-1014"
+decided: "1992-11-17"
+citations: ["33 Mass. App. Ct. 945"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Front Row Seating, Inc. vs. New England Concerts, Ltd., & another; Leon R. Haynes, intervener."]
+source_url: "https://static.case.law/mass-app-ct/33/cases/0945-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4010769
+cites_cases: ["165 Conn. 364", "28 Mass. App. Ct. 392", "282 Mass. 100", "406 Mass. 615", "880 F.2d 1491"]
+---
+
+# Front Row Seating, Inc. v. New England Concerts, Ltd.
+
+## Majority
+
+The plaintiff, Front Row Seating, Inc. (Front Row), appeals from summary judgment in the Superior Court in favor of the defendant-intervener, Leon R. Haynes. The following facts are not contested.
+On June 16, 1989, Front Row entered into a contract with New England Concerts, Inc. (Concerts), to provide a number of items for a Ringo Starr concert scheduled for August 16, 1989. The contract called for full payment of the contract price of $49,700 to Front Row by Concerts at the conclusion of the show.
+At approximately the same time the contract was entered by the parties, Haynes was introduced to the general manager of Concerts. On June 22, 1989, Haynes loaned Concerts the sum of $200,000, of which he was told $150,000 would be sent to Starr to ensure his performance. The remaining $50,000 was to be used to cover the costs of staging the concert.
+Ticketron, Inc. (Ticketron), was the ticket agent for the concert. In return for Haynes’ investment, Concerts executed a document, entitled “First Assignment.” The document recited that Ticketron had agreed to pay Concerts no later than ten days after the concert the proceeds of ticket sales from the Ringo Starr concert, less any money due to Ticketron under a separate agreement it had with Concerts. The document then stated in relevant part that Concerts “assigns, orders and transfers [to Haynes], the sum of $225,000 . . . , or any part thereof in the event that the Net Proceeds amount to less than [$225,000], which shall become due and payable to [Concerts]” from Ticketron as a result of the Ringo Starr concert. Subsequently, on July 20, 1989, Concerts executed a guaranty note to Haynes.
+Front Row fully performed its services required by the contract with Concerts, yet it never received payment. It brought an action against Concerts and Ticketron, as trustee, in the Boston Municipal Court, seeking to attach what proceeds existed. Ticketron responded by stating it held $52,905 from the concert. A judge granted the attachment in the amount of $50,000. Haynes, having also filed suit against Concerts in the Superior Court, was allowed to intervene in the Front Row action. Ticketron then removed the case to the Superior Court.
+Both parties filed motions for summary judgment in the Superior Court. Front Row claimed that the assignment of the ticket receipts to Haynes created a security interest under G. L. c. 106, § 9-102(1)(a), and because that security interest was not perfected, Front Row, as a lien creditor by virtue of its attachment, had acquired priority over Haynes. G. L. c. 106, § 9-301(l)(h) (“an unperfected security interest is subordinate to the rights of . . . (b) a person who becomes a lien creditor before the security interest is perfected . . . ”). Haynes argued that the assignment did not create a security interest and that ordinary contract principles applied.
+After listening to the arguments of counsel and after examining the materials submitted with the motions, the judge found that there was nothing in the language of the assignment from Concerts to Haynes that demonstrated that the parties intended to create a security interest. He ruled that G. L. c. 106, §§ 9-101 et seq. (Uniform Commercial Code — Secured Transactions) did not apply. Therefore, the judge concluded that Front Row had the status of an unsecured creditor, and Haynes, as a prior assignee for value, prevailed over Front Row, a later attaching creditor. Commercial Cas. Ins. Co. v. Murphy, 282 Mass. 100, 104 (1933)(“a prior assignee for value prevails over a subsequent attaching creditor ...”). He granted Haynes’s motion for summary judgment and ordered a judgment to enter declaring that the attached funds belonged to Haynes.
+It was error for the judge to rely on the language of the assignment in determining whether or not the Code applied. “The [C]ode does not require the use of any magic words in order to create a security interest. It is usual to state in a security agreement that the debtor ‘grants’ a security interest in described collateral to the secured party . . . but the mere fact that granting clauses are traditional does not mean that they are immutable. The Code requires no such terminology .. ..” Henson, Secured Transactions Under the Uniform Commercial Code 25 (1973).
+Joseph A. Lena for the plaintiff.
+Richard F. Kerr for the intervener.
+“A security agreement is required in order to create a valid security interest.... Of course, the intent of the parties to form a security interest is crucial.” Stickells, Manual on Commercial Code § 9.54 (2d ed. 1989). See G. L. c. 106, § 9-102(1) (a) (Uniform Commercial Code “applies... to any transaction [regardless of its form] which is intended to create a security interest . . .”). Therefore, whether a transaction created a security interest depends upon the intent of the parties and such intent is a question of fact and not matter of law, see Granite Equip. Leasing Corp. v. Acme Pump Co., 165 Conn. 364, 368 (1973), or in some instances is a mixed question of law and fact, see In re Nav. Technology Corp., 880 F.2d 1491, 1493 (1st Cir. 1989)(whéther assignment of royalties created security interest depended upon intent and was mixed question of law and fact). “When the issue of a party’s intent constitutes the essential element of a cause of action or defense, the granting of summary judgment is disfavored.” Gurry v. Cumberland Farms, Inc., 406 Mass. 615, 624 (1990).
+The affidavits filed by both parties may be read to support different intentions. “The case presents a paradigm of one demanding exploration of all the circumstances . . . and a decision as to the parties’ intent made by a trier of fact who has heard and evaluated all the relevant evidence.” Madden v. Estin, 28 Mass. App. Ct. 392, 395 (1990).
+The judgment in favor of Haynes is reversed. There was no error in the denial of Front Row’s motion for summary judgment. The case is remanded to the Superior Court for trial.
+So ordered.
+An assignment of accounts as security for an obligation is covered by G. L. c. 106, § 9-102(l)(a). See 3 U.L.A. comment 2 to c. 106, § 9-102 (Master ed. 1972). Our citation to G. L. c. 106, § 9-102(l)(a), is not intended to exclude the possible application of G. L. c. 106, § 9-Í02(l)(¿).
+Concerts defaulted, and the summary judgment motions did not affect it.
