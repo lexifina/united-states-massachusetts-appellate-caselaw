@@ -1,0 +1,24 @@
+---
+court: "Massachusetts Appeals Court"
+decided: "1981-10-20"
+citations: ["12 Mass. App. Ct. 956"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Commonwealth vs. Michael Marra."]
+source_url: "https://static.case.law/mass-app-ct/12/cases/0956-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3968482
+cites_cases: ["351 Mass. 327", "352 Mass. 271", "358 Mass. 623", "361 Mass. 384", "361 Mass. 868", "375 Mass. 201", "378 Mass. 196", "381 Mass. 379", "383 Mass. 272", "444 U.S. 937", "449 U.S. 1062"]
+---
+
+# Commonwealth v. Marra
+
+## Majority
+
+The defendant, a contractor, was convicted of storing dynamite without a license in violation of G. L. c. 148, § 13, and was fined $100 (G. L. c. 148, § 16), plus a surfine of $25 (G. L. c. 280, § 6A). He appeals and raises numerous issues. We deal only with one which is dispositive of the case — the validity of the warrant to search the defendant’s premises and the seizure of the dynamite on the basis of that warrant. We hold the warrant invalid because the affidavit on which it is based is inadequate. It provides: “On Sept. 3, 1978, at approx. 11:00 AM while checking with detail officers assigned to watch a quantity of illegal pesticides, I observed a box with writing indicating it contained blasting caps in the below named trailer, said trailer being similar to and located near those known to contain the pesticide.” The observation of a box containing blasting caps, without more, to indicate that their storage was unlicensed, does not provide probable cause for entry into the trailer. Blasting caps are not contraband, and “[t]he affidavit did not specifically point out to the clerk who issued the search warrant any criminal aspect” of their storage. Commonwealth v. Stevens, 361 Mass. 868 (1972). In that case the observation of rifles being placed in the trunk of an automobile was insufficient for the issuance of a warrant to search the vehicle, “[e]ven taking into account matters of which the clerk could reasonably take judicial notice (e.g. the general location of riots and disorders then in progress in New Bedford).” Id. See Commonwealth v. Hawkins, 361 Mass. 384, 386 (1972), in which observation of government bonds in an apartment did not provide probable cause for their seizure by the police who had legally entered to search for drugs. See also Commonwealth v. Wojcik, 358 Mass. 623, 630 (1971) (“The articles were not per se contraband,” and their possession alone was insufficient to justify a seizure). Compare Commonwealth v. Penta, 352 Mass. 271, 274 (1967) (Observation of an automobile in a garage which the affiant “believe[d]” stolen was an insufficient basis for a warrant). There are no circumstances set out in the affidavit which might indicate that the storage was unlicensed — though it would have been simple enough to check with the local authorities who issue such licenses. G. L. c. 148, § 13. Nor was there any other information in the affidavit which might indicate that the storage was under such circumstances as might indicate a probability that it was unlicensed. (The affidavit states that the blasting caps were in a box so marked.) The only other circumstance set out in the affidavit is that the trailer to be searched under the warrant was near other trailers which contained pesticides characterized by the officer as “illegal.” This is hardly sufficient to provide a link between the pesticides and the box of blasting caps. See Commonwealth v. Hawkins, 361 Mass. at 387. Contrast Commonwealth v. Bond, 375 Mass. 201, 208 (1978), where “guns and ammunition could be readily linked in purpose to the burglar’s tools.” Nor can the deficiency in the affidavit be cured by oral testimony. This is well settled and should be obvious by now. Commonwealth v. Monosson, 351 Mass. 327, 327-329 (1966). Commonwealth v. Penta, 352 Mass. at 274-275. Commonwealth v. Stevens, 361 Mass. at 868. See also Commonwealth v. Taglieri, 378 Mass. 196, 200-201 (1979), cert. denied, 444 U.S. 937 (1979).
+Accordingly, the dynamite and the evidence referring to it must be suppressed and the judgment reversed. Since it is clear that the Commonwealth has no reasonable prospect of making its proof without reference to the suppressed evidence, judgment must be entered for the defendant. A Juvenile v. Commonwealth (No. 2), 381 Mass. 379, 383-384 n.5, cert. denied, 449 U.S. 1062 (1980). Commonwealth v. Taylor, 383 Mass. 272, 285, and cases cited in n.17 (1981).
+So ordered.
+Michael Marra, pro se.
+Carmen W. Picknally, Jr., Assistant District Attorney, for the Commonwealth.
+See Smith, Criminal Practice and Procedure § 170, at 99 (1970) (“nor may the affidavit merely state conclusions of the affiant”).
