@@ -1,0 +1,34 @@
+---
+court: "Massachusetts Appeals Court"
+docket: "91-P-155"
+decided: "1992-06-10"
+citations: ["32 Mass. App. Ct. 978"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Commonwealth vs. Robert Scott McLean."]
+source_url: "https://static.case.law/mass-app-ct/32/cases/0978-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4008108
+cites_cases: ["389 Mass. 216", "391 Mass. 443", "399 Mass. 469", "399 Mass. 514", "408 Mass. 117", "408 Mass. 724", "409 Mass. 146", "411 Mass. 293"]
+---
+
+# Commonwealth v. McLean
+
+## Majority
+
+The defendant was convicted of second degree murder by a Superior Court jury after trial on an indictment charging first degree murder.
+“In order to convict a defendant of murder the jury must find that the defendant possessed malice aforethought. Commonwealth v. Cunneen, 389 Mass. 216, 227 (1983). In Massachusetts, ‘malice aforethought may be inferred if, in the circumstances known to the defendant, a reasonably prudent person would have known that according to common experience there was a plain and strong likelihood that death would follow the contemplated act.’ Commonwealth v. Grey, 399 Mass. 469, 470 n.1 (1987). Th[is] third method of establishing malice aforethought ‘is sometimes referred to as the third prong of malice.’ Commonwealth v. Moore, [408 Mass. 117, 134 n.9 (1990)]. Proof of malice under this theory does not rely on evidence of the defendant’s specific intent to kill or cause grievous bodily harm.” Commonwealth v. Sama, 411 Mass. 293, 296 n.1 (1991).
+1. The defendant’s principal claim of error is the judge’s refusal (on timely request and objection) to instruct the jury that if they found the defendant was intoxicated at the time of the killing, they could consider that fact in determining what circumstances were then known to him for purposes of determining malice aforethought under the third prong of malice. The judge charged the jury: “[T]he Commonwealth is not required to prove specific intent, as the law considers that form to be general intent. And when general intent is involved, voluntary intoxication, or mental impairment from same does not operate to prevent a defendant from forming the general intent as specified in the third form of malice.” See Commonwealth v. Blake, 409 Mass. 146, 155 (1991).
+We need not recite the evidence as to the defendant’s intoxication at the time of the killing. It is enough to say that there was ample evidence which, if believed, would allow the jury to conclude that the defendant was intoxicated by reason of the consumption of alcohol and cocaine and to entertain reasonable doubt whether the defendant knew the circumstances attendant on his strangling the victim.
+The refusal of the judge to instruct on voluntary intoxication as a factor for the jury’s consideration in determining the defendant’s knowledge under the third prong of malice was error and is controlled in all respects by Commonwealth v. Sama, 411 Mass. 293 (1991), decided after the trial in this case. “Under the third prong of malice, the Commonwealth must establish the guilty knowledge of the defendant beyond a reasonable doubt, and evidence of intoxication should be considered by the jury. Evidence of intoxication certainly bears on the defendant’s ability to possess the requisite knowledge of the circumstances in which he acted." Commonwealth v. Sama, supra at 298. In order to establish the third prong in this case, the Commonwealth had the burden of demonstrating beyond a reasonable doubt that the defendant knew that he was strangling the victim. See id. “The question of a defendant’s knowledge is exclusively within the province of the jury” and is ordinarily determined by inference. Id.
+The jury should have been allowed to consider the evidence of the defendant’s intoxication from alcohol and cocaine on the question of the defendant’s knowledge of the circumstances. “Without more, we hold that evidence of a defendant’s voluntary intoxication is a factor for the jury to consider whenever the Commonwealth bears the burden of establishing the knowledge of the defendant beyond a reasonable doubt.” Commonwealth v. Sama, supra at 299. Contrast Commonwealth v. Blake, 409 Mass. at 155-156.
+Stephen Hrones for the defendant.
+James M. McDonough, Assistant District Attorney (Lauren Inker, Assistant District Attorney, with him) for the Commonwealth.
+2. We comment briefly on issues which may arise at a new trial. Considering the charge as a whole, we find no error in the judge’s failure explicitly to instruct the jury that the Commonwealth had the burden of proving beyond a reasonable doubt that the defendant did not act on reasonable provocation. See Commonwealth v. Todd, 408 Mass. 724, 727 (1990). In a new trial, however, the judge should follow the “better practice” by restating the Commonwealth’s burden as to absence of reasonable provocation. See ibid:, Commonwealth v. Doucette, 391 Mass. 443, 452 (1984).
+Although we conclude there was no prejudicial prosecutorial misconduct in closing argument because of the judge’s actions, the credit we give to jury sophistication in penetrating excessive claims, and the verdict the jury returned, we assume in a new trial the prosecutor will avoid histrionics and in all respects hew to the principles expressed in Commonwealth v. Kozec, 399 Mass. 514, 516-526 (1987).
+Judgment reversed.
+Verdict set aside.
+Essentially the same instruction by the same Superior Court judge was held to be “correct”, in Blake, an opinion issued after the trial in this case.
+The judge did instruct the jury on the effect of intoxication on the defendant’s ability to form specific intent. See Commonwealth v. Grey, 399 Mass. 469, 470-471 (1987).
+During their deliberations, the jury asked the judge: “If at the time of the act the person wasn’t aware of what they were doing, can we consider a person to have acted with malice with general intent?” Without directly answering, the judge responded by equating awareness with knowledge and, by a series of rhetorical questions, seemed to suggest a negative answer. Nowhere, however, did she mention the jury’s consideration of evidence of intoxication. “This instruction [obliquely] touched on a proper statement of the law. We are satisfied, however, that the judge’s [answer] did not cure the original defect in [her] instructions. In fact, we believe it more likely that this . . . charge added to the confusion in the minds of the jury.” Commonwealth v. Sama, supra at 297 n.2. While the judge’s main charge on the subject was technically correct, see Commonwealth v. Blake, 409 Mass. at 155, without the further required instruction, the answer to the jury’s question must have confounded them.
