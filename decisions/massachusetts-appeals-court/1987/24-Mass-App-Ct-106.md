@@ -1,0 +1,27 @@
+---
+court: "Massachusetts Appeals Court"
+decided: "1987-04-23"
+citations: ["24 Mass. App. Ct. 106"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Richard Currier vs. Edward J. Kosinski & another."]
+source_url: "https://static.case.law/mass-app-ct/24/cases/0106-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3993031
+cites_cases: ["237 Mass. 218", "321 Mass. 512", "367 Mass. 622", "391 Mass. 517", "394 Mass. 399", "394 Mass. 406"]
+---
+
+# Currier v. Kosinski
+
+## Majority (Armstrong, J.)
+
+Armstrong, J.
+The defendants offered their townhouse in Cambridge for sale through the plaintiff, a real estate broker. Although the sale was never consummated, the plaintiff sued for a commission. The judge ordered summary judgment for the defendants.
+The line of cases begun by Tristram’s Landing, Inc. v. Wait, 367 Mass. 622 (1975), followed by Lewis v. Emerson, 391 Mass. 517 (1984), Capezzuto v. John Hancock Mut. Life Ins. Co., 394 Mass. 399 (1985), and Hunneman & Co. v. LoPresti, 394 Mass. 406 (1985), has established a rule, grounded in the reasonable expectations of the typical seller of residential real estate, that the seller will not be liable for a broker’s commission unless three conditions are met: (1) the broker produces a buyer ready, willing, and able to buy on the terms set by or agreed to by the seller; (2) the seller enters into a binding contract to sell; and (3) the sale is consummated, unless the consummation is wrongfully thwarted by the seller. The parties (broker and seller) can agree between themselves that the broker’s commission will be earned without compliance with these conditions. Lewis v. Emerson, supra at 524-525. Capezzuto v. John Hancock Mut. Life Ins. Co., supra at 404. Hunneman & Co. v. LoPresti, supra at 410 n.1 (Wilkins, J., concurring). However, bearing in mind the purpose of the rule to protect the reasonable expectation of the inexperienced home seller that the brokerage commission will be payable out of the purchase price on sale, Tristram’s Landing, Inc., at 629, we think that a provision in a brokerage agreement varying the rule should be made to appear with enough specificity to alert the seller to the situations in which he can be liable for a broker’s commission even if a sale is not consummated.
+The brokerage agreement in this case was not sufficiently explicit to serve that purpose. It provided that the commission would be earned if the broker procured a buyer “ready, willing and able to buy said property in accordance with the price, terms and conditions of the Agreement or such other price, terms and conditions as shall be acceptable to the Seller.” This language generally reflects the first of Tristram’s three conditions. The other two conditions are not explicitly negated. A seller not practiced in the subtleties of real estate sales is not, by this language, sufficiently put on notice that he may incur liability for a broker’s commission even though he does not enter into a purchase and sale agreement or, if he does, even though the buyer defaults. The consequence is that, despite the terms of the agreement, the plaintiff could only earn his commission if the three Tristram’s conditions were met.
+The plaintiff contends that the three conditions were, in fact, satisfied. The buyers offered to purchase the townhouse for $4,000 less than the asking price. The defendant Mayer signed the space at the bottom of the offer form indicating that she agreed to the offer. The defendant Kosinski, whose agreement was also essential to the sale, did not sign. There is no suggestion that Mayer signed as Kosinski’s agent. It could be found on the evidence that Kosinski agreed orally, either himself or through Mayer or his lawyer. We assume, without deciding, that an oral agreement to the prospective buyers’ terms would satisfy the first of the Tristram’s Landing conditions.
+It is clear that, on these facts, the second condition was not satisfied. Kosinski’s signature or his agent’s was necessary to form a binding contract of purchase and sale. This was not obtained. Moreover, even if the offer form had been subscribed by both defendants, the form expressly contemplated the later signing of a formal purchase and sale agreement, which probably indicates (we need not decide the point) that the execution of the latter rather than the former would have marked the creation of a binding contract. See Doten v. Chase, 237 Mass. 218, 220 (1921); Chapin v. Ruby, 321 Mass. 512, 515 (1947). “ [A] seller ordinarily expects that he is free to sell to whomever he chooses, until he has signed a purchase and sale agreement.” Capezzuto v. John Hancock Mut. Life Ins. Co., 394 Mass. at 403.
+A written agreement incorporating terms thought to be mutually acceptable was later worked out between the lawyers for all parties and was signed by the buyers. It was forwarded to the defendants for signing without the $15,000 down payment which, by the terms of the offer, was to be paid upon execution of the purchase and sale agreement. Neither defendant signed the agreement.
+As the defendants never entered into a binding contract to sell their townhouse, the second of the Tristram’s Landing conditions was not met. The judge correctly ordered the entry of judgment for the defendants.
+Judgment affirmed.
