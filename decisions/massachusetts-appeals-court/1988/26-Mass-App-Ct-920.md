@@ -1,0 +1,34 @@
+---
+court: "Massachusetts Appeals Court"
+docket: "87-1440"
+decided: "1988-06-28"
+citations: ["26 Mass. App. Ct. 920"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Commonwealth vs. Richard F. Callen."]
+source_url: "https://static.case.law/mass-app-ct/26/cases/0920-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1157032
+cites_cases: ["15 Ohio St. 3d 1", "443 U.S. 1"]
+---
+
+# Commonwealth v. Callen
+
+## Majority
+
+The defendant, Callen, was arrested for operating a motor vehicle on February 26, 1987, while under the influence of intoxicating liquor. The defendant consented to take a breathalyzer test. It showed that he had a blood alcohol level of 0.20 (percentage, by weight, of alcohol in the blood). At arraignment in District Court on March 4, 1987, the judge pursuant to G. L. c. 90, § 24N, suspended the defendant’s operator’s license for ninety days or until earlier disposition of his case. The defendant claimed a first-instance jury trial, but in the jury-of-six session waived jury. At trial he contested only the point that the locus, an unpaved area of a parking lot, was a public place within the statute. He was convicted. The judge, on August 7, 1987, in connection with sentence, suspended the defendant’s license for the minimum period of forty-five days (the maximum being ninety days), and also made other dispositions, all as provided in G. L. c. 90, § 24D, as amended by St. 1986, c. 620, § 14. The defendant asked the judge to exercise discretion and “relate back” the forty-five days to the earlier ninety-day suspension, thus reducing the current suspension to zero, but the judge held that he had no such discretion under § 24D. The question of interpretation is before us on the present appeal. We agree with the judge.
+The two sections of c. 90 stem, in their present texts, from the Safe Roads Act of 1986, St. 1986, c. 620, a fresh, comprehensive attack on drunken driving. We describe these provisions in abbreviated form. To track § 24N: Where a complaint has issued for the offense of operating under the influence (or other stated offenses), the judge, at arraignment, in addition to any other terms of bail or recognizance, “shall” immediately suspend the defendant’s license if the prosecution makes a prima facie showing that the defendant was operating a motor vehicle while his blood alcohol level was 0.10 percent or more. This suspension continues until the disposition of the offense, but no longer than ninety days. The showing is made by certification or oral testimony with respect to the making of a test and its result.
+Section 24D deals with an aspect of sentencing after conviction of the offense whether by trial or plea. In addition to the stated penalties for the offense and conditions attaching to any suspension of sentence, the judge may, if the defendant consents, place him on probation for not more than two years. As a condition of probation, the defendant shall be assigned to a driver alcohol education program (and, if the court deems necessary, to an alcohol treatment or rehabilitation program or both); and his license “shall” be suspended for not less than forty-five nor more than ninety days.
+The language regarding the postconviction suspension of a license does not itself admit of a construction that a judge is authorized to use any part of the earlier suspension period to serve in lieu of the later one. A judge under § 24D already has a range of discretion to suspend a license between the limits of forty-five and ninety days and there is no indication that the minimal forty-five days may be extinguished by “relation back.” The reconsideration and overhaul of the statutory system in 1986 was so extensive and so intent on stiffening sanctions that one should hesitate to gloss § 24D as the defendant proposes. The defendant urges us to reason by analogy to G. L. c. 279, § 33A, which requires a court, in imposing a criminal sentence, to reduce the term of imprisonment by the length of time a defendant has spent in confinement while awaiting or during trial. The tendered analogy is quite remote; and it is noteworthy that, before the enactment of § 33A, the courts did not reduce sentence by waiting time. This suggests an acceptance of the general proposition that the term of a sentence as defined by statute could not be effectively shortened except as allowed by statute.
+Joseph H. Sexton, III, for the defendant.
+Cheryl A. Jacques, Assistant District Attorney, for the Commonwealth.
+Sections 24N and 24D stand together pretty well even though not perfectly. A person charged with drunken driving who turns up with a substantiated blood alcohol content of 0.10 percent or more must be thought of as a menace to public safety, and it makes sense to relieve him of his license for a period of time by swift administrative action. The regular criminal prosecution ought to go forward and end during this period. Section 24N envisages this. It is regrettable when such expedition is not achieved — another among multitudinous examples of the reality of criminal procedure confounding the theory. The suspension of a license upon conviction at least for the minimum period has the distinct purpose of keeping the now proven malefactor off the roads until he gets some remedial attention and can with more or less assurance to the public return to the wheel. It might be thought anomalous to have him driving ad lib during the interval immediately following conviction.
+Judgment affirmed.
+The defendant is not shown to have made any constitutional contention below. Cf. Mackey v. Montrym, 443 U.S. 1 (1979) (constitutionality of suspension of driver’s license for refusal to take a breathalyzer test on arrest for driving under the influence).
+A procedure is set out in § 24N by which the person within ten days may challenge a suspension based on chemical analysis of his breath.
+Formerly, the period was set at thirty days. See G. L. c. 90, § 24D, as appearing in St. 1982, c. 373, § 6.
+Under the statute before its rewriting by St. 1958, c. 173, the reduction of sentence by waiting time was discretionary, not mandatory. See G. L. c. 279, § 33A, inserted by St. 1955, c. 770, § 101.
+We learn about the pre-statute practice from the Report and Recommendations of the Governor’s Committee to Study the Massachusetts Correctional System, 1955 Sen. Doc. No. 750, at 75.
+For the acceptance of the 0.10 level as betokening dangerous driving, see the table set out in State v. Tanner, 15 Ohio St. 3d 1, 4 n.3 (1984).
+The Administrative Justice of the District Court Department, in a memorandum of December 18, 1986, to judges (but of course without attempting to bind them), expressed the same view of the interpretation of § 24D as we take in the present opinion.
