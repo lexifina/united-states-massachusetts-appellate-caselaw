@@ -1,0 +1,58 @@
+---
+court: "Massachusetts Appellate Division"
+docket: "6878"
+decided: "1968-12-18"
+citations: ["43 Mass. App. Dec. 175"]
+reporter: "mass-app-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["OLGA PEREZ v. ROBERT M. LEHNER, et al"]
+source_url: "https://static.case.law/mass-app-dec/43/cases/0175-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4335168
+cites_cases: ["118 Mass. 234", "163 Mass. 89", "180 Mass. 113", "200 Mass. 188", "21 A.L.R. 2d 421", "258 Mass. 269", "294 Mass. 152", "302 Mass. 309", "306 Mass. 344", "314 Mass. 536", "315 Mass. 84", "333 Mass. 740", "49 A.L.R. 2d 314"]
+---
+
+# Perez v. Lehner
+
+## Majority (Brooks, P. J.)
+
+Brooks, P. J.
+This is an action of tort remanded for trial to the Municipal Court of the Roxbury District. The declaration is in four counts. Count 1 alleges that while plaintiff was employed by defendant Robert M. Lehner on June 17, 1963 she was injured as the result of the negligent maintenance of a stool owned and in possession of defendant. Count 2 alleges injury to plaintiff while in the employ of defendant Lehner due to a defective stool owned and in the possession of Lehner. Counts 3 and 4 were waived before trial. Defendant answers by way of general denial, assumption of risk and contributory negligence.
+Plaintiff, who was the only witness, testified that as she was about to clean Venetian blinds in Lehner’s home, Mrs. Lehner told her to use the stool in question for that purpose. Plaintiff proceeded to climb the steps of the stool with a bucket of water in her right hand to clean the blinds. As she put her weight on the top step just below the top platform, the step gave way falling to the floor causing her to fall sideways to the floor.
+Plaintiff had never used the stool before but testified that she had seen it about one month prior to the accident in defendant’s home. She had no opinion about the general condition of the stool except that it was not new. She saw no defects but never actually examined the stool.
+Defendant Robert M. Lehner made the following requests for rulings:
+1. The evidence does not warrant a finding that the defendant, his agents or servants, were negligent.
+2. The evidence does not warrant a finding other than that the negligence of the plaintiff contributed in whole or in part to cause the alleged injuries and damage.
+3. The evidence does not warrant a finding that the negligence of the defendant proximately caused the alleged injuries and damage.
+4. As a matter of law the defendant breached no legal duty owed by him to the plaintiff.
+5. The defendant employer does not insure the plaintiff employee, but is bound to use only ordinary care for his safety. Ryan v. Fall River Iron Works Co., 200 Mass. 188.
+6. Plaintiff assumes the risk of all obvious defects and all conditions known to him (her). Cunningham v. Merrimack Paper Co., 163 Mass. 89 (1895).
+7. Defendant need warn plaintiff of dangers only when he (defendant) actually knew or should have known of a defect.
+8. The evidence does not warrant a finding that the defendant knew or should have known of any defects causing plaintiff’s alleged injury.
+The court denied defendant’s requests ##1, 2, 3 and 4 and granted requests ##5 and 6. Requests ##7 and 8 were granted “subject to the doctrine of res ipsa loquitur.” The court found the following facts:
+“I find that the plaintiff was employed by the defendant to perform housework in his home; that the agent or servant of the defendant furnished the plaintiff a ladder to use in her work; that she had never used this ladder before; that she did not observe any defects in the ladder; that while she was using this ladder, consisting of five steps, to clean windows and Venetian blinds, the top step broke, causing her to fall to the floor injuring her lower back. There was also testimony of a previous mishap the week before causing her minor injury to the upper part of her back; that she returned to work for the defendant the following week where the ladder incident occurred; that the injuries were severe causing the plaintiff to be confined to the hospital for nine days.
+“I find that the unexplained collapse of the ladder step while being used in a normal manner was due either to defective construction or to lack of repair, and that its unsafe condition was more likely attributable to negligence on the part of the defendant than to some other cause — I find that the doctrine of “res ipsa loquitur” applies in this case.”
+Defendant claimed to be aggrieved by the denial of its requests for rulings ##1, 2, and 4.
+The trial judge based his finding for plaintiff on the theory of res ipsa loquitur. This he was compelled to do in the absence of any evidence to explain the broken step. That is to say, the court ruled that the mere collapse of the step raised an inference that it was defective and that the defendant should have known of the defect.
+It is essential to the doctrine of res ipsa loquitur that the defendant be in sole control of the property or premises. In cases where res ipsa loquitur has been held to apply, the thing which caused the injury was controlled by the defendant and not by the injured party. Ryan v. Fall River Iron Works, Inc., 200 Mass. 188. Lynch v. N.Y., N.H., and Hart. RR, 294 Mass. 152, 163. The doctrine was held not to apply in Kendall v. Boston, 118 Mass. 234 where during a concert given by the city to the Grand Duke Alexis of Russia, a bust of Benjamin Franklin fell from its pedestal in Music Hall and injured plaintiff. No plausible reason was offered for this occurrence. The court said:
+“Without some evidence as to the manner in which the bust was attached or secured, its fall alone did not furnish sufficient evidence of negligence.”
+To the same effect is Block v. Opera Hold. Co., 258 Mass. 269, 273. This was a case where lemonade was spilled on plaintiff in the dark and there was no evidence to show the cause of the accident. The court said:
+“The doctrine of res ipsa loquitur is not applicable to the case at bar. While the mere occurrence of an injury sometimes raises a presumption of liability on the part of a defendant, yet in such cases it must appear that the instrumentality causing the injury was in.the control of the defendant.”
+In the Kendall case, cases were cited where defendant was found liable. With regard to these, the court said:
+“In all these cases it is to be observed that the defendant has been proved to have had exclusive control and management of those objects and agencies from some defects in which the accident must have taken place.”
+In cases cited by plaintiff where the court has found liability, such as in Couris v. Casca Amusement Corp., 333 Mass. 740, Bell v. Dorchester Theater Co., 314 Mass. 536, and Keenan v. E.M. Loews, 302 Mass. 309, 312, involving the collapse of seats in public buildings evidence of decayed wood, loose screws or missing bolts took the case out of the domain of res ipso loquitur.
+Generally speaking, in these cases two facts have to be proved, existence of a defect and defendant’s knowledge of the defect. Whether the cause of the accident is a banana peel on the floor of a market, a hole in a sidewalk or a defective step in a tenement, an essential element is defendant’s knowledge, actual or constructive, of the defect. For example, in Briggs v. New Bedford Amusement Co., 315 Mass. 84 plaintiff was injured at the theater by a splinter of wood from the seat. The jury had found for plaintiff. This finding was reversed on appeal. The Court stating:
+"The vital question in the case is whether upon the evidence it could have been found that the condition of the seat in question was such that, in the exercise of reasonable care, it should have been discovered by the defendant before the plaintiff received her injury... The description of the splinter, as it is called, does not serve to indicate the length of time it had been there.”
+"The court denied plaintiff recovery on the ground that the splintered condition of the seat where the plaintiff was injured had not existed long enough so that a reasonably diligent proprietor of a theater should have known of its existence.
+In the case before us plaintiff undertakes to prove constructive knowledge by application of the doctrine of res ipsa loquitur.
+No case has been cited precisely in point where the doctrine of res ipsa loquitur applied merely on the basis of the breaking of a step on a stepladder. The nearest cited case appears to be Drum v. N.E. Cotton Yarn Co., 180 Mass. 113. There, plaintiff’s employee was standing on employer’s stepladder cleaning a belt. While she was descending the ladder, it broke and plaintiff fell to the floor. There was no explanation as to the cause of the break. Plaintiff originally recovered on the doctrine of res ipsa loquitur. The Supreme Court, however, reversing the verdict said:
+“It cannot be said when a stepladder breaks that the fact of its breaking by common experience points more closely to a defect in the appliance than to some carelessness on the part of some person using it.”
+It would appear that in our case the ladder gave way because the combined weight of plaintiff and a pail of water was too much for the top step of the ladder. There was nothing about the ladder before the accident, nor even afterward, to suggest to either plaintiff or defendant the existence of a defect. Under these circumstances it would seem improper to find either that plaintiff was lacking in due care or defendant negligent in not discovering a latent defect.
+We hold that the doctrine of res ipsa loquitur does not apply and for that reason alone plaintiff cannot recover merely because the stepladder broke.
+There is another obstacle, however, to plaintiff’s recovery and that is her failure to show that the stepladder was in any different condition at the time of the accident than when plaintiff entered her employment by defendant. The case of Sjostedt v. Webster, 306 Mass. 344 also involved a stepladder. While there were other factors in the case, one statement in the opinion of the Court is pertinent to the present case:
+“If the evidence was sufficient to warrant the jury in finding that the accident was not due solely to the slippery floor but that the condition of the step-ladder had a causal connection with its occurrence, then there was no error in ordering the entry of a verdict for the defendant. There was no evidence that any part of the stepladder was broken or that there was a hidden defect. If the step-ladder was less rigid or stable than an ordinary stepladder, then such condition was obvious and was known to the plaintiff. The evidence would not warrant a finding that the step-ladder was not in the same condition when she entered the defendant’s employment a few days before the accident as it was at the time of the accident. It was a known risk incident to the employment, and the defendant was under no obliglation to change the obvious conditions of his premises or to improve the obvious methods of business that existed at the time the employment began. The risk arising from such conditions became a part of the contract of employment and continuance of such conditions did not constitute negligence of the employer.”
+Albert M. Escott of Boston for plaintiff
+J. A. McDonald of Boston for defendant
+For cases on defective ladders and domestic servants, see 49 A.L.R. 2d 314, 353. For cases involving res ipsa loquitur, see 21 A.L.R. 2d 421.
+Findings for plaintiff to be vacated and a finding entered for defendant.
