@@ -1,0 +1,26 @@
+---
+court: "Massachusetts Appeals Court"
+docket: "91-P-506"
+decided: "1992-02-14"
+citations: ["32 Mass. App. Ct. 924"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Commonwealth vs. Christopher C. Moore."]
+source_url: "https://static.case.law/mass-app-ct/32/cases/0924-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4007320
+cites_cases: ["13 Mass. App. Ct. 417", "22 Mass. App. Ct. 286", "27 Mass. App. Ct. 41", "27 Mass. App. Ct. 557", "403 Mass. 640", "410 Mass. 541", "411 Mass. 708", "446 U.S. 544", "463 U.S. 1201", "469 U.S. 1188", "651 F.2d 71"]
+---
+
+# Commonwealth Vs. Christopher C. Moore
+
+## Majority
+
+Among the careful and detailed findings of fact made by the Superior Court judge on a motion to suppress evidence, the critical ones for purposes of the appeal are: (1) that the State police officer, after he examined the driver’s-license of the defendant Moore, returned the license to him; (2) that the officer informed Moore that he did not have to talk to him if he did not want to; and (3) that Moore invited the officer to search him.
+Moore had attracted the interest of the police officer at Logan Airport, where the officer was on the lookout for incoming drug traffic. The officer first followed Moore. This was not an unlawful police practice. See Commonwealth v. Wooden, 13 Mass. App. Ct. 417, 419-420 (1982) (“nothing improper” about “surveillance based on a hunch,” which included turning onto a street to follow the defendants, but without stopping them); Commonwealth v. Jiminez, 22 Mass. App. Ct. 286, 290 (1986) (following defendants’ car in police car prior to stop). Similarly, the approach to Moore by the officer, who was acting alone and displayed no weapon nor acted in a coercive manner, did not amount to an arrest. Commonwealth v. Sanchez, 403 Mass. 640, 644-645 (1988). United States v. West, 651 F.2d 71, 73 (1st Cir. 1981), vacated on other grounds, 463 U.S. 1201 (1983), cert. denied, 469 U.S. 1188 (1985) (a seizure occurs only when the police have engaged in some show of authority, such as the use of physical force, threatening presence, display of a weapon, physical touching, or use of authoritative language or tone of voice); Commonwealth v. Fraser, 410 Mass. 541, 543-544 (1991) (“the police do not effect a seizure merely by asking questions unless the circumstances of the encounter are sufficiently intimidating that a reasonable person would believe he was not free to turn his back on his interrogator and walk away”); Commonwealth v. Pimentel, 27 Mass. App. Ct. 557, 560 (1989) (“Examples of circumstances that might indicate a seizure, even where the person did not attempt to leave, would be the threatening presence of several officers, the display of a weapon by an officer, some physical touching of the person of the citizen, or the use of language or tone of voice indicating that compliance with the officer’s request might be compelled”). See also Commonwealth v. Laureano, 411 Mass. 708, 710 (1992). Moore was asked to identify himself and show his driver’s license. As he had also been told he was free not to talk to the officer, those questions were permissible. Moore disputes that the officer gave him back his driver’s license, but the evidence on that score, although it did not compel a finding that the license had been returned, warranted such a finding.
+Dana A. Curhan for the defendant.
+Linda M. Nutting, Assistant Attorney General, for the Commonwealth.
+As the judge observed, it was the defendant who asked the police officer if the latter thought he, Moore, was a drug dealer, something the officer had not mentioned. However little the officer may have had to work with at the early stage of the encounter, Moore proceeded to fill the gap by undoing his dungarees, exposing his testicles, and inviting the officer to “go ahead and look.” The officer declined that invitation but asked if he might pat down Moore’s jacket and the bottom of his legs. Moore said, “Sure, go ahead.” When he pat-frisked Moore’s legs, the officer felt something. The officer asked Moore what it was and Moore replied, “None of your business.” Thereupon the officer tried to investigate further. Now Moore resisted and a struggle began. Police backup materialized. The State troopers subdued Moore, placed him under arrest, and searched him. What was taped around Moore’s ankles were three baggies of cocaine.
+Moore’s resistance when the officer felt the ankle packs, along with the other circumstances, furnished probable cause for the officers to think that Moore was engaged in the commission of a crime, trafficking in drugs, and justified his search. Commonwealth v. Rivera, 27 Mass. App. Ct. 41, 43 (1989). Until the discovery of the ankle bags, which, in the.circumstances, warranted the investigating officer’s believing that Moore was a narcotics “mule,” Moore had not been restrained, i.e., not seized within the meaning of the Fourth Amendment to the United States Constitution. United States v. Mendenhall, 446 U.S. 544, 554-555 (1980). Commonwealth v. Sanchez, 403 Mass. at 644-645. Commonwealth v. Fraser, 410 Mass. at 543-544. Commonwealth v. Pimentel, 27 Mass. App. Ct. at 560.
+Judgment affirmed.
