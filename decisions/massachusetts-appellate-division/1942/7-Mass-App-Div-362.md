@@ -1,0 +1,28 @@
+---
+court: "Massachusetts Appellate Division"
+decided: "1942-09-08"
+citations: ["7 Mass. App. Div. 362"]
+reporter: "mass-app-div"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Present: Putnam, G. J., Adlow & Tomasello, JJ."]
+parties: ["JOHN H. SPAVOLD vs. CHESTER L. PERRY, AND TRUSTEE."]
+source_url: "https://static.case.law/mass-app-div/7/cases/0362-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3884909
+cites_cases: ["203 Mass. 364", "218 Mass. 232", "218 Mass. 258", "233 Mass. 258", "251 Mass. 494", "272 Mass. 49"]
+---
+
+# Spavold v. Perry
+
+## Majority (Adlow, J.)
+
+Adlow, J.
+Action of contract for balance due under a building contract. Counts 1 and 3 are for the balance due under the contract. Count 2 is for extra work performed at the request of the defendant. The agreement provided that the plaintiff was to perform the carpenter work on the defendant’s house in accordance with certain plans and specifications. For this work the plaintiff was to receive $750. in certain instalments payable as the work progressed, the contract specifying the stage at which each payment became due. There were six such instalments. The first two of $150. each were paid by the defendant. Of the '3d instalment of $112.50 the defendant only paid $50., and alleged in justification of his failure to pay the balance the failure of the plaintiff to properly perform that work which under the terms of the contract required completion before the 3d instalment became due. The defendant offered evidence to show that because of the plaintiff’s poor workmanship it was necessary to call in another carpenter to complete the work.
+At the request of the defendant the court ruled that “where a contract between plaintiff and defendant provides that the plaintiff shall do certain work in a manner satisfactory to the defendant, plaintiff may not recover under said contract where his work was not done to the reasonable satisfaction of defendant.” This principle governs the basic rights of the parties in this situation and conforms to the accepted view of the law. Dubinsky v. Wells Bros. Co., 218 Mass. 232, 236. The court refused, however, to rule as requested by the defendant that “Plaintiff’s refusal to complete performance of his part of the contract upon defendant’s withholding of the balance of the third payment of 15% which was not then due ended defendant’s obligation to plaintiff under the contract”. The court denied this request and made the following findings:
+“I find the third payment was due; that he had performed his part of the contract up to this point; that failure to pay plaintiff the full 15% at this time was a breach of contract on the part of the defendant”. It appears that the defendant’s request is based on facts other f.bfl.n those found by the court. The denial of such request was proper. Carnes v. Howard, 180. Mass. 569, 572, Hall v. Katowski, 251 Mass. 494, 496. On the facts as found the plaintiff was entitled to the third instalment under the contract. Bowen v. Kimball, 203 Mass. 364, Bucholz v. Green Bros. Co., 272 Mass. 49. The basis on which damages were awarded with respect to the remaining instalments does not appear from the report. While the defendant has raised this question both in his brief and argument it is not open under this report.
+With respect to the second count in plaintiff’s declaration wherein the plaintiff sought to recover $30. for insulating work done at the request of the defendant, the terms of the contract are material. The specifications annexed to the agreement provide in part for “Insulation — all exterior walls shall be fully insulated with rock wool bats 15" x 23" and the second floor ceiling”. The court refused to rule that this provision obliged the plaintiff to do the labor connected with insulating the house, and disposed -of the defendant’s request in the following language: “I rule that this contract for carpentry labor did not embrace the labor of insulating the building.” While the construction of written agreements is within the province of the court there is no latitude or discretion permitting any abandonment of the obvious import of the language used by the parties. The court construes-a written instrument; it cannot revise it. Cawley v. Jean, 218 Mass. 258 at 263. If there is an exception to this general rule in instances where an ambiguity occurs (New York Central Railway v. Stoneman, 233 Mass. 258 at 263) it does not appear from the report that any such ambiguity was claimed or that evidence was offered to show that the language used in the agreement had any significance beyond its ordinary import. The defendant’s requested ruling should have been given.
+Parties will observe that this report has not been prepared in conformity with the rules of this court which require that “Papers on file in the case may not be incorporated by reference except by permission of the Appellate Division”. (Rule 29). The obvious purpose of this rule is to present the facts in as concise and clear a manner as the situation permits, and to assist the court in disposing of the issues raised by the report. Instead a detached and cumbersome record in this cause has served no purpose except to complicate a relatively simple issue.
+No error of law appearing with respect to the rulings affecting Counts 1 and 3 the finding with respect to these counts should stand. Otherwise with respect to the finding for the plaintiff on count 2.
+Finding for plaintiff on Count 1 and 3 to stand.
+Finding for plaintiff on Count 2 to be vacated and to be entered for the defendant.
