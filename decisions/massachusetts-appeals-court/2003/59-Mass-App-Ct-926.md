@@ -1,0 +1,30 @@
+---
+court: "Massachusetts Appeals Court"
+docket: "02-P-869"
+decided: "2003-11-05"
+citations: ["59 Mass. App. Ct. 926"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Commonwealth vs. Rene Crespo."]
+source_url: "https://static.case.law/mass-app-ct/59/cases/0926-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1508528
+cites_cases: ["18 Mass. App. Ct. 685", "366 Mass. 89", "373 Mass. 109", "407 Mass. 891", "407 Mass. 909", "456 U.S. 798", "52 Mass. App. Ct. 166", "58 Mass. App. Ct. 117"]
+---
+
+# Commonwealth v. Crespo
+
+## Majority
+
+While patrolling in the westbound lane of the Massachusetts Turnpike at 5:30 a.m. on January 1, 2000, State Trooper Michael Wilmot saw a Lexus sport utility vehicle (SUV) in the eastbound lane “take a sudden swerve to the right towards [the] breakdown lane. . . and then. . . swerve back to the left. . . towards the center of the roadway . . . then ... flip over several times.” The SUV “came to rest on the passenger side... in about the center travel lane . . . .” After calling for backup, the trooper made a “quick U-turn” in a turnaround and pulled up to the SUV. He peered through the driver’s window and saw two adult passengers seated in the front seat. The trooper identified the defendant as the driver. He was the only one wearing a seat belt. There also were five children in the car, including a little girl whose head was trapped under the car. Other public safety and medical personnel appeared, freed the child, and transported all seven occupants to area hospitals.
+There was debris scattered all around the SUV. After the occupants had been taken to hospitals, one of the responding troopers found a transparent baggie four to six feet “off to the side of the rear bumper of the [SUV].” The baggie was filled with white power that, based on their training, both Wilmot and the trooper who discovered the baggie believed to be cocaine. The powder was later tested and proved to be 253.18 grams of thirty-four percent pure cocaine. Not far from the transparent baggie, a police sergeant discovered a “dark plastic bag that said Lexus on it.” Inside the Lexus bag was a plastic shopping bag with $10,200 cash in it. After notifying Wilmot, who was on his way to the hospital to talk to the driver of the SUV, about the discovery of the money, the sergeant took the Lexus bag and the money back to the State police barracks, where a drug sniffing dog reacted strongly to it. While the items were at the barracks, the black Lexus bag was discovered to contain the defendant’s photographic identification, a lease for the car with the defendant’s name as the lessee, and earnings statements of the defendant. The defendant’s wallet contained the Lexus registration and the defendant’s driver’s license.
+A Superior Court jury found the defendant guilty of trafficking in more than two hundred grams of cocaine. G. L. c. 94C, § 32E(Z>)(4). On appeal from that conviction, the defendant claims that his trial counsel was constitutionally ineffective for failing to file a motion to suppress the fruits of the warrantless search of the closed Lexus bag.
+The Commonwealth argues that the defendant has waived this claim because he did not file a motion for a new trial. We think the record is adequate to consider the defendant’s argument, see Commonwealth v. Anderson, 58 Mass. App. Ct. 117, 124 (2003), and therefore proceed to do so under the familiar standards set out in Commonwealth v. Saferian, 366 Mass. 89, 96 (1974), and Commonwealth v. Satterfield, 373 Mass. 109, 115 (1977).
+When the basis for a claim of ineffective assistance of counsel is the failure to file a motion to suppress, we consider first whether, if the motion to suppress had been filed, it would have been successful. See Commonwealth v. Fletcher, 52 Mass. App. Ct. 166, 168 (2001). Since we conclude that in this case the answer to that question is no, we need not consider whether, had the evidence been suppressed, there was a reasonable possibility that the verdict would have been different. Id. at 169.
+The discovery of a substantial amount of white powder that appeared to be cocaine in plain view on the ground near the SUV provided probable cause to believe there was other contraband in the car as well as in the debris surrounding the car. “It is widely accepted that the discovery of some controlled substances gives probable cause to search for additional controlled substances in the vicinity.” Commonwealth v. Skea, 18 Mass. App. Ct. 685, 690 n.8 (1984). It follows that the police could search the Lexus bag as well. See Commonwealth v. Cast, 407 Mass. 891, 908 (1990) (probable cause to search vehicle “extends to all containers, open or closed, found within”). “The scope of a warrantless search of an automobile ... is not defined by the nature of the container in which the contraband is secreted[, but rather]. . . by the object of the search and the places in which there is probable cause to believe that it may be found.” Id. at 906, quoting from United States v. Ross, 456 U.S. 798, 824 (1982). See Commonwealth v. Wunder, 407 Mass. 909, 913-915 (1990).
+Donald K. Freyleue for the defendant.
+Timothy J. Smyth, Assistant District Attorney, for the Commonwealth.
+In an accident, especially one in which a vehicle has rolled over and passengers are injured, the field of debris that reasonably appears to have come from the car may be regarded as part of the vehicle for search purposes. Moreover, in this case the police knew that turnpike maintenance crews would be called upon to clean up the accident scene and in the process would dispose of the debris in order to make the road passable for the general public.
+Counsel was not ineffective. A motion to suppress the Lexus bag would not have been allowed. Nor was counsel ineffective for not filing a motion to suppress the statements the defendant made when the trooper questioned him at the hospital about the contents of the Lexus bag.
+Judgment affirmed.
