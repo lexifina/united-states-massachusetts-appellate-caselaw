@@ -1,0 +1,46 @@
+---
+court: "Massachusetts Appellate Division"
+docket: "25991"
+decided: "1971-04-21"
+citations: ["46 Mass. App. Dec. 44"]
+reporter: "mass-app-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ANTHONY J. CERRONE, d/b/a MOTOR MART v. LYNN MUTUAL INSURANCE COMPANY"]
+source_url: "https://static.case.law/mass-app-dec/46/cases/0044-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4335500
+cites_cases: ["147 Neb. 237", "155 Mass. 523", "206 Va. 1", "233 Minn. 383", "277 S.W. 2d 256", "300 NYS 1229", "303 Mass. 123", "306 Mass. 597", "316 Mass. 547", "322 Mass. 325", "33 Tenn. App. 223", "335 Mass. 208", "337 Mass. 77", "48 A.L.R. 2d 76", "48 N.D. 841", "92 Ga. App. 548", "97 Mass. 428"]
+---
+
+# Cerrone v. Lynn Mutual Insurance
+
+## Majority (Covett, J.)
+
+(This opinion has been abridged).
+Covett, J.
+This is the second time this case has been reported to this Division. This present appeal is from the new trial held in accordance with our order in our prior decision which appears in 21 LEGALITE 467, rendered on December 30, 1969 in which we decided that the trial justice acted inconsistently in the granting of the plaintiff’s and defendant’s request for rulings.
+In this appeal the trial justice has made detailed findings of fact which amply cover all of the reported evidence, therefore, we are not repeating that evidence. We note that in the second trial, there was some additional evidence, namely, that the gear shift was in park position, the driver’s car door was left open and the hand brake was on.
+It was agreed that if there was a finding for the plaintiff it would be in the amount of $2,-111.60.
+In our previous decision, we said by the way of dictum that the leaving of the stranger, Barlow, alone in the automobile which had gasoline in the tank and the key in the ignition would warrant if not require the conclusion that the vehicle was entrusted to Barlow’s custody by the plaintiff’s representative. That being so the provisions of Exclusion (e) of the theft policy would apply and there could be no recovery under the policy.
+The defendant has argued to us that the prior decision became the “law of the case” and that neither party filed a claim of appeal from that decision.
+The action of this Division in ordering a new trial was not a “final decision” from which an appeal could have been claimed and entered at once in the Supreme Judicial Court. Alves v. Picard, 337 Mass. 77, 78; Redfield v. Abbott Shoe Company, 335 Mass. 208, 209; Weiner v. Pictorial Paper Package Corp., 303 Mass. 123, 125.
+The “law of the case”, in the primary meaning of that expression, does not deny the power of an appellate court to reconsider a point determined upon an earlier appeal in the same case. Peterson v. Hopson, 306 Mass. 597, 602.
+We do not intend to follow the dictum in our decision of December 30, 1969 but prefer to review and consider all of the questions contained in this case.
+Exclusion (e) in the theft policy prevents recovery for losses (1) “resulting from or occurring after the insured’s voluntarily parting with title or possession of any automobile if induced to do so by any fraudulent scheme, trick, device or false pretense” or (2) “from .embezzlement, conversion, secretion, theft, larceny, robbery or pilferage committed by any person entrusted by the insured with custody or possession of the automobile. ’ ’
+A case involving an exclusion provision similar to (1) is Botnick Motor Corp. v. Northern Insurance Co. of N.Y., 300 NYS 1229 in which a prospective purchaser on a test drive with a salesman departed with the car after convincing the salesman to get out and check the tires, it was held that there was no voluntary surrender of possession. The Botnick case is to be distinguished by the fact that the agent was tricked into leaving the car, while Maratta left on his own accord, and also by the fact that the theft occurred after a test drive had begun.
+In Tripp v. U. S. Fire Insurance Co. of N.Y., 141 Ka. 897, it was held that when a dealer allowed a prospective purchaser to leave with the car, he parted only with custody and title and possession remainded in him.
+The courts are irreconcilably split on whether a delivery of an auto to a prospective purchaser constitutes a parting with possession or custody. 48 A.L.R. 2d 76.
+In the case of Commonwealth v. Berry, 97 Mass. 428, the defendant, who was employed as a servant, was directed by one member of the firm who employed him to convey a sum of money from him, to another member of the firm. It was held that he had the custody of the money, but not any legal or separate possession of it.
+In the case of Commonwealth v. Ryan, 155 Mass. 523, the defendant was employed by one Sullivan to sell liquor for him in his store. Sullivan sent two detectives to the store with marked money of Sullivan’s to make a feigned purchase from the defendant. One detective did so. The defendant did not register the sale and within a minute or two he took the money from the drawer. It was held that it was not larceny for a servant to convert property delivered to him by a third person for his master, provided he does so before the goods have reached their destination, or something has happened to reduce him to a mere custodian; while, on the other hand, if the propety is delivered to the servant by his master, the conversion is larceny.
+The point that should be emphasized here is that the parting was not accompanied by the requisite intent to allow physical control over the vehicle to pass to the prospective purchaser. This requisite intent is stressed in two cases which also involve similar exclusion provisions to alternative (1) but different fact patterns. In both Boyd v. Travelers Fire Insurance Co., 147 Neb. 237, and Jacobson v. Aetna Casualty and Surety Co., 233 Minn. 383, recovery was disallowed because physical control over the vehicles was voluntarily surrended to prospective buyers who subsequently disappeared with the cars.
+The second alternative of Exclusion (e) presents many problems which resolve principally around the definitions of and interaction between two terms: “entrusted” and “custody”.
+We have been unable to find any case construing these terms with facts similar to the case before us. However, it has been held that a dealer who allowed prospective purchasers to take a vehicle across the street to the gas station “entrusted custody” to them, because he gave them the opportunity to convert the car for their own purposes which they did. Aetna Insurance Co. v. Kaplan, 206 Va. 1. Recovery was not allowed to a dealer who permitted the customer to test drive the car alone where the exclusion provision contained alternatives (1) and (2). Hanover Fire Insurance Co. of N.Y. v. Scroggs, 92 Ga. App. 548.
+The general view of custody is a state which is something less than possession and involves temporary physical control and/or temporary physical possession. See Monroe County Motor Co. v. Tennessee Odin Insurance Co., 33 Tenn. App. 223, and State of Connecticut v. Smyrski, 4 Conn. Civ. 550.
+However, the real problem with the second alternative of Exclusion (e) arises in deciding whether or not Barlow was “entrusted” with custody of the vehicle. Barlow was left alone in the car because Maratta went inside to notify the office he was going on a test drive and that Maratta was further detained by a phone call. It is questionable whether or not these . facts fit the traditional meaning of “entrust” which “has been defined by both lay and legal authorities in substance to mean to commit something to another with certain confidence regarding his care, use or disposal of it.” Pacific Indemnity Co. v. Harrison, 277 S.W. 2d 256, 261. (Tex. Civ. App. 1955). For similar definitions see State v. Ugland, 48 N.D. 841: Black’s Law Dictionary; Webster’s New International Dictionary (2d ed., 1941); 22A Words and Phrases, Intrust, 153; and 48 C.J.S., Intrust or Entrust, 745. This definition is also impliedly accepted in Aetna Insurance Co. v. Kaplan, 206 Va. 1. While in the Aetna case the dealer did temporarily commit the car to a prospective buyer, the testimony about custom and usage, indicate that Maratta had no reason to have confidence in Barlow and did not intend to “commit” the car to him in any way.
+Theodore R. Leedham of South Attleboro for the plaintiff,
+David W. Woods of Concord for the defendant.
+It has also been held that a person who holds a key which would enable him to take physical possession of the motor vehicle was not evidence of consent thereto on the part of the owner especially in view of the special findings that such person was not allowed to operate the motor vehicle without the owner being present. Fitiles v. Umlah, 322 Mass. 325, 326.
+The leaving of the engine key in the lock by the person in control of a motor vehicle did not indicate that the passenger, rather than the person in control was to drive the automobile. Tommassen v. Feeley, 316 Mass. 547, 549.
+We find that Barlow was not “entrusted” with custody by Maratta, therefore the plaintiff is not barred from recovery on the basis of the second alternative within Exclusion (e).
+There being no prejudicial error, an order should be entered dismissing the report.
