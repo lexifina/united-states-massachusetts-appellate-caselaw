@@ -1,7 +1,7 @@
 ---
 court: "Massachusetts Appeals Court"
 decided: "1986-05-19"
-citations: ["22 Mass. App. Ct. 199", "22 Mass. App. Ct. 192"]
+citations: ["22 Mass. App. Ct. 199"]
 reporter: "mass-app-ct"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +9,7 @@ parties: ["Dorothy B. Edinburg vs. Golda Edinburg & another; Jo-Ann Edinburg Pin
 source_url: "https://static.case.law/mass-app-ct/22/cases/0199-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3988871
-cites_cases: ["12 Suffolk U.L. Rev. 16", "16 Mass. App. Ct. 576", "17 Mass. App. Ct. 585", "19 Mass. App. Ct. 538", "20 Mass. App. Ct. 541", "21 Mass. App. Ct. 664", "21 Mass. App. Ct. 692", "248 Mass. 368", "291 Mass. 399", "320 Mass. 367", "332 Mass. 452", "347 Mass. 779", "353 Mass. 108", "356 Mass. 734", "365 Mass. 771", "365 Mass. 816", "372 Mass. 157", "372 Mass. 671", "378 Mass. 775", "378 Mass. 925", "379 Mass. 305", "380 Mass. 153", "385 Mass. 30", "389 Mass. 146", "395 Mass. 614", "397 Mass. 1001", "470 U.S. 564", "622 F.2d 709", "749 F.2d 945", "8 Mass. App. Ct. 213", "9 Mass. App. Ct. 344", "9 Mass. App. Ct. 40"]
+cites_cases: ["12 Suffolk U.L. Rev. 16", "17 Mass. App. Ct. 585", "20 Mass. App. Ct. 541", "21 Mass. App. Ct. 692", "248 Mass. 368", "320 Mass. 367", "332 Mass. 452", "347 Mass. 779", "353 Mass. 108", "356 Mass. 734", "365 Mass. 816", "372 Mass. 157", "372 Mass. 671", "379 Mass. 305", "380 Mass. 153", "389 Mass. 146", "395 Mass. 614", "397 Mass. 1001", "470 U.S. 564", "622 F.2d 709", "8 Mass. App. Ct. 213", "9 Mass. App. Ct. 344", "9 Mass. App. Ct. 40"]
 ---
 
 # Edinburg v. Edinburg
