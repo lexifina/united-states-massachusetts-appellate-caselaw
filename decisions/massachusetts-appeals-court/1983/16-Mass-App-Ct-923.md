@@ -1,0 +1,28 @@
+---
+court: "Massachusetts Appeals Court"
+docket: "2"
+decided: "1983-06-09"
+citations: ["16 Mass. App. Ct. 923"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Custody of a Minor"]
+source_url: "https://static.case.law/mass-app-ct/16/cases/0923-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5740706
+cites_cases: ["13 Mass. App. Ct. 1088", "13 Mass. App. Ct. 290", "14 Mass. App. Ct. 1013", "3 Mass. App. Ct. 793", "378 Mass. 712", "378 Mass. 934", "386 Mass. 460", "4 Mass. App. Ct. 791", "455 U.S. 745"]
+---
+
+# Custody of a Minor
+
+## Majority
+
+The mother appeals under G. L. c. 119, § 27, from an adjudication of the Salem District Court, finding that her son is a child in need of care and protection and awarding permanent custody of him to the Department of Social Services (department).
+1. Trial on the petition was conducted under § 26 and concluded on December 10, 1981. The trial judge issued a decision on February 1, 1982, finding that the child was in need of care and protection and awarding custody of him to the department. On February 4, 1982, the mother filed a notice of appeal, claiming a trial de nova on the petition under § 27, as amended through St. 1978, c. 478, § 51. Section 27, however, had been amended further by St. 1981, c. 715, § 1, to provide that her appeal was to this court. Rule 1A of the Interim Rules of Appellate Procedure in Care and Protection Cases (Interim Rules), approved by the Supreme Judicial Court on February 11, 1982, provides that “[a]ny appellate proceeding in which a timely claim of appeal has not been filed in the appropriate court prior to January 23,1982, will be governed by these rules pursuant to G. L. c. 119, § 27, as amended by Chapter 715 of the 1981 Massachusetts Acts and Resolves.” (a) The mother’s argument that had the trial judge rendered his decision of February 1,1982, sooner, she would have had a right to a trial de nova, is true but unpersuasive. More important, it is foreclosed by Custody of a Minor (No. 2), 386 Mass. 460, 464 (1982). The trial judge correctly treated the mother’s notice of appeal as invoking the jurisdiction of this court. Cf. Coburn v. Gould, 3 Mass. App. Ct. 793 (1975); Averbuck v. Stoller, 4 Mass. App. Ct. 791 (1976). (b) Even assuming that application of rule 1A could be defeated by a demonstration of prejudice therefrom by the mother, she has failed to show any. The record discloses no attempt by her to resolve any of the unspecified disputes that she intimates she might have had with the trial judge’s recitation of the facts set out in his draft report and findings of fact. See, e.g., Rules 1 and 3(d) of the Interim Rules. See also Mass. R.A.P. 8(d) and (e), as appearing in 378 Mass. 934 (1979). Moreover, in her brief the mother disputes the sufficiency and not the accuracy of the facts relied upon by the trial judge. Finally, we note that the trial judge’s findings of fact and draft report do include, in all crucial respects, a statement of those facts which the mother labeled as “necessary for appellate review of the issues being appealed” in her proposed draft report submitted under Rule 3A of the Interim Rules and included in the record appendix.
+Linda E. Giles for the mother.
+Celeste R. Niarchos for the minor.
+Peter C. DiGangi for Children’s Protective Services.
+Scott A. Smith, Assistant Attorney General, for Department of Social Services, submitted a brief.
+2. The mother challenges the constitutionality of G. L. c. 119, §§ 24 through 26, as amended, by arguing that certain phrases therein found, particularly, “conditions or circumstances damaging to the child’s sound character development,” “proper attention,” and “in need of care and protection,” are so vague as to make those provisions void. An identical constitutional attack upon the statutes was made and rejected in Custody of a Minor (No. 2), 378 Mass. 712, 716-719 (1979).
+3. While there was significant support for the trial judge’s conclusions that the mother “is at present incapable of fulfilling her duties as a mother due to a chronic alcohol problem” and that her son “is a child in need of care and protection,” the draft report and the findings of fact were made shortly before the decision in Santosky v. Kramer, 455 U.S. 745 (1982), where the Supreme Court held that if natural parents are to be permanently deprived of the custody of a child, findings of parental unfitness should be made on the basis of clear and convincing evidence. Where, as here, the department was awarded permanent custody of the child, we think it appropriate and fair to do as we have in the past and remand the case to the District Court for reassessment by the trial judge. See Custody of a Minor (No. 2), 13 Mass. App. Ct. 290, S.C., 13 Mass. App. Ct. 1088 (1982). Cf. Custody of a Minor (No. 3), 14 Mass. App. Ct. 1013, 1014 (1982). As in those cases, the trial judge should consider whether he is prepared to adopt or amplify (including a statement under rule 3[c] of the Interim Rules, “incorporating by reference any reports or other materials” that may have been introduced in evidence), “on the basis of clear and convincing evidence,” the draft report and the findings of fact and conclusions of law that he had previously made. Custody of a Minor (No. 3), 14 Mass. App. Ct. at 1014. Counsel shall be given an opportunity to be heard and the trial judge may consider whether further evidence is required. See Custody of a Minor (No. 2), 13 Mass. App. Ct. at 1089; Custody of a Minor (No. 3), 14 Mass. App. Ct. at 1015. The case is remanded for further proceedings consistent with this opinion.
+So ordered.
