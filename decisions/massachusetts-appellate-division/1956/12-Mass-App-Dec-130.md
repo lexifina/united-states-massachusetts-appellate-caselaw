@@ -1,7 +1,8 @@
 ---
 court: "Massachusetts Appellate Division"
 decided: "1956"
-citations: ["12 Mass. App. Dec. 130", "12 Mass. App. Dec. 137"]
+decided_precision: "year"
+citations: ["12 Mass. App. Dec. 130"]
 reporter: "mass-app-dec"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +10,7 @@ parties: ["JOSE L. BATISTA v. ISAURA SYLVIA"]
 source_url: "https://static.case.law/mass-app-dec/12/cases/0130-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 6063773
-cites_cases: ["235 Mass. 102", "237 Mass. 192", "243 Mass. 22", "260 Mass. 494", "268 Mass. 311", "276 Mass. 508", "295 Mass. 380", "296 Mass. 399", "301 Mass. 14", "302 Mass. 378", "306 Mass. 404", "306 Mass. 482", "307 Mass. 77", "308 Mass. 229", "312 Mass. 183", "312 Mass. 638", "315 Mass. 527", "315 Mass. 538", "315 Mass. 54", "320 Mass. 367", "321 Mass. 87", "323 Mass. 579", "324 Mass. 316", "325 Mass. 123", "326 Mass. 20", "327 Mass. 217", "330 Mass. 125"]
+cites_cases: ["243 Mass. 22", "295 Mass. 380", "302 Mass. 378", "306 Mass. 404", "307 Mass. 77", "315 Mass. 527", "315 Mass. 538", "315 Mass. 54", "320 Mass. 367", "324 Mass. 316", "326 Mass. 20"]
 ---
 
 # Batista v. Sylvia
