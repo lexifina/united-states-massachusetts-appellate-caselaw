@@ -1,0 +1,30 @@
+---
+court: "Massachusetts Appellate Division"
+docket: "360797"
+decided: "1954-06-15"
+citations: ["7 Mass. App. Dec. 134"]
+reporter: "mass-app-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["GEORGE D. SALEM v. HAROLD RALPH GILBERT"]
+source_url: "https://static.case.law/mass-app-dec/7/cases/0134-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6064513
+cites_cases: ["185 Mass. 602", "246 Mass. 157", "247 Mass., 472", "269 Mass. 72", "301 Mass. 319", "307 Mass. 120", "307 Mass. 394"]
+---
+
+# Salem v. Gilbert
+
+## Majority (Adlow C. /.)
+
+Adlow C. /.
+Action of tort for injuries to person and property resulting from a collision of automobiles at the corner of Tremont and Parker Streets in the Roxbury section of Boston. There was evidence that the plaintiff and defendant were travelling in opposite directions on Tremont Street while approaching Parker Street. When they reached Parker Street the traffic lights regulating traffic were red and both cars came to a stop. The plaintiff’s car was facing east and the defendant’s car was facing west. While standing still the plaintiff’s directional arrows were set to indicate that he proposed to make a left turn into Parker Street; that he put his left hand out the driver’s window to indicate that he proposed making a left turn, and that when the plaintiff began making his left turn, after the lights turned green, the defendant had not moved. After the plaintiff reached the center of the intersection and was moving across the path of the defendant’s vehicle, the defendant started up suddenly and, before the plaintiff could realize it, was upon him.
+When the collision took place the plaintiff was thrown to the left and struck his head and shoulder, his knee struck the steering post, and he was jerked aside. After the accident when the plaintiff discovered the fender hitting his wheel, he tried to pull it out with a jack handle, but he couldn’t pull it away from the tire. Although the accident occured at 7:15 p.m. the plaintiff felt no back pain or symptom of it until he was in his doctor’s office at approximately 8:30 p.m. on the same night. The plaintiff’s physician testified that he had a ruptured disc and that this condition probably owed its origin to trauma suffered in the accident.
+In finding for the plaintiff, the court refused to rule as requested by the defendant that (1) the defendant was in the exercise of due care; (2) the plaintiff was guilty of contributory negligence; and (3) the alleged back Injury of the plaintiff was in no manner connected with the accident. There was no error in the refusal of the court to so rule. In effect, the defendant requested the court to rule that a finding for him was required by the evidence. We cannot agree. On the evidence as reported whether the plaintiff was in the exercise of due care and whether the defendant was negligent were questions of fact which the court as the trier of the facts was called upon to determine. Ordinarily, issues of negligence and due care, in a collision of motor vehicles at an intersection of public ways, involve questions of fact which must be resolved by the triers of the facts. Morton v. Dobson, 307 Mass. 394, 397.
+In the cause in issue a variety of considerations affected the determination of the questions of due care and contributory negligence. Whether the plaintiff’s directional lights indicated an intention to turn to the left, whether the plaintiff indicated by hand signal from the window at his left that he intended to turn in that direction, whether when the plaintiff moved forward, after giving the signal, the defendant’s car remained standing still and continued to stand still until he reached the center of the in tersection, whether the defendant started fast and was on top of the plaintiff before he noticed him move, and whether the plaintiff’s car was three or four feet into Parker Street when the defendant’s car struck the right rear of the plaintiff’s vehicle— all these involved questions of fact, bearing on the issue of liability.
+While the judge as the trier of the facts is under no obligation to believe any or all the evidence Boston Morris Plan v. Repetto, 269 Mass. 72, 74, and while a finding for the defendant might have been warranted, there were no circumstances which compelled such determination. The general finding in the plaintiff’s favor by the court imported a belief in his testimony. Cain v. Ferry, 247 Mass., 472, 474. There is no error in denying rulings based upon possible views of the evidence which the court did not take. Franklin Park Lumber Co. v. Huie-Hodge Lumber Co., 246 Mass. 157, 158.
+As to the damages awarded by the court it is obvious that the court found that the ruptured disc was caused by the accident in issue. It has been urged by the defendant that the absence of any testimony indicating a direct injury to the region of the back, and the further fact that it was not until one hour and fifteen minutes after the accident that the plaintiff experienced any pain in the back rendered the cause of the back injury conjectural and removed this item as an element of damage to be considered by the court. We cannot agree. Whether the injury claimed resulted from the accident in issue or whether it was the result of the efforts of the plaintiff after the accident to lift the fender from the wheel became an issue of fact to be determined by the court. The testimony of the physician who attended the plaintiff that the plaintiff probably had a back injury which owed its genesis to trauma suffered in the accident, was sufficient to warrant the conclusion reached by the trial judge. Sullivan v. Boston Elevated Railway, 185 Mass. 602; David Geagan’s Case, 301 Mass. 319, 320; O’Connor v. Griff, 307 Mass. 120.
+Sidney Heimberg, T. Paul Hodge, for the plaintiff.
+John F. Finnerty, for the defendant.
+Report Dismissed.
+301 Mass. 319, 320; O’Connor v. Griff, 307 Mass.
