@@ -1,0 +1,69 @@
+---
+court: "Massachusetts Appellate Division"
+decided: "1984-07-12"
+citations: ["1984 Mass. App. Div. 177"]
+reporter: "mass-app-div-annual"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Present: Turcotte, P.J., Dohoney & Lenhoff, JJ."]
+parties: ["Constance S. Palmgren vs. Carmela Berestka Fawcett"]
+source_url: "https://static.case.law/mass-app-div-annual/1984/cases/0177-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6067952
+cites_cases: ["333 Mass. 211", "338 Mass. 801", "348 Mass. 768", "349 Mass. 417", "362 Mass. 803", "365 Mass 141", "386 Mass. 303", "386 Mass. 540", "389 Mass. 776", "390 Mass. 175", "390 Mass. 51", "418 U.S. 323"]
+---
+
+# Palmgren v. Fawcett
+
+## Majority (Lenhoff, J.)
+
+Lenhoff, J.
+The plaintiff’s complaint in two (2) counts alleges (1) libel; and, (2) intentional infliction of mental distress. The defendant’s answer, in response thereto, denied same.
+After trial, the plaintiff submitted what was stated to be seven (7) requests for rulings, all being requested “as a matter of law upon all the evidence.”
+Thereafter, the Trial Court ordered that judgment enter for the defendant on each count. Subsequently, the plaintiff seasonably filed a motion pursuant to Dist./Mun. Cts. R. Civ. P., Rules 52 and 59 to alter or amend the Trial Court’s findings and judgment. Said motion was denied.
+The evidence set forth in the report is supplemented by evidence stated in the Trial Court’s findings thereby enabling the Appellate Division to have a broader and more complete evidentiary background. Olofson v. Kilgallon, 362 Mass. 803, 804-805 (1973). As so supplemented, the evidence tends to show the following:
+The plaintiff and defendant were both employees of the Peter Pan Bus Lines, employed at its Northampton, Massachusetts office. The plaintiff served as office manager.
+An apparent cash receipt shortage occurred causing the defendant to visit the Vice President of her employer in connection therewith. The defendant made no allegation concerning the plaintiff relating thereto to employer’s official. The plaintifff, when she learned of the defendant seeing the Vice President, reprimanded the defendant for doing so.
+' The defendant in November, 1980 was hired by the plaintiff. The defendant voluntarily ended her employment with the Bus Line in September, 1982.
+At the end of March, 1983, the Peter Pan Bus Lines’ Western Massachusetts personnel head called the plaintiff and informed her of a letter concerning her that he had received. The letter was unsigned and a copy was also sent to the Bus Line’s Vice President, to three other officer employers, and to one steady customer. Later, the defendant acknowledged authorship of the letter.
+The letter, in substance, set forth: (1) that the defendant did not consider the plaintiff pleasant and sincere as a fellow co-worker; (2) that the plaintiff had taken advantage of others; (3) that the plaintiff acted “sweet,” but was actually “ruthless;” (4) that she was greedy for power; (5) that the plaintiff resented others who she regarded as threatening her authority (6) that in certain circumstances, her job performance could have been better; (7) that the plaintiff made the defendant's life difficult and strained; (8) that the plaintiff showed favoritism to others that was detrimental to the defendant; (9) that the defendant gave her employer 23 months of devoted service and only received a 35$ raise; (10) that the plaintiff told the defendant she was an unprofessional person; and, (11) that the plaintiffs treatment to subordinates merited severe critical comment.
+By reason of said letter being mailed to the Bus Lines official and copies to others, the plaintiff became emotionally upset. She lost weight, began making mistakes at work, curtailed her social life, had trouble sleeping and is just getting back to normal. The letter shocked and hurt her. It caused her to worry about the opinion of people concerning her. She also worried about getting fired from her job.
+Her salary in March, 1980 was approximately $225.00 weekly; and, as of March, 1983, was $275.00 weekly.
+The Trial Court ruled regarding Count 1 (libel) that the letter written by the defendant “was not defamatory and thus not libellous.” Said Trial Court cited the case of Pritsker v. Brudnoy, 389 Mass. 776 (1983), and stated the following quote therefrom appearing on page 778 taken from RESTATEMENT (SECOND) OF TORTS, Section 566 (1977), Comment b., therein: “A ‘pure’ opinion by itself is not actionable ‘no matter how unjustified and unreasonable the opinion may be or how derogatory it is.’ ” Also, the Trial Court pointed out that the Supreme Judicial Court in said Pritsker v. Brudnoy case, supra, held that calling the owners of a restaurant “unconscionably rude” and “vulgar” and “pigs” constituted pure opinion based on partly disclosed and partly assumed facts.
+Regarding Count II of the plaintiffs complaint (intentional infliction of emotional distress), the Trial Court stated:
+It is unclear to this Court what the Plaintiff intends to allege in Count II. It appears that the Plaintiff alleges that the allegedly libellous letter complained of in Count I of the complaint caused intentional infliction of emotional and mental distress.
+If the Court held that the letter complained of was libellous, the Court would have considered mental and emotional suffering as well as any special damages in the determination of an award. Having found the letter non-defamatory, if Count II is grounded upon this theory, it must fail.
+If on the other hand, the Plaintiff intends to allege a separate tort of infliction of emotional distress in Count II, this also must fail. To establish such a tort, the Plaintiff must prove (1) an intentional act (2) amounting to extreme and outrageous conduct (3) causing severe emotional distress to another (4) by one not privileged to do so. I do not find all of these elements present in the instant case.
+The plaintiff, being aggrieved by the Trial Court’s Order for Judgment on Counts I and II; its action on the plaintiffs Requests for Rulings one (1) to seven (7) inclusive; and the Trial Court’s denial of a Dist./Mun. Cts. R. Civ. P., Rule 52 and 59 motion to alter or amend its finding and judgment, seeks the determination of the Appellate Division of said grievances.
+The plaintiffs grievance that the Trial Court denied its motion to alter or amend its finding and judgment cánnot be considered. The reason we do not give our concern or attention results from the failure of the plaintiff to include, annex or incorporate a copy of the motion in the Report. Such failure does not comply with Dis./Mun. Cts. R. Civ. P., Rule 64 (c) (2) that a copy of the “pleading necessary for the understanding or decision of the questions shall be annexed to or incorporated in the draft report.”
+Consequently, the only matters before this body are the plaintiffs Requests for Rulings, the disposition thereof also disposing of the ensuing Order for Judgment.
+Request No. 5 states a fact based on the evidence and was so found by the Trial Court. It involves no question of law for resolution.
+All the other requests are dealt with in a joint manner by the discussion that follows.
+- Findings of fact by the Trial Court are conclusive if there be. any credible evidence to support them. Glazier v. Andrews, 349 Mass. 417 (1965), Scire v. Scire, 348 Mass. 768 (1964); Piekos v. Bachand, 333 Mass. 211, 213 (1955). Such findings will not be disturbed if they can be supported on any reasonable view of the evidence, even if conflicting. Dileso v. Bellino, 338 Mass. 801 (1959).
+The following quote appears hereinbefore and is here repeated for purposes of continuity in the discussion part hereof.
+In Pritsker v. Brudnoy, 389 Mass. 776, 778 (1983), the Court said:
+A ‘pure’ opinion by itself is not actionable ‘no matter how unjustified and unreasonable the opinion may be or how derogatory it is...
+Criticism, being an expression of opinion, is not defamatory. Getz v. Robert Welch, Inc., 418 U.S. 323, 339-340 (1974).
+An assertion that cannot be proved false cannot be held libellous. Fleming v. Benzaquin, 390 Mass. 175, 182 (1983); Lyons v. New Mass Media, Inc., 390 Mass. 51, 60 (1983). And, assertions that are expressions of one’s subjective assessment of a situation are pure opinion. Fleming v. Benzaquin, supra, at page 185.
+Further, in the case of Pritsker v. Brudnoy, supra, it was held that for an opinion to be actionable, it must be based on defamatory, undisclosed facts. Therein cited was the case of Cole v. Westinghouse Broadcasting Co., 386 Mass. 303, 313 (1982) wherein the following appeared:
+In the present case, it is not clear that any undisclosed facts are implied or if any are implied it is unclear what they are. Finally, it is entirely unclear (even assuming that facts are implied) that they are defamatory facts.
+In the case at bar, the Trial Court found that the letter written by the defendant was not defamatory and thus not libellous. The Trial Court cited Pritsker v. Brudnoy, supra, that pure opinion is not actionable. Hence, we conclude that the Trial Court’s reasoning was not clearly articulated. A review of the letter’s contents reveals that said Trial Court did adopt a reasonable view of the evidence and that its finding is based on credible evidence to thereby be considered conclusive.
+Our position that the Trial Court reasonably viewed the evidence is because the letter, which is the basis of the libel complaint, discloses the emotionally charged sentiments of an opinionated individual. It shows, with clarity, that the employed verbiage or assertions are expressions of one’s assessment of various situations. For one to prove said expressions false is not likely or probable. The lack of clarity concerning undisclosed facts, implied or otherwise, appears to prevail. In all, the language is critical and it is apparent that same is “pure” opinion.
+We hold that the Trial Court’s Order for Judgment for the defendant on Coiínt 1 (libel) is warranted and justified. By so holding, it follows that the Trial Court’s denial of plaintiffs Requests numbered 1, 2 and 6 was correct.
+We next consider the Trial Court’s action concerning Count II (intentional infliction of emotional distress) of the plaintiffs complaint and its denial of plaintiffs Requests 3, 4 and 7.
+The Trial Court’s discourse of Count II discloses the thought process, with supreme clarity, prompting its decision.
+This part of the complaint is a separate ground and it is independent of the libel alleged in Count 1 of said complaint. Regardless of the fact that the libel alleged was not established, the intentional infliction of emotional distress remains alive and viable to be proven. However, had the Trial Court decided that the letter was libellous; then, in that event, an element of damages for libel would have included damage to reputation as well as for mental pain and suffering. Sharratt v. Housing Innovations, Inc., 365 Mass 141, 148 (1974). In such circumstances, damages, if also awarded in Count II, would have resulted in a limitation to one recovery to avoid duplication.
+In the case of Payton v. Abbott Labs, 386 Mass. 540 (1982), at page 555, the Court stated that there are four elements of proof to recover for emotional distress without physical injury. They are (1) that the defendant intended to cinflict emotional distress or knew or should have known that emotional distress was the likely result of his conduct; (2) that the defendant’s conduct was extreme and outrageous, beyond all bounds of decency, and utterly intolerable in a civilized community, (3) that the actions of the defendant were the cause of the plaintiffs distress; and, (4) that the emotional distress suffered by the plaintiff was so severe and of such nature that no reasonable person could be expected to endure it.
+The Trial Court, in the alternative, found as a fact that the defendant failed to prove and establish all the elements required to recover on Count II. This finding we hold is supported by a reasonable view of the evidence. Therefore, it is considered conclusive and will not be disturbed. Glazier v. Andrews, supra.
+In the light of our aforestated holding, the Trial Court’s action regarding Count II is upheld and its denial of the plaintiff’s Requests 3, 4, and 7 was proper.
+Haying found no prejudicial error, the Report be and is hereby dismissed.
+Addenda - The defendant filed a Motion to Dismiss Appeal setting forth that the appeal is frivolous under Dist./Mun. Cts. R. Civ. P., Rule 64 (i) and that costs, including attorneys fees be ordered.
+Because we have concluded that the instant appeal was not frivolous, the foregoing Motion be and is hereby denied.
+(Each request’s disposition by the Court is shown underscored),
+1. Plaintiff is entitled to a finding on Count 1 on libel. Denied.
+2. Defendant is not entitled to a finding on Count 1 on libel. Denied.
+3. Plaintiff is entitled to a finding on Count II on intentional infliction of emotional distress. Denied.
+4. Defendant is not entitled to a finding on Count II on intentional infliction of emotional distress. Denied.
+5. Defendant wrote and published the letter of March, 1983. See Finding.
+6. Said Plaintiffs Exhibit 1 (Defendant’s letter) is defamatory and is a libel against Plaintiff. Massachusetts PRACTICE, Volume 37, TORTS, Section 99, also Sections 91, 92, 93, 95. Denied.
+7. Defendant intentionally wrote and sent Exhibit 1 (Defendant's letter) to Plaintiff and third parties; and her conduct in so doing was extreme and outrageous, which caused severe emotional distress to Plaintiff without any privilege so to do, MASSACHUSETTS PRACTICE, Volume 37, TORTS, Section 19. Denied.
