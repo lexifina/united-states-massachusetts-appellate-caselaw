@@ -1,0 +1,27 @@
+---
+court: "Massachusetts Appeals Court"
+decided: "1975-02-20"
+citations: ["3 Mass. App. Ct. 73"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Richard Milham & another vs. Paul Mitrano, Inc."]
+source_url: "https://static.case.law/mass-app-ct/3/cases/0073-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3945038
+cites_cases: ["1 Mass. App. Ct. 16", "114 Ga. App. 873", "237 App. Div. (N. Y.) 472", "267 App. Div. (N. Y.) 747", "275 F. 2d 3", "285 Mass. 266", "293 N. Y. 931", "319 Mass. 372", "345 Mass. 616", "345 Mass. 772", "354 Mass. 481", "360 Mass. 71", "363 Mass. 693", "364 Mass. 382", "40 N. J. Super. 130"]
+---
+
+# Milham v. Paul Mitrano, Inc.
+
+## Majority (Goodman, J.)
+
+Goodman, J.
+In this action of tort the plaintiff Milham recovered damages for personal injuries, and the plaintiff Dexter C. Lewis, now deceased, recovered damages to his automobile. The plaintiffs claimed that the damages resulted from the defective repair by the defendant of the positraction differential in the rear end of the automobile (the Lewis car) and that on December 27, 1965, because of the defective repair, the Lewis car went out of control and collided with another automobile. The defendant’s bill of exceptions raises first the issue whether there was sufficient evidence so that a jury could find that the positraction differential examined by the plaintiffs’ expert, who testified it was defectively repaired, was the positraction differential from the Lewis car. We think there was.
+There was testimony that after the accident the Lewis car was towed away by a company providing wrecker service to its place of business, where it was kept intact until February 28, 1966, when it was taken to an automobile salvage yard. On March 3, 1966, the plaintiffs’ expert witness picked up from the salvage yard, on loan, a positraction differential from an automobile of the same model and year as the Lewis car. On March 21, 1966, the salvage yard was notified to bill a particular insurance company for the positraction differential taken by the expert and did so on the same day. The bill indicates that the differential came from the Lewis car. There was further testimony that the only automobile of that model and year on the lot on that date was owned by a person named Lewis. See Brockton Hosp. v. Cooper, 345 Mass. 616, 617 (1963). The bill was admitted into evidence as a record kept in the regular course of business, and its admission implies a finding by the trial judge of all the facts prerequisite under G. L. c. 233, § 78. Sawyer & Co. v. Southern Pac. Co. 354 Mass. 481, 483 (1968), and cases cited. After the bill was admitted, the defendant inquired further about the circumstances surrounding the billing, but nothing elicited vitiates the trial judge’s implied findings.
+The defendant further argues that there was insufficient evidence that it was negligent. The expert testimony presented by the plaintiffs, though disputed, was a sufficient basis for the jury to find negligent repair of the positraction differential, and the evidence that this contributed to the accident was similar, and at least as extensive, as the evidence in Ford v. Flaherty, 1 Mass. App. Ct. 16, 18-20 (1972), S. C. 364 Mass. 382, 385 (1973), in which jury findings fixing the responsibility for negligent repair were upheld. See Kennedy v. U-Haul Co. Inc. 360 Mass. 71, 74 (1971).
+The defendant’s argument that the plaintiff Milham, who was a passenger in the car while the owner’s son was driving, was not a person who might reasonably be expected to be affected by the defectively repaired positraction differential is without merit. There is ample evidence that he was not a trespasser (Mounsey v. Ellard, 363 Mass. 693, 707-708 [1973]) and that he was at least as much a “foreseeable plaintiff” (Prosser, Torts, § 100, p. 662 [4th ed. 1971]) as a pedestrian (Kennedy v. U-Haul Co. Inc. 360 Mass. at 71) or other stranger (Clancy v. R. O’Brien & Co. Inc. 345 Mass. 772 [1963]). See Mitchell v. Lonergan, 285 Mass. 266, 270 (1934); Burke v. Firestone Tire & Rubber Co. 319 Mass. 372, 373 (1946); Restatement 2d: Torts, § 395, comment i, p. 330, and § 404, p. 364 (1965). See also G. L. c. 106, § 2-318, as amended by St. 1971, c. 670, § 1.
+Other jurisdictions have taken the same view. General Motors Corp. v. Jenkins, 114 Ga. App. 873, 874, 878-879 (1966) (as in this case, a guest passenger in an automobile driven by the son of the owner could recover against the party who negligently repaired the vehicle). See also Royal Motors Inc. v. Murray, 275 F. 2d 3 (D. C. Cir. 1960); Kalinowski v. Truck Equip. Co. Inc. 237 App. Div. (N. Y.) 472 (1933); Oliver v. Bereano, 267 App. Div. (N. Y.) 747 (1944), aff’d. without opinion 293 N. Y. 931 (1944); Zierer v. Daniels, 40 N. J. Super. 130 (1956); Morgan v. Mixon Motor Co. 10 111. App. 2d 323, 329 (1956).
+Exceptions overruled.
+We note that the docket in the Superior Court contains a suggestion of death of the plaintiff, Dexter C. Lewis, and a motion by the executrix to appear and prosecute. We assume that upon rescript to the Superior Court such steps as may be necessary will be taken to make the substitution.
+The expert also testified, over the objection and exception of the defendant, that the positraction differential he received was the one indicated on the bill. The exception is not pressed.
