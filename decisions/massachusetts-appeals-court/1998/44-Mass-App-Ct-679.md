@@ -1,0 +1,36 @@
+---
+court: "Massachusetts Appeals Court"
+docket: "97-P-0147"
+decided: "1998-05-01"
+citations: ["44 Mass. App. Ct. 679"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Phyllis Allen, administratrix, vs. City of Boston."]
+source_url: "https://static.case.law/mass-app-ct/44/cases/0679-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 772033
+cites_cases: ["32 Mass. App. Ct. 186", "34 Mass. App. Ct. 36", "369 Mass. 550", "373 Mass. 208", "40 Mass. App. Ct. 610", "412 Mass. 139", "413 Mass. 452", "417 Mass. 250", "417 Mass. 273", "418 Mass. 615", "418 Mass. 623", "418 Mass. 639", "419 Mass. 122", "422 Mass. 406", "427 Mass. 1105", "43 Mass. App. Ct. 809", "938 F. Supp. 1018"]
+---
+
+# Allen v. City of Boston
+
+## Majority (Kaplan, J.)
+
+Kaplan, J.
+This is a wrongful death action in which the plaintiff administratrix, mother of the decedent, Kingsley Fitzroy Allen, alleges that her son’s death was brought about through the negligence of the defendant city of Boston or its employees. After answering the third amended complaint, the defendant moved for summary judgment. It defended by reference to the immunities of public employers from suit set out in G. L. c. 258, § 10(6) (exercise of discretionary function) and § 10(f) (nonresponsibility for third person’s violent act). A judge of the Superior Court allowed the defendant’s motion without explanatory memorandum, and the plaintiff appeals from the adverse judgment. We reverse on the ground that the motion was not supported by adequate proof and did not establish either immunity as matter of law.
+As appears from the record appendix in the present appeal, the materials on which the defendant based its motion consisted of little more than the complaint and the text of the “Boston Public Schools Code of Discipline” which, among other things, condemns students’ possession of weapons on school premises and describes the sanctions available for that and other infractions. It is possible from the record as made to glean that at 11:30 a.m., December 11, 1990, Robert Reynolds, a student at Boston High School, wielding a knife, fatally stabbed Allen, a fellow student, as the culmination of a tussle or altercation between the two in the third-floor hallway of the school building. It is perhaps assumed that no employee of the school was aware that Reynolds had a knife at the time. Allen did not have a weapon. As to Reynolds’s prior history, in 1988, while a student at a city school, he was found in possession of a knife and was sent to a diagnostic program at Jamaica Plain’s Barron Assessment Consulting Center; in 1990, also for possession of a knife, Reynolds was suspended from a second city school he was then attending. Thereafter he was enrolled at Boston High School, now his third school.
+The plaintiff’s grievance is in substance that in handling Reynolds the public employer was negligent to the point of causing Allen’s death. The city’s § 10(6) defense asserts in effect that even if it were negligent through the actions or inactions of the school employees, it is immune from suit because it was in the exercise of discretionary functions partaking of “weighing alternatives and making choices with respect to public policy and planning” in the educational, social, or economic fields — this in distinction to merely acting ministerially in implementing established policy. To sustain such a defense on a motion for summary judgment, one would expect the moving party to demonstrate by deposition, affidavit, or otherwise how the school considered and acted upon the “placement” questions for a student with Reynolds’s history — whether to enroll Reynolds at the school; if enrolled, should Reynolds be “mainstreamed,” i.e., integrated with the general -school population, or dealt with specially; how in fact did the school oversee or supervise Reynolds’s day-to-day attendance. Again, as to “security” questions — the threat of harmful conduct posed by Reynolds’s previous behavior — we would expect the defendant to show what safety measures existed at the school and how the school employees confronted the immediate problem. However, on both “placement” and “security” all the defendant offered of record was reference to court decisions indicating that a public employer might in given situations properly approach such questions on a policy basis and thus sustain a § 10(6) defense of immunity. On the present record the defense is insufficiently supported. The same lack of factual support impairs the defendant’s treatment of the claimed § 10(/) immunity. See Community Natl. Bank v. Dawes, 369 Mass. 550, 554 (1976).
+We are not suggesting that these defenses are maintainable only by heroic amounts of evidence on the part of the public employer. On the contrary, the cases show that the evidence can often be readily assembled and presented where it exists. Of course we cannot and do not intimate an opinion on the ultimate merits of the present case.
+For the point that reality is preferred over empty theorizing in adjudging claims of immunity under § 10, see Horta v. Sullivan, 418 Mass. 615, 620 (1994); Lawrence v. Cambridge, 422 Mass. 406, 412-413 (1996); Coughlin v. Department of Correction, 43 Mass. App. Ct. 809, 817 (1997).
+Judgment reversed.
+Section 10, as inserted by St. 1978, c. 512, § 15, and St. 1993, c. 495, § 57, bars —
+“(b) any claim based upon the exercise or performance or the failure to exercise or perform a discretionary function or duty on the part of a public employer or public employee, acting within the scope of his office or employment, whether or not the discretion involved is abused.
+“(j) any claim based on an act or failure to act to prevent or diminish the harmful consequences of a condition or situation, including the violent or tortious conduct of a third person, which is not originally caused by the public employer or any other person acting on behalf of the public employer.”
+The parties treated the motion informally, tendering memoranda with exhibits instead of the usual affidavits, etc.
+For his part in this encounter, Reynolds was later tried and convicted of manslaughter.
+Whitney v. Worcester, 373 Mass. 208, 218 (1977).
+The distinction is described and stressed in Harry Stoller & Co. v. Lowell, 412 Mass. 139, 145-146 (1992).
+As to “placement,” see Whitney v. Worcester, 373 Mass. at 221-224. Compare the situation in Bencic v. Malden, 32 Mass. App. Ct. 186, 187-188 (1992). Cf. Sena v. Commonwealth, 417 Mass. 250, 254-259 (1994), to be contrasted with Horta v. Sullivan, 418 Mass. 615, 621-622 (1994); Carleton v. Framingham, 418 Mass. 623, 626-627 (1994).
+Concerning “security,” cf. Doe v. New Bedford Hous. Authy., 417 Mass. 273, 286 n.13 (1994); Wheeler v. Boston Hous. Authy., 34 Mass. App. Ct. 36, 40-41 (1993); Alake v. Boston, 40 Mass. App. Ct. 610, 612-613 (1996).
+Cf. Cyran v. Ware, 413 Mass. 452, 454, 460 (1992); Pallazola v. Foxborough, 418 Mass. 639, 641 (1994); Bonnie W. v. Commonwealth, 419 Mass. 122, 125-126 (1994); Lawrence v. Cambridge, 422 Mass. 406, 409 (1996); Brum v. Dartmouth, ante 318, 324-325, further appellate review granted, 427 Mass. 1105 (1998); Armstrong v. Lamy, 938 F. Supp. 1018, 1043-1044 (D. Mass. 1996).
