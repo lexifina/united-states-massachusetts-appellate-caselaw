@@ -1,0 +1,50 @@
+---
+court: "Massachusetts Appellate Division"
+decided: "1942-05-23"
+citations: ["7 Mass. App. Div. 195"]
+reporter: "mass-app-div"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Present: Hibbard, P. J., Robbins & Mason, JJ."]
+parties: ["AMELIA WALSH vs. BROCKELMAN BROTHERS, INC."]
+source_url: "https://static.case.law/mass-app-div/7/cases/0195-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3885304
+cites_cases: ["284 Mass. 195", "294 Mass. 21", "296 Mass. 373", "297 Mass. 245", "309 Mass. 450"]
+---
+
+# Walsh v. Brockelman Bros.
+
+## Majority (Hibbard, P. J.)
+
+Hibbard, P. J.
+This is an action originally of tort but by amendment allowed by this Court now of “tort and/or contract”. The plaintiff seeks to recover for alleged injuries due to the presence of a foreign substance in a candy cocky purchased by her of the defendant.
+The Trial Judge found for the plaintiff under Count 2 in the declaration which reads as follows:
+“And the plaintiff says that the defendant among other things is engaged in the business of selling food and holds itself out to the public- as a dealer in food and agrees to furnish its customers with good and wholesome products. But that on or about March 24, 1941, the plaintiff was eating some candy which had been purchased from the defendant, or its agents, and while so eating sustained severe injuries to her mouth and teeth, and was made ill, because of a foreign substance which was contained in said food, that the defendant knew that said food was to be eaten and therefore undertook and agreed to furnish good and wholesome food. And that the defendant warranted that the food was fit for consumption and was merchantable. And the plaintiff further says that thé defendant committed a breach of its contract by furnishing the said plaintiff with candy which contained a foreign substance, which in turn resulted in injury to the plaintiff as claimed in her writ. And that she was forced to seek medical attention. All to the great damage of the plaintiff as claimed in her Writ.”
+The finding of the Trial Judge was as follows:
+‘ ‘ This is an action of tort brought by Amelia Walsh of Worcester against Brockelman Brothers, Inc., a corporation duly established by law and having a place of business in said Worcester, for alleged injuries said to have been sustained by her as the result of partaking of impure and unwholesome food, namely, candy cookies which the defendant, its servants or agents, regardless of its duty, negligently and carelessly sold to the plaintiff on or about March 24, 1941; that the said candy cookie contained a foreign substance which was dangerous and injurious; that the plaintiff while in the exercise of due care and while eating said candy bit on foreign substance and as a result suffered injuries to her mouth and teeth which made her ill and forced her to seek medical attention. Plaintiff futher alleges under count two of her declaration that on March 24, 1941, while eating a candy cookie which she had purchased from the defendant, its servants or agents, she sustained injuries to her mouth and teeth and was made ill because of the foreign substance which was contained in said food; that the defendant agreed to furnish good and wholesome food and warranted that it was fit for consumption and was merchantable. Plaintiff further says that the defendant committed a breach of its contract by furnishing the said plaintiff with candy which contained a foreign substance which, in turn, resulted in injury to her causing her to seek medical attention.
+“Defendant’s answer is a general denial and a plea that the plaintiff’s act contributed to her injuries. _
+_ “The plaintiff, a married woman, is a housewife and lives in Worcester, Mass.
+“The defendant maintains and controls several markets in the City of Worcester.
+“I find that on March 24, 1941, the plaintiff went to defendant’s market on Main Street, Worcester, and purchased candy cookies, so-called, at the counter. They were put in a paper bag and paid for by the plaintiff. Plaintiff took the candy cookies to her home, opened the bag and partook of one portion. She bit into it. A piece of wire about three-fourths of an inch in length, imbedded in the cookie came in contact with a front tooth and also pierced her gum. The gum and mouth bled necessitating medical and dental aid.
+“I find an X-ray examination revealed that an abscess had formed on the inside of the gum over the injured tooth, necessitating its extraction. As a result thereof, an inflammatory condition arose in the plaintiff’s nose which required medical care and treatment.
+“I find that the plaintiff’s injuries were caused by partaking of food containing a foreign substance purchased at the defendant’s store, that the said defendant, its servants or. agents, committed a breach of its contract in furnishing the plaintiff with said food containing such foreign substance.
+“I find that the plaintiff notified the Manager on March 26, 1941, two days after she received the injury. The defendant was again notified in writing on May 5th, 1941, verifying the oral notice given on the above date.
+“I find that due and proper notice was given to the defendant.
+“I find for the plaintiff under, count two of her declaration and assess damages in the sum of $415.”
+The defendant seasonably filed requests for rulings of which the third and tenth were given and the rest denied.
+The defendant claiming to be aggrieved by the refusals to rule requested a report.
+As the report shows no evidence of negligence in the manufacture by the defendant of the candy cookies and the finding of the Court is under the second count sounding in breach of warranty, the only requests which it is necessary now be considered are the following:
+“6. The plaintiff has failed to prove that there was any warranty existing between the plaintiff and the defendant.
+“7. The plaintiff has failed to prove that she relied on the skill and judgment of the defendant in the selection of the candy alleged to have been sold to the plaintiff.
+“8. The plaintiff has failed to allege or prove that she gave a proper notice to the defendant of any breach of warranty.
+“9. Any reasonably timed notice the plaintiff may have given the defendant of any alleged breach of warranty failed (a) to refer to any particular sale; (b) to assert a violation of any legal right; (c) to repel the inference of waiver; (d) to fairly advise the defendant of the alleged defect.”
+These requests all go to the question whether there was an implied warranty. The character of the goods was notice to the defendant that they were bought for consumption. The presence of the nail or wire was determined as a fact by the Trial Judge. Such a finding of fact cannot be disturbed unless clearly not justified.
+There can be no question but that under the circumstances here found there was an implied warranty of the fitness of the candy cookies for human consumption. A long line of cases supports this statement of which it is not necessary to name other than Holt et als., Executors, v. George A. Mann, 294 Mass. 21; and Batti v. Venice Grocery Co., 309 Mass. 450.
+There was no prejudicial error in the refusal of the Trial Judge to rule as requested by the defendant as to this aspect of the case.
+The second matter calling for consideration is the question whether the notice given to the defendant by the plaintiff was given within a reasonable time and sufficient for the purpose.
+Whether the notice was given within a reasonable time is a question of fact. Guthrie v. Newberry, 297 Mass. 245. The Trial Judge has found affirmatively as to this element and his decision is not open to our review.
+The remaining element is whether the notice was sufficient.
+The Sales Act (G. L. Ch. 106, sec. 38) does not prescribe the form or specify the contents of the required notice. Guthrie v. Newberry, 297 Mass. 245; Johnson v. Kanabos, 296 Mass. 373. It need not necessarily be in writing. Jamrog v. Handy Co., 284 Mass. 195. It has even been held that an oral notice repeating what had been told to the buyer by someone else may in some circumstances be held adequate. Johnson v. Kanabos, supra. Complaints as to the quality of what was sold may be found to amount to an adequate notice if in the circumstances appearing the complaints are of such a character as reasonably to inform the seller of the buyer’s intention to claim damages for a breach of warranty. Guthrie v. Newberry, 297 Mass. 245. An express claim of damages is not necessary if it is reasonably inferred from the notice that the buyer is asserting a violation of his legal rights. Guthrie v. Newberry, 297 Mass. 245. The burden of proof as to the sufficiency rests on the plaintiff. Jamrog v. Handy Co., 284 Mass. 195.
+While the report could have been more ample in its statement of the interview between the plaintiff and the manager of the defendant corporation, wé think that her statement, as to what she purchased, the day she purchased it and the production of the sales slip together with the statement in the report that a dentist found no injury at the time of his examination of the tooth about ten days after the alleged accident with the reasonable inferences to be drawn therefrom amply support the finding of the Trial Judge that the notice not only was given within a reasonable time but was also of sufficient informative detail to make clear that the plaintiff claimed a breach of warranty and to apprize the defendant of the injuries. All of the information taken together gave to the defendant an opportunity to make adequate investigation to determine whether there was any sale as claimed and whether the contention there was a breach of warranty was well founded.
+We have concluded there was no prejudicial error in the refusal of the Trial Judge to give any of the requested rulings by the defendant. No prejudicial error being shown, the report is to be dismissed.
