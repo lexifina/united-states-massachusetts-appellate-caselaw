@@ -1,0 +1,40 @@
+---
+court: "Massachusetts Appellate Division"
+decided: "1997-12-17"
+citations: ["1997 Mass. App. Div. 206"]
+reporter: "mass-app-div-annual"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Present: Giles, P.J., Summerville & Forde, JJ."]
+parties: ["Valda Roach vs. Helen Julius"]
+source_url: "https://static.case.law/mass-app-div-annual/1997/cases/0206-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 11886046
+cites_cases: ["15 Mass. App. 74", "17 Mass. App. Ct. 362", "30 Mass. App. Ct. 951", "423 Mass. 152"]
+---
+
+# Roach v. Julius
+
+## Majority (Summerville, J.)
+
+Summerville, J.
+On May 21,1992, Valda Roach was the owner and operator of a motor vehicle involved in an accident with a vehicle owned and operated by Helen Julius. Ms. Julius died on December 14, 1994, of causes unrelated to the above mentioned accident. Valda Roach filed a personal injury action in the Boston Municipal Court on May 19,1995, two days before the statute of limitations on tort actions would have barred such a suit. See: M.G.L.C. 260, §2A On December 11, 1995, the defense filed a Suggestion of Death on behalf of Helen Julius. The plaintiff’s case remained on the docket for eight months after it was initially filed without issues having been joined. An Order For Entry of Dismissal Nisi was recorded pursuant to Boston Municipal Court Standing Order 1-88 (TV) (C) (2) on January 17, 1996. The relevant section of the Standing Order reads as follows:
+NON JOINDER OF ISSUES
+If any civil action has remained on the docket for a period of eight months, without issues having been joined, the Clerk/Magistrate’s designee shall enter a Nisi Order advising the plaintiff that the action will be dismissed thirty days from the date of the Nisi Order, unless the plaintiff takes remedial action.
+After the plaintiff was given notice of the Nisi Order no remedial action was taken and the case was dismissed on February 20, 1996. On February 29,1996, the plaintiff filed a Motion to Vacate Dismissal in the Boston Municipal Court Department. No reason was given for the failure to take the appropriate remedial action within the requisite thirty (30) day period and an Associate Justice of the Boston Municipal Court denied the motion.
+On November 5, 1996, plaintiff’s renewed Motion to Vacate Dismissal was heard and denied. On January 7, 1997, a third Motion to Vacate Dismissal was heard and denied. The plaintiff claims error in the Court’s January 7,1997, denial of her Motion to Vacate Dismissal pursuant to Standing Order 1-88 (IV) (C) (2).
+DISCUSSION
+Boston Municipal Court Standing Order 1-88 attempts to provide the Court and the Bar with a system of uniform caseflow management. Section II of the Standing Order states:
+The purpose of this Order is to establish procedures and principles to meet the requirements of the time standards for civil cases adopted by the Supreme Judicial Court on April 7, 1986, providing for the disposition of civil cases filed on or after July 1, 1988 (other than family law cases) within 24 months of filing.
+Section 111(A) of the Order enunciates the responsibilities of the Court and the Bar in the effective management of caseflow issues. Section 111(A) reads as follows:
+The responsibility for effective caseflow management is shared by the Bar and the Court. This Order provides for the completion of case preparation by counsel within one year, and meaningful control of the case by the Court thereafter.
+Sections II and 111(A) give members of the Bar adequate notice of the purpose of the Order and notice that the responsibility for caseflow management is a shared one. The plaintiff did not meet her responsibility even after being given a Nisi period to perfect any problems with her case. When a Judge is faced with a situation where there is a seeming disregard for the rules of court and caseflow management, the Court has broad discretion as to what action should or should not be taken in allowing a plaintiff to revive a case. This Court will not reverse the lower Court’s denial of a Motion to Vacate a Dismissal absent an error of law or an abuse of discretion. Shuman v. The Stanley Works, 30 Mass. App. Ct. 951, 953 (1991); Spadorcia v. S. Shore Oral Surgery Assoc., 17 Mass. App. Ct. 362, 364 (1984). Upon a thorough review of the record there was no such error or abuse.
+There were also issues addressed in this matter concerning the plaintiffs failure to file this action under either G.L.c. 197, §9 or §9A By initiating her personal injury action the plaintiff alleges that she is a creditor of the deceased defendant. There is also no dispute that the defendant died before the present action was commenced. The plaintiff waited almost three (3) years before filing this suit and did not ascertain whether the defendant was dead or alive..The requirements for service of process in an action commenced under G.L.c. 197, §9, arc specific:
+Except as provided in this chapter, an executor or administrator shall not be held to answer to an action by a creditor of the deceased unless such action is commenced within one year after the date of death of the deceased and unless, before the expiration of such period, the process in such action has been served [1] by delivery in hand upon such executor or administrator or [2] service thereof accepted by him or [3] a notice stating, the name of the estate, the name and address of the creditor, the amount of the claim and the court in which the action has been brought has been filed in the proper registry of probate (emphasis added).
+The Legislature clearly intended three methods of service of process under §9 within a one year limitations period and the plaintiff never effected service under any of the methods prescribed. Even if the plaintiffs Motion to Vacate the Dismissal had been allowed on January 7,1997, service could not have properly been achieved under the statutory scheme of G.L.c. 197, §9. The Court in Epstein v. Blender, 15 Mass. App. 74, 77 (1957), has stated:
+... not only must the action against the executor or administrator be commenced within one year, but that within that year, service must be made, in hand on the executor or administrator, or be accepted by such fiduciary, or in the alternative, a notice containing certain specified information with respect to the action must be filed in the proper Registry of Probate. Compliance with each of these elements in the statute is prerequisite to the plaintiffs right to maintain his action against the defendant on a claim against her intestate.
+G.L.c. 197, §9A reads as follows:
+Notwithstanding the provisions of section nine, an action for personal injuries or death, if commenced more than one year after the date of death of the deceased, may be brought against said executor or administrator, provided that such action is commenced within three years next after the cause of action accrues, and provided further that any judgment recovered in any action so brought may be satisfied only from the proceeds of a policy of insurance or bond, if any, and not from the general assets of the estate.
+If an executor or administrator has not been appointed, then an action allowed under this section may be maintained without such appointment, and shall be maintained naming the decedent as the defendant. In such event any service of process that may be necessary shall be made upon the entity providing the insurance or bond (emphasis added).
+ORDER
+The plaintiff did not effect proper service under either G.L.c. 197, §9 or §9A Even after Helen Julius’ attorneys notified the plaintiff of her death and the Court notified the plaintiff of the Nisi Order the plaintiff did absolutely nothing to effectuate proper service and move the case forward within the constraints of the Standing Order. In these circumstances, there was no error of law or abuse of discretion in the denial of the plaintiffs Motion to Vacate Dismissal. See: Leonard v. Brimfield, 423 Mass. 152, 157 (1996). The Court’s denial of plaintiff’s Motion to Vacate Dismissal is affirmed.
