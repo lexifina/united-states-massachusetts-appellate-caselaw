@@ -1,0 +1,22 @@
+---
+court: "Massachusetts Appeals Court"
+decided: "1977-02-09"
+citations: ["5 Mass. App. Ct. 775"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Commonwealth vs. Wilfredo Colon."]
+source_url: "https://static.case.law/mass-app-ct/5/cases/0775-02.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5731067
+cites_cases: ["1 Mass. App. Ct. 499", "2 Mass. App. Ct. 14", "2 Mass. App. Ct. 47", "2 Mass. App. Ct. 839", "273 U. S. 95", "353 U. S. 53", "356 Mass. 452", "365 Mass. 534", "370 Mass. 728", "374 U. S. 23", "386 U. S. 300", "390 U. S. 129", "4 Mass. App. Ct. 606", "4 Mass. App. Ct. 858", "408 U. S. 786", "427 U. S. 96"]
+---
+
+# Commonwealth v. Colon
+
+## Majority
+
+The defendant appeals pursuant to G. L. c. 278, §§ 33A-33G, from his conviction for possession of a controlled substance (heroin) with intent to distribute. 1. The defendant’s pretrial motion for disclosure of the identities of the informants upon whom the police relied in applying for the search warrant was properly denied by the judge. See Roviaro v. United States, 353 U. S. 53, 59 (1957). The informants did not testify against the defendant (compare Smith, v. Illinois, 390 U. S. 129 [1968]), and the informants were not witnesses to the actual criminal activity with which the defendant was charged (compare Commonwealth v. Johnson, 365 Mass. 534 [1974]). Nor has the defendant indicated that the informants’ testimony might, in any manner, be relevant to his case. See McCray v. Illinois, 386 U. S. 300, 311-313 (1967); Commonwealth v. Mott, 2 Mass. App. Ct. 47, 53 (1974). Compare Commonwealth v. Ennis, 1 Mass. App. Ct. 499, 501-503 (1973), and cases cited therein. 2. The defendant’s contention that the search of his property was carried out with unreasonable force so as to taint the entire search and make any evidence seized excludable is without merit. The doctrine of trespass ab initio has no application to these circumstances. McGuire v. United States, 273 U. S. 95, 99 (1927). But cf. Ker v. California, 374 U. S. 23, 33-34 (1963). 3. Nor was there error in the exclusion at trial of photographs purportedly depicting the store after the search as these photographs were not material to any issue before the jury. 4. The defendant asserts that the Commonwealth failed “to fully and truthfully respond” to his pretrial discovery motion. Assuming without deciding that the defendant’s motion called for the production of his oral admission (contrast Commonwealth v. Nichols, 4 Mass. App. Ct. 606, 608, n.l [1976]), the defendant has not demonstrated that the Commonwealth’s alleged failure was prejudicial (Commonwealth v. Dabrieo, 370 Mass. 728, 744 [1976]), or “of sufficient significance to result in the denial of ... [his] right to a fair trial.” United States v. Agurs, 427 U. S. 96, 108 (1976). See Commonwealth v. Nichols, supra, at 612, n.6. Compare Moore v. Illinois, 408 U. S. 786, 794-795 (1972). 5. The defendant was given the Miranda warnings in English and Spanish. The judge’s determination that the Commonwealth had met its heavy burden of demonstrating that the defendant understood his rights and knowingly waived them is supported by the evidence. Commonwealth v. Roy, 2 Mass. App. Ct. 14, 18 (1974). Commonwealth v. Haglund, 4 Mass. App. Ct. 858, 859 (1976). 6. No error was committed by the judge in permitting the introduction in evidence of certificates of analysis prepared by an assistant analyst of the Department of Public Health to establish that the substance in question was heroin. The Department of Public Health is authorized by statute to make this kind of analysis (G. L. c. 111, § 12), and the certificates were admissible under G. L. c. 111, § 13. Commonwealth v. Harvard, 356 Mass. 452, 461-463 (1969). Commonwealth v. Baribeault, 2 Mass. App. Ct. 839 (1974). 7. The judge properly denied the defendant’s motion for a directed verdict. There was ample circumstantial evidence from which the jury could have concluded that the defendant had knowledge of the heroin and possessed it with intent to distribute it. Commonwealth v. Nichols, supra, at 613-614, and cases cited therein. 8. The defendant has waived all other assignments of error.
+Lawrence S. O’Connor for the defendant.
+Daniel F. Toomey, Assistant District Attorney, for the Commonwealth.
+Judgment affirmed.
