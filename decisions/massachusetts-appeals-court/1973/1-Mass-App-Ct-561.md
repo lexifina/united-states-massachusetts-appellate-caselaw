@@ -1,0 +1,27 @@
+---
+court: "Massachusetts Appeals Court"
+decided: "1973-11-20"
+citations: ["1 Mass. App. Ct. 561"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Attilio A. D’Amico vs. Ann D’Amico."]
+source_url: "https://static.case.law/mass-app-ct/1/cases/0561-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3942835
+cites_cases: ["119 Mass. 596", "321 Mass. 399", "337 Mass. 599", "355 Mass. 734", "361 Mass. 366", "362 Mass. 518"]
+---
+
+# D'Amico v. D'Amico
+
+## Majority (Armstrong, J.)
+
+Armstrong, J.
+This petition to determine title to certain joint bank accounts was brought by a husband against his wife during the pendency of his libel for divorce. The wife appeals from a decree to the effect that the total balance of the accounts be divided between the parties in proportion to their respective contributions thereto. The appeal is before us on the probate judge’s report of material facts and a report of the evidence.
+The sole issue is whether the apportionment of the funds in the accounts was based on an erroneous treatment of the parties’ living expenses previously paid therefrom. The apportionment formula used necessarily assumed that those expenses had been paid from the combined deposits of both husband and wife in proportion to their respective contributions, for it is only upon that assumption that their respective interests in the remaining balance can be regarded as proportional to those contributions. The wife contends that the living expenses should be treated as having been paid entirely from the husband’s income deposited therein before charging any of them to the wife’s deposits. This would have the effect of greatly increasing the wife’s share of the remaining balance of the accounts and correspondingly reducing the husband’s share.
+The first argument advanced by the wife in support of this contention, as we interpret it, is that the probate judge was obliged so to charge those expenses as a matter of law by reason of the husband’s marital duty to provide support. We agree that such a duty will ordinarily be imposed on a husband, but this is not invariably the case. Where, as here, the wife was at all times gainfully employed, the living expenses can be and often are shared by intention of the parties. Campagna v. Campagna, 337 Mass. 599, 603-605 (1958).
+The wife next argues that there was insufficient evidence of an intention to share living expenses in the present case and that the probate judge was plainly wrong in finding that there was one. We cannot agree. The husband testified that the wife would regularly endorse her monthly pay check to him, that he would deposit it together with his own in a joint checking account from which the couple’s expenses were paid, and that he would decide how much could be saved at the end of each month and transfer that amount to a savings account in their joint names. Another savings account, which had originally been in the wife’s name, was changed to a joint account to which the husband would occasionally transfer funds from the checking account to be used, according to the husband’s testimony, for their joint amusement and vacation expenses. It appears that from the time of their initial deposits in the checking account, the amounts contributed by the husband and wife were commingled, which in itself was evidence that the wife had waived her right to keep her earnings so deposited as her own. Hawkins v. Providence & Worcester R.R. 119 Mass. 596, 598 (1876). Taken at face value her contributions to the joint accounts can rightly be regarded as gifts for the benefit of both spouses, and the wife had the burden of proving that this was not intended. DePasqua v. Bergstedt, 355 Mass. 734, 736 (1969). Blanchette v. Blan-chette, 362 Mass. 518, 524 (1972). The probate judge was also entitled to give some weight to the close relationship which ordinarily exists between a husband and wife in treating the wife’s contributions as completed gifts. See Astravas v. Petronis, 361 Mass. 366, 368 (1972). The wife’s testimony that her husband’s income alone would have been insufficient to meet their expenses adds further support to this conclusion.
+We are therefore of the opinion that the judge was not plainly wrong in concluding that the husband and wife intended to share the family expenses. The probate judge was not required to believe the wife’s testimony to the contrary.
+Decree affirmed.
+Costs and expenses to be in the discretion of the Probate Court.
+The trial judge treated her contributions to the joint accounts as such gifts only to the extent that those contributions were used to meet her share of the marital expenses. This follows from the trial judge’s apportionment of the remaining balance in the accounts on the basis of the total contributions of the respective spouses, whereby the wife was declared entitled to a larger share thereof than the husband. The question whether the trial judge was warranted in doing so, rather than dividing the balance equally between the spouses, is not before us, as the husband took no appeal from the final decree, and “hence it is not open to him to ask for a decree more favorable to himself....” Welsch v. Palumbo, 321 Mass. 399, 400 (1947). Capitol Beef & Provision Co. Inc. v. Somerville Dressed Meat Co. ante, 505 (1973).
