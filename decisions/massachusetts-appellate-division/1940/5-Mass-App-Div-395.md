@@ -1,0 +1,32 @@
+---
+court: "Massachusetts Appellate Division"
+decided: "1940-07-01"
+citations: ["5 Mass. App. Div. 395"]
+reporter: "mass-app-div"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Present: Sanborn, P. J., Rowe & Briggs, JJ."]
+parties: ["HERMAN PERLMUTTER vs. HENRY C. SMALLEY GRANITE CO., INC."]
+source_url: "https://static.case.law/mass-app-div/5/cases/0395-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3882080
+cites_cases: ["245 Mass. 347"]
+---
+
+# Perlmutter v. Henry C. Smalley Granite Co.
+
+## Majority (Rowe, J.)
+
+Rowe, J.
+This is an action of contract in which the plaintiff seeks to recover the amount of a check drawn by the defendant to the order of “American Car loading Co. Inc.” and indorsed “American Carloading Co. Inc.” and “American Carloading Co. John Flynn, Propr.” and then transferred for value to the plaintiff. The plaintiff claims to be a holder in due course. The trial judge found for the plaintiff.
+The defendant contends the American Carloading Co. Inc. was a fictitious and non-existing payee, that the defendant did not know this fact when the check was drawn and that therefore title to the check could not be transferred or the check negotiated because no one had the authority to indorse or transfer it. It further contends that the trial judge was not warranted in making the special finding which he did, that the check was drawn, by error, payable to the order of the American Carloading Co. Inc. instead of to the order of the American Carloading Co.
+The report says “at the trial, the plaintiff introduced the check declared on. There was only one witness who was called by the plaintiff, namely: Henry C. Smalley, an officer of the defendant corporation. Mr. Smalley testified that he received a bill and that the following day John Flynn called at the office of the defendant and requested that the defendant draw a check payable to the order of American Carloading Co. Inc., and that the defendant drew the check payable to the order of American Carloading Co. Inc. as requested, but that at the time he drew it, he did not know that the American Carloading Co. Inc. was fictitious and non-existing. The plaintiff’s counsel acknowledged that there was no such corporation as American Carloading Co. Inc. and offered a business certificate purporting to show the existence of a partnership consisting of John Flynn and Sebastian Saputo, doing business as American Carloading Co. and a copy of a bill of lading showing American Carloading Co. as shipping carrier. There were no other witnesses or other evidence offered in behalf of either party. ’ ’
+The court found the following facts: “The court further finds that the check in suit was made by the defendant and it delivered the same to one, John Flynn, who with one Sebastian Saputo, conducted a business under the name and style of “American Carloading Co.” that through error the check was drawn payable to ‘American Carloading Co. Inc.-’ that said Flynn indorsed the same ‘American Car loading Co. Inc. American Carloading Co. John Flynn, Prop.’ That the check was delivered to the plaintiff, a holder in due course, and for value. That the maker intended said check to be drawn payable to the order of ‘American Car-loading Co.’ but through a clerical error wrongly designated the name of the payee.”
+If the payee was a fictitious and non-existing person and • such fact was not known to the defendant when it drew the check, the plaintiff cannot recover, since he cannot trace his title through the payee and such check would ■be payable to bearer only if the drawer knew that the . payee was fictitious or non-existing. G. L. (Ter. Ed.) c 107 sec. 31 (3). If the check was intended for the American Carloading Co. and was by error made payable to it as American Carloading Co. Inc., the plaintiff is entitled to • recover. G. L. (Ter. Ed.) c 107 sec. 66.
+G. L. (Ter. Ed.) c 107 see. 31 (3) provides that “the instrument is payable to bearer . . . (3) when it is payable to the order of a fictitious or non-existing person, and such fact was known to the person making it so payable. ’ ’
+Gr. L. (Ter. Ed.) c 107 sec. 66 provides that “when the name of a payee or endorsee is wrongly designated or misspelled he may endorse the instrument as therein described, adding if he thinks fit, his proper signature.”
+Instances of fictitious payees probably appear most frequently in cases of fraud. "Bigelow on Bills & Notes, 3rd. Ed. see. 150. There is no suggestion of fraud in the instant case.
+In Joseph Milling Co. v. First Bank, 216 P (Or) 560 the drawer of a check was indebted to “Olearmont Storage Warehouse Inc.” and the check was drawn to the order of “Olearmont Storage Warehouse.” It was held under the statute that this variance was but only a misnomer or abbreviation. For other cases on this point see Brannan on Negotiable Instruments Laws 6th ed. p. 506 et seq.
+From the very brief record of the evidence which is quoted above in full as it appears in the report, it would seem that there were contracturai relations between the “American Carloading Co.” and the defendant, but none between the “American Carloading Co. Inc.” and the defendant. Hence there would be an ostensible reason for making the check payable to the order of the first above named payee rather than to the second above named payee.
+The only reason advanced as to why the check was made payable to the order of the “American Car loading Co. Inc.” is that Smalley, an officer of the defendant corporation testified that he was told by Flynn to draw the check that way. But, as is properly conceded by the defendant, the trial judge had the right to disregard that testimony of Smalley. If that was done, then there was no logical reason why the check should have been drawn to the payee as named. Error, however could account for that, and we see no reason why the trial judge could not have drawn such inference, as it appears from Ms special findings he so did.
+The defendant relies particularly on Dana v. Old Colony Trust Co., 245 Mass. 347 (wMch case is commented on in Brannan on Negotiable Instruments Laws 6th ed Pages 206-7). But fraud was involved in that case, while in the case at bar there is no suggestion of fraud, but the facts show what could have been found to have been an error thus bringing the case within G. L. (Ter. Ed.) c 107 sec. 66. Report dismissed.
