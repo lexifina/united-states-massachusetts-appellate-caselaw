@@ -1,0 +1,36 @@
+---
+court: "Massachusetts Appellate Division"
+decided: "1983-04-11"
+citations: ["1983 Mass. App. Div. 122"]
+reporter: "mass-app-div-annual"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Present: Welsh, P.J., Black & Volterra, JJ."]
+parties: ["David A. White vs. Lumbermens Mutual Casualty Company"]
+source_url: "https://static.case.law/mass-app-div-annual/1983/cases/0122-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6067765
+cites_cases: ["22 Mass. App. Dec. 26", "24 Mass. App. Dec. 183", "29 Mass. App. Dec. 44", "44 Mass. App. Dec. 142", "46 Mass. App. Dec. 191", "48 Mass. App. Dec. 13", "49 Mass. App. Dec. 12", "50 Mass. App. Dec. 145", "50 Mass. App. Dec. 85", "51 Mass. App. Dec. 142", "58 Mass. App. Dec. 65"]
+---
+
+# White v. Lumbermens Mutual Casualty Co.
+
+## Majority (Black, J.)
+
+Black, J.
+This is an action in contract brought on February 10,1981, by the plaintiff, David A. White, against Lumbermens Mutual Casualty Company, an Illinois corporation, doing business in the Commonwealth of Massachusetts, for an alleged breach of an insurance contract occasioned by the defendant’s refusal to pay for the loss by theft of the plaintiffs motorcycle. The defendant duly answered by stating that payment had been denied because the plaintiff-insured had refused to cooperate with the company and the Quincy Police Department in investigating the alleged theft, and because the defendant had not provided coverage to the plaintiff for loss of theft at the time the alleged theft occurred.
+On February 2, 1982, the trial judge entered a finding for the defendant. The plaintiff failed to file any requests for rulings and claimed no report with respect to any evidentiary ruling. Judgment was entered for the defendant on February 10, 1982 and the defendant was awarded costs in the amount of $5.50. On February 16,1982, the plaintiff claimed areport and on February 22,1982,fileda Motion to Enlarge Time for Establishment of Report. That motion was allowed and a thirty day extension was given.
+The draft report was filed on March 19, 1982. It consisted of a cover page entitled “Draft Report” that set forth an “Appendix” and which listed various attached documents, including:
+(1) Judgment entered February 10, 1982;
+(2) Findings of the Court entered February 2, 1982;
+(3) Draft Report;
+(4) Answers by the Defendant to Interrogatories Profounded by the Plaintiff;
+(5) Recorded Statement Summary of Gail Ferguson;
+(6) Photocopy of Transcript covering those areas referred to in Draft Report.
+Appendix 3, the so-called “Draft Report”, fails to contain a summary of the evidence. It contains several conclusionary statements such as “The plaintiffs testimony was that he did all reasonable things expected and required of him. ’ ’ It incorporates by reference a transcript of certain testimony which is said to be “available upon request” to the court. Portions of the referenced transcript are appended to the draft report in support of various legal arguments advanced by the plaintiff therein.
+On March 29, 1982, the defendant filed an objection to the plaintiffs draft report. A hearing was held, and at the conclusion thereof the trial judge ruled that the draft report was not in the proper format and gave the plaintiff an opportunity to file a further draft report. On June 4,1982, another draft report was filed and on June 11,1982, an objection thereto was filed by the defendant. After further hearing, the trial judge determined that both reports did not comply with Dist./ Mun. Cts. R. Civ. P., Rule 64(c)(2), (5), and (6) and he, therefore, ordered them dismissed/disallowed.
+He cited as reasons for his action the failure of the plaintiff to state the evidence fairly, attachment of a stenographic transcript of testimony, that they appeared in the nature of legal briefs, and failure to raise any legal issues for report to the Appellate Division.
+It is one of the most fundamental rules of practice in the District Court that an appropriate request for ruling is a condition precedent to a right of review by the Appellate Division, Gillette v. Gear 29 Mass. App. Dec. 44 (1964), and that in the absence of any request for ruling, no question of law can be presented to the Appellate Division, Cumberland Farms Northern, Inc. v. Sewall, 49 Mass. App. Dec. 12, 14 (1972). Since the plaintiff in this case failed to submit any requests for rulings, no questions of law have been preserved for appellate review.
+Rule 64(c)(2), Dist./Mun. Cts. R. Civ. P., prescribes the form of draft reports in order that a degree of uniformity might be obtained in presenting matters before this court. Therefore, draft reports should conform, as nearly as possible, to the model form and substance. Tranfaglia v. Security National Bank, 50 Mass. App. Dec. 85, 87 (1973). A draft report should not recite verbatim testimony McCloskey v. R. H. Stearns Company, 22 Mass. App. Dec. 26, 30 (1952), nor incorporate papers on file in the case, Meyer v. Hooker, 51 Mass. App. Dec. 142, 146 (1965). The trial justice may order the party requesting the report to prepare a copy of the report, as settled, in form similar to the draft report model and submit the same to him for formal allowance within such time as he may fix, and failure to comply with this order shall be sufficient ground for disallowing the claim for a report. Peabody Action Realty, Inc. v. Falkowski, 50 Mass. App. Dec. 145, 148 (1973). So also, failure of the appellant to include in the draft report all material evidence which would have warranted specific and general findings of the trial judge permits disallowance of the draft report. This is particularly true when the trial judge affords the appellant ample opportunity to amend or substitute the draft report and the appellant, as here, fails to take advantage of that opportunity. Bynoe v. Massachusetts Port Authority, 46 Mass. App. Dec. 191 (1971); Peabody Action Realty, Inc. v. Falkowski, 50 Mass. App. Dec. 145 (1973); Haverhill Builders Supply Inc. v. Ortins, 58 Mass. App. Dec. 65 (1976). It is the strict obligation of the trial judge to see that the report of cases appealed to the Appellate Division are in proper form and to see that definite recitals of all matters material to the appellate review of the case are included in the report. Koch v. Cambria-Scotia Co., 48 Mass. App. Dec. 13, 18 (1972).
+Since the plaintiff failed to preserve any questions of law by failing to file timely requests for rulings of law, the trial judge properly dismissed the report. Coleman v. C. & P. Homes, Inc., 44 Mass. App. Dec. 142 (1970). Furthermore, although strict compliance with Rule 64(c)(2) regarding draft report may not be required, substantial compliance is necessary. Hunter v. Klauber, 24 Mass. App. Dec. 183 (1962). The reports in this case do not, by any stretch of the imagination, come even close to substantial conformity with the requirement of the rule, and were properly dismissed/disallowed by the trial judge. Dist./Mun. Cts. R. Civ. P. Rule 64(c)(6).
+In conclusion, the plaintiffs Petition to Allow the Plaintiff’s Draft Report is denied as there is no error in any of the actions taken by the trial judge.
