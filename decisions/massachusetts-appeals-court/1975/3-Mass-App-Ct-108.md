@@ -1,0 +1,33 @@
+---
+court: "Massachusetts Appeals Court"
+decided: "1975-03-04"
+citations: ["3 Mass. App. Ct. 108"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Commonwealth vs. Warren E. Melanson."]
+source_url: "https://static.case.law/mass-app-ct/3/cases/0108-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3944933
+cites_cases: ["214 Mass. 313", "342 Mass. 279", "350 Mass. 48", "357 Mass. 559", "360 Mass. 570", "361 Mass. 347", "362 Mass. 662", "366 Mass. 601", "384 U. S. 960", "408 U. S. 936"]
+---
+
+# Commonwealth v. Melanson
+
+## Majority (Grant, J.)
+
+Grant, J.
+The defendant has appealed (G. L. c. 278, §§ 33A-33G) from his conviction of armed robbery and from an order denying his substitute motion for a new trial (motion). We consider seriatim such of the points raised by the assignments of error as have been argued in the defendant’s brief.
+1. There was no error in the findings (based on the testimony of the prosecutor) made by the judge (motion judge) who heard and denied the motion (filed following the retirement of the trial judge) that the prosecutor had not known of the psychiatric history of the victim (the sole identifying witness) at the time of trial and thus had not withheld information concerning the same from the defendant. The statement made by the defendant’s trial counsel at the sentencing hearing did not attribute any such knowledge or information to either the prosecution or the police; the motion judge’s statement that he did not believe the defendant’s affidavit must be taken as a further statement that he also disbelieved the defendant’s oral testimony on the same subject as the affidavit.
+2. For like reasons, there was no error in the motion judge’s finding that the defendant failed to sustain the burden of proving that the police had known of or concealed the victim’s psychiatric history at the time of trial. With the defendant’s affidavit and oral testimony disbelieved, the sole support for any such claim was the obscure, unamplified and multiple hearsay statement in the medical summary to the effect that a telephone call which the victim had made to the police had led to his rehospitalization some eight years before the robbery and ten years before the trial. ******There was no showing that the police had a record of any such incident; there was nothing to suggest awareness of any such incident on the part of either of the officers who investigated the robbery and testified at trial.
+3. The motion judge was asked to grant a new trial because of allegedly newly discovered evidence concerning the victim’s history of mental disorders which, it was claimed, might have had a material bearing on the accuracy of the victim’s in-court identification of the defendant as one of the two persons who had committed the robbery. The judge was asked, without the benefit of any expert interpretive assistance (see Commonwealth v. Daniels, 366 Mass. 601, 609 [1975]), to base his decision solely on a six-page “Summary of Medical Information” prepared by new-trial counsel which consisted of selected (see Commonwealth v. Masskow, 362 Mass. 662, 669 [1972]) quotations or abstracts from a documented psychiatric history covering a thirteen-year period. The judge could have found from the “Summary” that at the time of the robbery the victim had been in a state of “good remission” from his earlier diagnosed mental disorders, and we think the judge could have been unpersuaded that there had been any substantial change in that condition between the time of the robbery and the time of trial. Compare Commonwealth v. Harrison, 342 Mass. 279, 293-295 (1961).
+Stripped of its constitutional trappings (see parts 1 and 2 of this opinion), the motion was indistinguishable from any other motion for a new trial which attacks the credibility of an important witness for the prosecution on the ground of newly discovered evidence concerning the witness (such as Commonwealth v. Borasky, 214 Mass. 313, 321-322 [1913]; Commonwealth v. Heffernan, 350 Mass. 48, 52-54 [1966], cert. den. 384 U. S. 960 [1966]; Commonwealth v. Robertson, 357 Mass. 559, 561-562 [1970]; Commonwealth v. Cassesso, 360 Mass. 570, 572-573, 575-576 [1971], judgments vacated as to death penalty sub nom. Limone v. Massachusetts, 408 U. S. 936 [1972] ; Commonwealth v. Leate, 361 Mass. 347, 349-350 [1972]), except in the respect that the motion judge did not have the hindsight benefit of having seen and heard the victim testify during the course of the trial.
+The motion judge was not, however, at a complete loss to know and understand what the jury had seen, heard and evaluated during the course of the trial. He could determine from the trial transcript (as we have) that the victim was a person easily and transparently led to dramatic exaggeration. He was given lucid descriptions of the flamboyant dress and other mannerisms affected by the victim during the course of the trial, which led him to a finding that the victim “was an odd person in appearance, speech and behavior which was obvious.” We think the judge could have concluded that there was no substantial likelihood that the jury would have reached a different result had they known of the victim’s psychiatric history.
+On careful consideration, we see no error in the judge’s conclusion that the defendant failed to prove that the medical evidence required a new trial.
+4. The pertinent entry in the police log had been read aloud to the jury by two successive police witnesses in the course of questioning by the defendant’s trial counsel and by counsel for a codefendant (who was acquitted). The defendant was not prejudiced by the trial judge’s refusal to allow the log to be marked as an exhibit so that it could be sent into the jury room.
+The judgment and the order denying the substitute motion for a new trial are both affirmed.
+So ordered.
+There does not appear to have been any factual basis whatsoever for the defendant’s contention that “it was through their agency [that of the police] that... [the victim] was committed to the ... hospital for his second period of in-patient treatment” (emphasis supplied).
+The trial transcript contains at least one distinct indication that trial counsel may have been aware of the evidence now claimed to be newly discovered.
+The original hospital records in question were available at the hearing on the motion for a new trial, but new-trial counsel (with the consent of the prosecutor) made the choice to proceed instead on the basis of his “Summary,” which had previously been submitted to the motion judge.
+It is not argued that the victim was not competent to testify.
