@@ -1,0 +1,28 @@
+---
+court: "Massachusetts Appellate Division"
+decided: "1984-04-06"
+citations: ["1984 Mass. App. Div. 109"]
+reporter: "mass-app-div-annual"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Present: Turcotte, P.J., Larkin & McGuane, JJ."]
+parties: ["Deborah Anne Donovan vs. The Berkshire Gas Company and others"]
+source_url: "https://static.case.law/mass-app-div-annual/1984/cases/0109-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6067892
+cites_cases: ["17 Mass. App. Ct. 471", "369 Mass. 74", "387 Mass. 682"]
+---
+
+# Donovan v. Berkshire Gas Co.
+
+## Majority (Turcotte, P.J)
+
+Turcotte, P.J
+The complaint sets out a count alleging negligence in care maintenance, repair and control of an air conditioner by the defendant, The Berkshire Gas Company (hereinafter called Berkshire Gas), and a second count alleging a breach of contract of service and maintenance of the air conditioner by Berkshire Gas. There was a stipulation of damages of $12,106.13. After trial, there was a finding for the plaintiff in that amount. Judgment was entered on August 31, 1982.
+Docket entries show Berkshire Gas filed its draft report on September 15, 1982, more than 10 days after entry of judgment. Rule 6 and Rule 64 (c) (1) (ii), Dist./Mun. Cts. R. Civ. P. The Plaintiff filed a motion to dismiss the draft report on September 24,1982. On October 14,1982, Berkshire Gas filed a motion for leave to file request for report and draft report late. On December 7,1982, the trial judge denied the motion to dismiss the draft report and allowed the motion for leave to file request for report and draft report late.
+Because the trial judge was in error in allowing the motion to file request for report and draft report late and in denying the motion to dismiss the report, we dismiss the report.
+“Rules of court are indispensable to the orderly and efficient conduct of a courts business.” Commonwealth v. Soucy, 17 Mass. App. Ct. 471 at 472 (1984). Dist./Mun. Cts. R. Civ. P., Rule 64 (c) (1) (i) and (ii) makes no provision for late filing of the request for the report or the draft report. It does provide that the 10 day period to file a request for report, and the draft report, may be extended upon a showing of excusable neglect; but not exceeding 20 days after the entry of judgment. Locke v. Slater, 387 Mass. 682 at 686 (1982). Both the request for report and the draft report must be filed except where the draft report is filed within the 10 days after entry of judgment. Where an extension of time is requested after the running of 10 days after entry of judgment, the request for extension must be made upon the filing of a motion therefore with notice. Only where there has been a request for report filed and a motion to extend time filed within the time otherwise prescribed for filing the draft report, for good cause shown, may the judge extend the time for filing the draft report beyond 20 days after entry of judgment; in that case for a reasonable time.
+Here Berkshire Gas filed no request for report at any time. When the draft report was filed on September 15, 1982, the trial judge upon a showing of excusable neglect could have allowed a motion after notice to extend the time for filing the request for report, and the draft report, since that date was less than 20 days after entry of judgment. No such motion was filed. The filing of a draft report on September 15,1982 did not eliminate the requirements of filing a proper motion, notice, and the showing of excusable neglect. When the motion for leave to file request for report and draft report late was filed on October 14, 1982 it could not be treated and allowed as a motion to extend time since it was filed more than 20 days after entry of judgment.
+The case before us presents error more serious than Cape Cod Bank and Trust Co. v. Letendre, Mass. (1981). There a draft report had been timely filed, but no copy was given to the clerkfor the judge, and there was a failure to file a certificate of service. In McElholm v. Bacon, Mass. App. Div. 502 (1979) a draft report and request for report were timely filed. The omissions that were not giving a copy of the draft report to the judge and not spacing the type properly. In Cape Cod Bank and Trust Co. v. Letendre, supra, our court citing Shulte v. Director of the Div. of Employment Security, 369 Mass. 74 (1975), pointed out the distinction between serious missteps and relatively innocuous ones, as follows: “Some errors on omissions are seen on their face to be so repugnant to the procedural scheme, so distructive of its purposes, as to call for dismissal of the appeal. A prime example is attempted institution of an appeal seeking judicial review of an administrative decision after expiration of the period limited by a statute or rule.” This same principle should apply where the appeal seeks review of a judicial decision. Dismissal of the report after failure to file a draft report timely and after failure to get an extension of the time to file the report is “... comparable in some respects to the dismissal of an original claim brought to a court after the running of an applicable statute of limitations.” Schulte v. Director of the Division of Employment Security, supra. In Locke v. Slater, supra, the time for preservation of the right of appeal from entry of judgment had run, including the maximum allowable period of extension. The court held that it was proper for the trial judge to dismiss the report since it was “then too late to terminate the running of the appeal period.”
+Report dismissed.
+Mass. Adv. Sheets (1981) 2055.
