@@ -1,0 +1,32 @@
+---
+court: "Massachusetts Appellate Division"
+decided: "1995-04-12"
+citations: ["1995 Mass. App. Div. 48"]
+reporter: "mass-app-div-annual"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Present: Sherman, P.J., Merrick & Coven, JJ."]
+parties: ["Anthony O. Wright vs. George Sabatino, and others"]
+source_url: "https://static.case.law/mass-app-div-annual/1995/cases/0048-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6811556
+cites_cases: ["17 Mass. App. Ct. 1004", "25 Mass. App. Ct. 928", "28 Mass. App. Ct. 392", "292 Mass. 470", "31 Mass. App. Ct. 96", "333 Mass. 41", "345 Mass. 73", "357 Mass. 449", "369 Mass. 550", "390 Mass. 419", "404 Mass. 14"]
+---
+
+# Wright v. Sabatino
+
+## Majority (Coven, J.)
+
+Coven, J.
+This is an action in negligence to recover for personal injuries sustained by the plaintiff in an accident involving three motor vehicles. Two of the three defendants filed Dist./Mun. Cts. R. Civ. R, Rule 56 motions for summary judgment which were allowed by the trial court. The plaintiff has appealed these rulings.
+The accident occurred at approximately 2:30 P.M. on June 2, 1993 as the vehicles were coming out of the South Station underpass on the Southeast Expressway in Boston. The plaintiff was a passenger in a car owned by defendant Anita A. Fernandes and operated by defendant Manuel Fernandes. The Fernandes vehicle was travelling behind the vehicle of defendant James Fallon which, in turn, was following behind the vehicle of defendant George Sabatino inside the South Station tunnel. The plaintiffs answers to interrogatories propounded by both defendants Sabatino and Fallon indicate that the vehicles were travelling at 30 to 35 miles per hour when defendant Sabatino came to an abrupt stop, causing defendant Fallon to strike the Sabatino vehicle when he came to an abrupt stop. At that point, the Fernandes vehicle struck the Fallon car.
+The plaintiffs answers to interrogatories propounded by defendant Fallon indicate, in addition to the vehicles’ speed of 30 to 35mph through the South Station, that defendant Fallon failed to observe traffic conditions, came to an abrupt stop without warning, and failed to keep his motor vehicle under control.
+Based solely on answers to interrogatories submitted by the plaintiff and defendants Sabatino and Fallon, Sabatino and Fallon filed motions for summary judgment. Those motions were allowed by the trial court on November 10, 1994. On November 30, 1994, the plaintiff filed an expedited appeal pursuant to Rule 8A of the Rules for Appellate Division Appeal of the District and Municipal Courts. No final judgment has been entered by the trial court on behalf of either defendant Sabatino or Fallon.
+Because no separate and final judgment was entered in favor of the defendants pursuant to Dist./Mun. Cts. R. Civ. R, Rule 54(b), the plaintiffs appeal was premature. The trial court, however, allowed the plaintiff’s motion for a stay of proceedings pending the appeal. This affirmative decision to stay the proceedings is indicative of the trial court’s interest in pretrial appellate review of the question of law posed by the allowance of the defendants’ summary judgment motions. We thus view the trial judge’s action as a report of her interlocutory ruling for determination by this Division pursuant to Dist./Mun. Cts. R. A. D. A., Rule 5.
+With regard to the merits of the interlocutory ruling in question, the familiar principle is that summary judgment is to be granted if there is no genuine issue as to any material fact and the moving party is entitled to judgment as a matter of law. Dist./Mun. Cts. R. Civ. P., Rule 56(c). See generally, Cassesso v. Commissioner of Correction, 390 Mass. 419, 422 (1983); Community Nat’l Bank v. Dawes, 369 Mass. 550, 553 (1976). The moving party bears the burden of affirmatively demonstrating both the absence of a triable issue and its entitlement to a judgment in its favor. Pederson v. Time, Inc., 404 Mass. 14, 17 (1989). All inferences arising from facts contained in the affidavits or other Rule 56 materials are to be viewed in the light most favorable to the party opposing the motion. Hub Associates, Inc. v. Goode, 357 Mass. 449, 451 (1970); Madden v. Estin, 28 Mass. App. Ct. 392, 394 (1990).
+Summary judgment is rarely granted in negligence actions. Inferrera v. Sudbury, 31 Mass. App. Ct. 96, 102-103 (1991); Foley v. Matulewicz, 17 Mass. App. Ct. 1004, 1005 (1984). In cases such as the present one which involve rear end collisions, questions of fact as to the rate of speed at which the cars were travelling, the distance between the cars and any other relevant circumstances would be determinative of whether the operator of the car in front was causally negligent, see Stamas v. Fanning, 345 Mass. 73, 76-77 (1962); Quimby v. Eastern Mass. St. Rwy Co., 333 Mass. 41, 43-44 (1955); Hladick v. Williams, 292 Mass. 470, 472-473 (1935), or whether that driver would be found not to have been negligent under the “so-called sudden emergency doctrine.” Orfirer v. Biswanger, 25 Mass. App. Ct. 928, 929-930 (1987).
+The plaintiffs responses to interrogatories indicate that the defendants may have been travelling at 30 to 35 miles per hour through the South Station tunnel, may have been inattentive to the traffic in front of them, may have failed to keep their motor vehicles under control and may have stopped so abruptly and without warning that they may be held liable for negligently causing the injuries sustained by the plaintiff. These allegations present triable issues which can only be determined by the finder of fact. Under such circumstances, summary judgment was inappropriate. Id. at 931.
+The trial court’s allowance of the summary judgment motions filed by defendants Sabatino and Fallon is hereby reversed, and this case is returned to the Dorchester Division for trial.
+So ordered.
+To be cited as Dist./Mun. Cts. R. A D. A, Rule 8A.
+The parties have not cited, nor have we found, any decision of the Supreme Judicial Court or the Appeals Court in a negligence action in which summary judgment was allowed on behalf of the first motor vehicle involved in a multiple car, rear end collision accident. In Orfirer v. Biswanger, supra, summary judgment in favor of the driver of the second car was reversed, but summary judgment was affirmed as to the driver of the third car in a four-car accident.
