@@ -1,0 +1,32 @@
+---
+court: "Massachusetts Appellate Division"
+decided: "2002-06-11"
+citations: ["2002 Mass. App. Div. 113"]
+reporter: "mass-app-div-annual"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Present: Merrick, EJ., Greco & Wright, JJ."]
+parties: ["Rosemarie DiMauro, and another vs. The Stop & Shop Companies, Inc., and another"]
+source_url: "https://static.case.law/mass-app-div-annual/2002/cases/0113-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 9382666
+cites_cases: ["334 Mass. 646", "360 Mass. 507", "363 Mass. 165", "420 Mass. 739", "48 Mass. App. Ct. 654"]
+---
+
+# DiMauro v. Stop & Shop Companies, Inc.
+
+## Majority (Greco, J.)
+
+Greco, J.
+Plaintiff Rosemarie DiMauro (“Mrs. DiMauro”) sued the Stop & Shop Companies (“Stop & Shop”) for damages arising out of her fall next to the salad bar at the defendants’ Revere store. After trial, the judge found that the parties were equally negligent and that Mrs. DiMauro suffered damages of $30,000.00. Accordingly, judgment was entered for Mrs. DiMauro in the amount of $15,000.00. Her husband, plaintiff Sebastian DiMauro, recovered $2,500.00 for loss of consortium.
+The trial judge’s written findings of feet included the following:
+When Mrs. DiMauro approached the salad bar, defendants’ porter, Keith Boivin, wearing an orange smock, was mopping up a spill of Italian salad dressing. He was using a mop and alongside him was a bucket with a yellow warning sign: Wet Floor.’ As Mrs. DiMauro walked around looking at the various offerings at the salad bar, she entered the area being mopped by Mr. Boivin. Although Mr. Boivin had wiped up an obvious mayonnaise-looking deposit of salad dressing, he necessarily spread a small amount of the remaining oily dressing over a 5’ x 8’ area as he mopped. When Mrs. DiMauro entered the area being mopped, she slipped on the oily film and fell [and was injured].
+In determining that Mrs. DiMauro was fifty (50%) percent negligent, the trial judge found that she did not see the wet area, or the yellow warning sign on the bucket, or even Mr. Boivin in his orange smock. The judge attributed these lapses, however, to the attractive and distracting nature of the salad bar. “As she walked around the salad bar,” the judge found, “her eyes were on the display, not the mopping.” On the other hand, in finding the defendants equally negligent, the judge ruled that
+when... [Boivin] saw Mrs. DiMauro approaching the area he was mopping, he should have warned her not to enter that area and guided her around it Alternatively, if the mopper cannot be charged with watching the customers, there should have been another employee standing there to make sure a shopper did not enter the wet area.
+At trial, the defendants argued that the evidence did not warrant a finding for the plaintiff and, therefore, required a finding in their favor. Several of the rulings of law requested by the defendants and denied by the trial judge adequately preserved this issue. On an appeal of this issue, the trial judge’s “findings are to stand if warranted in law upon any reasonably possible view of the evidence, and the only question... [before this Division] is whether upon the evidence, with all rational inferences which might be drawn therefrom, a finding for the plaintiff can be sustained.” Heil v. McCann, 360 Mass. 507, 511 (1971).
+Stop & Shop was obligated “to use due care to keep [its] premises ... in a reasonably safe condition, or at least to warn [its patrons] of any dangers that might arise from such use, which [were] not likely to he known to them, and of which [Stop & Shop knew] or ought to [have known].” Oliveri v. Massachusetts Bay Transportation Auth., 363 Mass. 165, 167 (1973). “The purpose of warning of non-obvious or unreasonable dangers ... is to provide ... [a] person with the opportunity to ‘decide intelligently whether or not to accept the invitation, ... (or, alternatively, to) protect himself against the danger if he does accept it’” Miller v. Fickett, 48 Mass. App. Ct. 654, 655 (2000), quoting RESTATEMENT (SECOND) OF TORTS §343, comment b (1965). The duty to warn, however, does not extend to “a risk... of such a nature that persons of ordinary intelligence would be aware of it...” Davis v. Westwood Group, 420 Mass. 739, 743 n.9 (1995). In that situation, a patron is “obligated to use his faculties for his own protection and to guard himself from obvious hazards.” Benjamin v. O’Connell & Lee Mfg. Co., 334 Mass. 646, 649 (1956).
+Notwithstanding the deference to be accorded to the trial judge’s findings, the judgment for the plaintiff cannot stand in the circumstances of this case because there was insufficient evidence to find Stop & Shop as negligent as the plaintiff. As the trial judge recognized, a store employee responded when the spill was detected. A warning sign was displayed. While it is unclear how large an area was mopped, there was no evidence that the store was negligent in the method it used to clean up the spill. In finding that the store was also 50% negligent, the trial judge appears to have imposed a greater duty on the defendants than the law requires. An adult “of ordinary intelligence” would have been aware that she should not have entered the area being mopped. Mrs. DiMauro was not a child faced with an attractive nuisance. Cf. G.L.c. 231, §85Q. She was “obligated to use [her own] faculties” to watch where she was going. Benjamin v. O’Connell & Lee Mfg. Co., supra at 649. While it may have been preferable to have another employee present to watch out for patrons while Boivin did the mopping, the law does not impose such a burden on Stop & Shop. In these circumstances, the evidence required a finding that the plaintiff was more than 50% negligent so as to preclude any recovery.
+Accordingly, the judgment for the plaintiffs is reversed and vacated. A judgment for the defendants is to be entered.
+So ordered.
+As the trial judge noted, there was a written store policy providing for the defendants’ employees to “guide” customers around a known spill.
+The trial judge found that Mr. Boivin, in mopping the area, “necessarily” spread the spilled dressing over a forty square foot area (5’ by 8’). However, the testimony would appear to indicate that between five and eight tiles, one square foot each in size, were affected. In view of the courf s lack of a finding that Boivin mopped an unnecessarily large area, nothing turns on this discrepancy.
