@@ -1,0 +1,28 @@
+---
+court: "Massachusetts Appeals Court"
+decided: "1973-01-19"
+citations: ["1 Mass. App. Ct. 68"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Commonwealth vs. Gerald J. Johnson."]
+source_url: "https://static.case.law/mass-app-ct/1/cases/0068-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3939614
+cites_cases: ["235 Mass. 526", "322 Mass. 274", "345 Mass. 251", "362 Mass. 83"]
+---
+
+# Commonwealth v. Johnson
+
+## Majority (Hale, C.J.)
+
+Hale, C.J.
+The defendant was indicted for armed robbery (G. L. c. 265, § 17), tried before a jury under the provisions of G. L. c. 278, §§ 33A-33G, and was convicted.
+At the conclusion of the evidence, the defendant filed a general motion for a directed verdict on the indictment and a second such motion addressed to so much of the indictment as charged the crime of armed robbery. The defendant excepted to the denial of both motions. The only two assignments of error are directed to the denial of these motions.
+There was evidence that on January 28, 1969, one John M. Cantrone, an automobile salesman, had finished his work at about 9:00 p.m. and drove into Boston intending to go to a movie. He had in his possession $1,061. He put $750 under the front seat of the car, $150 in his shirt pocket, and $150 in a concealed section of his wallet. There was $11 in an open section of his wallet.
+He had met a young girl in the Park Square area who told him that her date had stood her up, that she had no car fare, and that she needed a ride to Dudley Street Station. Cantrone said he would drive her. He drove her to 37 Adams Street, where she said she lived. She invited him in for coffee, and he accepted. They went into the building and came upon three men at the second floor landing. They asked the girl what she was doing there. She replied that she lived there. They told her she did not and to get out. She then sat on the stairs leading to the third floor. Cantrone started to leave. One of the men, later identified as Eugene Anderson, told Cantrone he was not going anywhere and put his hand in his pocket and held what appeared to Cantrone to be a gun. Cantrone then looked behind him and saw the defendant with a knife, which was seven to eight inches long and which appeared to be a butcher knife. The defendant was holding the knife but was not pointing it in any particular direction. The third man took Cantrone’s wallet and removed $11 from it. He searched Cantrone and found his car keys. He gave these keys to the defendant and told him to search Cantrone’s car. The defendant then left. While the defendant was gone, Cantrone was further searched, and the additional $300 was found. The third man gave Anderson $150 and kept $150 for himself. They also took the victim’s watch. The defendant returned in about ten minutes and said he had found nothing. The defendant was then told that the others had found no more than $12. They gave Cantrone his keys and his wallet and told him to leave. He returned to his car and found that the $750 was missing. When the defendant was arrested five days later, he had $175 in his pocket and a bank book. This bank book disclosed that he had made an opening deposit of $405 on January 29, 1969, the day following the events just narrated. The defendant had been unemployed since October 26, 1968. Fingerprints matching the defendant’s were found on Cantrone’s car.
+The defendant contends that he was merely present at the landing at the time, that he was not a participant with the others in the robbery, that he did not use the knife against the victim, and that the keys were not stolen from Cantrone as there was no intention to keep them permanently. He further contends in support of his second assignment of error that the taking of the $750 from the automobile amounted to no more than larceny, as the taking of the money from the automobile was not in the presence of the victim.
+The jury was warranted in finding that the defendant, along with the other two men, was intentionally committing a robbery, that the defendant was actively assisting in the robbery, that he was armed with a knife, and that Cantrone parted with his car keys and $11 by reason of the threatening display of a knife and what he thought was a gun. At this point in the sequence of events, all of the elements needed to establish the crime of robbery had occurred.
+“It is not necessary to show the use of a dangerous weapon in proving the offence of robbery while armed. The gist of the offence is being armed, not the use of the weapon.” Commonwealth v. Nickologines, 322 Mass. 274, 277. Commonwealth v. Chapman, 345 Mass. 251, 254-255. The taking of the money was against the will of the victim. See generally the discussion of the crime of robbery in Commonwealth v. Jones, 362 Mass. 83, 85-89.
+The defendant argues that the subsequent use of the keys to enter the victim’s car which was parked in the street and remove $750 from it was not connected with the robbery. We do not agree. So long as the victim was being held at the point of what he thought was a gun while the defendant took $750 from the victim’s car, the robbery was still in progress. To establish the crime of robbery, property must be taken from the person of the victim or from within his area of control. Commonwealth v. Homer, 235 Mass. 526, 533. There was a direct connection between this act of violence or intimidation by defendant’s accomplice and his acquisition of the victim’s property. Commonwealth v. Jones, 362 Mass, at 87.
+Judgment affirmed.
