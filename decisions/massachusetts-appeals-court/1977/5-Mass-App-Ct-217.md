@@ -1,0 +1,27 @@
+---
+court: "Massachusetts Appeals Court"
+decided: "1977-04-04"
+citations: ["5 Mass. App. Ct. 217"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Cora M. Baker vs. Coca Cola Bottling Company of Cape Cod & another."]
+source_url: "https://static.case.law/mass-app-ct/5/cases/0217-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5730506
+cites_cases: ["152 F. 2d 27", "2 Mass. App. Ct. 722", "276 Mass. 519", "289 Mass. 549", "315 Mass. 366", "331 Mass. 293", "333 Mass. 695", "365 Mass. 824", "368 Mass. 811"]
+---
+
+# Baker v. Coca Cola Bottling Co.
+
+## Majority (Armstrong, J.)
+
+Armstrong, J.
+On August 30, 1974, the plaintiff commenced an action for damages against the defendants for injuries she sustained when her car collided with a vehicle owned by the corporate defendant and driven by the individual defendant. The collision had occurred on June 20, 1972. The defendants pleaded in their answer that the action was barred by the statute of limitations and moved for summary judgment. The motion was allowed,* and the plaintiff appeals from the resulting judgment for the defendants.
+The plaintiff’s contention is that a genuine issue of material fact was raised by an affidavit which she filed in opposition to the motion for summary judgment. The affidavit was that of an attorney who had represented her in this matter from July 6, 1972, until a short time before the action was commenced. It stated that between August, 1972, and December, 1973, he had been negotiating with representatives of the corporate defendant’s insurer; that in January, 1974, he made an offer to one Lane, a “claims representative” of the insurer, to settle the case if the insurer would pay the plaintiff’s medical expenses; that Lane represented “that his company would accept settlement on that basis but that he would need final confirmation from the company;” that Lane requested and was sent copies of all the medical bills; that on March 12, 1974, the attorney wrote Lane asking about the status of the matter; that on April 4, 1974, Lane called the attorney “and said that the company would need to have copies of the hospital records before making final confirmation of settlement.” Lane sent a follow-up letter to the same effect on April 6, 1974. The attorney “mailed to Mr. Lane the requested authorization to obtain copies of the plaintiff’s hospital records” on June 15, 1974. On August 17, 1974, the attorney wrote Lane asking for a progress report, and received back a letter, dated August 20, 1974, from the insurer stating that its file on the matter had been closed because of the running of the statute of limitations. The attorney states that he did not file suit prior to June 20, 1974, “because of the statements by the... [insurer’s] claims representative that the case would be settled for payment of medical expenses.”
+We are of the opinion that the facts stated in the affidavit bring this case within the authority of MacKeen v. Kasinskas, 333 Mass. 695 (1956), in which it was held that an insurance adjuster has at least apparent authority to make a promise of settlement and that an insurer may be estopped to deny that authority where a claimant has acted in reasonable reliance thereon. See also McLearn v. Hill, 276 Mass. 519 (1931); Hayes v. Gessner, 315 Mass. 366 (1944); Knight v. Lawrence, 331 Mass. 293 (1954); Bergeron v. Mansour, 152 F. 2d 27, 31 (1st Cir. 1945). Such an estoppel does not depend upon a showing of fraudulent intent to mislead or deceive. McLearn v. Hill, at 525, 527.
+It cannot be said as matter of law that the plaintiff was not justified in relying on the adjuster’s statement that the insurer “would accept settlement” on the basis proposed. Compare Knight v. Lawrence, supra at 297. The qualification that settlement was subject to “final confirmation” from the company might well suggest in context only a formal or technical requirement of company procedure; it was held in Cellucci v. Sun Oil Co. of Pa. 2 Mass. App. Ct. 722 (1974), S.C. 368 Mass. 811 (1975), that such words do not as matter of law negate the apparent authority of the agent. The same can be said of the reason given for the delay in receipt of final confirmation.
+MacKeen v. Kasinskas is not distinguishable on the ground that the plaintiff in that case was unrepresented by counsel. Although one would hope that early engagement of a lawyer would assure a client of protection against such obvious pitfalls as letting the period of limitations expire, there is, as this case demonstrates, no guarantee a lawyer will be less gullible than a layman, and the law should not impose special disabilities on one who is represented by counsel. McLearn v. Hill, supra, and Ford v. Rogovin, 289 Mass. 549 (1935), both involved representations made to counsel; and although no estoppel was found in the latter case, it was not decided on the basis that a person represented by counsel is held to a different standard, but rather upon the basis that the statements made to the lawyer were not such as a reasonable man would have been justified in relying upon.
+It follows that a factual issue has been raised by the affidavit of the plaintiff’s former attorney and that entry of judgment under Mass.R.Civ.P. 56, 365 Mass. 824 (1974), was not appropriate.
+Judgment reversed.
+G. L. c. 260, § 4, as in effect prior to St. 1973, c. 777, § 3.
