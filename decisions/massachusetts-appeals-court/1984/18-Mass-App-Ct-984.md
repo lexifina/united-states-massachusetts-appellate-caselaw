@@ -1,0 +1,28 @@
+---
+court: "Massachusetts Appeals Court"
+decided: "1984-11-13"
+citations: ["18 Mass. App. Ct. 984"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Jean B. Cannon & another vs. The Commerce Insurance Company; Aetna Life & Casualty Company, third party defendant."]
+source_url: "https://static.case.law/mass-app-ct/18/cases/0984-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3982769
+cites_cases: ["297 Mass. 549", "361 Mass. 401", "366 Mass. 253", "372 Mass. 844", "378 Mass. 925", "390 Mass. 208", "393 Mass. 81", "7 Mass. App. Ct. 615"]
+---
+
+# Cannon v. Commerce Insurance
+
+## Majority
+
+One of the plaintiffs, Roy C. Cannon, sustained severe personal injuries when he was deliberately run over by a car driven by the insured of the third-party defendant, Aetna Life & Casualty Company. Aetna disclaimed liability under the compulsory coverage provision of its insurance contract on the bases that the act of its insured was intentional rather than accidental and that the act did not take place on a public way. The Cannons then made a claim on the uninsured motorist provision of their insurance policy with the defendant Commerce. When Commerce rejected the claim, the Cannons brought an action against it under G. L. c. 231 A, and Commerce impleaded Aetna. The trial judge concluded that the act had taken place on a public way, that Aetna was liable under its compulsory coverage provision for the intentional acts of its insured (subject to any other defenses that might be raised), that the vehicle in question was not, therefore, uninsured, and that the Cannons could not recover on their policy with Commerce. A judgment so declaring entered, and the Cannons appeal. We affirm.
+1. It is important to note two facts at the outset: (a) there is no question that the act of Aetna’s insured was deliberate, compare Quincy Mutual Fire Ins. Co. v. Abernathy, 393 Mass. 81, 84-86 (1984); and (b) at the time of the injuries, 1977, underinsured vehicle coverage was optional rather than mandatory (compare G. L. c. 175, § 113L, as amended by St. 1973, c. 380, with that section as amended by St. 1980, c. 532) and had been declined by the Cannons. In holding Aetna liable under its compulsory insurance coverage provision, the trial judge wrote: “Where insurance is compulsory, it is designed to protect the injured party, not just the wilful operator. Wheeler v. O’Connell, 297 Mass. 549, 553 (1937). The court in Wheeler considered that the public policy behind compulsory insurance — compensation of innocent victims — far outweighed any policy against indemnification of a wrongdoer. Id. at 554.”
+Understandably seeking to recover under the more generous limits of their uninsured motorist coverage with Commerce, the Cannons argue that cases decided subsequent to Wheeler express strong statements that it is against public policy to indemnify a tortfeasor for his deliberate acts. It is unnecessary to discuss these cases, however, because they do not deal with compulsory coverage, as does Wheeler wherein the competing policy concerns were weighed in favor of the innocent victim. Ibid. See also Chipman v. Massachusetts Bay Transp. Authy., 366 Mass. 253, 259 n.7 (1974).
+Although it may at first appear that application of Wheeler to the present facts creates the very hardship there intended to be remedied, closer scrutiny reveals this not to be so. It is the limits of the compulsory coverage purchased by Aetna’s insured that work the hardship and not the scope of the compulsory coverage clause as determined in Wheeler. But for the circumstance that the Cannons had their own policy which included uninsured-vehicle coverage above the statutory limits, they would have no complaint.
+The true problem, to which we are not unsympathetic, is the unfortunate fact that the Cannons declined the then (1977) optional underinsured vehicle coverage. We agree with the Cannons that the fact that such coverage was made mandatory by St. 1980, c. 532, amending G. L. c. 175, § 113L, is clear indication of a legislative intent to provide just and fair compensation to victims of motor vehicle injuries. But we cannot close the seven-year gap (1973 optional to 1980 mandatory) in the step-by-step legislative process by ignoring Wheeler and the insurance contracts in effect in 1977 in order to tailor a remedy for a particular situation perhaps not then foreseen by the Legislature. See Consolidated Cigar Corp. v. Department of Pub. Health, 372 Mass. 844, 854 (1977), quoting from Mobil Oil Corp. v. Attorney Gen., 361 Mass. 401, 417 (1972) (“Moreover, ‘[w]hen legislative authority is exerted within a proper area, it need not embrace every conceivable problem within that field. The Legislature may proceed one step at a time, addressing itself to the phase of the problem which seems most acute to the legislative mind’ ”).
+William P. O’Neill for the plaintiffs.
+John D. Ross, Jr., for Aetna Life & Casualty Company.
+David W. Sugarman for The Commerce Insurance Company.
+2. Because Aetna took no appeal from the judgment, we will not consider the only argument advanced in its brief, that the trial judge erred in concluding that the incident took place in an area to which the public has a right of access. Cf. Attorney Gen. v. Department of Pub. Utilities, 390 Mass. 208, 211-213 and n.4 (1983); O’Connor v. City Manager of Medford, 7 Mass. App. Ct. 615, 617-618 (1979). We think it also appropriate in this situation to order that Aetna is not to have its costs of appeal. See Mass.R.A.P. 26(a), as amended, 378 Mass. 925 (1979).
+Judgment affirmed.
