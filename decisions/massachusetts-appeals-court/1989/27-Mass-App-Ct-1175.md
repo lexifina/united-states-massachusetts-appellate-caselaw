@@ -1,0 +1,33 @@
+---
+court: "Massachusetts Appeals Court"
+docket: "88-P-965"
+decided: "1989-07-18"
+citations: ["27 Mass. App. Ct. 1175"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Doric Building Associates vs. Department of Labor and Industries & another."]
+source_url: "https://static.case.law/mass-app-ct/27/cases/1175-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3997843
+cites_cases: ["18 Mass. App. Ct. 621", "19 Mass. App. Ct. 112", "353 Mass. 85", "367 Mass. 751", "391 Mass. 829"]
+---
+
+# Doric Building Associates v. Department of Labor & Industries
+
+## Majority
+
+Concrete Construction Co., Inc. (CCC), was a prospective bidder on a project for construction of a library for the town of Norton (the awarding authority). It was entitled to receive the documents setting forth the specifications, requirements, conditions, etc., constituting the basis upon which bids were to be made under the system of bidding contemplated by G. L. c. 149, §§ 44A - 44J. CCC duly received the original documents, including addenda Nos. 1, 2, and 3, but, because of a mistake of procedure, addendum No. 4 was not furnished to CCC although the other prospective bidders did receive it. CCC prepared its bid without knowledge that there was an addendum No.4.
+Bids were to be formally submitted in Norton at 4:00 p.m., November 19, 1987. A representative of CCC, Jo-Ann Savignano, arrived at the place about 3:30 p.m. and handed in CCC’s bid in a sealed envelope about 3:41 p.m. Then through the architect she learned of addendum No. 4. This document inserted fixed figures for three items which previously had been open to subbidding. Ms. Savignano immediately called her office. The person in charge there, Fred Savignano, told her, correctly, that the addendum made CCC’s bid nonconforming and ineligible. Savignano spoke with the architect over the telephone, said the addendum would have the effect of lowering CCC’s bid, and asked (the record is unclear) either for postponement of the opening of bids for perhaps 25 minutes to permit CCC to amend its bid, or for a postponed date for submission of bids. His request was refused. A few minutes before the envelopes were opened, Savignano instructed Ms. Savignano to withdraw CCC’s bid and lodge a protest, which she did.
+When the envelopes were opened at 4:00 p.m. , Doric Building Associates (Doric), the present plaintiff, had the lowest bid. On November 21, 1987, CCC presented a written protest to the Department of Labor and Industries (DLI), a defendant herein. Meantime the town of Norton, also a defendant, by vote of its board of selectmen, awarded the contract to Doric, but on the condition that DLI approve the bidding procedure of November 19.
+After a hearing on December 14, 1987, DLI wrote on December 21 in its “administrative decision” that the bidding had been rendered invalid and the awarding authority should rebid the project. Norton followed DLI and rejected all bids and called for rebids.
+The present action, commenced in Superior Court by Doric against DLI and Norton, seeks the recovery of Doric’s expenses in preparing its bid. Upon cross motions for summary judgment bringing out the facts stated above, the judge granted judgment for the defendants.
+Doric does not dispute that CCC was entitled to be furnished seasonably with addendum No. 4, or that CCC was put to an unfair disadvantage as a prospective bidder in being denied the addendum — as DLI put it, CCC “was not on an equal footing with the other bidders as required by Interstate Engineering Corp. v. City of Fitchburg, [367 Mass. 751 (1975)].” Rather Doric argues that, as CCC was not one of the actual bidders, it had no “standing” — meaning thereby, presumably, that DLI was obliged under the law to refuse to pay any attention to CCC ’ s protest or to take any other action in the matter.
+Richard W. Petrocelli of Rhode Island for the plaintiff.
+Brison S. Shipley, Assistant Attorney General, for Department of Labor and Industries.
+George M. Matthews for the town of Norton.
+The argument has no merit. DLI has general authority to see that the bidding system of c. 149 is carried out faithfully. To this end, it may carry out investigations without regard to any protests. See G. L. c. 149, § 44H; Modern Continental Constr. Co. v. Lowell, 391 Mass. 829, 833 n.7 (1984); Department of Labor & Indus. v. Boston Water & Sewer Commn., 18 Mass. App. Ct. 621, 623 n.7 (1984); J. D’Amico, Inc. v. Worcester, 19 Mass. App. Ct. 112, 114 (1984). Indeed, there is no provision in the statute for formal protests, so that a protest, if one is made, may be viewed as, in effect, a reminder or stimulus to DLI to do its duty. A protest from any source, bidder or not, might accomplish this purpose. We should add here that DLI has no enforcement powers of its own when it finds a violation. When necessary, it may commence an action for enforcement in the Superior Court which proceeds entirely de nova. See Department of Labor & Indus. v. Boston Water & Sewer Commn., 18 Mass. App. Ct. at 623 n.7.
+It follows from what has been said that there is no problem of standing. The judge below put it this way: “The plaintiff argues that the person who lodged a protest with the Department did not have standing to do so. I do not find any statutory limitations as to who may bring matters to the attention of the Department.” He added, “I rule that the cases cited by the plaintiff on the issue of ‘standing’ were addressing the issue of ‘standing to bring a civil suit’ but not the issue of ‘standing to file a protest with the Department of Labor and Industries.’ ” Those cases, Quincy Ornamental Iron Works, Inc. v. Findlen, 353 Mass. 85, 87-88 (1967), and Modern Continental Constr. Co. v. Lowell, 391 Mass. at 835-836, bear upon the right of a party in the position of Doric to maintain an action for relief in Superior Court, or of a party in CCC’s position to do the same, had Norton declined to reject all bids and to rebid the project. As to the latter situation, we do not think the decisions indicate that an action in Superior Court would be barred to one who was illegally prevented from becoming a bidder on equal terms with others. The question before us, however, is the antecedent one of prodding DLI to make an administrative decision.
+Judgment affirmed.
+Norton had reserved the right to reject any or all bids according to G. L. c. 149, § 44E(1).
+This was Doric’s demand at oral argument before us. Earlier Doric had asked for other forms of relief which need not be recounted.
