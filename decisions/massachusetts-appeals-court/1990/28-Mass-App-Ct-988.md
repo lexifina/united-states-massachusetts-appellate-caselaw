@@ -1,0 +1,33 @@
+---
+court: "Massachusetts Appeals Court"
+docket: "89-P-692"
+decided: "1990-05-31"
+citations: ["28 Mass. App. Ct. 988"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Commonwealth vs. Francis A. Avola."]
+source_url: "https://static.case.law/mass-app-ct/28/cases/0988-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4001737
+cites_cases: ["11 Gray 67", "12 Mass. App. Ct. 338", "9 Gray 113"]
+---
+
+# Commonwealth v. Avola
+
+## Majority
+
+A District Court jury found the defendant guilty of operating under the influence of intoxicating liquor (G. L. c. 90, § 24). He appealed, claiming that the judge erred in denying his motion for a required finding of not guilty filed during the trial and renewed after the verdict. The motion was grounded upon a claim that the complaint was defective in that it was not subscribed by the complainant and, therefore, violative of G. L. c. 276, § 22, as appearing in St. 1979, c. 344, § 20, which states:
+“Upon complaint made to any justice that a crime has been committed, he shall examine on oath the complainant and any witnesses produced by him, reduce the complaint to writing, and cause it to be subscribed by the complainant, and, if it appears that a crime has been committed, shall issue a summons or warrant in compliance with the provisions of the Massachusetts Rules of Criminal Procedure.”
+The defendant had been arrested by a police officer of the town of Med-ford, who cited him for several motor vehicle offenses including operating under the influence of intoxicating liquor. On the next day a District Court complaint was lodged charging the defendant with those offenses. The complaint was contained within a document form prescribed by the District Court Department of the Trial Court. See G. L. c. 218, § 43B.
+On that form, the name of the arresting officer (John Zaferis) was typed into the space designated “complainant.” The space at the bottom of the form designated “complainant or authorized officer” contains the signature of a police officer who serves as the prosecutor for the town of Med-ford (Dana W. Moriarty). The signature of an assistant clerk appears in the space designated “sworn before.”
+The defendant claimed and was afforded a first instance jury trial in the District Court. At the close of the Commonwealth’s case, the defendant filed a motion for a required finding of not guilty and for the first time argued to the judge that the complaint was defective because the person who subscribed the complaint was not the same person as was listed as the “complainant” in the identifying data at the top of the form. That motion was denied as was the renewed motion offered on the same ground at the close of all the evidence. After the jury returned a verdict of guilty on the ‘operating under’ charge, the defendant, on the same ground, again moved for a required finding of not guilty. The trial judge, after a hearing, denied the motion in a written decision which dealt solely with the validity of the complaint. None of the motions was based on insufficiency of the evidence.
+While G. L. c. 277, § 47A, indicates that the failure to raise a pretrial claim of facial invalidity of a complaint constitutes a waiver of the claim, it also provides for judicial relief from such waiver. By conducting a post-trial hearing and rendering a written decision devoted entirely to that claim, the trial judge may have considered an implicit request for such relief to be before him, notwithstanding the absence in the record of a motion to dismiss and the unsuitability of a motion for required finding as a test of the validity of a complaint. In any event, our decision on the merits renders unnecessary our addressing the procedural issue of relief from waiver.
+Aside from that of the assistant clerk the only signature to the complaint against the defendant is that of the police prosecutor. Viewed in conjunction with the sentence printed below the heading on the complaint form and set out in the margin, that signature must be considered to be that of the “undersigned complainant.” Critically located as it is at the bottom of the document in the space designated “complainant or authorized officer,” that signature identifies the police prosecutor as the “complainant” who was “examine[d] on oath” and who “subscribed” the complaint pursuant to G. L. c. 276, § 22. While it has long been required that the offenses set forth in the complaint be subscribed by the complainant, Commonwealth v. Barhight, 9 Gray 113 (1857), there is no requirement that the subscriber have firsthand knowledge of the offenses. Commonwealth v. Dillane, 11 Gray 67, 71 (1858). Commonwealth v. Daly, 12 Mass. App. Ct. 338, 339 (1981). Indeed, the designation of one person, rather than eyewitness officers, to sign complaints is recognized by statute, G. L. c. 90C, § 3(B), and commended as a sound administrative practice in the Reporter’s Notes to Rule 4 of the Massachusetts Rules of Criminal Procedure (Mass. Ann. Laws, Rules of Criminal Procedure, at 37 [Law. Co-op. 1979]) and in the District Court Standards of Judicial Practice, The Complaint Procedure § 3:23 (1975).
+Richard C. Chambers for the defendant.
+James W. Sahakian, Assistant District Attorney, for the Commonwealth.
+The word “complainant” is not a word of art with fixed meaning. It has been interpreted varyingly “as referring to the person who applied for the complaint,” Commonwealth v. Daly, supra at 342, and as “the person bringing to the attention of the court an allegedly criminal act and seeking the assistance of the court.” District Court Standards of Judicial Practice, The Complaint Procedure § 1:01 (1975). In these circumstances, the typewritten insertion of the name of the arresting officer in a space labeled “complainant” is not sufficient to invalidate the complaint. It is a harmless inconsistency. To regard it otherwise would be to exalt form over substance. To the extent that it reflects a local practice of thus identifying the arresting officer, it may aid the defendant by supplying him with additional relevant information.
+Judgment affirmed.
+We note that the phrase “or authorized officer” was ordered removed from the prescribed form as of December, 1987, a date subsequent to that of the complaint in this case.
+General Laws c. 218, § 33, permits clerks and other designated persons in the clerk’s office to administer the required oath.
+“The within named and undersigned complainant, on behalf of the Commonwealth, on oath complains that on the date and at the location stated herein the defendant did commit the offense(s) listed below.”
