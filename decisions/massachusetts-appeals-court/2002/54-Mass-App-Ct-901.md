@@ -1,0 +1,32 @@
+---
+court: "Massachusetts Appeals Court"
+docket: "99-P-2153"
+decided: "2002-02-21"
+citations: ["54 Mass. App. Ct. 901"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["BankBoston, N.A. vs. Arnold J.F. Yodice & others."]
+source_url: "https://static.case.law/mass-app-ct/54/cases/0901-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 987534
+cites_cases: ["40 Mass. App. Ct. 116", "40 Mass. App. Ct. 384", "43 Mass. App. Ct. 613"]
+---
+
+# BankBoston, N.A. v. Yodice
+
+## Majority
+
+Two of the defendants, Arnold J.F. Yodice and Trudy S. Yodice, executed a note (note 1), dated July 29, 1975, in the amount of $25,200 payable to Worcester County Institution for Savings (WCIS), the plaintiff bank’s predecessor in interest. That note was secured by a first mortgage of the Yodices’ home located at 31 Hillcrest Avenue in Worcester (the property). Some years later in the 1980s, the Yodices executed another note (note 2), payable to the Worcester County National Bank and secured by a second mortgage on the property. Later, on or about September 26, 1988, Arnold, Trudy and Daniel B. Yodice executed a third note (note 3) in the amount of $82,000 payable to WCIS, secured by a third mortgage on the property.
+WCIS eventually merged with the plaintiff bank. By letters dated April 15, 1997, the bank through counsel gave separate notice to each of the three Yodices of their default under note 3, made demand upon each of them, and gave notice generally of foreclosure respecting the third mortgage and liability for deficiency after foreclosure. In October, 1997, the bank through counsel gave notice to Arnold and Trudy Yodice under G. L. c. 244, § 17B, of its intention to foreclose upon the mortgage securing note 1 and of liability for any deficiency after foreclosure. On November 7, 1997, at foreclosure auction pursuant to the bank’s power of sale contained in the first mortgage, the property was sold at the highest bid to a third party for $67,000. The proceeds were used to discharge both the first mortgage held by WCIS and note 2 held by Worcester County National Bank, and the remaining $15,310.85 was applied in partial satisfaction of the third mortgage note. The bank never foreclosed upon the property pursuant to the third mortgage.
+On November 12, 1998, the bank commenced the present action to enforce note 3 against the three Yodices. The defendants raised as a defense the bank’s alleged failure to provide the requisite notice under G. L. c. 244, § 17B, respecting deficiency after foreclosure. On cross motions for summary judgment, a Superior Court judge, citing Framingham Sav. Bank v. Turk, 40 Mass. App. Ct. 384, 387 (1996), denied the bank’s motion and allowed the Yodices’ motion, concluding that “[t]he demand made by BankBoston upon the defendants ... on April 15, 1997 for the payment in full of the amounts due under the subject note executed by defendants in September of 1988, failed to comply with the notice requirements of G. L. c. 244, § 17B.”
+Michael H. Theodore for the plaintiff.
+Arthur Goldstein for the defendant.
+There is, however, a flaw in the defendants’ argument (and the judge’s reasoning). The bank foreclosed on the first mortgage and discharged it with application of the sale proceeds. The excess proceeds were applied to note 2, thereby satisfying it also. The remaining proceeds were insufficient to satisfy the amount due on note 3. That the first mortgagee did not give notice of a potential post-sale deficiency respecting the third note and mortgage does not bar recovery by the third mortgagee, who, in these circumstances, had no obligation to give any notice at all. All that happened is that the security for the third mortgage became no longer available; the debt on note 3 still exists, and the third mortgagee may sue on the note.
+Section 17B is directed to deficiency after foreclosure of a mortgage securing the note. We do not discern in the language of that provision any intent to require holders of multiple mortgages, who were exercising rights under a senior instrument, to give notice regarding rights they were not exercising under junior instruments. As the bank did not foreclose on the third mortgage, there could be no deficiency after foreclosure of that mortgage, and thus no notice was required under § 17B.
+This situation is unlike that in IAG Fed. Credit Union v. Laterman, 40 Mass. App. Ct. 116, 118 (1996), where an action on two notes essentially was converted into an action to recover a deficiency because of a foreclosure sale in the interim. Here, after foreclosure of a first mortgage and application of the proceeds, the security for a third mortgage no longer existed and there was still an outstanding obligation.
+Judgment reversed.
+Judgment for plaintiff.
+General Laws c. 244, § 17B, inserted by St. 1945, c. 604, § 1, states in part as follows: “No action for a deficiency shall be brought after June thirtieth, nineteen hundred and forty-six by the holder of a mortgage note or other obligation secured by mortgage of real estate after a foreclosure sale by him taking place after January first, nineteen hundred and forty-six unless a notice in writing of the mortgagee’s intention to foreclose the mortgage has been mailed, postage prepaid, by registered mail with return receipt requested, to the defendant sought to be charged with the deficiency at his last address then known to the mortgagee, together with a warning of liability for the deficiency, in substantially the form below, not less than twenty-one days before the date of the sale under the power in the mortgage, and an affidavit has been signed and sworn to, within thirty days after the foreclosure sale, of the mailing of such notice. A notice mailed as aforesaid shall be a sufficient notice, and such an affidavit made within the time specified shall be prima facie evidence in such action of the mailing of such notice. The notice and affidavit, respectively, shall be in substantially the following forms . . . .” The statute proceeds to prescribe forms for the notice and affidavit, respectively.
+This is so notwithstanding that here the first mortgagee and the third mortgagee are identical. Cf. HRPT Advisors, Inc. v. MacDonald, Levine, Jenkins & Co., 43 Mass. App. Ct. 613, 622-623 (1997) (bank acting as assignee but not as mortgagee).
+Deciding as we do, we have no need to address whether the April, 1997, letters suffice under the statute.
