@@ -1,0 +1,24 @@
+---
+court: "Massachusetts Appeals Court"
+decided: "1982-08-05"
+citations: ["14 Mass. App. Ct. 965"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Eugene Cormier vs. Gerald Grant & another."]
+source_url: "https://static.case.law/mass-app-ct/14/cases/0965-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5736945
+cites_cases: ["12 Mass. App. Ct. 64", "12 Mass. App. Ct. 986", "13 Mass. App. Ct. 1086", "194 Mass. 179", "208 Mass. 214", "223 Mass. 471", "3 Mass. App. Ct. 35", "3 Mass. App. Ct. 742", "320 Mass. 551", "322 Mass. 102", "348 Mass. 198", "359 Mass. 119", "361 Mass. 341", "363 Mass. 324", "374 Mass. 206", "374 Mass. 574", "379 Mass. 914"]
+---
+
+# Cormier v. Grant
+
+## Majority
+
+1. The defendants are not without some basis in claiming that the trial judge erred in admitting a scale diagram of the accident intersection without verifying “the accuracy of the representation.” McKarren v. Boston & No. St. Ry., 194 Mass. 179, 180 (1907). Everson v. Casualty Co. of America, 208 Mass. 214 (1911). See Ux v. North Reading, 379 Mass. 914, 915-916 (1979). Compare McLaughlin v. Cunningham, 13 Mass. App. Ct. 1086, 1087 (1982). However, “[i]t is for the excepting party to show that he has been prejudiced by the admission of the evidence.” Freedman v. Lipman, 223 Mass. 471, 472 (1916). See Bermingham v. Thomas, 3 Mass. App. Ct. 742 (1975). Cf. McCormick, Evidence § 183 (2d ed. 1972). There was no such showing. The diagram had been the sole source for a chalk used by an expert witness to demonstrate the path of the tractor trailer, and the jury, therefore, was extensively exposed to the contents of the diagram during the course of the expert’s testimony. Since the accuracy of the diagram was never questioned, we conclude that the admission of the scale diagram worked no prejudice and was harmless error. See Gleason v. Galvin, 374 Mass. 574, 577 (1978).
+2. A motion for directed verdict must be denied if “anywhere in the evidence, from whatever source derived, any combination of circumstances could be found from which a reasonable inference could be drawn in favor of the plaintiff.” Poirier v. Plymouth, 374 Mass. 206, 212 (1978), quoting Raunela v. Hertz Corp., 361 Mass. 341, 343 (1972). Viewing only the evidence most favorable to the plaintiff, the jury could have concluded that the defendant was more negligent than the plaintiff. See Gelinas v. New England Power Co., 359 Mass. 119, 123 (1971). The jury could reasonably have found the following. The plaintiff, during the course of his employment, was directing traffic at an intersection where resurfacing was in progress. The plaintiff, seeing the tractor trailer approach the intersection, motioned the truck to slow down and make a wide sweeping left turn. Instead, Grant did not begin to make his turn until after he reached the middle of the intersection. Grant was aware of the plaintiff in the intersection, yet, while making the turn, never looked back to check the plaintiff’s position. Grant, an experienced truck driver, knew or should have known that as his truck pulled straight into the intersection and then made a left turn, the rear dual wheels of the trailer would go far to the left of the tractor’s front wheels. The plaintiff, standing on the driver’s side of the vehicle, was hit by the rear wheels of the trailer after the first part of the truck had already passed him.
+William H. Clancy for the defendants.
+Christopher C. Mathers for the plaintiff.
+Based on the evidence, the jury reasonably could have concluded that Grant was negligent. “Only when no rational view of the evidence warrants a finding that the defendant was negligent may the issue be taken from the jury.” Zezuski v. Jenny Mfg. Co., 363 Mass. 324, 327 (1973). Luz v. Stop & Shop, Inc., 348 Mass. 198, 203-204 (1967). Lameiras v. Corey, 12 Mass. App. Ct. 986, 987 (1981). The driver of a vehicle must exercise “a reasonable degree of care for [a pedestrian’s] safety.” Buckman v. McCarthy Freight Sys., Inc., 320 Mass. 551, 554 (1947). DaSilvia v. Dalton, 322 Mass. 102, 103 (1947). Mlynarchik v. Massachusetts Bay Transp. Authy., 3 Mass. App. Ct. 35, 37 (1975). In this case, Grant’s failure to determine the plaintiff’s position as he was making the turn and to “act with the appropriate and required caution,” ibid., was sufficient to allow the jury to find negligence. Furthermore, evidence of negligence on the part of the plaintiff “is to be weighed by the jury in determining the percentages of negligence to be assigned to the plaintiff and the defendant.” O’Hanley v. Ninety-Nine, Inc., 12 Mass. App. Ct. 64, 68-69 (1981). The defendants’ motion for directed verdict was properly denied.
+Judgment affirmed.
