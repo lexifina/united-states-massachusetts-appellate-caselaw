@@ -1,0 +1,25 @@
+---
+court: "Massachusetts Appeals Court"
+decided: "1976-06-01"
+citations: ["4 Mass. App. Ct. 349"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Commonwealth vs. Dorothy Monteririo."]
+source_url: "https://static.case.law/mass-app-ct/4/cases/0349-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3949155
+cites_cases: ["1 Mass. App. Ct. 579", "358 Mass. 771", "365 Mass. 472", "366 Mass. 479", "368 Mass. 571", "389 U. S. 347"]
+---
+
+# Commonwealth v. Monteririo
+
+## Majority (Hale, C.J.)
+
+Hale, C.J.
+The defendant was convicted of possession of heroin with intent to distribute after a trial held pursuant to G. L. c. 278, §§ 33A-33G. She assigns as error the judge’s denial of motions to suppress six packets of heroin and statements she made to the police, as well as testimony of a police officer at the trial recounting those statements. We find no error in those rulings and affirm the conviction. We summarize the evidence given at the hearing on those motions from which the judge made findings of fact concerning the suppression of the heroin.
+On June 1, 1974, in the early evening, two officers of the Boston police, experienced in the field of narcotics enforcement, observed a male on the sidewalk in front of a lounge in the Roxbury-Dorchester district of the city. The man was known to them as a narcotics violator against whom there was an outstanding default warrant. By the time the officers had turned their cruiser around and parked it, the man was no longer in sight. The officers went into the lounge and observed the man seated at the bar next to the defendant. One of the officers recognized the defendant as a person whom he had previously arrested for a narcotics violation. The officers observed the defendant place a bar towel on the shelf area beneath a public wall telephone next to the directory normally stored there. One of the officers proceeded to the telephone, removed the towel, unrolled it and discovered six glássine bags which he believed to contain heroin. One of the officers arrested the defendant and advised her of her rights. She made no statement at that time. She was then taken to the police station, where the officer again advised her of her rights. When asked, “Do you understand what I’ve read to you, and are you willing to talk to me about this?”, the defendant responded that she understood but made no response to the second part. She did not answer when asked whether she was “dealing” for the man observed by the police. The officer then asked if she were going to get sick that night, and she said she would not, as she no longer used drugs. At trial the Commonwealth used that statement as evidence supporting the element of intent to distribute.
+The defendant has offered several reasons why the heroin should have been suppressed. It is sufficient to say that the judge was correct in admitting the heroin as there had been no search and seizure which violated the defendant’s Fourth Amendment rights. As the shelf under the public telephone where the defendant put the towel was open to public use, she had no reasonable expectation of privacy with respect to it. These circumstances fall within the rule of Commonwealth v. Thomas, 358 Mass. 771, 774 (1971), in which the defendant, a tenant, was held to have no expectation of privacy in the laundry room of a building to which he had access in common with other tenants, and in which it was held that heroin seized in the laundry room was admissible against him. Compare Commonwealth v. Battle, 1 Mass. App. Ct. 579, 583, n. 7 (1973), and cases cited, S. C. 365 Mass. 472, 476 (1974). We believe that Katz v. United States, 389 U. S. 347 (1967), relied on by the defendant, which held that electronic eavesdropping of telephone conversations in a public telephone booth violates a zone of privacy protected by the Fourth Amendment, has no bearing on the present case.
+The judge, in denying a motion to suppress and in allowing in evidence statements made by the defendant to the police, implicitly found that the Commonwealth had satisfied its burden (see Commonwealth v. Hosey, 368 Mass. 571, 576 [1975]) of showing that the defendant had knowingly and voluntarily waived her rights and that her statements were freely and voluntarily made. The defendant had stated that she understood her rights. From the other evidence before him the judge could have found that in the totality of the circumstances, including her conduct in answering the questions, she had waived her rights. “Explicit statements that... [the defendant] understood ... [her] rights and waived them were not essential.” Commonwealth v. Valliere, 366 Mass. 479, 487 (1974).
+Judgment affirmed.
+Both motions were denied prior to trial. However, as the question of the admissibility of the statements was again raised at trial we have included in the summary certain relevant evidence given during trial.
