@@ -1,0 +1,26 @@
+---
+court: "Massachusetts Appellate Division"
+decided: "1937-12-07"
+citations: ["2 Mass. App. Div. 659"]
+reporter: "mass-app-div"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["STATE STREET TRUST CO. vs. ARCADE SMELTING & REF. CO. AND TRUSTEE."]
+source_url: "https://static.case.law/mass-app-div/2/cases/0659-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3878820
+cites_cases: ["101 Fed. 248", "196 Mass. 125", "249 Mass. 459", "289 U. S. 344", "290 Mass. 182"]
+---
+
+# State Street Trust Co. v. Arcade Smelting & Ref. Co.
+
+## Majority (Bolster, C. J.)
+
+Bolster, C. J.
+In this case it was agreed that the trustee, Beacon Battery Supply Company, before service of process upon it, had filed an answer under section 77 B. of the Bankruptcy Act, and that answer had been approved by the United States District Court. The trustee moved that the writ, as to it, be abated. The judge refused so to do, and has reported that denial.
+Section 77 B. provides that “If the answer — is—approved — the court shall — have exclusive jurisdiction of the debtor and its property — and may have — all the powers— which a Federal Court would have had it appointed a receiver in equity”. The court could appoint a trustee or continue the debtor in possession. Provision is made for all creditors to join. By clause (10) of the section, the court is given power to enjoin suits, or stay pending suits.
+The plaintiff’s position is that this situation calls for a stay here, but not an abatement. This is not like a case in which an action earlier brought is, by the terms of the act, to be stayed to await the outcome in bankruptcy, and action concerning a discharged, cf. Berry Clothing Co. v. Shopnick, 249 Mass. 459. It resembles an action brought against a bankrupt after his adjudication and while proceedings are still pending in the bankruptcy court.
+It is to be observed that under the general act a debt not affected by a discharge may still be sued. In an application for a stay, the character of the debt is necessarily one of the things to be inquired into. Collier Bankruptcy, 11th Ed. pp. 286-291. Unless that rule is changed by section 77 B. a motion for abatement of a writ as to the trustee, assuming it to be garnishable property at all, would not be properly allowed, for such a motion, made in limine, is tantamount to an assertion that there can be no case in which the court could ever proceed to an order charging the trustee whatever the trustee’s answers might show as to the dischargeable character of his obligation. Moreover, the trustee’s answer may disclose that instead of being a debtor, lie is the holder of chattels which can be shown to be, not assets in bankruptcy, but the property of the principal defendant. In such case, there would seem no good reason why the trustee should not be required to turn such chattels out for execution. Whether a writ of scire facias would thereafter lie seeking to charge the trustee’s own goods is a later and different question. Again, it is conceivable that the trustee’s debt, if it be a debtor, or its possession of chattels, if it be only a bailee, arose or occurred after the equivalent of an adjudication in bankruptcy, cf. Sibley v. Nason, 196 Mass. 125. Other situations, such as goods consigned to the bankrupt, can readily be supposed. Beclamation may be in the bankruptcy or state court. In re Russell, 101 Fed. 248.
+It is then to be considered whether section 77 B. has changed the ordinary rules in bankruptcy. There is this essential difference, that whereas the bankruptcy act strikes a balance of assets and liabilities at the commencement of proceedings, section 77 B. looks only to re-organization. In the first case, it is rebirth, in the second, suspended animation. When the case is closed the quasi-bankrupt goes on, it may be with its former assets in part at least. But it still remains true that the “exclusive jurisdiction” is over the proper assets of the debtor, not over the property of strangers which may be found in the custody of the debtor. If it had been intended by those words of exclusiveness to say that the bankruptcy court alone should have power to determine what were assets, changing the former rule, more explicit statement might be expected.
+If the trustee’s obligation turns out to relate to something wrapped up in the administration of assets under guidance of the court, this process will not hold. Property in custodia legis cannot be trusteed. Gross v. Irving Trust Co., 289 U. S. 344, Mass. Gen. Laws, Ch. 246, sec. 32. But whether it is such does not appear. The parties at the hearing on the motion, that is, the plaintiff and the alleged trustee, agreed upon certain facts. Assuming*, that it was a matter for agreement. Kolda v. Nat. Ben Franklin Fire Ins. Co., App. Div. No. 305165 of 1932 (38-333) affirmed 290 Mass. 182, 187, the showing falls short of disclosing whether the court has or has not jurisdiction over this' trustee. Until the facts which create a want of jurisdiction are properly disclosed, (cf. G. L. Ch. 246 §§14, 16) there is no error in denying a motion to abate. And nothing beyond that is now decided.
+Report dismissed.
