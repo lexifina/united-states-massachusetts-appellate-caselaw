@@ -1,0 +1,27 @@
+---
+court: "Massachusetts Appeals Court"
+decided: "1982-03-19"
+citations: ["13 Mass. App. Ct. 986"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["John Goslin vs. Chief Administrative Justice of the Trial Court & another."]
+source_url: "https://static.case.law/mass-app-ct/13/cases/0986-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3970437
+cites_cases: ["306 Mass. 221", "313 Mass. 393", "315 Mass. 47", "346 Mass. 742", "348 Mass. 532", "355 Mass. 610", "46 N.Y. 2d 613", "7 Mass. App. Ct. 333", "8 Mass. App. Ct. 937"]
+---
+
+# Goslin v. Chief Administrative Justice
+
+## Majority
+
+On March 21, 1977, a judge of the District Court of East Norfolk notified the then Chief Justice of the Superior Court, as chairman of the committee on probation, of his intention to remove Goslin as a probation officer in the District Court. See G. L. c. 276, § 83, as it read before the enactment of St. 1978, c. 478, § 290. The pertinent part of § 83 then read: “A probation officer may be removed ... for cause by the justices of the court making the appointment; provided that no probation officer shall be removed ... by said justices unless such removal. . . shall be approved in writing by the committee on probation.” See also G. L. c. 276, § 99A, inserted by St. 1956, c. 731, § 21, which read in part: “No probation officer shall be removed ... by any court until such removal. . . shall have been approved in writing by the committee on probation. Before . . . approving the removal ... of any probation officer, the committee on probation shall grant a hearing to such officer.”
+At a meeting of the committee on April 12, 1977, it was suggested by counsel for Goslin that he “could possibly agree to the designation of a single [mjember of the [cjommittee” to hear the evidence. Counsel then stipulated that the chairman of the committee (the then Chief Justice of the Superior Court), “will hear the evidence . . . and at the conclusion of the hearing will forward copies of the . . . transcript. . . with his rulings, findings, and recommendations for consideration by the whole [cjommittee .. . who shall then make its determination ... by a majority vote.” The then Chief Justice sitting as the hearing officer made his findings on August 29, 1977, and recommended approval of Goslin’s discharge. The full committee, after affording Goslin’s counsel opportunity for oral argument before the full committee, gave such approval on October 24, 1977.
+Goslin, on October 22, 1979, filed a complaint (see G. L. c. 249, § 4, as appearing in St. 1973, c. 1114, § 289) seeking reinstatement. A Superior Court judge ruled that Goslin could not waive “his statutory right to a hearing before the full [cjommittee on [p jrobation” and ordered that Goslin be given a new hearing before the advisory committee on personnel standards, the body created by St. 1978, c. 478, § 110, now G. L. c. 211B, § 8, to perform some functions theretofore performed by the committee on probation. See G. L. c. 276, §§ 98-99A, as appearing in St. 1978, c. 478, § 294.
+Goslin is bound by his stipulation as to the procedure and use of a hearing officer under a statute which required only that the committee “shall grant a hearing.” After an evidentiary hearing by the hearing officer, he also was afforded a review by the full committee of that officer’s recommendations. One cannot help to “steer [anj administrative agencfy] into error,” if here there was any error, “and complain of it on judicial review.” Shamrock Liquors, Inc. v. Alcoholic Beverages Control Commn., 7 Mass. App. Ct. 333, 335 (1979). We hold that there was no error. The statute (§ 99A) directing a hearing was much less specific than that considered in Sesnovich v. Board of Appeal of Boston, 313 Mass. 393, 396-398 (1943). It is unlikely that the Legislature intended by § 99A to require a possibly long hearing before the full committee in a matter of this'type, consuming an undue amount of the time of persons charged with other important public duties. See discussion in Gardner v. Massachusetts Turnpike Authy., 348 Mass. 532, 534-538 (1965).
+Maureen L. Fox, Assistant Attorney General, for the defendants.
+Nathaniel M. Sherman for the plaintiff.
+Cases relied upon by Goslin are based on somewhat more explicit statutes. In Farrell v. Mayor of Revere, 306 Mass. 221, 222 (1940), the statute expressly required “a hearing before the mayor and the council.” In Perkins v. School Comm. of Quincy, 315 Mass. 47, 48-49 (1943), the statute required a hearing before the school committee and in terms provided for an evidentiary hearing. See discussion of the recent considerable relaxation of decisions limiting delegation of agency powers in 1 Davis, Administrative Law §§ 3.3, 3.11, 3.14, 3.15 & 3.17 (2d ed. 1978 and Supp. 1982). Although the State Administrative Procedure Act, e.g. G. L. c. 30A, §§ 10(3) and 11(7), is not applicable to the judicial department (Sampson v. Committee on Probation, 8 Mass. App. Ct. 937 [1979]), its provisions may give helpful guidance. See Assessors of New Braintree v. Pioneer Valley Academy, Inc., 355 Mass. 610, 612 n. 1 (1969). See also Brockton Hosp. Co. v. Commissioner of Pub. Welfare, 346 Mass. 742, 746 (1964). Cf. Suffolk County Builders Assn. v. County of Suffolk, 46 N.Y. 2d 613, 620 (1979).
+The judgment is reversed. Judgment is to be entered dismissing the complaint against all the defendants.
+So ordered.
