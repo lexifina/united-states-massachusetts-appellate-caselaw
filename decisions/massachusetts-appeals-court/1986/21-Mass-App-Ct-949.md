@@ -1,0 +1,31 @@
+---
+court: "Massachusetts Appeals Court"
+decided: "1986-01-06"
+citations: ["21 Mass. App. Ct. 949"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Commonwealth vs. James Bert Swain."]
+source_url: "https://static.case.law/mass-app-ct/21/cases/0949-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3987298
+cites_cases: ["371 Mass. 732", "374 Mass. 368", "378 Mass. 924"]
+---
+
+# Commonwealth v. Swain
+
+## Majority
+
+Around 3:00 p.m., September 18, 1983, driving south on Concord Road in Weston, Arthur McKenzie stopped his car at the light at the intersection of Concord with Boston Post Road, then turned left onto Boston Post Road and proceeded eastward thereon. As he approached the intersection with Colpitts Road on his right hand side (an intersection without a stop sign or light), McKenzie saw a van pull out suddenly from Colpitts Road onto Boston Post Road and head eastward. At this point there was so short a distance between the car and the van that McKenzie braked his car. The van then broke out with its hazard lights — the two rear and two front directional lights — all flashing simultaneously, and continued eastward at a slow pace (presumably at about the posted rate of 25 miles per hour) with the McKenzie car following. After passing by a marked police cruiser, the van shut off its hazard lights, turned left at the intersection with Church Street and proceeded in a northerly direction on that street until it was overtaken by the police cruiser. A citation issued against the defendant Swain, the driver of the van, for violation of G. L. c. 90, § 7, as amended by St. 1965, c. 69, § 1, which provides: “Every motor vehicle registered in the commonwealth shall be equipped with a device to permit the front and rear directional signals to flash simultaneously, said device to be operated only when the vehicle is disabled or stopped in the event of emergency on or at the side of any way.” Upon trial to a jury of six in the District Court at Framingham, the defendant, an attorney who has acted pro se, was found guilty. He appeals from the judgment.
+The defendant’s claims of error are mostly upon the denial of certain of his requested instructions, and we deal with those that may be thought to be of some consequence. First, he raised questions about the proper reading of § 7. We agree with the judge that the statute is violated when (even granting the predicates of registration of the vehicle, a “way,” etc.) one operates “said device” when the vehicle has not been disabled or stopped. A reading proposed by the defendant, that the statute makes it mandatory to operate the device when the vehicle is disabled or stopped as indicated, but broadly permits operation in other situations, seems to us repelled by the language the Legislature has chosen. If that proposed reading is rejected, the defendant further suggests that the statute, although it does not deal expressly with a rear end collision imminently threatened, should be understood to allow the operator to apply the device in that condition of peril, and perhaps in any comparable case. (The defendant speaks of “justification” or “defense.”) We need not express an opinion on the issue so propounded. The record made renders the question hypothetical, not real.
+Second, the defendant makes constitutional claims. We hold that the statute speaks quite clearly to the present facts, and is not so vague as to be constitutionally infirm. See Commonwealth v. Orlando, 371 Mass. 732, 734 (1977). We also reject the claim that the statute offends against the free speech guarantees because (as the argument goes) its prohibition, being overbroad, restricts unduly the use of the device viewed as an instrument which by its signal can transmit intelligence. See Commonwealth v. Bohmer, 374 Mass. 368, 373-375 (1978). Yet another claim, that property rights are somehow unreasonably infringed by the statute, we likewise reject. The statute seems to us within the competence of the Legislature to promote highway safety by ascribing quite specific, limited functions to the hazard lights. It is irrelevant that a better statute might have been devised.
+Third, there was no error in the judge’s denial of the defendant’s motion for a required finding of not guilty, whether taken to have been made at the close of the plaintiff’s case or after all the evidence was in. The jury could find that the Commonwealth established a violation by proof beyond a reasonable doubt.
+The defendant seeks to recover from the Commonwealth his costs of having the transcripts prepared for purposes of his appeal. We mention this matter although it should have been brought to the single justice. Initially the defendant applied under Mass.R.A.P. 8(c), as appearing in 378 Mass. 924, 933 (1979), by offering his “statement of the evidence.” However that provision does not apply where, as here, an electronic recording of proceedings is available. Later the defendant properly resorted to rule 8(b) (3) (electronically recorded proceedings). There is no basis in that rule for relieving the defendant — a nonindigent — of the relevant costs.
+James Bert Swain, pro se.
+Pamela L. Hunt, Assistant District Attorney, for the Commonwealth.
+Judgment affirmed.
+So the jury could find, although the defendant’s testimony differed somewhat.
+McKenzie could observe only the back lights, but other evidence showed that the front lights were operating simultaneously.
+The defendant was sentenced to pay a fine of $25, execution stayed pending appeal.
+The judge did not abuse his discretion in declining to declare the defendant an expert witness who might testify about rear end collisions. (Actually he offered himself as an expert on accident reconstruction; but no accident had occurred.) The defendant was permitted to testify about his feelings of fear about rear end collisions.
+The defendant evidently believes that a jury may think less of a witness who affirms instead of taking the oath. The defendant’s constitutional argument on this score is neutralized because at his suggestion the witnesses in this case were qualified out of the sight and hearing of the jury.
