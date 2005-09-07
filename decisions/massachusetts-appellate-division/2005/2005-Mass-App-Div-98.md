@@ -1,0 +1,31 @@
+---
+court: "Massachusetts Appellate Division"
+decided: "2005-09-07"
+citations: ["2005 Mass. App. Div. 98"]
+reporter: "mass-app-div-annual"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Present: Welsh, Barrett & Bernard, JJ."]
+parties: ["Wendy Vasconcellos vs. Arbella Mutual Insurance Company"]
+source_url: "https://static.case.law/mass-app-div-annual/2005/cases/0098-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8994610
+cites_cases: ["307 Mass. 574", "353 Mass. 219", "370 Mass. 630", "419 Mass. 462"]
+---
+
+# Vasconcellos v. Arbella Mutual Insurance
+
+## Majority (Welsh, J.)
+
+Welsh, J.
+After her 1989 Ford Escort became inoperable when the engine seized, plaintiff Wendy Vasconcellos (‘Vasconcellos”) purchased a 1991 Ford Tempo on August 20 or 21, 2001. She attached the registration number plate issued for the Escort to the Tempo and drove it to her home. Vasconcellos did not transfer the registration from the Escort to the Tempo. Vasconcellos retained both legal ownership and physical possession of the 1989 Escort, intending to have it repaired at some later time. On August 25, 2001, four or five days after she acquired the Tempo, Vasconcellos was involved in a motor vehicle collision in Wareham. Vasconcellos did not notify her insurance carrier, defendant Arbella Mutual Insurance Company (“Arbella”), prior to the accident of either her purchase of the Tempo, or her transfer of the registration number plate. About a year after purchasing the Tempo, Vasconcellos finally disposed of the Escort at an auto salvage yard.
+Upon Arbella’s denial of her insurance claim for property damage caused by the August 25, 2002 accident, Vasconcellos filed this action to recover for Arbella’s breach of an alleged settlement contract, breach of the parties’ insurance contract, and G.L.c. 93A violations. The case was presented and argued on cross motions for summary judgment. The judge granted summary judgment in favor of Vascon-cellos on Count II of her complaint (failure to pay property damage claim in breach of the insurance contract), and allowed Arbella’s motion for summary judgment on the remaining complaint counts. Both parties appealed.
+1. Arbella argues that the trial judge erred in concluding that Vasconcellos’ registration and automobile insurance on the Escort covered the Tempo on the date of the accident because Vasconcellos was within the seven-day grace period allowed by G.L.c. 90, §2. The fifth paragraph of G.L.c. 90, §2 provides, in part:
+A person who has attained 18 years of age and who transfers the ownership of a registered motor vehicle... owned by him to another or who loses possession thereof and who intends to transfer the registration of such motor vehicle ... to ... a newly acquired used motor vehicle of the same type and having the same number of wheels may... operate such... newly acquired used motor vehicle ... for a period beginning from the date of transfer until five o’clock post meridian of the seventh calendar day following the date of transfer within the period for which the transferred vehicle was registered; provided, however, that the number plates issued upon registration of the transferred motor vehicle ... shall be attached to the newly acquired vehicle. During such period any operator of the newly acquired vehicle shall carry an original copy of the bill of sale reciting the registration number to be transferred from the former vehicle to the newly acquired vehicle.... [emphasis supplied].
+As Vasconcellos had not transferred ownership of the Escort at the time of the accident with the Tempo, the crucial issue was whether Vasconcellos had lost “possession” of the Escort so as to bring her within the statutory seven-day grace period. We conclude that she did not.
+In Nasis v. American Motorist Ins. Co., 353 Mass. 219 (1967), the Supreme Judicial Court ruled that the grace period was inapplicable in factual circumstances strikingly similar to those in this case. In Nasis, the owner of a 1953 Ford sedan acquired a 1955 Plymouth sedan. He rendered the Ford inoperable by smashing the windows and removing parts from the vehicle. The Court held that the owner’s actions were insufficient to divest himself of possession because the Ford was still capable of being towed. The owner’s continued possession of the Ford prevented application of the G.Lc. 90, §2 grace period. In similar fashion, the fact that the Escort was inoperable because of the seized engine did not alter the fact that the vehicle remained in the possession of Vasconcellos. Given the undisputed fact that she did not “lose possession” of the Ford, it is apparent that Vasconcellos failed to meet her burden of proving that she satisfied the conditions of G.L.c. 90, §2. Had she complied with the statutory terms, the insurance in effect on the Escort would have applied to the Tempo during the grace period. See Commonwealth v. Brady, 370 Mass. 630, 634 (1976). A good faith attempt to comply does not suffice. Id. at 635.
+2. The issues raised on Vasconcellos’ cross-appeal do not require extended discussion. First, the fact that an offer of settlement was made, accepted and later withdrawn was of no consequence. Vasconcellos failed to demonstrate any detrimental reliance on the offer of Arbella’s adjuster. As stated in McEaden v. Nordblom, 307 Mass. 574, 576 (1941), failure to perform an unexecuted accord does not extinguish the underlying claim. An unexecuted accord is not satisfaction.
+The theory that the Tempo was a “temporary substitute” vehicle covered by Vasconcellos’ insurance policy simply does not comport with the undisputed facts. Vasconcellos owned the Tempo and the Escort simultaneously when the accident occurred.
+Finally, because there was no insurance coverage for the Tempo, there is no merit in the contention that Arbella failed to act promptly on the claim. A good faith denial of coverage negates G.L.c. 93A liability. Lumberman’s Mutual Cas. Co. v. Offices Unlimited, Inc., 419 Mass. 462, 468 (1995).
+Judgment for the plaintiff on Count II is vacated, and judgment is to be entered for the defendant. The judgment for the defendant on all other claims is affirmed.
+So ordered.
