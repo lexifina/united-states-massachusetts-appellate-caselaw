@@ -1,0 +1,30 @@
+---
+court: "Massachusetts Appeals Court"
+docket: "04-P-298"
+decided: "2005-10-13"
+citations: ["64 Mass. App. Ct. 751"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Robert Pritzky & others vs. Safety Insurance Company."]
+source_url: "https://static.case.law/mass-app-ct/64/cases/0751-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1021017
+cites_cases: ["338 N.W.2d 256", "367 Mass. 921", "403 Mass. 220", "418 Mass. 503"]
+---
+
+# Pritzky v. Safety Insurance
+
+## Majority (Armstrong, C.J.)
+
+Armstrong, C.J.
+The plaintiffs Robert Pritzky, Susan Capone, and Robert Kenney appeal from a judgment dismissing their application for an order directing Safety Insurance Company (Safety) to arbitrate their claim for coverage under the underinsured motorist provisions of Pritzky’s automobile policy. The claims arose from a collision between Pritzky’s car (Pritzky drove; Capone and Kenney were passengers) and one driven by Dennis Dimeo. Dimeo’s policy (with another insurer) provided liability coverage of $20,000 per person and $40,000 per accident. The three plaintiffs settled with Dimeo’s insurer for $38,000, having first sought Safety’s approval for a settlement.
+The Pritzky policy with Safety carried underinsured motorist limits of $100,000 per person and $300,000 per accident. The judge accepted Safety’s contention that the plaintiffs forfeited any claim they may have had for underinsured motorist coverage by settling with Dimeo’s liability insurer for less than the Dimeo policy limit (i.e., $40,000). The judge relied on Gleed v. Aetna Cas. & Sur. Co., 418 Mass. 503 (1994). In that opinion the court stated that “an insurer is not obligated to pay its insured underinsured motorist benefits until the amount of the insured’s damages exceeds the automobile insurance policy limits of those legally responsible for the insured’s injuries.” Id. at 510. The judge interpreted Gleed to mean that “where the insured chooses to settle with a tortfeasor for less than the liability limits, he loses his right to collect underinsurance benefits from his own insurance company even if his damages are greater than the amount of the settlement.”
+This is a misreading of Gleed. The plaintiff in Gleed had no claim on his underinsured motorist coverage, not because the settlement failed to exhaust the bodily injury liability limits of the responsible persons’ policies (the responsible owner’s limit was $25,000, the responsible driver’s was $100,000, and settled with both for a total of $25,000), but because the plaintiff’s bodily injury damages ($77,000, as determined by an arbitrator) were more than fully covered by the policies of the responsible driver and the owner. “The [underjinsurer is required to pay only for damages in excess of the tortfeasor’s total liability coverage, and not for ‘damages [that go] uncompensated because the insured has chosen to settle with the tortfeasor for less than the liability limits.’ ” MacInnis v. Aetna Life & Cas. Co., 403 Mass. 220, 227 n.13 (1988), quoting from Schmidt v. Clothier, 338 N.W.2d 256, 261 (Minn. 1983). The plaintiff in Gleed was not underinsured.
+The plaintiffs’ case stands differently. Unlike deed, where an arbitrator had determined the plaintiff’s bodily injury damages to be $77,000, there has been no determination here of actual damages which, for purposes of decision, we must assume will exceed $40,000. By settling with Dimeo’s insurer for $38,000, $2,000 less than Dimeo’s liability coverage, the plaintiffs have forfeited at most only that $2,000. The settlement could not prejudice Safety, whose only concern was with damages in excess of $40,000 (i.e., Dimeo’s policy limit, as contrasted with the amount Dimeo’s insurer paid). See Gleed v. Aetna Cas. & Sur. Co., 418 Mass. at 510; G. L. c. 175, § 113L(2), as amended by St. 1988, c. 273, § 46.
+Under the terms of the Safety policy, the dispute must be submitted to an arbitrator for determination of both liability (of Dimeo) and damages (of at least Pritzky and Capone). Accordingly, the judgment must be vacated and a new judgment entered allowing the plaintiffs’ application for an order to proceed to arbitration.
+So ordered.
+The record does not show whether Safety gave its approval. Lack of such approval would go to the question whether Safety was prejudiced by the plaintiffs’ having released Dimeo. See MacInnis v. Aetna Life & Cas. Co., 403 Mass. 220, 223 (1988). Safety did not raise the issue of prejudice in its opposition to the application for arbitration.
+The plaintiffs in their brief and oral argument in this court waived any claim to the $2,000.
+General Laws c. 175, § 113L(2), provides, in relevant part, that there is coverage where the “bodily injury liability bond amount or policy limit [of the responsible motorist] is less than the policy limit for [under]insured motor vehicle coverage [of the insured’s policy] and is insufficient to satisfy the damages of persons insured thereunder and only to the extent that the [under-]insured motor vehicle coverage limits exceed said limits of bodily injury liability subject to the terms of the policy.” The Pritzky policy states that the “injured person has a claim under [his underinsured motorist coverage] when the limits for automobile bodily injury liability insurance covering the owners and operators of the legally responsible autos are: (1) [l]ess than the limits for [the underinsured motorist coverage of the insured’s policy]; and (2) [n]ot sufficient to pay for the damages sustained by the injured person.”
+Safety raised a contention in the Superior Court that Kenney could not collect on Pritzky’s underinsured motorist coverage for the additional reason that he had his own policy to which he could look for such coverage. The judge did not reach the issue, and the parties do not argue it in this court. Accordingly, we do not reach the issue. See Mass.R.A.P. 16(a)(4), 367 Mass. 921 (1975). This is an issue that should be resolved by the judge prior to the reference to arbitration.
