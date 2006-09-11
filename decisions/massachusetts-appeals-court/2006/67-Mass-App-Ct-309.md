@@ -1,0 +1,57 @@
+---
+court: "Massachusetts Appeals Court"
+docket: "05-P-1750"
+decided: "2006-09-11"
+citations: ["67 Mass. App. Ct. 309"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Commonwealth vs. James Brien."]
+source_url: "https://static.case.law/mass-app-ct/67/cases/0309-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3826234
+cites_cases: ["29 Mass. App. Ct. 225", "399 Mass. 565", "40 Mass. App. Ct. 563", "44 Mass. App. Ct. 917"]
+---
+
+# Commonwealth v. Brien
+
+## Majority (Grainger, J.)
+
+Grainger, J.
+The defendant, James Brien, was arraigned in
+District Court on two counts of home improvement contractor violations under G. L. c. 142A. The trial judge, sitting jury-waived, found the defendant guilty on both counts. The defendant appeals, claiming error in the denial of his motions to exclude certain evidence and for a required finding of not guilty.
+Background. The defendant, the sole officer of a corporation called American Sunroom, was charged with collecting deposit payments from two customers and failing to provide them with completed sunrooms. The underlying facts are not in dispute. Customer John Rogers provided the defendant with a deposit and a progress payment, which together totaled more than $16,000. Customer Carolyn Harrison paid the defendant a deposit and a progress payment, which together totaled $7,300. While some work was done on Rogers’s sunroom, work was never commenced on Harrison’s; both customers engaged the company approximately eight months before it filed for protection under the bankruptcy laws.
+The Commonwealth filed two criminal complaints, identified for our purposes as complaint no. 2948 and complaint no. 3148. Both are dated June 16, 2004, identify the offense as “142A/ 19/A HOME IMPROVEMENT CONTRACTOR VIOLATION c,” and are discussed in greater detail below.
+The defendant’s motion in limine to exclude certain evidence was based on the Commonwealth’s failure to comply fully with court-ordered discovery until the eve of trial. The defendant’s motion for a required finding of not guilty was based on the wording of the complaints and on the Commonwealth’s failure to prove a knowing and wilful violation of G. L. c. 142A.
+Discussion. Because the Commonwealth failed to provide any evidence of a wilful and knowing violation of G. L. c. 142A by the defendant, it was error to deny the defendant’s motion for required finding of not guilty. We therefore dispose of the remaining issues summarily.
+1. The motion in limine. “ ‘When confronted with the Commonwealth’s failure to comply with its discovery obligations,’ a judge is afforded considerable discretion.” Commonwealth v. Janvrin, 44 Mass. App. Ct. 917, 919 (1998), quoting from Commonwealth v. Fossa, 40 Mass. App. Ct. 563, 567 (1996). A defendant seeking relief as a result of delayed disclosure has the burden of showing that he was prejudiced by the delay. Commonwealth v. Fossa, supra at 568, citing Commonwealth v. Gagliardi, 29 Mass. App. Ct. 225, 228 (1990). We are satisfied that the defendant did not discharge his burden to demonstrate an abuse of discretion in the judge’s conclusion that no prejudice resulted from the Commonwealth’s tardy production of documents.
+2. The wording of the complaints. The complaints failed to cite any specific statutory provision defining a violation of law. Their only reference to a specific section of G. L. c. 142A, namely § 19, was merely a reference to the statute’s penalty provisions, and not to language that provided the defendant with notice of the prohibited acts with which he was charged. If the complaints had contained no other reference to the acts with which the prosecution sought to charge the defendant, we would conclude that they failed to satisfy art. 12 of the Massachusetts Declaration of Rights. However, the defendant was adequately placed on notice by descriptive language in each complaint. For example, complaint no. 2948 stated:
+“[0]n 8/28/2003 did knowingly and willfully (DEFENDANT WAS GIVEN SEVERAL PAYMENTS TO START A SUNROOM AND NEVER DID), contrary to a provision of G. L. c. 142A, and in violation of G. L. c. 142A, 19. (PENALTY: imprisonment not more than 1 year; or not more than $2,000; or both).”
+This language, and the charge as a whole, may not qualify as a model complaint, but it informed the defendant of his alleged offense “with sufficient clarity to show a violation of law and to permit the defendant to know the nature of the accusation against him.” Commonwealth v. Green, 399 Mass. 565, 566 (1987). *Accordingly, the wording of the complaints did not require a finding of not guilty.
+3. Failure to prove a knowing and wilful violation of the statute. The defendant is on much firmer ground in seeking to have his convictions set aside where he argues that the Commonwealth was required to prove a “wilful and knowing” violation of the statute, and failed to do so. Section 17(2) of G. L. c. 142A, in relevant part, describes the following prohibited act:
+“(2) abandoning or failing to perform, without justification, any contract or project engaged in or undertaken by a registered contractor or subcontractor. . . .”
+This provision, read independently, simply describes the prohibited act and does not refer to a required state of mind. However, at the conclusion of § 17, the statute provides for three distinct categories of penalty arising from the commission of any of the seventeen prohibited acts described in the section:
+(1) administrative sanctions pursuant to G. L. c. 142A, § 18,
+(2) criminal prosecutions “as prescribed in section nineteen,” and (3) per se determination of a parallel violation of G. L. c. 93A.
+Criminal prosecution thus depends on the reference to G. L. c. 142A, § 19. In the case of licensed contractors, as cited above, § 19 provides: “[a]ny person who knowingly and willfully violates any of the provisions of this chapter ...” (emphasis supplied). The legislative scheme — providing strict liability for administrative sanctions and for violations of consumer protection law under G. L. c. 93A, while in contrast requiring scienter for criminal prosecution — is set forth unambiguously.
+Moreover, we conclude from our review of the record that the Commonwealth prosecuted the defendant on a theory of strict liability. At the conclusion of the prosecution’s case the defendant moved for a required finding of not guilty. The prosecution thereupon conceded that the words “knowingly and willfully” appeared in § 19, but then insisted: “I don’t know if my brother and [I] are reading the same statute because it says nothing [sic] intent there. This is not a question of intent. This is a question of abandoning work.” At the conclusion of all the testimony, the prosecution conceded that it relied on § 17(2) rather than electing to proceed under a theory of larceny where “the Commonwealth could never prove, can’t prove and couldn’t prove, intent at the time.” The record provides no evidence to support a finding of a wilful and knowing violation of any provision of § 17 by the defendant. Further, the record does not support the Commonwealth’s assertion that the judge inferred a wilful and knowing violation; to the contrary, it is evident that the judge based her finding of guilty, and denied the defendant’s motion for a required finding of not guilty, on the Commonwealth’s theory of strict liability.
+Conclusion. Because the record contains no evidence to support a finding of a wilful and knowing violation of c. 142A, and because the imposition of criminal liability under the statute requires such a finding, we reverse.
+Judgments reversed.
+Findings set aside.
+Judgments for defendant.
+General Laws c. 142A, § 19, inserted by St. 1991, § 453, provides in full:
+“Any contractor or subcontractor who shall knowingly, willfully, or negligently operate without obtaining a certificate of registration as required by this chapter and who is not otherwise exempt from the registration requirement or any contractor or subcontractor who continues to operate after revocation of or during suspension of, or who fails to renew his certificate of registration, shall be punished by a fine not exceeding five thousand dollars or imprisonment not exceeding two years, or both.
+“Any person who knowingly and willfully violates any of the provisions of this chapter, with respect to which a greater penalty is not otherwise provided by the provisions of this chapter or by any other law may be punished by a fine of not more than two thousand dollars or by imprisonment for not more than one year or both.
+“Such fines and imprisonment shall be in addition to any administrative penalty otherwise applicable thereto and may be sought in an action brought by the attorney general or the district attorney.”
+Article 12 of the Massachusetts Declaration of Rights provides that “[n]o subject shall be held to answer for any crimes or offence, until the same is fully and plainly, substantially and formally, described to him.”
+Complaint no. 3148 substituted the words “COLLECTED TWO INDIVIDUAL PAYMENTS TO START THE JOB” for “WAS GIVEN SEVERAL PAYMENTS TO START A SUNROOM” but was otherwise identical.
+The record also indicates that the prosecutor orally informed the defendant at a pretrial conference and again on the day of trial that the Commonwealth was proceeding under G. L. c 142A, § 17(2). Because we conclude that the written complaint passes constitutional muster, we do not address the sufficiency of the oral communication except to note that, as a rule, the Commonwealth’s ability to prove proper notice is seriously undermined without a recorded charge. The better practice, manifestly, is a written complaint.
+Specifically, the final two one-sentence paragraphs of § 17, which are unnumbered, state:
+“Violations of this section shall subject the violator to the administrative sanctions of section eighteen and to criminal prosecution as prescribed in section nineteen.
+“Violations of any of the provisions of this chapter shall constitute an unfair or deceptive act under the provisions of chapter ninety-three A.”
+Although the Commonwealth took the position below and in its brief that G. L. c. 142A, § 17(2), imposed criminal strict liability, it properly conceded at oral argument that the “knowingly and willfully” language of § 19 is applicable to this criminal prosecution.
+At the conclusion of testimony, the following colloquy (here excerpted and compressed) transpired between defense counsel and the judge:
+Defense counsel: “Judge there has to be some sort of intent on [the defendant’s] part, or the Company’s part, to wilfully and knowingly ah, not do the work. . . . he’s really charged under 19. In the second paragraph it mentions willingly [sic] and knowingly.”
+Judge: “Well, I’m not sure I agree with you there. . . . At the end of 17 the statute merely says that violations of this section shall subject the violator to criminal prosecution as prescribe^] in section 19. So it I believe refers directly to the, to the sentencing structure of 19, but it doesn’t pull along with it all the language of 19, and I, I could be wrong.”
+Defense counsel: “Well I, I, I read it differently, Judge.”
+Judge: “[M]y opinion is that the Commonwealth has to prove that the contractor was registered, that he abandoned or failed to perform without justification any contract beyond a reasonable doubt, and that’s all they have to prove.”
