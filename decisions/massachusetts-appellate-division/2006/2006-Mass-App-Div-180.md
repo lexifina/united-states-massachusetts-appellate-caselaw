@@ -1,0 +1,31 @@
+---
+court: "Massachusetts Appellate Division"
+decided: "2006-12-01"
+citations: ["2006 Mass. App. Div. 180"]
+reporter: "mass-app-div-annual"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Present: Redd, P.J., Wright & Bolden, JJ."]
+parties: ["Ruth Mileon vs. Carleen Crimi, and others"]
+source_url: "https://static.case.law/mass-app-div-annual/2006/cases/0180-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8330249
+cites_cases: ["16 Mass. App. Ct. 29", "17 Mass. App. Ct. 362", "1994 Mass. App. Div. 103", "23 Mass. App. Ct. 152", "385 F.2d 812", "389 Mass. 809", "46 Mass. App. Ct. 438"]
+---
+
+# Mileon v. Crimi
+
+## Majority (Redd, J.)
+
+Redd, J.
+Pursuant to Dist./Mun. Cts. RAD.A., Rule 8A, two of the defendants in this matter, Carleen Crimi and Kevin Crimi (collectively, the “Defendants”), filed this expedited appeal of the trial judge’s allowance of a motion by the Plaintiff, Ruth Mileon (“Mileon”), to vacate a judgment of dismissal under Mass. R. Civ. R, Rule 60(b). The judgment of dismissal was entered on June 12, 2000. The issue is whether 1he trial judge erred in allowing Mileon’s motion to vacate the judgment of dismissal on December 6,2001.
+The underlying facts are not in dispute. On December 20,1999, Mileon filed an action against the Defendants for personal injuries suffered in an automobile accident that occurred on December 31,1996. Mileon also filed an action under G.L.c. 93A against Metropolitan Life Auto & Home Insurance Company. After a stay was granted on the
+G.Lc. 93A claim, the trial judge dismissed the action against the Defendants on June 12,2000 because of Mileon’s failure to timely answer interrogatories.
+On December 6, 2001, the trial judge allowed Mileon’s motion to set aside the judgment of dismissal. The Defendants subsequently filed a motion for reconsideration of the allowance of Mileon’s motion to set aside the judgment of dismissal. On January 30,2002, the trial judge denied that motion “based on the reasons set forth in plaintiff’s motion of 12/06/2001 and pursuant to M.R.C.P., Rule 60(b) (6).” The Defendants then filed this appeal.
+Mileon’s attorney filed an affidavit in support of the motion to vacate the judgment of dismissal. The attorney stated that upon receiving the Defendants’ First Set of Interrogatories and Request for Production of Documents on or about May 13,2000, the attorney attempted to notify Mileon and to mail the discovery to her. Mileon did not respond, and the discovery was subsequently returned to the attorney because Mileon had moved without a forwarding address. Mileon’s attorney then advised the Defendants’ attorney that she had lost contact with Mileon.
+In February, 2001, Mileon’s attorney learned from Mileon’s husband that Mileon was gravely ill and hospitalized and that she would contact her attorney when she was physically able to do so. Mileon’s attorney attempted to call Mileon approximately three months prior to December 5,2001 and made one last attempt to contact her in anticipation of the hearing on the motion to dismiss on December 6,2001.
+Under Mass. R. Civ. R, Rule 60(b), a court may vacate a judgment upon a showing of “(1) mistake, inadvertence, surprise, or excusable neglect; (2) newly discovered evidence ... (3) fraud ..., misrepresentation, or other misconduct of an adverse party; (4) the judgment is void; (5) the judgment has been satisfied, released, or discharged ... or (6) any other reason justifying relief from the operation of the judgment.” Rule 60(b) further provides that any motion “shall be made within a reasonable time, and for reasons (1), (2), and (3) not more than one year after the judgment, order or proceeding was entered or taken.”
+Rule 60(b) (6) provides the court with the authority to vacate a judgment when such action is appropriate to accomplish justice, and it allows relief to a party whose claim falls beyond the one-year time requirements of Rule 60(b) (l)-(3). Because of the interest that litigants and lawyers have in the finality of judgments, Rule 60(b) (6) “must receive ‘extremely meagre scope.’” Bowers v. Board of Appeals of Marshfield, 16 Mass. App. Ct. 29, 33 (1983) (quoting Rinieri v. News Syndicate Co., 385 F.2d 812, 822 (2d Cir. 1967)). “However correct such characterization, it sometimes obscures the essential function of Rule 60(b) (6) ‘to preserve the delicate balance between the finality of judgment and the incessant command of the court’s conscience that justice be done in the light of all the facts.’” Duco Enters., Inc. v. Abdelnour, 1994 Mass. App. Div. 103, 105 (quoting J.W. SMITH & H.B. ZOBEL, Rules PRACTICE, §60.15 (1983 Supp.)).
+The rule is subject to two important requirements. First, the motion may not be used as an alternative vehicle to raise issues that should have been timely raised under Rule 60(b) (l)-(3). Struett v. Arlington Trust Co., 23 Mass. App. Ct. 152, 155 (1986); Spadorcia v. South Shore Oral Surgery Assocs., Inc., 17 Mass. App. Ct. 362, 363 (1984). Second, the moving party must show “compelling or extraordinary circumstances” to warrant relief. Rezendes v. Rezendes, 46 Mass. App. Ct. 438, 441 (1991).
+The trial judge’s allowance of the motion to vacate did not run afoul of either of these requirements. Mileon’s motion did not fit into any of the first three categories set forth in Mass. R. Civ. P., Rule 60(b). As to the second requirement, the assertions in the affidavit submitted by Mileon’s lawyer certainly could qualify as compelling circumstances. The trial judge was well within her discretion in accepting the assertions in the affidavit and allowing the motion. See Parrell v. Keenan, 389 Mass. 809, 815 (1983) (Rule 60(b) (6) motion is addressed to the trial judge’s discretion, which is subject to reversal on appeal only in the case of an abuse of such discretion). Moreover, allowing the case to proceed is consistent with the purpose of Mass. R. Civ. R, Rule 60(b) (6), which is “to accomplish substantial justice.” Rezendes v. Rezendes, supra.
+Therefore, for the reasons stated herein, we affirm the trial judge’s order allowing Mileon’s motion for relief from judgment and the judgment vacating the dismissal that was entered on December 6,2001.
