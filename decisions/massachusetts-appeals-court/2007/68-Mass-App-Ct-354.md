@@ -1,0 +1,31 @@
+---
+court: "Massachusetts Appeals Court"
+docket: "06-P-793"
+decided: "2007-02-28"
+citations: ["68 Mass. App. Ct. 354"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Daniel Boone vs. Commerce Insurance Company."]
+source_url: "https://static.case.law/mass-app-ct/68/cases/0354-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3497351
+cites_cases: ["387 Mass. 841", "388 Mass. 326", "395 Mass. 238", "439 Mass. 352", "446 Mass. 123", "449 Mass. 1101"]
+---
+
+# Boone v. Commerce Insurance
+
+## Majority (Green, J.)
+
+Green, J.
+Following an injury in a motor vehicle accident on December 20, 1996, the plaintiff claimant was treated by a chiropractor and, until September 17, 1997, the defendant insurer paid for such treatment pursuant to the personal injury protection (PIP) benefits under a policy it had issued. The insurer refused to make further payments, however, after an orthopedic surgeon concluded that the claimant needed no further chiropractic treatment, based on an examination of the claimant conducted at the insurer’s request. A judge of the Superior Court allowed the claimant’s motion for summary judgment, concluding that G. L. c. 90, § 34M, required such a determination to have been made by a licensed chiropractor rather than an orthopedist, and the insurer appealed. We affirm.
+At issue is the interpretation of the provisions of the fourth paragraph of G. L. c. 90, § 34M, as inserted by St. 1989, c. 271, which provides, in pertinent part, as follows:
+“[N]o insurer shall refuse to pay a bill for medical services submitted by a practitioner registered or licensed under the provisions of chapter one hundred and twelve, if such refusal is based solely on a medical review of the bill or of the medical services underlying the bill, which review was requested or conducted by the insurer, unless the insurer has submitted, for medical review, such bill or claim to at least one practitioner registered or licensed under the same section of chapter one hundred and twelve as the practitioner who submitted the bill for medical services.”
+Chapter 112 of the General Laws sets out a number of licensed professional specialties in its various sections. Physicians and surgeons (including orthopedists) are licensed under G. L. c. 112, §§ 2-9B. Chiropractors are licensed under G. L. c. 112, §§ 89-97.
+“We interpret a statute according to the intent of the Legislature. Commonwealth v. Galvin, 388 Mass. 326, 328 (1983). ‘[T]he primary source of insight into the intent of the Legislature is the language of the statute,’ International Fid. Ins. Co. v. Wilson, 387 Mass. 841, 853 (1983), and that is our starting point. Simon v. State Examiners of Electricians, 395 Mass. 238, 242 (1985). Statutory language should be given effect consistent with its plain meaning. Where, as here, that language is clear and unambiguous, it is conclusive as to the intent of the Legislature. Commonwealth v. Clerk-Magistrate of the W. Roxbury Div. of the Dist. Court Dep’t, 439 Mass. 352, 355-356 (2003).” Commissioner of Correction v. Superior Ct. Dept. of the Trial Ct., 446 Mass. 123, 124 (2006).
+In arguing that it was entitled to deny payment of bills for chiropractic treatment following an orthopedist’s conclusion that such treatment was unnecessary, based on an examination of the plaintiff, the insurer points to its right, under the third paragraph of § 34M, to require a PIP benefits claimant to submit to physical examinations by physicians selected by the insurer, and its right to deny coverage if a claimant refuses to cooperate with such examinations. Continuing, the insurer asserts that the “same profession” requirement imposed under the fourth paragraph of § 34M applies only to a denial of benefits based “solely” on a review of the bills or medical records relating to a PIP benefits claim, and not when a denial is based on a physical examination conducted pursuant to the third paragraph of the section.
+The flaw in the insurer’s argument is that the language of the statute does not support it. The “same profession” requirement established by the fourth paragraph of § 34M applies by its express terms to any denial of PIP benefits based on “a medical review of the bill or of the medical services underlying the bill” (emphasis added). Accordingly, and contrary to the insurer’s assertion, the requirement does not apply to a denial of PIP benefits based solely on a review of medical records (a phrase that appears nowhere in that paragraph), but does apply to a denial of coverage based on a “medical review” of a PIP benefits “claim” (whether based on a physical examination or not), which review determines that the services underlying a bill were unnecessary. To the insurer’s suggestion that such an interpretation vitiates its right, under the third paragraph of § 34M, to require a claimant to submit to an examination by a physician of its selection, we observe simply that the insurer remains free to require an examination by any medical professional. However, standing alone, the third paragraph furnishes no authority for the denial of PIP benefits (except upon a claimant’s refusal to cooperate with an examination request), and the fourth paragraph is explicit in requiring that any denial of PIP benefits based on a medical review of the services underlying any bill submitted, for payment must comply with the “same profession” requirement.
+Judgment affirmed.
+Other professionals licensed under various sections of G. L. c. 112 include psychologists (§§ 118-129A), dentists (§§ 43-53), physical therapists (§§ 23A-23Q), and optometrists (§§ 66-73B).
+There is accordingly no merit to the insurer’s argument that the motion judge rendered the word “solely” superfluous since, as used in the statute, “solely” modifies both a review of a medical bill and a review of the services underlying the bill or claim.
+An insurer in the circumstances of the insurer in the present case that, based on a physician’s examination conducted under the third paragraph of § 34M, concludes that chiropractic services underlying a claim were unnecessary, need only obtain the concurrence of “at least one” chiropractor in order to comply with the statutory prerequisite to denial of such a claim.
