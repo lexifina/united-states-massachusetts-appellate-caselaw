@@ -1,0 +1,30 @@
+---
+court: "Massachusetts Appeals Court"
+docket: "06-P-1461"
+decided: "2007-09-28"
+citations: ["70 Mass. App. Ct. 314"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Commonwealth vs. Mark Davis."]
+source_url: "https://static.case.law/mass-app-ct/70/cases/0314-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4083603
+cites_cases: ["110 Mass. 407", "324 Mass. 461", "363 Mass. 299", "378 Mass. 671", "38 Mass. App. Ct. 519", "842 So. 2d 963"]
+---
+
+# Commonwealth v. Davis
+
+## Majority (Dreben, J.)
+
+Dreben, J.
+The question raised by the defendant’s appeal is whether his conviction of unarmed robbery on an indictment charging him with masked armed robbery can be sustained where the victim feared for a third person, not himself, and where the defendant did not assault the third person. We affirm the conviction.
+Viewed in the light most favorable to the Commonwealth, see Commonwealth v. Latimore, 378 Mass. 671, 677 (1979), the following facts could have been found by the jury. On October 17, 2002, the defendant, wearing a scarf covering his mouth, a baseball cap, and black glasses, approached a teller’s window of the Fleet Bank located at Roche Brothers supermarket in Natick. From “what [the defendant] was wearing,” the teller, William MaCakathi, knew what the defendant “was there for,” and closed a previously opened drawer in which money was kept. The defendant told MaCakathi to open his drawer, and the latter slid some money under the glass window. The defendant said, “Is this what you got? I’m not going to go away for only this.” MaCakathi tried to show him what was in the drawer. The defendant patted his sweatshirt and MaCakathi thought “there was something in his jacket but I didn’t see what it was. And I didn’t want to see what it was.” MaCakathi was “shocked when the process was going on. I didn’t know what I was doing but just trying to follow the basics, what we are taught by Fleet Bank, what you should do when something like this occurs.” When asked whether he recalled being scared, he answered, “I was not that much scared at him because the glasses which were covering us were bulletproof but there was somebody” — another customer, a woman ■— “next to him in the bank which made me scared.”
+The statute governing unarmed robbery, G. L. c. 265, § 19(b), in relevant part states:
+“Whoever, not being armed with a dangerous weapon, by force and violence, or by assault and putting in fear, robs, steals or takes from the person of another, or from his immediate control, money or other property which may be the subject of larceny, shall be punished . . . .”
+The defendant concedes that Commonwealth v. Novicki, 324 Mass. 461, 466 (1949), indicates that if “acts of violence” are committed on others and the victim was aware of them and thereby put in fear for them, the victim need not fear for himself. The defendant’s argument is that here, however, there was no assault on anyone. He claims that because the jury did not find the defendant armed, the Commonwealth cannot assert that the sweatshirt-patting motion was an “assault.” This argument is without merit; it is enough that the jury could find that MaCaka-thi, based on the defendant’s masked appearance, conduct, and gestures, reasonably feared that the defendant would use force unless MaCakathi complied with his demands. Commonwealth v. Richards, 363 Mass. 299, 304 (1973). See Commonwealth v. White, 110 Mass. 407, 409 (1872); Commonwealth v. Musgrave, 38 Mass. App. Ct. 519, 523 n.5 (1995), and cases cited. We also reject the defendant’s additional argument that MaCakathi’s fear that a customer might be hurt is insufficient and that Commonwealth v. Novicki, supra, requires that there be an actual assault on the customer.
+The statute, G. L. c. 265, § 19(b), permits a conviction for unarmed robbery in either of two ways: “by force applied to the person, with intent to steal, or by an assault putting the person in fear, with the same intent.” Commonwealth v. Richards, 363 Mass. at 302. There is no requirement that the fear be for MaCakathi himself. The jury could find: (1) objectively menacing conduct by the defendant, see Commonwealth v. White, 110 Mass. at 409, undertaken with the intent to put MaCakathi in fear for the purpose of stealing the bank’s money; and (2) this conduct resulted in reasonable fear or apprehension on MaCakathi’s part and thereby facilitated the theft. See Commonwealth v. Richards, 363 Mass. at 304. They were also warranted in concluding that MaCakathi turned over the money because he feared that if he did not comply with the defendant’s request, a customer standing near the defendant might get hurt. Even if the threatening gestures against MaCakathi did not cause him to fear for himself, they induced him to hand over the money because they reasonably caused him to fear for the customer’s safety. We see no reason to limit the rationale of Commonwealth v. Novicki, 324 Mass. at 466, as the defendant contends, to the situation where acts of violence are committed on third persons. See Magnotti v. State, 842 So. 2d 963, 966 n.2 (Fla. Dist. Ct. App. 2003). MaCakathi’s reasonable fear for the customer was sufficient to satisfy the statute.
+Judgment affirmed.
+The defendant was also convicted of an attempt to commit a crime (an attempt to hold up a different bank on a different date). He does not challenge that conviction.
+MaCakathi’s testimony did not indicate whether the defendant patted his sweatshirt and held what MaCakathi thought was something in his jacket prior to MaCakathi giving the money to the defendant. His recollection of those gestures and of his belief was elicited after he was shown a police report. Neither party mentions the timing of the gestures.
+The jury could also have disbelieved MaCakathi’s statement that he was not frightened for himself. He may have been testifying from false bravado in presuming bullet-proof glass would protect him from a gun. Cf. Magnotti v. State, 842 So. 2d 963, 965-966 (Fla. Dist. Ct. App. 2003).
