@@ -1,0 +1,29 @@
+---
+court: "Massachusetts Appellate Division"
+decided: "2008-01-31"
+citations: ["2008 Mass. App. Div. 37"]
+reporter: "mass-app-div-annual"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Present: Ziemian, P.J., Tochka, & Sarason, JJ."]
+parties: ["Andrzej Litra vs. Mount Washington Cooperative Bank"]
+source_url: "https://static.case.law/mass-app-div-annual/2008/cases/0037-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8186337
+cites_cases: ["1998 Mass. App. Div. 155", "225 Mass. 37", "345 Mass. 634", "372 Mass. 288", "38 Mass. App. Ct. 155", "399 Mass. 547", "413 Mass. 66", "427 Mass. 46", "50 Mass. App. Ct. 672"]
+---
+
+# Litra v. Mount Washington Cooperative Bank
+
+## Majority (Tochka, J.)
+
+Tochka, J.
+The plaintiff in this matter, Andrzej Litra (“Litra”), has appealed the motion judge’s allowance of the motion for summary judgment made by the defendant, Mount Washington Cooperative Bank (“Bank”). Litra has also appealed the motion judge’s denial of his motion to file an amended complaint.
+The facts giving rise to this matter are not in dispute. Litra held both a checking account and a savings account at the Bank, and he designated his sister, Anna Griffin (“Griffin”), as the beneficiary on the accounts in the event of his death. An employee of the Bank mistakenly sent Litra’s financial records to an attorney in response to a request for documents pertaining to Griffin, who was in the middle of a divorce. The request came from the attorney for Griffin’s husband.
+The Bank’s employee believed that the attorney’s request required the Bank to turn over information related to Litra’s accounts. The Bank does not dispute that the action was a mistake, at the same time asserting that it was done in good faith. After making inquiries with the Bank and with the Massachusetts Division of Banks, Litra filed this action against the Bank alleging breach of contract (Count I), negligence (Count If) and invasion of privacy (Count III).
+The Bank filed a motion for summary judgment, arguing that Litra had suffered no recoverable damages as a result of the Bank’s mistaken disclosure of his records. Litra opposed the motion and also sought the Bank’s consent to file an amended complaint to include additional counts for negligent misrepresentation, fraud, deceit and violation of G.L.c. 93A. The Bank declined to consent. After a hearing on the motion, the motion judge allowed the Bank’s motion for summary judgment and denied Litra’s motion to file an amended complaint.
+It is well established that a party seeking damages bears the burden of proving entitlement to them and must not leave them to speculation. Snelling & Snelling of Massachusetts, Inc. v. Wall, 345 Mass. 634, 636 (1963); Spenlinhauer v. Kane, 1998 Mass. App. Div. 155, 160 (citing Warner-Lambert Co. v. Execuquest Corp., 427 Mass. 46, 48 n.2 (1998)). “While it is true that a plaintiff need not prove damages with mathematical exactness, ‘damages cannot be recovered when they are remote, speculative, hypothetical, and not within the realm of reasonable certainty.’” Spenlinhauer v. Kane, supra (quoting Lowrie v. Castle, 225 Mass. 37, 51 (1916)).
+The Bank is correct that even though its disclosure of Litra’s financial information constituted a breach of its contract with Litra, Litra has not suffered any damages. There was no unauthorized withdrawal of funds from Litra’s account nor any imposition of a charge or fee upon him by the Bank. Thus, Litra would be unable to meet his burden at trial of proving damages that are not speculative and hypothetical. See Spenlinhauer v. Kane, supra. Even though Litra might be entitled to nominal damages if he was able to prove breach of the contract at trial, remanding the matter for a trial on that issue would serve no useful purpose. See Schwartz v. Travelers Indem. Co., 50 Mass. App. Ct. 672, 682 (2001); St. Charles v. Kender, 38 Mass. App. Ct. 155, 161 (1995). As the Bank was entitled to judgment as a matter of law, the trial judge was correct to grant the Bank’s motion for summary judgment.
+Litra also argues that he should have been allowed to amend his complaint to add counts for negligent misrepresentation, fraud, deceit and violation of G.L.C. 93A. Once a responsive pleading has been served, a complaint may be amended “only by leave of court or by written consent of the adverse party; and leave shall be freely given when justice so requires.” Mass. R Civ. E, Rule 15(a). The decision to grant a motion to amend a complaint lies within the discretion of the trial judge. Harvard Law School Coalition for Civil Rights v. President and Fellows of Harvard College, 413 Mass. 66, 72 (1992). The motion should be allowed unless there is a good reason for denying it, such as ‘“undue delay, bad faith or dilatory motive on the part of the movant, repeated failure to cure deficiencies by amendments previously allowed, undue prejudice to the opposing party ... [or] fiitility of amendment. ...’” Goulet v. Whitin Machine Works, Inc., 399 Mass. 547, 549-550 (1987) (quoting Castellucci v. United States Fid. & Guar. Co., 372 Mass. 288, 290 (1977)).
+The motion judge acted well within his discretion in denying Litra’s motion to file an amended complaint. As Litra did not suffer damages as a result of the mistaken delivery of his bank records to the attorney for his brother in law, the pursuit of a different theory of recovery would not have made it more likely that Litra would be able to prove recoverable damages. Thus, amendment of the complaint would have been futile.
+Accordingly, we affirm the motion judge’s granting of the Bank’s motion for summary judgment and the denial of Litra’s motion to amend the complaint. Litra’s appeal is dismissed.
