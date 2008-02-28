@@ -1,0 +1,31 @@
+---
+court: "Massachusetts Appellate Division"
+decided: "2008-02-28"
+citations: ["2008 Mass. App. Div. 83"]
+reporter: "mass-app-div-annual"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Present: Coffey, EJ., Ronquillo and Bolden JJ."]
+parties: ["Marcia Williams-White, as Administratrix of Estate of Marshall White, and Salisa Barnes vs. Orangeland Vistas, Inc. d/b/a/ Windmill Village"]
+source_url: "https://static.case.law/mass-app-div-annual/2008/cases/0083-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8186832
+cites_cases: ["22 Mass. App. Ct. 426", "26 Mass. App. Ct. 14", "378 Mass. 1", "399 Mass. 790", "429 Mass. 808", "449 Mass. 281", "45 Mass. App. Ct. 650", "55 Mass. App. Ct. 577"]
+---
+
+# Williams-White v. Orangeland Vistas, Inc.
+
+## Majority
+
+This is an appeal filed by Marcia Williams-White (“Williams-White”), as Administratrix of the Estate of Marshall White (‘White”), and Salisa Barnes (“Barnes” and, together with Williams-White, the “Plaintiffs”), pursuant to Dist./Mun. Cts. R. A. D. A., Rule 8C. The Plaintiffs appeal the trial judge’s allowance of a motion to dismiss for lack of personal jurisdiction pursuant to Mass. R. Civ. R, Rule 12(b) (2) filed by Orangeland Vistas, Inc., d/b/a Windmill Village (‘Windmill”).
+The Plaintiffs filed the initial complaint against Windmill (the “Defendant”) on August 25, 2006 alleging a breach of contract and a violation of M.G.L.c. 93A The Defendant responded to the Plaintiffs’ complaint by filing a motion to dismiss for lack of personal jurisdiction. On November 11,2006 at a hearing on the motion to dismiss, the Plaintiffs failed to appear, and the motion was granted. The Plaintiffs filed motions to vacate the judgment and to amend the complaint on December 1,2006. The Court granted both motions on December 15,2006 and the Plaintiffs filed an amended complaint The Defendant again filed a motion to dismiss for lack of personal jurisdiction on January 2,2007. At the hearing on the motion to dismiss, arguments were heard and the trial judge allowed the motion to dismiss on February 6,2007. This appeal followed.
+The Plaintiffs claim error in the denial of the opportunity to conduct further discovery and in allowing the motion to dismiss. We disagree and affirm the motion to dismiss.
+1. The Denial of Plaintiff’s Request for Further Discovery
+The issue of discovery, in scope and conduct, lies within the sound discretion of the trial judge. Solimene v. B. Grauel & Co., K.G., 399 Mass. 790, 799 (1987). Orders pertaining to discovery are reviewable upon the entry of a final judgment, but will not be disturbed absent a showing of prejudicial error resulting from an abuse of discretion. Billings v. GTFM, LLC, 449 Mass. 281, 296 (2007), (citing Solimene v. B. Grauel & Co., K.G., 399 Mass. 790, 799 (1987)). A decision rendered by an abuse of discretion is “characterized by arbitrary determination, capricious disposition, whimsical thinking, or idiosyncratic choice.” Greenleaf v. Massachusetts Bay Transp. Authy., 22 Mass. App. Ct. 426, 430 (1986). The judgment of the Appeals Court will not be substituted for that of the trial judge. Boulter-Hedley v. Hedley, 429 Mass. 808, 811 (1999).
+At a hearing on the motion to dismiss, the Plaintiffs requested additional time to conduct discovery. In particular, the Plaintiffs sought bank checks that might evidence transactions between the Plaintiffs and Defendant sufficient to show minimum contacts between the parties. The Court conducted an inquiry into the matter, asking why the Plaintiffs had not produced any checks and why the Plaintiffs had not requested discoverable materials from the bank. Hrg. Transcr. 26:17-23 (Feb. 26, 2007). The Plaintiffs claimed that a foreclosure proceeding involving the estate of White hindered the discovery process. Hrg. Transcr. 28:7-8 (Feb. 26, 2007). The Plaintiffs could not produce any checks and could not name the bank upon which any checks were drawn. The Court noted that the decedent, White, passed away nearly two years prior to these proceedings. Hrg. Transcr. 28:2 (Feb. 26,2007).
+The denial of a request to conduct further discovery is firmly grounded in the sound discretion of the trial judge. It is clear from the record that the judge conducted sufficient inquiry into the matter and rendered her decision according to her powers of discretion with respect to case management. As the Plaintiffs failed to show prejudicial error resulting from this denial, the judge’s decision shall not be disturbed as it was within the exercise of her sound discretion.
+2. The Motion to Dismiss for Lack of Personal jurisdiction
+A plaintiff bears the burden of proof in defense of a motion to dismiss for lack of personal jurisdiction pursuant to Mass. R. Civ. P, Rule 12(b) (2). Good Hope Indus., Inc. v. Ryder Scott Co., 378 Mass. 1, 3 (1979). The plaintiff must make a prima facie showing sufficient to support a finding of personal jurisdiction. Fern v. Immergut, 55 Mass. App. Ct. 577, 579 (2002). The decision to exercise personal jurisdiction over a defendant must be predicated on the facts presented to the judge. Windsor v. Windsor, 45 Mass. App. Ct. 650, 652 (1998). Only those uncontroverted facts before the judge may factor into the decision of whether the Commonwealth may exercise personal jurisdiction over a defendant. Heins v. Wilhelm Loh Wetzlar Optical Mach. GmbH & Co. KG., 26 Mass. App. Ct. 14, 16 (1988).
+Because we decide that the denial of the Plaintiffs’ request for further discovery was not an abuse of discretion, we do not reach the question as to whether the Commonwealth has specific personal jurisdiction over the Defendant Based on her evaluation of the uncontroverted facts and circumstances, and the burden placed on the Plaintiffe to present prima facie evidence of personal jurisdiction, the judge granted the motion to dismiss for lack of personal jurisdiction and we will not disturb this conclusion.
+Accordingly, we affirm the trial judge’s allowance of the Defendant’s motion to dismiss.
+The Defendant maintains in its brief that they were never served with any discovery requests from the Plaintiffs. Res. ’s Br. 2 (Dec. 6, 2007).
