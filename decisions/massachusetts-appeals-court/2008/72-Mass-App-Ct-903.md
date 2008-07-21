@@ -1,0 +1,32 @@
+---
+court: "Massachusetts Appeals Court"
+docket: "07-P-74"
+decided: "2008-07-21"
+citations: ["72 Mass. App. Ct. 903"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Commonwealth vs. Derrick Leshawn Green."]
+source_url: "https://static.case.law/mass-app-ct/72/cases/0903-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4276915
+cites_cases: ["376 Mass. 747", "429 U.S. 924", "441 Mass. 783", "442 Mass. 1518", "47 Mass. App. Ct. 293", "534 F.2d 964"]
+---
+
+# Commonwealth v. Green
+
+## Majority
+
+The defendant was convicted of possessing cocaine with intent to distribute, G. L. c. 94C, § 32A(c), and of having done so within 1,000 feet of a school, G. L. c. 94C, § 32J. He appeals, claiming that (1) the Commonwealth’s late disclosure of mandatory discovery materials required a mistrial, and (2) the judge improperly admitted expert police testimony.
+The Commonwealth’s case against the defendant centered upon the testimony of Officer Bartini, qualified as an expert in street level drug distribution in Berkshire County. Bartini described each piece of evidence seized from the defendant at the time of his arrest and testified that the items were “consistent with” the intent to distribute drugs. One of the central pieces of evidence against the defendant was money totaling $1950, found neatly folded in his right front pants pocket. Although his testimony is disjointed, disorganized, and often ambiguous, Bartini agreed, in response to leading questions, that this evidence was “consistent with the intent to distribute” because the money “would be consistent with a [drug dealer’s] bank.”
+The defendant, however, offered testimony of a friend, Precious Butler, who said that the money belonged to her and that she had called the police station to claim the money. However, her testimony was contradicted by two police witnesses, who both testified that they had personally checked the police station call logs and found that “there was no record” and “no evidence” of Butler (or anyone) contacting the police department to inquire about the neatly folded money.
+However, on the following morning, after the defense had rested, the Commonwealth disclosed to the judge and the defendant that it had indeed located, on the previous evening, the record of and the actual recordings of Butler’s telephone inquiries to the police that she had testified to, as well as a recorded conversation between Butler and the defendant. At this point, the Commonwealth provided the tape.
+After the Commonwealth made the disclosure, the defendant moved for a mistrial, and the motion was denied. The judge offered the defendant’s attomey the opportunity to listen to the recordings, and, in fact, he did. The recorded conversations contain critical information that would have been highly significant to the defense, had the defendant’s attorney had the opportunity to process the information for purposes of conscientious witness examination, cross-examination, and closing argument. We reviewed the transcripts of six telephone calls which were recorded by the police on the day the defendant was arrested. Two of the calls clearly demonstrate that the police were aware that Butler claimed that the neatly folded money belonged to her, and she demanded that it be returned to her.
+Jane Larmon White, Committee for Public Counsel Services, for the defendant.
+Joseph A. Pieropan, Assistant District Attorney, for the Commonwealth.
+There can be no question that these recordings, subject to mandatory discovery and directly related to the defendant’s theory of the case, were not disclosed in sufficient time to be processed by the defendant’s attorney, and accordingly, we conclude that this resulted in prejudicial error. The last-minute disclosure of the recordings did not allow the defendant to “make effective use of the evidence in preparing and presenting his case.” Commonwealth v. Adrey, 376 Mass. 747, 755 (1978), quoting from United States v. Pollack, 534 F.2d 964, 973 (D.C. Cir.), cert, denied, 429 U.S. 924 (1976). Although there appears no reason to believe that the Commonwealth acted in bad faith, the judge abused his discretion in failing to grant a mistrial. Because of our disposition, we need not address the issue of expert police testimony. The judgment is reversed, the verdict is set aside, and the case is remanded to the Superior Court for further action consistent with our opinion.
+So ordered.
+The Massachusetts Rules of Criminal Procedure instruct that when an item of evidence “in the possession, custody or control of the prosecutor” contains “[a]ny written or recorded statements . . . made by the defendant,” or “[a]ny facts of an exculpatory nature,” disclosure is mandatory. Mass.R.Crim.P. 14(a)(1)(A), as appearing in 442 Mass. 1518 (2004). The purpose of mandatory discovery is to encourage full pretrial discovery, increase what will be discovered by both sides, and promote judicial efficiency. Reporters’ Notes to Mass.R.Crim.P. 14, Mass. Ann. Laws, Rules of Criminal Procedure, at 1473 (LexisNexis 2007).
+immediately after denying the motion for a mistrial, the judge told the defense that it was “unfair to surprise the Commonwealth with this witness who came in with such testimony, and so people scrambled.” These and other statements indicate that the judge held the defense responsible for the late revelation of the tapes by the Commonwealth. This is troubling. The defendant had complied with pretrial discovery and had submitted a timely list of prospective witnesses which included Butler.
+“A trial judge faced with the problem [delayed disclosure of exculpatory evidence] may consider imposing the sanctions of a mistrial or dismissal, or grant a continuance in order for the defendant to properly use the material” (footnotes omitted). Smith, Criminal Practice and Procedure § 25.26 (3d ed. 2007). In this case we do not fault the defendant’s attorney for not requesting a continuance. The damage had already been done and, in these circumstances, could not have been undone other than by mistrial.
+However, in the event of retrial, the parties are advised to note the case law governing this issue. See, e.g., Commonwealth v. Miranda, 441 Mass. 783, 793-795 (2004); Commonwealth v. Frias, 47 Mass. App. Ct. 293, 296-297 (1999).
