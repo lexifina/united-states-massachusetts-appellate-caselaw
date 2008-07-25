@@ -1,0 +1,29 @@
+---
+court: "Massachusetts Appellate Division"
+decided: "2008-07-25"
+citations: ["2008 Mass. App. Div. 163"]
+reporter: "mass-app-div-annual"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Present: Greco, P.J., Coven & Swan, JJ."]
+parties: ["Revere Housing Authority vs. Gloria Chouchos"]
+source_url: "https://static.case.law/mass-app-div-annual/2008/cases/0163-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8187916
+cites_cases: ["1997 Mass. App. Div. 45", "1999 Mass. App. Div. 67", "2000 Mass. App. Div. 226", "2002 Mass. App. Div. 28", "30 Mass. App. Ct. 371", "396 Mass. 639", "401 Mass. 155", "411 Mass. 807"]
+---
+
+# Revere Housing Authority v. Chouchos
+
+## Majority (Coven, J.)
+
+Coven, J.
+On September 19, 2007, the Revere Housing Authority (“RHA”) commenced a summary process action against its tenant, Gloria Chouchos (“Chouchos”). One week later, the parties executed an agreement for judgment. The agreement provided that judgment for possession was to be entered for RBA, and that execution would be issued upon its motion. Execution would not be sought or issued, however, if Chouchos complied with several additional terms of the agreement. Four months later, RHA filed a motion for the issuance of execution, alleging that Chouchos had violated the conditions of the agreement for judgment. The motion was denied, and RHA filed this Dist/Mun. Cts. R A. D. A., Rule 8A expedited appeal on the ground that the motion judge abused his discretion in denying the motion for an execution.
+The parties’ agreement for judgment provided for a stay of execution as long as Chouchos “refrain [ed] from racial slurs against all RHA employees (written or verbal) ,” did “not send letters, leave voicemails, or call RHA or its employees, except in the case of an emergency or to mail her rental payment,” and did “not harass or threaten RHA employees at anytime.” The agreement further required Chouchos, except in the case of an emergency, to contact the CRW Elder Service regarding any concerns she had about her apartment or tenancy.
+On December 31, 2007, Chouchos sent a letter to RHA’s building director advising that her rent payment for the next month could be late because of her medical conditions. Chouchos also alleged that by seeking her eviction, RHA was trying to kill her. Specifically, Chouchos stated that she was being treated for a heart condition, and that the stress of an eviction proceeding would exacerbate that condition. Chouchos ended the letter by asserting that she would seek a criminal prosecution if RHA proceeded with the eviction.
+A week later, RHA sent out a letter to all tenants, including Chouchos, in which it touted RHA’s accomplishments during the prior year and outlined what was to be expected in 2008. Chouchos added written commentary to her copy of the letter, and returned it to its author, RHA’s executive director. Chouchos referred to the executive director as “Pennsylvania Blackie,” “Pennsylvania Blackie Jerk, etc.,” “Psychopath,” and “Fat Ass,” and warned that she would have the executive director “put in chains (slavery) again.”
+Arguing that these two letters, and their contents, violated the conditions of the stay of execution, RHA filed a motion for the issuance of execution. The record on appeal indicates that Chouchos did not file a written opposition, but appeared and presented argument at the motion hearing. The motion was denied without a statement of reasons.
+RHA’s burden on this appeal to establish the abuse of judicial discretion it alleges is a considerable one. A “party claiming abuse of discretion has the burden of demonstrating that no conscientious judge acting intelligently with full knowledge of the circumstances would have denied the motion [].” Northeastern Univ. v. Rasten, 2002 Mass. App. Div. 28, 29, quoting Barrett v. Pereira, 1997 Mass. App. Div. 45, 46. ‘There is no error of law amounting to an abuse of discretion simply because a reviewing court might have reached a different result. ...” Scannell v. Ed. Ferreirinha & Irma, Lda., 401 Mass. 155, 160 (1987), quoting Bucchiere v. New England Tel. & Tel. Co., 396 Mass. 639, 641 (1986).
+RHA could not satisfy this legal burden of proving error on appeal, however, without fulfilling its procedural obligation as appellant to prepare and present a record containing all relevant material necessary for appellate review of the issue it raised. Shawmut Community Bank, N.A. v. Zagami, 30 Mass. App. Ct. 371, 372-373 (1991), S.C., 411 Mass. 807 (1992); Bohorquez v. Metropolitan Prop. & Cas. Ins. Co., 2000 Mass. App. Div. 226, 227 n.1; Harvard Univ. v. Goldstein, 1999 Mass. App. Div. 67, 68. RHA has failed to meet that obligation. Although both parties were heard in the trial court on RHA’s motion, no transcript of what was presented to the judge at that hearing has been made part of the record. We cannot determine from the record before us whether the hearing was limited to oral argument, or whether Chouchos, who has not filed a brief on this appeal, presented any oral testimony that mitigated what appears to be prima facie evidence of a violation of the agreement for judgment. Nor has RBA argued in its brief that no evidence in mitigation was presented by Chouchos to the motion judge, leaving us to determine whether there was an abuse of judicial discretion based solely on the fact of the transmission and contents of the letters in question. When an appeal is predicated on an allegation of abuse of discretion, it is critical that a complete trial court record is presented by the appellant so that the appellate court is apprised of all of the facts and circumstances upon which the trial judge made the ruling at issue.
+Appeal dismissed.
+So ordered.
