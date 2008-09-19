@@ -1,0 +1,31 @@
+---
+court: "Massachusetts Appellate Division"
+decided: "2008-09-19"
+citations: ["2008 Mass. App. Div. 211"]
+reporter: "mass-app-div-annual"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Present: Greco, P.J., Coven & Brant, JJ."]
+parties: ["Philip Barron, D.C. vs. Liberty Mutual Insurance Company"]
+source_url: "https://static.case.law/mass-app-div-annual/2008/cases/0211-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8188452
+cites_cases: ["2007 Mass. App. Div. 46", "2008 Mass. App. Div. 13", "2008 Mass. App. Div. 160", "449 Mass. 377"]
+---
+
+# Barron v. Liberty Mutual Insurance
+
+## Majority (Brant, J.)
+
+Brant, J.
+Philip Barron (“Barron”), a chiropractor, commenced this G.L.c. 90, §34M action to recover Personal Injury Protection (“PIP”) payments for chiropractic treatment he provided to Glendaly Alvarado (“Alvarado”) for injuries she claimed to have suffered in a motor vehicle accident on February 27, 2002. Alvarado’s husband, Amirox Acosta (“Acosta”), was an insured of Liberty Mutual Insurance Company (“Liberty Mutual”).
+After the alleged accident, Acosta filed a notice of a claim with Liberty Mutual, and Alvarado filed an application for Personal Injury Protection (“PIP’) benefits with liberty Mutual. Alvarado began treatment with Barron on March 14, 2002, approximately two weeks after the accident Barron submitted various bills to Liberty Mutual for the medical services he provided to Alvarado. At the time her treatment was concluded on June 27, 2002, Barron’s bills totaled $3,231.00. Liberty Mutual declined to pay any of the bills because it doubted the legitimacy of Alvarado’s accident claim.
+Barron commenced this action against Liberty Mutual on January 27, 2006 to recover PIP payments for his services and attorney’s fees. The case was tried before a jury on January 10,2008. Barron testified about the chiropractic treatments he provided to Alvarado. His medical records of that treatment, which were admitted into evidence, included his summary of Alvarado’s statement about the alleged accident and the cause of her injuries. Alvarado claimed that her vehicle had been hit in the rear by an unknown automobile.
+Liberty Mutual called as a witness one Kevin Brown (“Brown”), an accident reconstruction expert employed by S.D. Lyons, Inc. Brown had examined Alvarado’s car several months after the alleged accident. He testified that in his opinion, the damage to Alvarado’s car was not consistent with a rear-end collision, that there was evidence that someone had kicked in the windshield, and that it appeared that the air bags had been cut out of the car with a knife or similar object. If believed, this testimony refuted Alvarado’s contention that she had been injured in a legitimate automobile accident.
+At the conclusion of Liberty Mutual’s case, Barron moved for a directed verdict, which the judge denied. In response to special questions, the jury found that Barron had provided necessary chiropractic treatments to Alvarado, but that she had made material and substantive misrepresentations to Liberty Mutual. That latter jury finding justified Liberty Mutual’s denial of her insurance claim and required an ultimate verdict in the insurer’s favor. Barron appealed.
+Barron argues on this appeal that his motion for a directed verdict at the conclusion of all of the evidence should have been allowed because what the jury determined were Alvarado’s false statements to Liberty Mutual about how the accident occurred were not introduced into evidence. Appellate review of the judge’s denial of Barron’s directed verdict motion “requires us to construe the evidence in the light most favorable to the nonmoving party and disregard that favorable to the moving party.” O’Brien v. Pearson, 449 Mass. 377, 383 (2007). A motion for a directed verdict must be denied if there is any evidence from which a reasonable inference can be drawn in favor of the nonmoving party. Yellow Book Sales & Distribution Co. v. Debonaire Academy of Beauty Culture, Inc., 2008 Mass. App. Div. 13.
+There is no merit in Barron’s argument that because Alvarado did not testify at the trial, there was no evidence that she had made any misrepresentations to Liberty Mutual. Liberty Mutual presented Brown’s expert opinion testimony, which, if believed, would have permitted the jury to conclude that the accident was a sham. Alvarado’s claim to Liberty Mutual for PIP benefits necessarily included the representation, deemed false by the jury, that she had been injured in a actual or legitimate accident for which the Liberty Mutual insurance policy provided coverage. The standard Massachusetts automobile policy in evidence in this case specifically allowed Liberty Mutual to deny a claim if an insured contributed to her injury by operating a motor vehicle with the specific intent of causing injury to herself. There was, therefore, sufficient evidence for the judge to deny Barron’s motion for a directed verdict and to submit the case to the jury. That evidence was also sufficient to support the jury’s special verdicts that Alvarado had made material misrepresentations to Liberty Mutual to justify its denial of her claim for PIP benefits for the unpaid medical bills that formed the basis of this suit by Barron.
+Judgment affirmed.
+So ordered.
+In order to prevail, Barron had the initial burden to prove that his treatment of Alvarado related to injuries that Alvarado had suffered in an automobile accident for which Liberty Mutual was obligated to pay PIP benefits. Kaplan v. Plymouth Rock Assur. Corp., 2008 Mass. App. Div. 160 (July 25, 2008); Provenzano v. Arbella Mut. Ins. Co., 2007 Mass. App. Div. 46, 47. Since Barron chose not to call Alvarado as a witness, Liberty Mutual was able to present uncontested expert testimony from Brown suggesting that Alvarado’s injuries were not the result of an accident for which Liberty Mutual had any obligation to pay.
+As noted, Barron’s own medical records, which were introduced into evidence, also contained Alvarado’s report to him that her injuries had been sustained in a rear-end automobile collision. Those records were submitted to Liberty Mutual in support of Barron’s PIP claim.
