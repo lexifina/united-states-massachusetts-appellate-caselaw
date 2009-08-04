@@ -1,0 +1,34 @@
+---
+court: "Massachusetts Appeals Court"
+docket: "08-P-919"
+decided: "2009-08-04"
+citations: ["74 Mass. App. Ct. 919"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Claudette Stewart’s Case."]
+source_url: "https://static.case.law/mass-app-ct/74/cases/0919-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3831899
+cites_cases: ["409 Mass. 783", "416 Mass. 454", "48 Mass. App. Ct. 586", "67 Mass. App. Ct. 209"]
+---
+
+# Stewart's Case
+
+## Majority
+
+In this “combination injury” case, the reviewing board of the Department of Industrial Accidents, in a split decision, affirmed the decision of an administrative judge, who found that “a major cause” of the employee’s disability remained the compensable injury that she sustained at work. See G. L. c. 152, § 1(7A), inserted by St. 1991, c. 398, § 14. At issue is whether the administrative judge’s heightened causation finding was supported by the medical evidence upon which he relied.
+As determined below, Claudette Stewart (employee), a practice assistant at Beth Israel Deaconess Medical Center (employer), suffered an industrial injury on September 30, 1999, while transporting a patient on a wheeled stretcher. As she pushed the stretcher onto an elevator, a wheel became caught in the space between the elevator and the floor. The employee jerked and lifted the stretcher in an effort to free it and, in so doing, injured her back and neck. Despite extensive treatment, including surgery, the employee developed a disabling neurological condition manifested by symptoms such as persistent pain in her neck and back, tingling in her arms, numbness in her fingers and legs, and weakness in her left arm and shoulder.
+The administrative judge allowed the parties to submit medical evidence in addition to that provided by the impartial medical examiner appointed pursuant to G. L. c. 152, § 11A(2). As a result, the administrative judge received medical opinions from a total of seven different treating and nontreating physicians. In his decision, however, the only medical opinion on which he relied for his analysis was that contained in the report and deposition testimony of Dr. Michael H. Freed, the impartial examiner. The administrative judge summarized each of the other expert opinions, but he did not indicate whether or to what extent he credited or rejected them.
+The relevant aspects of Dr. Freed’s opinion were as follows: (1) prior to the September 30, 1999, incident at work, the employee had chronic cervical spondylosis and stenosis, which the incident aggravated; (2) the employee suffered a herniated disc that, more likely than not, was caused by the incident; and (3) as a result of the cervical disc herniation in combination with the aggravated cervical spondylosis, the employee developed her disabling condition, cervical myelopathy, also known as cervical spinal cord syndrome. Dr. Freed’s ultimate conclusion was that the employee’s disability was causally related to her industrial injury, but he was not asked, and did not state, whether the industrial injury was “a major cause” when considered in relation to the employee’s pre-existing cervical condition. The administrative judge nevertheless construed Dr. Freed’s report and testimony to mean that the incident at work remained “a major cause” of the employee’s disability, because “despite the existence of a serious condition before this accident, the accident was implicated significantly or wholly in each of the components that caused the symptoms, led to the need for surgery, and left the employee with lasting disabilities.”
+Holly B. Anderson for the employer.
+Adelio DeMiranda for the employee.
+The flaw in this analysis is that nowhere in Dr. Freed’s report or deposition testimony did he opine as to the relative significance of the incident-related causes of the employee’s disability as compared with her significant preexisting condition. Thus, the administrative judge’s apparent belief that the herniated disc, alone or in combination with the aggravation of the preexisting cervical spondylosis, necessarily was a major factor in causing the employee’s symptoms and eventual disability, was not, in fact, supported by the only expert opinion upon which he relied.
+The problem is not that Dr. Freed never used the “magic words” of G. L. c. 152, § 1(7A); an opinion expressed in terms substantially equivalent to those of the statute will support the requisite finding. See Robinson’s Case, 416 Mass. 454, 460 (1993); May ’s Case, 67 Mass. App. Ct. 209, 213 (2006). The problem is that the determination of causation in a combination injury case, as in any case involving a complicated medical issue, must be grounded in competent expert medical evidence that satisfies the applicable standard. See Patterson v. Liberty Mut. Ins. Co., 48 Mass. App. Ct. 586, 592-599 (2000). Accordingly, a finding of heightened causation under § 1(7A) must be supported by medical opinion that addresses — in meaningful terms, if not the statutory language itself — the relative degree to which compensable and non-compensable causes have brought about the employee’s disability.
+Although the administrative judge’s heightened causation finding could not properly be grounded in Dr. Freed’s opinion alone, there was other medical evidence, which, if credited, would add to Dr. Freed’s analysis and support the conclusion that the employee’s industrial injury was a major cause of her ultimate disability. It therefore is appropriate to remand the case so that the administrative judge may determine whether and to what extent he accepts or rejects this other evidence, and revisit the § 1(7A) issue accordingly. Even if, as the employer contends, some of the other medical opinions may be found to be based upon incomplete or inaccurate factual assumptions, such deficiencies go to the weight of the evidence and are for the administrative judge, as fact finder, to evaluate. See Sullivan v. First Mass. Financial Corp., 409 Mass. 783, 792 (1991). Recommittal to the administrative judge, and not reversal, is therefore the proper disposition of this appeal.
+The decision of the reviewing board is vacated. The matter is remanded to the Department of Industrial Accidents for further proceedings consistent with this opinion.
+So ordered.
+Also known as Caregroup, Inc.
+Cervical spondylosis is a general term indicating reactive changes of the spine of a degenerative nature. Stedman’s Medical Dictionary 1813 (28th ed. 2006). Stenosis is a stricture or narrowing of a canal, id. at 1832, in this case the canal surrounding the spinal cord.
+As Dr. Freed explained, cervical myelopathy is a neurological disease of the spinal cord, itself, as opposed to the surrounding “architecture.”
+Stewart’s request for appellate attorney’s fees and costs is denied.
