@@ -1,0 +1,29 @@
+---
+court: "Massachusetts Appeals Court"
+docket: "08-P-2081"
+decided: "2009-11-10"
+citations: ["75 Mass. App. Ct. 726"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Mark A. Lowery, voluntary administrator, vs. Michael Resca & another."]
+source_url: "https://static.case.law/mass-app-ct/75/cases/0726-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3834505
+cites_cases: ["113 F.3d 391", "384 Mass. 123", "393 Mass. 754", "474 F.3d 934"]
+---
+
+# Lowery v. Resca
+
+## Majority (Wolohojian, J.)
+
+Wolohojian, J.
+The plaintiff, in his capacity as voluntary administrator of his father’s estate, sued the defendants, Michael Resca and John Cronin, in their official capacities as agents of the Chelsea Soldiers Home (Home), a State-run health care facility for veterans. A Probate and Family Court judge dismissed the suit for lack of subject matter jurisdiction on the ground that, pursuant to G. L. c. 212, § 3, the Superior Court has exclusive jurisdiction over claims against the Commonwealth. We agree that jurisdiction lies exclusively with the Superior Court, but conclude that transfer, rather than dismissal, was the proper remedy. We, therefore, vacate and remand for the judge of the Probate and Family Court to request the Chief Justice for Administration and Management to transfer the case to the Superior Court.
+Background. The plaintiff’s father, Billy Joe Lowery, was a resident of the Home from 1998 until his death in 2006. The plaintiff subsequently became voluntary administrator of his father’s estate. G. L. c. 195, § 16. At the time of his death, the father had an account in his name at the Home with a balance of more than $9,000. The plaintiff, as administrator, demanded that the funds be released so that he could use them to pay funeral expenses. The Home refused, taking the position that the funds were owed to the Home for expenses related to the father’s care. The plaintiff sued in Probate and Family Court seeking damages and an order requiring the defendants to release the funds to the estate.
+Discussion. Although the caption does not so specify, the contents of the complaint make explicit that the plaintiff sued Resca and Cronin in their official capacities as commandant and chief financial officer of the Home, respectively. The Home is a State institution that falls within the Executive Office of Health and Human Services. G. L. c. 6A, § 16. The judge found that the defendants are State employees, and nothing appears in the record to contradict this finding. We agree with the judge that claims based on actions or inactions by the defendants, who are State employees alleged to have been acting in their official capacities at a State agency, are “claims against the commonwealth” over which the Superior Court has exclusive jurisdiction. G. L. c. 212, § 3, amended by St. 2004, c. 252, § 2.
+However, it does not follow that dismissal of the Probate and Family Court complaint was the appropriate remedy. When a suit is brought in a department of the trial court that lacks jurisdiction, the judge should request the Chief Justice for Administration and Management to transfer the case to the proper trial department or transfer the judge. See Konstantopoulos v. Whately, 384 Mass. 123, 129 (1981); G. L. c. 211B, § 9. The parties agree that the Superior Court has jurisdiction over all the plaintiff’s claims; therefore, there was and is no impediment to transfer. Outright dismissal was not the correct solution. See Konstantopoulos v. Whately, supra.
+For the reasons set out above, we vacate the order dismissing the plaintiff’s complaint, and remand for proceedings not inconsistent with this decision. The plaintiff’s claims, once transferred to the proper court, will relate back to the date the complaint was first filed in the Probate and Family Court.
+So ordered.
+The plaintiff, who is a lawyer licensed in Massachusetts, has been proceeding pro se without any opposition or objection from the defendants, who are represented by the Attorney General’s office. Whether a voluntary administrator can proceed pro se and, if so, under what circumstances, are questions that we have not yet answered. We note, however, that both we and the Supreme Judicial Court — without comment ■— have permitted pro se appearances by voluntary administrators. See, e.g., Clymer v. Mayo, 393 Mass. 754 (1985). That said, at least one Superior Court decision has addressed the issue in the related context of executors and concluded that they may not proceed pro se. Donoghue v. Horner, 25 Mass. L. Rep. 307 (Mass. Super. Ct. 2009). Other jurisdictions have reached similar conclusions. See, e.g., Pridgen v. Andresen, 113 F.3d 391, 393 (2d Cir. 1997) (holding that an administrator or executor “of an estate may not proceed pro se when the estate has beneficiaries or creditors other than the litigant”); Malone v. Nielson, 474 F.3d 934, 937 (7th Cir. 2007) (“if the administrator is not the sole beneficiary of the estate, then he or she may not represent the estate in court”). As interesting as the question is, we consider it waived in this case because the defendants have never objected to the plaintiff proceeding pro se, even in the supplemental briefing we requested on the issue.
+Although the plaintiff argues that the complaint, which is imprecise, also seeks to assert claims against the defendants individually, we need not determine whether it does so because the plaintiff concedes that he is not entitled to pursue any such claims in the Probate and Family Court.
+By contrast, the plaintiff himself concedes that the Probate and Family Court does not have jurisdiction over all the claims he contends are asserted in the complaint.
