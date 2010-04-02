@@ -1,0 +1,28 @@
+---
+court: "Massachusetts Appeals Court"
+docket: "08-P-1560"
+decided: "2010-04-02"
+citations: ["76 Mass. App. Ct. 904"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Commonwealth vs. Dale K. McMullin."]
+source_url: "https://static.case.law/mass-app-ct/76/cases/0904-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3835770
+cites_cases: ["129 S. Ct. 2527", "3 Mass. App. Ct. 8", "371 Mass. 832", "383 Mass. 201", "403 Mass. 146", "417 Mass. 619", "426 Mass. 657", "431 Mass. 401", "435 Mass. 691", "444 Mass. 279", "447 Mass. 577"]
+---
+
+# Commonwealth v. McMullin
+
+## Majority
+
+Confrontation clause. The defendant argues that the admission of certified copies of records from the Registry of Motor Vehicles and the District Court violated his right to confront the witnesses against him under the Sixth Amendment to the United States Constitution. The defendant acknowledges that the admissibility of such records is established by Commonwealth v. Maloney, 447 Mass. 577, 592 (2006), but observes that Maloney rested its analysis of the confrontation clause issue on Commonwealth v. Verde, 444 Mass. 279, 283-284 (2005), and that Verde has since been overturned by the United States Supreme Court. See Melendez-Diaz v. Massachusetts, 129 S. Ct. 2527 (2009). The argument is unavailing. In Melendez-Diaz, the Court explicitly acknowledged that a clerk’s affidavit authenticating an official record is not testimonial for purposes of the confrontation clause, see id. at 2538-2539, and explained that “[b]usiness and public records are generally admissible absent confrontation not because they qualify under an exception to the hearsay rules, but because — having been created for the administration of an entity’s affairs and not for the purpose of establishing or proving some fact at trial — they are not testimonial.” Id. at 2539-2540. Admission of court records and records of the Registry of Motor Vehicles in the present case did not violate the defendant’s Sixth Amendment right of confrontation. General Laws c. 90, § 24(4), is unaffected by the Melendez-Diaz decision. See Commonwealth v. Martinez-Guzman, ante 167, 171 n.3 (2010).
+Right to counsel in prior convictions. The defendant separately contends that the evidence of his prior convictions was insufficient for the reason that the records of his prior convictions were inadmissible in the absence of proof that he was represented by (or had waived) counsel in those proceedings.
+In Commonwealth v. Proctor, 403 Mass. 146, 147 (1988), the Supreme Judicial Court observed that, absent a showing by the Commonwealth that the defendant was represented by or waived counsel, a defendant’s prior convictions may not be used to impeach his credibility, see Commonwealth v. Cook, 371 Mass. 832, 833 (1977), or to determine the length of his sentence. See Commonwealth v. Barrett, 3 Mass. App. Ct. 8, 9-10 (1975). However, the court since has held that a defendant generally is presumed to have been represented by (or to have waived) counsel in prior proceedings that resulted in a conviction, and the Commonwealth need not come forward with proof on the point unless the defendant first makes a showing that the conviction was obtained without representation by or waiver of counsel. See Commonwealth v. Saunders, 435 Mass. 691, 695-696 (2002). See also Commonwealth v. Lopez, 426 Mass. 657, 662 (1998) (applying presumption of regularity to guilty plea).
+Deborah Bates Riordan (Theodore F. Riordan with her) for the defendant.
+Kevin J. Curtin, Assistant District Attorney, for the Commonwealth.
+Admissibility of Registry of Motor Vehicles records. Finally, there is no merit to the defendant’s contention that records of the Registry of Motor Vehicles were improperly admitted. As a threshold matter, we note that the defendant did not object to admission of the records. See note 2, supra. Moreover, the records were admissible under G. L. c. 90, § 30, even had the defendant objected. There was no error, much less a substantial risk of a miscarriage of justice.
+Judgments affirmed.
+The defendant raised this argument for the first time in his reply brief. We invited the Commonwealth to submit a further reply to the defendant’s new argument and then heard oral argument on the claim. It is unclear from the defendant’s brief whether he contends that the evidence at trial was insufficient because the evidence of his prior convictions was inadmissible, or whether he contends that the prior records are incompetent to establish his convictions. To the extent that the defendant’s argument goes to the sufficiency of the evidence, it is without merit because the defendant did not object at trial to admission of the records; they were accordingly in evidence for all purposes even if timely objection would have succeeded in excluding them. Cf. Commonwealth v. Silva, 431 Mass. 401, 404 (2000). We nonetheless consider whether the claim gives rise to a substantial risk of a miscarriage of justice. Id. at 405. The defendant does not argue that his trial counsel was constitutionally ineffective. In any event, such a claim would not be persuasive as a substantial risk of a miscarriage of justice is not present here. See Commonwealth v. Curtis, 417 Mass. 619, 624-625 & n.4 (1994).
+As the judge had the court records and the Registry of Motor Vehicle records before her and those records adequately established the defendant’s prior convictions, the defendant’s claim that there was insufficient evidence to convict him fails.
