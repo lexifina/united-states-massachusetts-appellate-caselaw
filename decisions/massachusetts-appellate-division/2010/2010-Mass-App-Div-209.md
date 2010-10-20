@@ -1,0 +1,29 @@
+---
+court: "Massachusetts Appellate Division"
+decided: "2010-10-20"
+citations: ["2010 Mass. App. Div. 209"]
+reporter: "mass-app-div-annual"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Present: Williams, P.J., Singh & O’Shea, JJ."]
+parties: ["FIA Card Services, N.A. vs. Zahra Bagheri"]
+source_url: "https://static.case.law/mass-app-div-annual/2010/cases/0209-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 7342607
+cites_cases: ["15 U.S.C. §1692", "2005 Mass. App. Div. 13", "360 Mass. 174", "39 Mass. App. Ct. 184"]
+---
+
+# FIA Card Services, N.A. v. Bagheri
+
+## Majority (Singh, J.)
+
+Singh, J.
+Defendant Zahra Bagheri (“Bagheri”) has appealed the Fall River District Courts denial of her postjudgment motions to reconsider the denial of her motions to transfer these cases to the Lynn District Court. We find no error, and dismiss the appeals.
+Bagheri obtained an MBNA credit card in July, 1994, and another MBNA credit card in January, 2002. She made purchases with the cards and payments toward the balance, but stopped payments at some point after a dispute arose. According to the credit card agreements, disputes were to be submitted to binding arbitration. On May 7, 2008, the plaintiff, FIA Card Services, N.A (“FIA”), obtained an arbitration award against Bagheri in the amount of $4,347.36 with respect to the balance due on the 1994 credit card. On June 27, 2008, FIA obtained another arbitration award against Bagheri in the amount of $8,337.67 with respect to the balance due on the 2002 credit card.
+After the arbitration awards remained unpaid, FIA brought suit in the Fall River District Court, the court with jurisdiction over the city in which Bagheri resided at the time, Fall River. These actions were filed on December, 18, 2008, to recover $8,337.67 as the balance due on the 2002 credit card; and on April 3, 2009, to recover $4,347.36 as the balance due on the 1994 credit card. In each case, FIA filed a motion to confirm the arbitration award. On July 24,2009, the trial court allowed the motion in the 1994 credit card case, and entered judgment in favor of FIA in the amount of $4,347.36, plus statutory interest and costs. On July 28, 2009, the trial court allowed the motion in the 2002 credit card case, and entered judgment in favor of FIA in the amount of $8,337.67, plus statutory interest and costs.
+On July 31, 2009, Bagheri filed a motion in each case to stay all proceedings and change venue. Specifically, she informed the court that she had moved to Lynn as of July 24, 2009 and requested transfer of her cases to the Lynn District Court due to the hardship of having to commute from Lynn to Fall River for these cases. Citing §2 of G.L.C. 223, §§4.3 and 4.12 of the HANDBOOK OF CIVIL PROCEDURE IN THE MASSACHUSETTS DISTRICT COURT, and the “Debt Collection Action,” Bagheri argued that her cases were required to be transferred for jurisdictional reasons. The trial court denied the motions without a hearing on August 20, 2009. On August 31, 2009, Bagheri filed motions to reconsider the denial of her motions to transfer. In the motions, Bagheri reiterated her earlier arguments and also contended that her motions were required to be allowed because there had been no oppositions filed. The court scheduled a hearing on the motions to reconsider on October 28, 2009.
+At the hearing, Bagheri argued, consistent with her motions to reconsider, that FIA had not opposed her original motions, that transfer was required for jurisdictional reasons, and that the cases should be transferred to prevent hardship. Counsel for FIA acknowledged that they would have to pursue any subsequent collection action in the jurisdiction of Bagheri’s residence, but contended that there was no requirement to transfer these cases to Lynn after judgment had already entered in Fall River. The trial court denied both motions to reconsider. Bagheri has appealed those denials.
+We review a trial judge’s denial of a motion for reconsideration for abuse of discretion. Piedra v. Mercy Hosp., Inc., 39 Mass. App. Ct. 184, 188 (1995). The trial court was not bound to allow Bagheri’s motions simply because no oppositions had been filed. See Hilton v. Traficanti, 2005 Mass. App. Div. 13, 15, citing Calderones. Wright, 360 Mass. 174, 176 (1971) (trial court may disbelieve even uncontroverted evidence). In the circumstances of this case, the trial court needed no written opposition to determine that Bagheri’s motions had no merit. All of the authority cited by Bagheri in support of her motions to transfer indicates that FIA was required to bring its actions in the judicial district where Bagheri resided at the time of the commencement of the lawsuits. See G.L.C. 223, §2; M.G. PERLIN & J.M. CONNORS, CIVIL PROCEDURE IN THE MASSACHUSETTS DISTRICT COURT §4.3, at 67, §4.12, at 73 (4th ed. 2009); Fair Debt Collection Practices Act, 15 U.S.C. §1692 et seq. None of the cited authority deals with the court’s jurisdiction; the issue is solely that of venue. In this case, there is no dispute that Bagheri lived in Fall River at the commencement of each of the suits. Thus, the cases were brought in the court with proper venue.
+With respect to the issue of hardship, it was well within the court’s discretion to decline to transfer the cases after they had gone to judgment. At that stage, no further personal appearances would be required of Bagheri, except any dealing with appeal. As mentioned by FIA’s counsel at the October 28, 2009 hearing, FIA would be required to file any supplementary process action in the judicial district of Bagheri’s residence at the time of filing. There would be no further hardship imposed.
+As the trial court did not abuse its discretion in denying Bagheri’s motions to reconsider its earlier denial of her motions to transfer, those rulings are affirmed.
+So ordered.
