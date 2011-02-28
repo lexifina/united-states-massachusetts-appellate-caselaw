@@ -1,0 +1,30 @@
+---
+court: "Massachusetts Appellate Division"
+decided: "2011-02-28"
+citations: ["2011 Mass. App. Div. 59"]
+reporter: "mass-app-div-annual"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Present: LoConto, P.J., Gardner & MacLeod, JJ."]
+parties: ["Teresa Franco vs. Mary Kersten"]
+source_url: "https://static.case.law/mass-app-div-annual/2011/cases/0059-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 7341085
+cites_cases: ["2009 Mass. App. Div. 106", "385 Mass. 813", "49 Mass. App. Ct. 764"]
+---
+
+# Franco v. Kersten
+
+## Majority (MacLeod, J.)
+
+MacLeod, J.
+This is a Dist./Mun. Cts. R. A. D. A. 8A expedited appeal by the defendant of the denial of her motion to alter or amend judgment to vacate an assessment of $430.50 in costs for the plaintiff. The defendant’s sole contention is that the plaintiff was not entitled to costs under G.L.c. 261, §1 and Mass. R. Civ. R, Rule 54(d), because she was not the “prevailing party” in this action. We disagree.
+The record indicates that the plaintiff, Theresa Franco, filed this tort action after sustaining injuries as a pedestrian when she was struck by a vehicle negligently operated by the defendant, Mary Kersten. After trial, the jury returned special verdicts in the plaintiffs favor on each of the elements of her negligence claim, finding that the defendant breached her duly of care to the plaintiff; that such breach was a substantial cause of the plaintiffs injuries, amounting to fifty-five (55%) percent of the total negligence of the parties; and that the plaintiff was entitled to $1,600.00 in damages for the medical expenses she incurred. The jury’s verdict was reduced by the plaintiffs forty-five (45%) percent comparative negligence to $880.00.
+The defendant then filed a motion, to which the plaintiff assented, for a G.L.c. 90, §34M offset of $6,251.00, the amount of the personal injury protection (“PIP”) benefits previously paid to the plaintiff by the defendant’s automobile liability insurer. The motion was allowed, and the offset reduced the plaintiff’s net damages to zero. The trial court clerk assessed costs against the defendant, and entered judgment for the plaintiff in the amount of zero damages and $430.50 in costs. As noted, the defendant responded with an unsuccessful motion to vacate those costs on the grounds that the PIP offset had transformed the jury’s verdict into a “defendant’s judgment” and made the defendant the “prevailing party” in this action.
+There was no abuse of discretion in the denial of the defendant’s motion to amend judgment. Pursuant to G.L.c. 261, §1 and Rule 54(d), a prevailing party in a civil action is generally entitled to costs. In the context of that statute and rule, the term “prevailing party” is “to be understood in the ‘ordinary or popular sense’... and given ‘commonsense meaning’”(citations omitted). Bardon Trimount, Inc. v. Guyott, 49 Mass. App. Ct. 764, 778 (2000). The “prevailing party,” in its simplest sense, is the party “in whose favor judgment is entered.” Hannon v. Original Gunite Aquatech Pools, Inc., 385 Mass. 813, 828 (1982). In this case, judgment was properly entered for the plaintiff, albeit for zero net damages, upon the jury’s special verdicts that the plaintiff suffered injuries in consequence of the defendant’s negligence. Given the jury’s finding of her liability in tort, the defendant’s arguments that she was the prevailing party in this action and that a “defendant’s judgment” should have been entered are devoid of merit.
+The defendant’s argument that the plaintiff was no longer the prevailing party after her net damages were reduced to zero, and, indeed, this entire appeal, are predicated on little more than the following misstatement by the defendant in her two-page brief of the standard for identifying the prevailing party: “The test is whether the party wins from the opponent a substantial part of the claim....” J.W. SMITH & H.B. ZOBEL, RULES PRACTICE §54.10, at 241 (2007). The treatise actually states: “The test is whether the party wins from the opponent a substantial part of the claim, even if the winnings do not include judicial relief (emphasis added). Id. Obviously, the treatise does not substantiate the defendant’s argument. Nor has the defendant advanced any apposite authority to support her contention that the postjudgment offset for PIP payments made by her automobile insurer for damages suffered by the plaintiff as a result of the defendant’s negligence somehow invalidated or reversed the jury's determination that the plaintiff had proved her negligence claim against the defendant.
+Accordingly, the denial of the defendanf s motion to amend judgment is affirmed. Upon the plaintiffs timely filing with the trial court clerk of a Dist./Mun. Cts. R. A D. A., Rule 26, bill of appellate costs, the clerk shall prepare and certify a statement of all such appellate costs, and add them to the judgment for the plaintiff in this case.
+So ordered.
+Section 1 of G.L.C. 261 states that “[i]n civil actions the prevailing party shall recover his costs, except as otherwise provided.” Reflecting that statute, Rule 54(d) provides that “costs shall be allowed as of course to the prevailing party unless the court otherwise directs.”
+A “defendant’s judgment” that results in the defendant’s status as a “prevailing party” for Rule 54(d) purposes includes, for example, a dismissal for lack of subject matter jurisdiction, a nonsuit of the case, or any voluntary discontinuance or dismissal by the plaintiff. Bardon Trimount, Inc., supra at 779. It does not refer to a judgment on the merits for the plaintiff upon a jury verdict.
+Defendanf s counsel’s use of an ellipsis in misquoting the treatise clearly indicates that he intended to use only part of the quotation. Thus, this was merely an instance of substandard appellate argument rather than any bad faith warranting the imposition of sanctions. Cf. Pella Windows, Inc. v. Burman, 2009 Mass. App. Div. 106, 108-109 (double costs imposed for appellant’s flagrant misstatement of trial court record).
