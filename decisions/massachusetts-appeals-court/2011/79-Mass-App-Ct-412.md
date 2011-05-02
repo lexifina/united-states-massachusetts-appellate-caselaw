@@ -1,0 +1,48 @@
+---
+court: "Massachusetts Appeals Court"
+docket: "09-P-1654"
+decided: "2011-05-02"
+citations: ["79 Mass. App. Ct. 412"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Commonwealth vs. Paul R. Hopkins."]
+source_url: "https://static.case.law/mass-app-ct/79/cases/0412-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3842596
+cites_cases: ["129 S. Ct. 2527", "23 Mass. App. Ct. 912", "378 Mass. 671", "456 Mass. 350", "459 Mass. 1104", "76 Mass. App. Ct. 87", "78 Mass. App. Ct. 474"]
+---
+
+# Commonwealth v. Hopkins
+
+## Majority (Mills, J.)
+
+Mills, J.
+A Superior Court jury convicted the defendant of trafficking in cocaine (between fourteen and twenty-eight grams), G. L. c. 94C, § 32E(6), and possession of marijuana, G. L. c. 94C, § 34. He appeals, arguing (1) that there was insufficient evidence of possession of marijuana, and (2) that the erroneous admission of the drug certificate of analysis pertaining to the cocaine was not harmless beyond a reasonable doubt. See Melendez-Diaz v. Massachusetts, 129 S. Ct. 2527 (2009). We affirm.
+1. Facts. We recite the relevant trial evidence. During the execution of a search warrant for a residence in Hanover, the police entered the bedroom of the defendant and his girlfriend, Claire Keller. Inside the bedroom the officers found a bag of marijuana, a sifter, a grinder, a scale, some baggies, a Massachusetts driver’s license bearing the defendant’s name, a Massachusetts liquor identification card bearing the defendant’s name, the defendant’s social security card, and some men’s clothing. Police also discovered nineteen individually wrapped bags of cocaine. The defendant and Keller were both indicted for the offenses of trafficking in cocaine (fourteen to twenty-eight grams) and possession of marijuana.
+Keller’s separate trial occurred prior to the defendant’s trial. At her trial, the defendant testified, in detail and after a thorough sworn colloquy, that the cocaine was his, not Keller’s. He also testified to his familiarity with the cocaine distribution paraphernalia returned from the search and entered as evidence at Keller’s trial. He acknowledged during that colloquy that Keller’s indictment and his were identical, and he further acknowledged that by admitting that the cocaine was his he was essentially admitting that he had committed the offense of trafficking in cocaine, over fourteen grams.
+Subsequently, at this defendant’s own trial, the Commonwealth offered a redacted transcript of the defendant’s sworn colloquy and testimony at Keller’s trial as evidence during its case-in-chief. The transcript was admitted. The prosecutor read the transcript into the record. The Commonwealth rested. The jury convicted the defendant of trafficking in cocaine (fourteen to twenty-eight grams) and possession of marijuana. This appeal followed.
+2. Marijuana. The evidence viewed in the light most favorable to the Commonwealth, Commonwealth v. Latimore, 378 Mass. 671, 676-677 (1978), is sufficient for the defendant’s conviction of possession of marijuana. The Commonwealth presented evidence that the marijuana was in proximity to the defendant’s personal effects, including his driver’s license and clothing, in his bedroom. This established a sufficient connection between the defendant and the marijuana for a rational juror to conclude that the defendant possessed it. See Commonwealth v. Farnsworth, 76 Mass. App. Ct. 87, 99 (2010), citing to Commonwealth v. Rarick, 23 Mass. App. Ct. 912, 912 (1986). That the marijuana was found near Keller and a third individual, who were smoking it while the defendant was not in the bedroom, does not diminish this connection. Commonwealth v. Farnsworth, supra at 99 (“ [Contraband may be jointly possessed; it need not be exclusive to the defendant.”).
+3. Cocaine. The Commonwealth was required to prove that the substance was cocaine and that it weighed fourteen grams or more. The defendant argues that the erroneous admission of the Commonwealth’s cocaine certificate requires that we reverse his conviction of trafficking. We are not persuaded.
+We review to determine if the admission of the certificate was harmless beyond a reasonable doubt. Commonwealth v. Vasquez, 456 Mass. 350, 352 (2010). “[T]o establish harmlessness beyond a reasonable doubt, the Commonwealth must show that other properly admitted evidence of guilt is overwhelming, in the sense that it is so powerful as to nullify any effect that the improperly admitted evidence might have had on the fact finder or the findings.” Id. at 362 (internal quotations omitted). We are convinced that the properly admitted evidence did so.
+The Commonwealth presented significant evidence that the substance recovered from the home was cocaine. A police witness testified that he seized a cocaine sifter, a cocaine grinder, a scale, and plastic baggies of the type normally used for packaging cocaine in one-half gram and one gram units for subsequent distribution and sale. A State trooper with extensive narcotics investigation experience testified about the use of these items in a typical cocaine distribution operation, including use of the grinder and sifter to process rock cocaine into powder cocaine and use of the scale to measure powder cocaine into appropriate units for sale.
+What is determinative in this case, however, is the admission of the defendant’s testimony from the earlier trial of his girlfriend, Keller. Specifically, during the Commonwealth’s case-in-chief, a transcript of the defendant’s sworn colloquy answers to the judge and his testimony in Keller’s earlier trial was admitted into evidence. Prior to testifying at her trial, the defendant, under oath, answered extensive questions from the judge. In addition to standard voluntariness and waiver warnings, the defendant, represented by counsel, stated that he understood that the indictments against him and against Keller were identical. He unequivocally answered “yes” when asked by the judge:
+“So you’re admitting that you have committed the crime of trafficking in a Class B substance, fourteen grams or more?”
+After the colloquy, the defendant testified. He identified the sifter taken from the home as one used for making powder cocaine and packaging it in plastic baggies. He testified that Keller had no involvement in trafficking narcotics. During his testimony, he unambiguously admitted to trafficking in cocaine and to these charges against him. We conclude that this evidence, properly admitted during the Commonwealth’s case-in-chief, overwhelmingly proved that the substance was cocaine. Compare Commonwealth v. Mendes, 78 Mass. App. Ct. 474, 479-480 & n.6 (2010), further appellate review granted, 459 Mass. 1104 (2011) (defendants’ admissions that substances were cocaine were presented in their testimony during the defense case).
+As to the weight element of trafficking, the transcript of the defendant’s sworn colloquy and testimony also contained his unequivocal admission that the cocaine in his possession weighed more than fourteen grams. The defendant’s experience as a drug purchaser, user, processor, and seller, demonstrated through his testimony at Keller’s trial, established the defendant’s ability to assess the weight of a given quantity of cocaine. This ability rendered him competent to testify to the weight of the cocaine he possessed. Accordingly, the defendant’s specific admission to an indictment charging trafficking fourteen grams or more of cocaine overwhelmingly proved that the cocaine in fact weighed fourteen grams or more.
+We therefore conclude the evidence properly admitted during the Commonwealth’s case-in-chief overwhelmingly proved that the substance in question was cocaine weighing fourteen grams or more. Compare Mendes, supra. This evidence therefore rendered the admission of the certificate harmless beyond a reasonable doubt.
+Judgments affirmed.
+The judge’s questions to the defendant in the colloquy were a model of completeness. He inquired of the defendant’s age, education, employment, mental health, influence of drugs, and understanding of the complete details of the consequences of his testimony. The defendant does not challenge the adequacy of the colloquy.
+The defendant does not challenge his marijuana conviction on Melendez-Diaz grounds.
+Although the trial transcript reflects that the certificate was admitted in evidence, a copy of the certificate does not appear in the appellate record. On the basis of the parties’ arguments, we assume that a State laboratory issued a typical certificate identifying nineteen bags of a white powder substance as cocaine weighing fourteen grams or more. See Commonwealth v. Vasquez, 456 Mass. 350, 354 n.6 (2010)
+The defendant challenges both the evidence that the substance was cocaine and the evidence of its combined weight.
+The transcript discloses that the defendant testified at Keller’s trial against the advice of his counsel.
+We reproduce the relevant portion of the defendant’s testimony below:
+Q.: “Were you involved in the sale of cocaine, sir?”
+A.: “Yes, I was.”
+Q.: “Let me ask you, as you stand here in front of this jury here, you are presently being charged in an indictment arising out of this case, correct?”
+A.: “Yeah."
+Q.: “You understand that you are incriminating yourself on this indictment that is pending for trial against you?”
+A.: “Yes, I do.”
+Q.\ “You understand the admission that you are making is in effect an admission of guilt that you intended to possess that narcotic, to traffick [sz'c] that narcotic, whatever quantity it may be, is that correct?”
+A.: “Yes, it is.”
