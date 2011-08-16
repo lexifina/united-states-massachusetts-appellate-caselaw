@@ -1,0 +1,32 @@
+---
+court: "Massachusetts Appeals Court"
+docket: "10-P-1775"
+decided: "2011-08-16"
+citations: ["80 Mass. App. Ct. 904"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Leo W. MacDougall’s Case."]
+source_url: "https://static.case.law/mass-app-ct/80/cases/0862-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3844464
+cites_cases: ["45 Mass. App. Ct. 928", "51 Mass. App. Ct. 398"]
+---
+
+# MacDougall's Case
+
+## Majority
+
+Background. The employee in this case sought benefits under G. L. c. 152, § 34A, for permanent and total incapacity. The insurer initially paid the employee temporary total incapacity benefits under G. L. c. 152, § 34, but thereafter filed a complaint to modify or discontinue these benefits. At a conference held pursuant to G. L. c. 152, § 10A, an administrative judge denied the insurer’s request for modification and discontinuance. The insurer then filed an appeal for an evidentiary hearing. Prior to this hearing, the judge allowed the employee’s motion to join a claim for permanent, total incapacity benefits under § 34A. Subsequently — after the hearing but before the judge’s hearing decision — the employee’s § 34 benefits were exhausted because the insurer had made payments for the maximum period required under the statute. The insurer then voluntarily began paying the employee the equivalent of what it concluded were reasonable partial disability benefits under G. L. c. 152, § 35, in this case an amount equal to the maximum allowable benefit under § 35.
+Ultimately, after an appeal from the administrative judge’s decision, the reviewing board found that the employee was indeed permanently and totally disabled and was entitled to the § 34A benefits, thus requiring the insurer to pay a higher amount than would have been due had liability under § 35 been found proper. The employee also sought to have the benefits calculated under G. L. c. 152, § 51A, as inserted by St. 1969, c. 833, § 1. That section provides that “[i]n any claim in which no compensation has been paid prior to the final decision on such claim, said final decision shall take into consideration the compensation provided by statute on the date of the decision, rather than the date of the injury.” The board declined to apply § 51 A, and the employee now appeals.
+Discussion. The employee argues that the “claim” referred to by the statute means the particular statutory claim for benefits that is at issue, in this case the claim for § 34A benefits. He argues that, therefore, he is entitled to the application of § 51A despite the insurer’s payment of, first, § 34 benefits and, then, after their expiration, of the amount equivalent to § 35 benefits that it voluntarily chose to provide.
+This case is controlled in material respects by Mugford’s Case, 45 Mass. App. Ct. 928 (1998). Mugford’s Case is best understood as a case in which “the claimant presented a claim for permanent total disability benefits under G. L. c. 152, § 34A, while an insurer was paying him temporary total disability payments under § 34. Since the insurer contested the separate claim under § 34A, and made none of the payments called for by that section while the claim was pending, we held that the board had properly applied § 51A when it ultimately allowed the claim.” Conte v. P.A.N. Constr. Co., 51 Mass. App. Ct. 398, 401 (2001) (describing Mugford’s Case). Despite the payment of § 34 benefits in that case, we concluded that within the meaning of § 51A no compensation had been paid on the § 34A claim brought by the employee.
+Although in this case benefits were paid continually to the employee even after the expiration of his § 34 benefits, this does not serve to distinguish Mugford’s Case. In that case, as in this case, weekly benefits were paid, yet because they were not the benefits that would have been due under § 34A, they did not amount to the compensation on the § 34A claim that would have prevented the application of § 51A.
+In addition to being compelled by Mugford’s Case, our decision provides a bright line for an insurer who seeks to avoid the application of § 51 A. If in this case the payment of an amount equal to the § 35 benefits the insurer deemed appropriate were viewed as “compensation” on the § 34A claim within the meaning of the statute, the reviewing board would doubtless be confronted in subsequent cases with determinations by insurers to pay some lesser, arguably appropriate § 35 benefit. The board would be required either to hold that a payment of any amount of money would be “compensation” preventing the application of § 51 A, or it would become entangled in determining in each case whether the payment was in some sense a reasonable one, although it was not the full amount that would have been required under § 34A.
+The insurer represented at argument that if there is a subsequent determination that the employee is not entitled to § 34A benefits but only to some lesser benefit, an administrative judge may allow an insurer who, in order to avoid application of § 51 A, voluntarily paid the full § 34A benefits, to recoup by reducing the amount of subsequent payments. If this is so, it would provide a mechanism by which an insurer could avoid application of § 51 A, while limiting the risk of loss through overpayment. There appear to be decisions of the board supporting this proposition, but the issue is not before us and we do not address it.
+Joseph P. McKenna, Jr., for the employee.
+Michael P. McCoy for the insurer.
+So much of the decision of the reviewing board as declines to award benefits pursuant to G. L. c. 152, § 51 A, is reversed.
+So ordered.
+Conte itself is not to the contrary. The basis of our decision in that case was that the insurer had paid weekly temporary total incapacity benefits, albeit under New Jersey law, prior to being ordered to pay such benefits under § 34. The board construed § 51A not to apply, even though the insurer had paid the benefits due under New Jersey rather than Massachusetts law, a construction of § 51A that we found reasonable and to which we deferred. Conte v. P.A.N. Constr. Co., 51 Mass. App. Ct. at 399-401. There were no permanent total incapacity benefits here paid under any State’s law.
+See Brown v. Highland House Apartments, 12 Mass. Workers’ Comp. Rep. 322 (1998); Wadsworth v. New England Concrete Pipe Co., 23 Mass. Workers’ Comp. Rep. 111 n.10 (2009).
