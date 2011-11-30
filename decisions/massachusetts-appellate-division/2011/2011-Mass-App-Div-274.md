@@ -1,0 +1,36 @@
+---
+court: "Massachusetts Appellate Division"
+decided: "2011-11-30"
+citations: ["2011 Mass. App. Div. 274"]
+reporter: "mass-app-div-annual"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Present: Greco, P.J., Coven & Singh, JJ."]
+parties: ["Everett Housing Authority vs. Abigail S. Pacious"]
+source_url: "https://static.case.law/mass-app-div-annual/2011/cases/0274-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 7342487
+cites_cases: ["34 Mass. App. Ct. 744", "372 Mass. 671", "422 Mass. 158"]
+---
+
+# Everett Housing Authority v. Pacious
+
+## Majority (Coven, J.)
+
+Coven, J.
+Everett Housing Authority (“EHA”) filed a summary process complaint in this case on April 5, 2011, with an account annexed in which it asserted that Abigail S. Pacious (“Pacious”), a tenant, owed $7,008.00 in unpaid rent. EHA sought both possession of the residence and the amount of the rent arrearage. The trial judge awarded EHA $1,000.00 in back rent, but awarded possession of the premises to Pacious. EHA has appealed.
+Cynthia Beane (“Beane”), EHA’s public housing supervisor, testified that Pacious began her tenancy under the terms of a lease on August 2, 2005. According to Beane, the rent is determined by a formula: twenty-seven percent of the family income assets, minus any expenses. The public housing supervisor determines the rental amount based on information and documents submitted by a tenant. There is an annual recertification process. According to Beane, as of the June 9,2011 date of trial, the last payment EHA had received from Pacious was on April 8, 2010 for $150.00, and that there was then a current arrearage of $8,191.00. Beane did not testify as to the amount of Pacious’ monthly obligation.
+In response to questions by the trial judge, Pacious acknowledged owing a rent arrearage, but denied that the total exceeded $8,000.00. By her calculation, her monthly rent based on twenty-seven percent of $827.00 was $223.00. In addition, she admitted that at the time of trial, she had not paid her rent since April, 2010.
+Pacious also testified that EHA had informed her that if she paid $1,200.00 by the court date, she could remain in possession of her apartment and that a payment plan for the additional rent would be established. According to Pacious, she obtained commitments from two organizations for the necessary funding; but when one of the two organization contacted EHA during the week before trial, EHA demanded a $7,000.00 payment. Pacious also presented a witness who testified to being present for a conversation between EHA and Pacious in late May of 2011 in which EHA stated that it would need “in the neighborhood of like $1,200.00” before it would begin discussions about repayment of the balance owed. Beane admitted to a meeting with Pacious to resolve the overdue balance and establish a payment plan. She did not, however, provide any details as to what was discussed or when the meeting took place.
+EHA argues that it was clear error for the trial judge to award EHA only $1,000.00 in unpaid rent and that it was entitled to an award of $8,191.00. “If the trial judge makes one of several possible choices of what facts are supported by the evidence, the judge’s choice is not clearly erroneous.” W. Oliver Tripp Co. v. American Hoechst Corp., 34 Mass. App. Ct. 744, 751 (1993). Further, the judge’s factual findings are entitled to deference on appeal, where they will not be disturbed unless “on the entire evidence,” the appellate court is “left with the firm conviction that a mistake has been committed.” G.E.B. v. S.R.W., 422 Mass. 158, 172 (1996), quoting New England Canteen Serv., Inc. v. Ashley, 372 Mass. 671, 675 (1977).
+In this case, there was error in the amount awarded as damages. Pacious admitted in the trial court that, according to her own calculation, she owed $223.00 per month, and that she had not paid any rent for the fourteen months preceding trial. The trial judge awarded only $1,000.00. Pacious’ admission was a statement that she owed a minimum unpaid rent balance of $3,122.00. While the trial judge was not required to find for EHA in the amount it claimed was due, an award of only $1,000.00 was clear error.
+As to the award of possession of the premises to Pacious, our review is impeded by the state of the record. The trial judge did not disclose his reason for allowing Pacious to remain in possession, and it is not clear whether Pacious raised any affirmative defense to EHA’s claim of possession in her answer to the complaint. Generally, when a “court finds that the [landlord] is entitled to possession, he shall have judgment and execution for possession and costs, and if rent is claimed ..., the judgment and execution shall include the amount of the award.” G.L.c. 239, §3. The record does not indicate a basis for the award of possession to Pacious.
+The trial court’s judgment is vacated, and the case is returned to the Malden Division of the District Court Department for a new trial.
+So ordered.
+General Laws c. 121B, §32, which covers the operation of a housing authority, fixes the amount of rent that a tenant is obligated to pay at no more than “32 percent of his income if heat, cooking fuel and electricity are provided by the authority, 30 percent of his income if one or more utility is provided, or 27 percent of his income if such utilities are not provided.” In Section III of the original lease that Pacious entered into with EHA, Pacious was responsible for “Electricity, Heating Fuel and Gas.”
+The tenant, according to Beane, is requested to provide documents reflecting the source of income, assets, and expenses. Pursuant to Section IV(A) of the original lease, during the recertification process, a tenant upon request of EHA is required to submit “signed, complete, and accurate statements and/or other information setting forth pertinent facts as to eligibility, income, exclusions, deductions, employment, and household composition.”
+At the inception of the lease, Pacious’ monthly rent obligation was $176.00.
+The account annexed to the complaint indicates a balance owed in the amount of $386.00 for each month beginning on January 1, 2010 and ending on March 31, 2011. We infer that this represents Pacious’s monthly rent obligation during this time period. The same account shows a monthly balance of $205.00 for each month of the rental period between September, 2010 and December, 2010. There is a $274.00 charge posted for July, 2010 and a $112.00 charge posted for June, 2010. Maintenance expenses, late fees, and returned check charges totaling $212.00 are also posted to the account.
+Twenty-seven percent of $827.00 is $223.29. The evidence does not reveal whether the $827.00 represents Pacious’ income or is the amount established using the income-minus-expenses formula that was testified to by Beane.
+This court notes that based on a monthly rental obligation of $223.00, a tenant who fails to make monthly rental payments over a fourteen month period would be $3,122 in arrears.
+As indicted above, EHA never provided direct testimony on what it had established as Pacious’s monthly rent obligation.
