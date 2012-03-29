@@ -1,0 +1,45 @@
+---
+court: "Massachusetts Appeals Court"
+docket: "10-P-1886"
+decided: "2012-03-29"
+citations: ["81 Mass. App. Ct. 506"]
+reporter: "mass-app-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Beth A. Cummings vs. Steven H. Lamoureux."]
+source_url: "https://static.case.law/mass-app-ct/81/cases/0506-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3898556
+cites_cases: ["447 Mass. 177", "454 Mass. 652", "454 Mass. 837", "74 Mass. App. Ct. 616", "78 Mass. App. Ct. 723"]
+---
+
+# Cummings v. Lamoureux
+
+## Majority (Brown, J.)
+
+Brown, J.
+In this child support case, the mother appeals from the judgments on her 2008 complaints for modification and for contempt.
+On the mother’s contempt complaint, the judge found the father not guilty of contempt. That complaint was properly dismissed.
+On the modification complaint, the judge increased the amount of the father’s child support obligation to $590 a week and made this order retroactive to August of 2007. That judgment (as well as the contempt judgment) was accompanied by findings of fact and conclusions of law.
+The parties were married in 1992 and divorced in 1998. They have one child. The divorce judgment provided that the father would pay child support of $350 a week and, “upon receipt of his yearly bonus, a check equal to 25% (twenty-five percent) of that bonus . . . .” At the time of the divorce, the father worked at Allied Domecq, where he was receiving a base salary and a yearly bonus. Between 1998 and 2002, he paid child support of $350 a week and twenty-five percent of the yearly bonus.
+Between November of 2002 and 2006, the father worked at Imagitas, where he received base pay plus yearly bonuses and various additional payments. During this period, he paid the mother initially $350 a week, and then $430 a week, and twenty-five percent of the yearly bonuses, but no part of the other payments received from Imagitas.
+In January of 2007, the father began working at Affinova, where his compensation was comprised of base salary and discretionary annual bonuses. The father received no bonus in 2007, but he received one in 2008 and paid twenty-five percent to the mother.
+1. Contempt judgment. The thrust of the complaint for contempt was directed toward a determination of the dollar amount of child support. The judge found that the parties agreed that payments made on February 4, 2004, January 26, 2005, and February 24, 2006, were annual performance bonuses and that the father paid twenty-five percent of each to the mother pursuant to the divorce judgment. The mother claims that she is entitled to additional payments for these years. She asserts that all the additional payments made by Imagitas to the father were part of his yearly bonus, no matter how they were labeled by the company.
+She argues that the divorce judgment was ambiguous and should have been interpreted as providing for calculation of child support based on all of the father’s income, not just the above yearly bonuses. To the contrary, there is nothing ambiguous in this case about the provision that, “[i]n addition, husband shall pay, upon receipt of his yearly bonus, a check equal to 25% (twenty-five percent) of that bonus as child support to the Wife.” Cf. Whelan v. Whelan, 74 Mass. App. Ct. 616, 627 (2009) (“ ‘bonus income’ is not ‘synonymous with all income [above the base salary]’ ”); Suominen v. Goodman Ind. Equities Mgmt. Group, 78 Mass. App. Ct. 723, 738 (2011).
+2. Modification judgment. In light of the increase in the father’s base income, the judge found that there was a material change of circumstances and increased the father’s base child support obligation from $350 (then $430) a week to $590 a week, keeping intact his additional obligation to pay the mother twenty-five percent of his yearly bonus. The judge stated:
+“Husband shall continue to have the obligation to pay twenty five percent (25%) of his yearly bonus, if any, to Wife as child support for [the son] in addition to the weekly child support obligation established herein. To avoid future litigation, ‘yearly bonus’ shall be defined as the amount(s), if any, paid to the Husband as a result of his individual performance, or the overall performance of his employer in addition to Husband’s wages, salary, and/or commissions.”
+The mother deems the increase insufficient, arguing that the obligation to pay twenty-five percent of the yearly bonus should have included the father’s commissions. Her position is that the word “commissions” should have been stricken from the amended judgment so as to include them in the yearly bonus. However, it has not been made to appear that the “yearly bonus” provision in the divorce judgment included commissions or that the judge should have interpreted it so as to alter the terms of the divorce judgment.,
+As to the mother’s claim that the judge erroneously failed to include a requirement of proof of income by the father, she does not point to such a request by her. Her reliance on Whelan v. Whelan, 74 Mass. App. Ct. at 618 n.3, is misplaced because that case does not stand for the proposition that such a requirement has to be included in the judgment. Of course, the mother may seek a further modification if the then existing circumstances warrant such a request.
+The request for appellate attorney’s fees is denied.
+Judgments affirmed.
+The father answered the mother’s complaint for modification and counterclaimed. All the complaints were consolidated.
+The judge could not have correctly found the father guilty of contempt, as there was neither clear and convincing nor a preponderance of evidence of the father’s disobedience (wilful or otherwise) of a clear and unequivocal command. See Birchall, petitioner, 454 Mass. 837, 852-853 (2009).
+The father testified that in 2006 he voluntarily increased his payment from $350 to $430 a week to account for the cost of living increase.
+The father’s 2002 compensation agreement at Imagitas listed four different types of compensation: biweekly salary, bonus potential, commissions opportunity, and stock.
+As previously noted, the mother does not argue that there was competent evidence of disobedience of a clear and unequivocal command. See note 2, supra.
+The judge made findings with respect to each payment in question. “Findings of fact shall not be set aside unless clearly erroneous, and due regard shall be given to the opportunity of the trial court to judge the credibility of witnesses.” J.S. v. C.C., 454 Mass. 652, 657 (2009), quoting from Mason v. Coleman, 447 Mass. 177, 186 (2006). Addressing each of the payments in question, the judge found that some of these payments were commissions or incentive income corresponding to a specific and tracked client or product initiative and others were payments to cover income tax liability from restricted stock grants. As to the nature of other contested payments, the judge relied on the testimony of the father and the chief financial officer of Imagitas, crediting their testimony that these payments constituted incentive income from several clients or product lines. Other payments represented proceeds from the sale of stock.
+The mother’s subsequent motion to correct clerical error by striking the word “commissions” was denied. To the extent this was a motion to correct a clerical error pursuant to Mass.R.Dom.Rel.P. 60(a), there was no such error to correct. To the extent this was a motion to alter or amend the judgment pursuant to Mass.R.Dom.Rel.P. 59, it was not timely, nor would it have been an abuse of discretion to deny it.
+The mother’s argument that the judge’s exclusion of commissions from the calculation of child support violated the Massachusetts Child Support Guidelines fails for the reason, if no other, that the father began working at Affinova in January of 2007, the mother served her modification complaint in August of 2007, and the father’s compensation at Affinova included no commissions.
+Black’s Law Dictionary 206 and 306 (9th ed. 2009) defines a bonus as a “premium paid in addition to what is due or expected” and, in employment context, “paid for services or on consideration in addition to or in excess of the compensation that would ordinarily be given.” It defines a commission as a “fee paid to an agent or employee for a particular transaction, usu. as a percentage of the money received from the transaction.”
+The mother’s claim that the exclusion of commissions from the yearly bonus invites the father to manipulate his income in the future is speculative. Notwithstanding the mother’s allegation of such conduct in the past, the judge did not so find, nor does this record fairly suggest, that to be the case, i.e., that the husband has, in fact, been playing accounting games or otherwise attempted to circumvent the judgment.
+“Contrary to the mother’s claim, there was no inconsistency between the contempt judgment and the modification judgment for the reason, if no other, that neither judgment included commissions in the income from which child support was to be calculated.
