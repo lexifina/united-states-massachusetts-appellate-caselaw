@@ -1,7 +1,7 @@
 ---
 court: "Massachusetts Appellate Division"
 decided: "2012-05-03"
-citations: ["2012 Mass. App. Div. 77", "2012 Mass. App. Div. 79"]
+citations: ["2012 Mass. App. Div. 77"]
 reporter: "mass-app-div-annual"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Citibank South Dakota, NA vs. Ajay M. Sawant"]
 source_url: "https://static.case.law/mass-app-div-annual/2012/cases/0077-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 7336302
-cites_cases: ["15 U.S.C. §1692", "1997 Mass. App. Div. 147", "1998 Mass. App. Div. 82", "1999 Mass. App. Div. 182", "2002 Mass. App. Div. 38", "2005 Mass. App. Div. 112", "2007 Mass. App. Div. 134", "2007 Mass. App. Div. 162", "2007 Mass. App. Div. 92", "2008 Mass. App. Div. 175", "387 Mass. 841", "390 Mass. 419", "393 Mass. 617", "413 Mass. 398", "422 U.S. 806", "432 Mass. 1014", "433 Mass. 30", "450 Mass. 1404", "62 Mass. App. Ct. 630", "78 Mass. App. Ct. 340"]
+cites_cases: ["15 U.S.C. §1692", "1997 Mass. App. Div. 147", "1998 Mass. App. Div. 82", "2002 Mass. App. Div. 38", "2005 Mass. App. Div. 112", "2007 Mass. App. Div. 134", "2007 Mass. App. Div. 162", "2007 Mass. App. Div. 92", "2008 Mass. App. Div. 175", "387 Mass. 841", "393 Mass. 617", "422 U.S. 806", "432 Mass. 1014", "433 Mass. 30", "450 Mass. 1404", "62 Mass. App. Ct. 630"]
 ---
 
 # Citibank South Dakota, NA v. Sawant
