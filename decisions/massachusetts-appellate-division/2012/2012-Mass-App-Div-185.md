@@ -1,0 +1,27 @@
+---
+court: "Massachusetts Appellate Division"
+decided: "2012-10-15"
+citations: ["2012 Mass. App. Div. 185"]
+reporter: "mass-app-div-annual"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Present: Greco, P.J., Coven & Singh, JJ."]
+parties: ["Brian B. Jason vs. City of Lowell"]
+source_url: "https://static.case.law/mass-app-div-annual/2012/cases/0185-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 7338045
+cites_cases: ["454 Mass. 63", "59 Mass. App. Ct. 599"]
+---
+
+# Jason v. City of Lowell
+
+## Majority (Singh, J.)
+
+Singh, J.
+After failing to receive what he believed was due to him under a settlement agreement with his former employer, the plaintiff filed this action alleging a violation of the Massachusetts Wage Act, G.L.c. 149, §§148, 150 (‘Wage Act”) and seeking not only the amounts due under the settlement agreement, but also treble damages, attorney’s fees, and costs. The trial court entered summary judgment in favor of the employer, and the plaintiff appealed. We agree that the plaintiff cannot maintain a wage claim in order to enforce the terms of a settlement agreement and, therefore, affirm the judgment.
+The plaintiff, Brian B. Jason (“Jason”), began working for the defendant, city of Lowell (the “City”), as a police officer in 1975. As a member of the Lowell police union, Jason’s employment was subject to a collective bargaining agreement. After the City denied certain injury-leave benefits to Jason, the union filed a grievance on his behalf on July 3, 2008. Jason’s grievance was resolved through a settlement agreement dated December 24,2008. That agreement provided that (1) Jason would retire as of December 31, 2008, (2) the City would reimburse Jason for fifty (50%) percent of vacation time used by Jason between May 6, 2008 and October 20, 2008, and (3) the City would reimburse Jason for sick or vacation time used by Jason between October 21,2008 and December 24,2008. The City was to credit Jason with the sick and vacation time within thirty days of the fully executed agreement. On January 29, 2009, the City sent Jason a check for $8,179.54 pursuant to the settlement agreement. As the payment came later than expected and did not cover the amount expected, Jason filed this action in the Lowell District Court on February 17, 2009, claiming that the City had violated the Wage Act. On July 2,2009, the City forwarded an additional check to Jason for $3,574.16, explaining that it had only recently become aware that additional moneys were owed pursuant to the settlement agreement. Upon cross motions for summary judgment, the trial court allowed the City’s motion and entered judgment in its favor.
+Jason contends that he was entitled to summary judgment in his favor because he established, as a matter of law, that the City was in violation of the Wage Act. The Wage Act provides that an employee leaving his employment must be paid “wages earned by him” in full within a certain time period; in this case, January 8, 2009. G.L.c. 149, §148. ‘Wages” are defined to include any vacation payments due an employee under an oral or written agreement. Id. The Wage Act also provides that no employer may exempt itself from its provisions. Id. The Attorney General’s office is charged with enforcing the Wage Act. G.L.c. 149, §150. It may bring a civil or criminal complaint against the employer or authorize an employee to bring a civil complaint on his own behalf. Id. Once the employee makes out a prima facie case of a violation, the employer is severely limited in setting up any defense. Id. An employer may not obviate the suit simply by paying the amount due after a complaint has been filed. Id. An employee prevailing in such a suit is entitled to treble damages for any lost wages and benefits, attorney’s fees, and costs. Id.
+Jason contends that he established a Wage Act violation as a matter of law because it was undisputed that the City tendered its vacation payment checks to him after January 8, 2009. The problem with Jason’s argument is that he failed to prove that those checks involved “earned wages.” Although vacation payments are undoubtedly wages under the Wage Act, they still must be “earned” in order to come within the statute. See G.L.c. 149, §148. Here, Jason failed to establish that he had earned vacation pay under the employer’s vacation pay policy. See Electronic Data Sys. Corp. v. Attorney Gen., 454 Mass. 63, 69-71 (2009) (once employee had accumulated vacation pay under company vacation pay policy, it became due and therefore “earned” under Wage Act).
+It was only as a result of the settlement agreement that the City owed Jason any payment. The payment was an amount that was negotiated in order to settle a disputed claim. Thus, the City’s payment to Jason was not based on anything Jason had earned according to the terms of his employment. Rather, the payment was contingent upon Jason’s performance of his obligations under the settlement agreement that consisted, essentially, of the dismissal of his grievance. Payments based on such contingencies are not “earned wages” under the Wage Act. See Prozinski v. Northeast Real Estate Servs., LLC, 59 Mass. App. Ct. 599, 603-605 (2003) (severance pay was not within Wage Act because it was not “earned” but rather contingent upon severance). As a result, the trial court properly allowed the City’s motion for summary judgment.
+Judgment affirmed.
+So ordered.
