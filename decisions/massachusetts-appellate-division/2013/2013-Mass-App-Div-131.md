@@ -1,0 +1,32 @@
+---
+court: "Massachusetts Appellate Division"
+decided: "2013-08-16"
+citations: ["2013 Mass. App. Div. 131"]
+reporter: "mass-app-div-annual"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Present: Greco, P.J., Swan & Pierce, JJ."]
+parties: ["Anthony DeStefano vs. Radhames A. Sanchez, and another"]
+source_url: "https://static.case.law/mass-app-div-annual/2013/cases/0131-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 7340659
+cites_cases: ["361 Mass. 341", "363 Mass. 324", "371 Mass. 621", "395 Mass. 581"]
+---
+
+# DeStefano v. Sanchez
+
+## Majority (Greco, P.J.)
+
+Greco, P.J.
+Anthony DeStefano (“DeStefano”) initially brought this action against
+the Massachusetts Bay Transportation Authority (“MBTA”) and Radhames A Sanchez (“Sanchez”). He claimed that he was injured while riding on an MBTA bus that collided with a car driven by Sanchez as both vehicles were approaching the MBTA station on Market Street in Lynn. The matter was tried in the Chelsea District Court. After the presentation of DeStefano’s case, the trial court entered a directed verdict in favor of both defendants. DeStefano appealed as to both defendants, but subsequently reached a settlement with the MBTA. Thus, we consider only DeStefano’s appeal as to his claim against Sanchez.
+At the trial, DeStefano testified that he and his girlfriend were passengers on the MBTA bus. He was sitting “[cjlosest to the back on the driver’s side ... next to the window.” As the couple were about to get off the bus, DeStefano “felt a big bang.” He “stuck [his] arm out so [his] girlfriend... wouldn’t get hurt.” When he did so, he “went forward and hit [his] chest off the chair in front of [him].” He “then went backwards and hit [his] back... and face off the chair.” DeStefano subsequently told the bus driver that he was injured, and asked the MBTA to call an ambulance. When he got off the bus, he “noticed a white vehicle on the side of the bus with damage to [its] front left mirror and front side.” DeStefano further testified that he felt “dizzy” and “off balance”; later in the day, he began to experience back and neck pain. He was subsequently treated by a chiropractor. DeStefano was, however, the only person on the bus who reported to the MBTA that he was injured.
+Defendant Sanchez, the driver of the car involved in the accident, testified that he was familiar with Market Street and had previously observed buses turn into Central Station. As to the incident at issue in this case, Sanchez testified that he first saw the bus “[w]hen the impact occurred” as the bus was making its turn. At that point, Sanchez stated, the bus was to his right, which was the side “closest to the curb.” He also testified that the damage to his car was on the driver’s side, “[r]ight across the whole side of the car.” Sanchez stated that he did not notice at the time of impact if the bus had its directional signal on, and that he was “probably” traveling at the rate of ten to fifteen miles per hour.
+Matthew Murphy (“Murphy”), the bus driver, testified that he had been working for the MBTA for three years; that he was familiar with the road leading into the Central Square bus station; that there was only one lane leading into that station; that one had to “make a wide turn” to enter the station depending on whether cars were parked at the curb; and that on the date of the accident, cars, including taxicabs, were parked against the curb. Murphy further testified that the bus he was driving was forty feet long and eight to ten feet wide; that at the time of the collision, the bus was angled “almost 45 degrees” as it was moving into the station; and that the Sanchez vehicle was on his right, also angled “a little bit.”
+At the close of the plaintiffs evidence, the defendants moved for directed verdicts. After extensive argument, and after clearly indicating it was a close question, the trial judge allowed those motions.
+“In determining whether the jury should have been allowed to decide the issue of negligence, ‘ [t] he question is whether the evidence, construed most favorably to the plaintiff, could not support a verdict for the plaintiff....’ More specifically, the test has been stated as whether ‘anywhere in the evidence, from whatever source derived, any combination of circumstances could be found from which a reasonable inference could be drawn in favor of the plaintiff.’” Ferragamo v. Massachusetts Bay Transp. Auth., 395 Mass. 581, 591 (1985), quoting Raunela v. Hertz Corp., 361 Mass. 341, 343 (1972). See also Zezuski v. Jenny Mfg. Co., 363 Mass. 324, 327 (1973) (“Ordinarily the question of negligence is one of fact for the jury. Only when no rational view of the evidence warrants a finding that the defendant was negligent may the issue be taken from the jury.”). We recognize, however, that “the evidence must contain facts from which reasonable inferences based on probabilities rather than possibilities may be drawn.” Alholm v. Town of Wareham, 371 Mass. 621, 627 (1976).
+In the case at bar, although it may have been difficult for a jury to find that the MBTA bus driver was probably negligent, the same cannot be said as to defendant Sanchez. While the evidence may not have been compelling, it would have been rational for a jury to draw adverse inferences against Sanchez based, for example, on the damage to his car, his rate of speed, and the likelihood that he first saw this very large bus at the time of the impact. Moreover, there was a credibility issue that had to be resolved as to whether Sanchez was trying to pass the bus on its right or on its left.
+Accordingly, the directed verdict in favor of defendant Sanchez is vacated, and the case is returned to the Chelsea District Court for a new trial of DeStefano’s claims against Sanchez.
+So ordered.
+When shown a photograph of the area, DeStefano pointed out where the buses pull into the station, stating that “we were coming like this ready to pull into the bus station, and we never made it into the bus station.”
+On this point, the evidence was not only confusing, but also contradictory. The bus driver testified that Sanchez was on his right. Sanchez testified that he was on the right of the bus, the side closest to the curb. Sanchez also testified that the damage to his car was on the driver’s side. However, as noted above, Sanchez also testified that at the point of impact, the bus was closest to the curb, on his right.
