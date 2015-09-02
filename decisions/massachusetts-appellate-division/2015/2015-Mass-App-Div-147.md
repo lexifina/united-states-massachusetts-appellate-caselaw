@@ -1,0 +1,52 @@
+---
+court: "Massachusetts Appellate Division"
+decided: "2015-09-02"
+citations: ["2015 Mass. App. Div. 147"]
+reporter: "mass-app-div-annual"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Present: Sarason, P.J., Shopteese and Tynes, JJ."]
+parties: ["Rubin Suarez vs. Massachusetts Bay Transportation Authority"]
+source_url: "https://static.case.law/mass-app-div-annual/2015/cases/0147-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6766814
+cites_cases: ["1993 Mass. App. Div. 117", "329 Mass. 661", "371 Mass. 324", "401 Mass. 26", "428 Mass. 684", "444 Mass. 58", "464 Mass. 261"]
+---
+
+# Suarez v. Massachusetts Bay Transportation Authority
+
+## Majority (Sarason, PJ.)
+
+Sarason, PJ.
+Appellant Massachusetts Bay Transportation Authority (MBTA) appeals the denial of its motion to dismiss Appellee Rubin Suarez’s Complaint against the MBTA for lack of jurisdiction pursuant to Mass. Gen. L. c. 258, section 3.
+On September 20,2013, the plaintiff, Rubin Suarez, filed in the Boston Municipal Court (BMC) Central Division a tort Complaint against the MBTA, alleging that Mr. Suarez had been injured on November 7,2010 on an MBTA bus as a result of the MBTA’s negligence. Mr. Suarez served the Complaint on the MBTA on October 30,2013.
+The MBTA filed a Motion to Dismiss the Complaint. In its Motion, the MBTA argued that because the MBTA was a “public employer” as defined by Mass. Gen. L. c. 258, section 1, the BMC lacked subject matter jurisdiction over the action pursuant to Mass. Gen. L. c. 258, section 3. That statute states that “the superior court shall have jurisdiction of all civil actions brought against a public employer” (emphasis added).
+After hearing argument on the Motion to Dismiss on December 2, 2013, on December 23, 2013, the motion judge denied the Motion. The motion judge also allowed Mr. Suarez to amend his complaint by adding language indicating the plaintiffs injuries were due in whole or in part to the MBTA’s failure to inspect the MBTA bus in question.
+Mr. Suarez filed and served his Amended Complaint on January 13, 2014. The Amended Complaint also named two additional Defendants, “John Doe” and “Jane Doe.” The MBTA filed a Motion to Dismiss the entire Complaint, both against the MBTA and against John Doe and Jane Doe (presumably as employees of the MBTA) pursuant to Mass. Gen. L. c. 258, Sections 1, 2, and 3. On February 10, 2014, the motion judge again denied that motion.
+After the MBTA filed its Notice of Appeal and its “Appeal on the Record Proceedings Pursuant to Dist/Mun. RADA. 8c,” on April 9,2014, the motion judge allowed “Defendant MBTA’s Request for a Report to the Appellate Division of the District and Municipal Courts.”
+The Appellate Division heard argument on November 19,2014.
+DISCUSSION
+Hie general rule of law with respect to sovereign immunity is that the Commonwealth or any of its instrumentalities “cannot be impleaded in its own courts except with its consent, and, when that consent is granted, it can be impleaded only in the manner and to the extent expressed ... [by] statute.”
+General Elec. Co. v. Commonwealth, 329 Mass. 661, 664 (1953) (citations omitted).
+Ordinarily, sovereign immunity bars tort claim lawsuits against the Commonwealth of Massachusetts. However, the Massachusetts Tort Claims Act (MTCA), Mass. Gen. L. c. 258, provides a statutory waiver of sovereign immunity for some tort claims against the Commonwealth and its agencies, otherwise known as “public employers.” The MBTA is a “public employer.” See Mass. Gen. L. c. 258, section 1.
+The MTCA states that “the superior court shall have jurisdiction of all civil actions brought against a public employer” pursuant to the MTCA. Mass. Gen. L. c. 258, section 3. In addition, the remedies provided by the MTCA “shall be exclusive against the public employer or the public employee.” Mass. Gen. L. c. 258, section 2. There is no concurrent jurisdiction over tort claims against public employers in the Boston Municipal Court See Alexander v. City of Boston, 1993 Mass. App. Div. 117 (1993).
+DEFENDANTS TANE DOE AND TOHN DOE
+As noted above, the Amended Complaint also named as additional Defendants “John Doe” and “Jane Doe,” who presumably are employees of the MBTA. Neither Mr. Doe nor Ms. Doe was identified in any way in the caption or the body of the Complaint. There does not appear to be anything in the record to indicate that either Ms. Doe or Mr. Doe has been served.
+Generally, employees of public employers are immune from suit for negligence while acting within the scope of their employment. “No public employee of a public employer shall be liable for any injury or loss of property or personal injury or death caused by his negligent or wrongful act or omission while acting within the scope of his office or employment.” Mass. Gen. L. c. 258, section 2. The plaintiff was asked at oral argument why the Does, assuming they were employees of the MBTA, should not be dismissed for their immunity from liability as employees of a public employer, pursuant to Mass. Gen. L. c. 258, section 2. In response, plaintiffs counsel stated that the Does were unidentified persons who had performed a negligent inspection of the bus in question, but were not necessarily employees of the MBTA. Defendant’s papers in this Court also state that “ [pjlaintiff has never raised, claimed or articulated this notion [that the Does are MBTA employees] and it remains for the trier-of-fact to determine if their status eventually provides certain immunities or not.” Be that as it may, the MBTA’s Motion to Dismiss the Complaint against Jane Doe and John Doe should have been allowed, at least to the extent that Jane Doe and John Doe were employees of the MBTA acting within the scope of their employment. See Mass. Gen. L. c. 258, section 2.
+This Court further notes that both Jane Doe and John Doe were dismissed by the trial court on March 4,2014 for lack of timely service, pursuant to Mass. R. Civ. P., Rule 4(j).
+SECTION 10
+Mr. Suarez attempted to rescue his Amended Complaint from dismissal by basing his claim upon negligent inspection of the bus in question. He then argued that Mass. Gen. L. c. 258, section 10(f) removed some negligent inspection claims against public employers from the scope of the MTCA, thereby allowing such claims to be filed in the Boston Municipal Court and the District Court because there was no exclusive jurisdiction in the Superior Court.
+Mr. Suarez has based his argument on an erroneous reading of Section 10 and Section 10(f). By virtue of Section 10(f), it is true that some negligent inspection claims against public employers do fall outside the scope of the MTCA However, if such claims do fall outside the scope of the MTCA then such claims are completely barred against public employers because of sovereign immunity. Section 10(f) does not, as Mr. Suarez interprets it, allow such claims to be brought against public employers in any forum.
+Section 10 states that “The provisions of sections one to eight [of the MTCA], shall not apply to ... [sections 10(f) through 10©].” A plain and correct reading of Section 10 is that it further limits, not expands, the already limited liability of “public employers” for their otherwise tortious actions.
+Section 10 and Section 10(f) state, when combined:
+The provisions of sections one to eight [of the MTCA], inclusive shall not apply to ... (f) any claim based upon the failure to inspect, or an inadequate or negligent inspection, of any property, real or personal, to determine whether the property complies with or violates any law, regulations, ordinance or code, or contains a hazard to health or safety, except as otherwise provided in clause (1) of subparagraph 0).
+Section 10(f) specifically
+grants the Commonwealth [further] immunity... in situations where the Commonwealth inspects the property of third parties, as in the case of an inspection for code compliance.... It does not preclude claims, as here, arising from the Commonwealth’s negligent maintenance of its own property, even though that maintenance may include inspections.
+Twomey v. Commonwealth, 444 Mass. 58, 63-64 (2005).
+Thus Section 10(f), as -with other subsections of Section 10, narrows immunity; it does not expand liability.
+PRESENT EXECUTION
+As a general rule, there is no right to appeal from an interlocutory order, such as a motion judge’s denial of a motion to dismiss, unless a statute or rule authorizes it. See Breault v. Chairman, 401 Mass. 26, 30 (1987) (citations omitted); Kargman v. Superior Court, 371 Mass. 324, 329-30 (1976). However, in a limited number of cases, such as this one, there is an exception under the doctrine of present execution. Under present execution, an order is immediately appealable if it concerns an issue that is “collateral to the basic controversy” and if “any later appeal would be futile” were the order to be presently executed. Brum v. Town of Dartmouth, 428 Mass. 684, 687 (1999) (citations omitted).
+The doctrine of present execution allows interlocutory appeals from orders denying immunity from suit (as opposed to immunity from liability). Brum at 688. The purpose of that doctrine is to “protect public officials from harassing litigation.” Id. (citations omitted). As did the Commonwealth in King v. Commonwealth, 428 Mass. 684, 687 (1999) (one of the cases in Brum, supra), the public agency in this case, the MBTA, moved to dismiss the Complaint on the grounds that it was immune from suit pursuant to Mass. Gen. L. c. 258, section 3. The motion judge’s denial of that motion, effectively denying the MBTA’s immunity from suit, was therefore immediately appealable pursuant to the doctrine of present execution. King at 687-88. See also Shapiro v. City of Worcester, 464 Mass. 261, 264 (2013).
+As in Alexander v. City of Boston, 1993 Mass. App. Div. 117 (1993), this Court also finds that there is no “serious jurisdictional issue” and “the record is devoid of a serious claim” that the Boston Municipal Court has jurisdiction over Mr. Suarez’s Complaint. Therefore this Court declines to refer this matter to the Chief Justice of the Trial Court for resolution.
+For the reasons stated above, this Court hereby VACATES the motion judge’s order denying the MBTA’s Motion to Dismiss, REVERSES the denial of that Motion, and DISMISSES the Amended Complaint
+So ordered.
